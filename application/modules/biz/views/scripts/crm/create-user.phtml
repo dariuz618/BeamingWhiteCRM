@@ -1,0 +1,707 @@
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Sales CRM - Create <?= $this->type?></h2>
+        <ol class="breadcrumb">                                             
+            <li><a href="/crm/leads">Leads</a></li>             
+            <li><a href="/crm/prospect">Prospect</a></li>  
+            <li><a href="/crm/leads">Accounts</a></li> 
+            <li><a href="/crm/activity">Activities</a></li>
+            
+            <li class="dropdown" style='margin-left: 60%;'>
+                <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+                    Create <i class="fa fa-caret-down"></i>
+                </a>
+                <ul class="dropdown-menu dropdown-user">
+                    <li> <a href="/crm/create-user/type/lead">Lead</a></li>
+                    <li> <a href="/crm/create-user/type/Prospect">Prospect</a></li>
+                    <li> <a href="/crm/create-user/type/Account">Account</a></li>
+                </ul>                
+           </li>
+        </ol>
+    </div>    
+</div>
+
+<div class="row">
+  <div style="float:right;">    
+      <?=$this->action('search', 'crm');?>
+  </div>        
+  <div class="row" style="padding: 20px">	
+  	<form name="create_lead_form" id="create_lead_form" method="post" enctype="multipart/form-data">
+		<div class="col-sm-4 customer-detail-col">
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font">Main Contact Information</div>
+				<div class="panel-body">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>					    
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">First Name</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="firstname" id="firstname"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Last Name</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="lastname" id="lastname"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Office Phone</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="contactphone" id="contactphone"/>
+						        </td>			        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Cell Phone</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="cellphone" id="cellphone"/>
+						        </td>			        
+						    </tr>
+						     <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Email</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="email" id="email"/>
+						        </td>			        
+						    </tr>	
+						    <tr>
+						        <td colspan="2" class= "customer-detail-left-field customer-detail-font" align="right">
+							        <button class="btn btn-success" type="button"  onClick="addNewContact();" id = "btnAddScondaryContact">
+					                    <span class="glyphicon glyphicon-plus"></span>&nbsp;Add Contact
+					                </button>
+				                </td>					            
+						    </tr>				   
+						 </tbody>
+					</table>
+					<table class="table my-table-font" cellspacing="0" cellpadding="0" style="display: none" id="secondaryContactTable">				
+						<tbody>		
+							<tr style="margin-bottom: 20px">
+							   <td class = "customer-detail-left-field customer-detail-font" colspan="2" align="center" style="color:black;font-size:19px">Secondary Contact Information</td>					        
+						    </tr>			 	
+						   	<tr style="height:15px"><td colspan="2">&nbsp;</td></tr>
+							<tr>
+						        <td class = "customer-detail-left-field customer-detail-font">First Name</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="secondary_firstname" id="secondary_firstname"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Last Name</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="secondary_lastname" id="secondary_lastname"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Office Phone</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="contactphone2" id="contactphone2"/>
+						        </td>			        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Cell Phone</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="secondary_cellphone" id="secondary_cellphone"/>
+						        </td>			        
+						    </tr>
+						     <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Email</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="email2" id="email2"/>
+						        </td>			        
+						    </tr>					   
+						 </tbody>	
+					</table>				
+				</div>
+			</div>
+			
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font">Company Information</div>
+					<div class="panel-body">
+						<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+							 <tbody>
+							 	<tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Business Name</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="businessname" id="businessname"/>
+							        </td>					        
+							    </tr>
+							 	<tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Business Type</td>
+							        <td >					        	
+							        	<select class="customer-detail-field customer-detail-font" name="businesstype" id="businesstype">      		
+							        		<? foreach ($this->businesstypes as $key => $businesstypes ): ?>
+							                    <option value= "<?= $key?>"><?= $businesstypes?></option>                          
+							                <? endforeach; ?>		    
+										</select>     
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Sold By</td>
+							        <td>					        	
+							        	<select class="customer-detail-field customer-detail-font" name="soldby" id="soldby">      		
+							        		<option value= ""></option>                            		
+							        		<? foreach ($this->soldbys as $key => $soldby ): ?>
+							                    <option value= "<?= $key?>"><?= $soldby?></option>                          
+							                <? endforeach; ?>		    
+										</select>     
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font" colspan='2'>Please Check All That Apply</td>		        
+							    </tr>
+							<? foreach ($this->applys as $key => $Apply ): ?>
+				                <tr>
+							        <td class = "customer-detail-left-field customer-detail-font"></td>		        
+							       	<td class = "customer-detail-left-font"><input type="checkbox" class="customer-detail-activity-checkbox" name="applys_check[]" value="<?=$Apply?>">&nbsp;&nbsp;&nbsp;&nbsp;<?=$Apply?></td>	
+							    </tr>
+				            <? endforeach; ?>		
+							  <input  type="hidden" class="customer-detail-field customer-detail-font" name="apply" id="apply"/>
+							 </tbody>
+						</table>
+					</div>
+			</div>
+		</div>
+		<div class="col-sm-4 customer-detail-col">
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font">Billing Address</div>
+				<div class="panel-body">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>					    
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Address 1</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="address1" id="address1"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Address 2</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="address2" id="address2"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">City</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="city" id="city"/>
+						        </td>			        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">State</td>
+						        <td>					        						        	
+						        	<select class="customer-detail-field customer-detail-font" name="state" id="state">      		
+						        		<? foreach ($this->states as $key => $State ): ?>
+						                    <option value= "<?= $State['code']?>" ><?= $State['name']?></option>                          
+						                <? endforeach; ?>		    
+									</select> 
+						        </td>			        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Zip Code</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="zip" id="zip"/>
+						        </td>			        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Country</td>
+						        <td>	
+						        	<select class="customer-detail-field customer-detail-font" name="country" id="country">      		
+						        		<? foreach ($this->countries as $key => $country ): ?>
+						                    <option value= "<?= $country['iso_code_2']?>" <? if ($country['iso_code_2'] == $this->country) echo 'selected';?>><?= $country['name']?></option>   
+						                                       
+						                <? endforeach; ?>		    
+									</select> 
+						        </td>			        
+						    </tr>					      
+						 </tbody>
+					</table>
+				</div>
+			</div>
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font">Shipping Address</div>
+				<div class="panel-body shipping-address-panel-body">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>		
+						 	<tr>
+						        <td class = "customer-detail-left-field customer-detail-font"></td>		        
+						       	<td  class = "customer-detail-left-font" align="right"><input type="checkbox" class="customer-detail-activity-checkbox" name="shipping_same_as_billing" id="shipping_same_as_billing" >&nbsp;&nbsp;&nbsp;&nbsp;Same As Billing</td>	
+						    </tr>		
+						    
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Address 1</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="shipping_address1" id="shipping_address1"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Address 2</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="shipping_address2" id="shipping_address2"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">City</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="shipping_city" id="shipping_city"/>
+						        </td>			        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">State</td>
+						        <td>					        						        	
+						        	<select class="customer-detail-field customer-detail-font" name="shipping_state" id="shipping_state">      		
+						        		<? foreach ($this->states as $key => $State ): ?>
+						                    <option value= "<?= $State['code']?>" ><?= $State['name']?></option>                          
+						                <? endforeach; ?>		    
+									</select> 
+						        </td>			
+						      	        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Zip Code</td>
+						        <td>		
+						        			        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="shipping_zip" id="shipping_zip"/>
+						        </td>			        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Country</td>
+						        <td>	
+						        	<select class="customer-detail-field customer-detail-font" name="shipping_country" id="shipping_country">      		
+						        		<? foreach ($this->countries as $key => $country ): ?>
+						                    <option value= "<?= $country['iso_code_2']?>" <? if ($country['iso_code_2'] == $this->country) echo 'selected';?>><?= $country['name']?></option>                          
+						                <? endforeach; ?>		    
+									</select> 
+						        </td>			        
+						    </tr>					      
+						 </tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-4 customer-detail-col">
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font">Lead Source</div>
+				<div class="panel-body">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>					  
+			                <tr><td class = "customer-detail-left-field customer-detail-font"><input type="radio" class="customer-detail-activity-checkbox" name="source" value="Internet" onclick="clickSource(this);" >&nbsp;&nbsp;&nbsp;&nbsp;Internet Search</td>	
+						    </tr>
+						    <tr>
+						       	<td class = "customer-detail-left-field customer-detail-font"><input type="radio" class="customer-detail-activity-checkbox" name="source" value="Referral" onclick="clickSource(this);" >&nbsp;&nbsp;&nbsp;&nbsp;Referral</td>	
+						    </tr>
+						    <tr>					       
+						       	<td class = "customer-detail-left-field customer-detail-font"><input type="radio" class="customer-detail-activity-checkbox" name="source"  value="Social Media" onclick="clickSource(this);">&nbsp;&nbsp;&nbsp;&nbsp;Social Media</td>	
+						    </tr>
+						    <tr>					       
+						       	<td class = "customer-detail-left-field customer-detail-font"><input type="radio" class="customer-detail-activity-checkbox" name="source"  value="Tradeshow" onclick="clickSource(this);" >&nbsp;&nbsp;&nbsp;&nbsp;Trade Show</td>	
+						    </tr>
+						    <tr>					       
+						       	<td class = "customer-detail-left-field customer-detail-font"><input type="radio" class="customer-detail-activity-checkbox" name="source" value="Other" onclick="clickSource(this);" >&nbsp;&nbsp;&nbsp;&nbsp;Other</td>	
+						    </tr>			          
+						 </tbody>
+					</table>
+				</div>
+			</div>
+			
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font">Notes</div>
+				<div class="panel-body">				
+						<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+							 <tbody>
+							 	<tr>
+							        <td class = "customer-detail-left-field customer-detail-font" colspan="3">
+					                   <textarea rows="25" cols="36" class="customer-detail-field customer-detail-black-font" id="description" name="description"></textarea>				                                    
+							        </td>
+							    </tr>
+							    
+							 </tbody>
+						</table>
+				</div>
+			</div>
+			
+			<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+				 <tbody>
+				 	<tr>
+				    	<td class = "customer-detail-left-field customer-detail-font"  style="width: 30%">
+				    		Assign To
+				    	</td>
+				        <td class = "customer-detail-field customer-detail-font"  style="width: 45%">						        	
+	                        <select id="parent_user" name="parent_user"  class="customer-detail-field customer-detail-black-font">
+			                    <? foreach ($this->reps as $rep): ?>
+			                    
+			                    
+				                    <option value= "<?= $rep['id']?>"  <? if ($rep['id'] == $this->current_rep) echo 'selected';?>><?= $rep['name'] ?></option>                          
+				                <? endforeach; ?>	
+			                </select>
+			                <input type='hidden' id="submit_type" name="submit_type" value="create">					               
+				        </td>
+				         <td class = "customer-detail-field customer-detail-font">
+				         	<div id="submit_check" name="submit_check"  class="button customer-detail-button customer-detail-font" style="height: 30px">Submit</div>
+				         	<button type="submit" id="submit" name="submit"  class="button customer-detail-button customer-detail-font" style="display: none"></button>  		
+				         </td>
+				    </tr>
+				 </tbody>
+			</table>
+    </div>
+    <div id="dialog_referal_info" class="modal fade" style="z-index:1000000004;display:none;">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">		
+				<div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal">&times;</button>
+			        <h4 class="modal-title">Referral Person</h4>				        
+		      	</div>
+		      	<div class="modal-body">	      		
+		      		<div class="row mobile-row" align="center">		      			
+						
+						<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+							 <tbody>							 	
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Name</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="referral_name" id="referral_name" value="<?php if (isset($_POST['referral_name'])) echo $_POST['referral_name'];?>"/>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Phone</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="referral_phone" id="referral_phone" value="<?php if (isset($_POST['referral_phone'])) echo $_POST['referral_phone'];?>"/>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Email</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="referral_email" id="referral_email" value="<?php if (isset($_POST['referral_email'])) echo $_POST['referral_email'];?>"/>
+							        </td>			        
+							    </tr>
+							 </tbody>
+						</table>
+					</div>					
+		      	</div>			     
+			</div>
+		</div>
+	</div>	
+	<div id="dialog_tradeshows_info" class="modal fade" style="z-index:1000000005;display:none;">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">		
+				<div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal">&times;</button>
+			        <h4 class="modal-title">Referral Person</h4>				        
+		      	</div>
+		      	<div class="modal-body">	      		
+		      		<div class="row mobile-row" align="center">		      			
+						
+						<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+							 <tbody>							 	
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Tradeshow</td>
+							        <td class="customer-detail-field customer-detail-black-font">
+							        	 <select name="tradeshows" id="tradeshows"  class="customer-detail-field customer-detail-black-font">     	 	
+							           		  <option value= ""></option>
+							           		<? foreach ($this->tradeshows as $tradeshows): ?>
+							                    <option value= "<?= $tradeshows['id']?>"><?= $tradeshows['name'].' : '.$tradeshows['location'].' : '.$tradeshows['date'] ?></option>                          
+							                <? endforeach; ?>			    
+								        </select>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Year</td>
+							        <td class="customer-detail-field customer-detail-black-font">    	
+							        	<select name="tradeshow_year" id="tradeshow_year"  class="customer-detail-field customer-detail-black-font">
+								        	 <option value= ""></option>
+								        	<? for ($year=2010;$year<=2050;$year++): ?>
+							                    <option value= "<?= $year?>">
+							                    	<?= $year ?>                    	
+							                    </option>                          
+							                <? endfor; ?>			    
+							        	</select>	        
+							        </td>					        
+							    </tr>
+							    
+							 </tbody>
+						</table>
+					</div>					
+		      	</div>			     
+			</div>
+		</div>
+	</div>	
+	  <div id="dialog_notify_duplicate" class="modal fade" title="Notify duplicated customer" >
+        <div class="modal-dialog modal-sm">
+			<div class="modal-content">
+				<div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal">&times;</button>
+			        <h2 class="modal-title"><center>Notice</center></h2>	
+		      	</div>
+		      	<div class="modal-body">	      		
+	      							            
+		                <div class="form-group">
+		                    <p> This contact already exists in system!<br>Do you still want to create the new account?<br>If you click Notify Rep, we will have the rep of the current one notified that you talked to the existing rep's customer.</p>
+		                </div>
+		                
+		            	<div class="form-group" align="center">
+			                <button class="btn btn-primary" type="button" id="duplicate_create_btn">Create</button>
+			            	<button class="btn btn-primary" type="button" id="duplicate_notify_btn">Notify Rep</button>			
+			            </div>
+				         		
+		      	</div>			     
+			</div>
+		</div>
+	</div>
+	</form>
+  <!--<div class="col-lg-12">
+    <? echo $this->form;?>
+  </div>-->
+  </div> 
+ 
+</div>
+
+<script>    
+	function addNewContact()
+	{
+		document.getElementById("secondaryContactTable").style.display="block";
+		document.getElementById("btnAddScondaryContact").style.display="none";
+	}
+	function clickSource(sourceRadio) {
+		if (sourceRadio.value == "Referral")	
+		{
+			$("#dialog_referal_info").modal();	
+		}else if (sourceRadio.value == "Tradeshow")	
+		{
+			$("#dialog_tradeshows_info").modal();	
+			
+		}
+	
+	}
+	$(document).ready(function() {
+		/*$("#submit").hide();
+		$("#submit_type").val("Normal");
+		$("#submit_type").hide();*/
+	    $("#country").change(function() {
+	            $.ajax({
+	                url: '/crm/ajax-get-regions',
+	                dataType: 'html',
+	                type: "POST",
+	                data: {country: $(this).val()},
+	                success: function(data) {
+	                    $('#state').html(data);
+	                }
+	            });
+
+	        });
+	     $("#shipping_country").change(function() {
+	            $.ajax({
+	                url: '/crm/ajax-get-regions',
+	                dataType: 'html',
+	                type: "POST",
+	                data: {country: $(this).val()},
+	                success: function(data) {
+	                    $('#shipping_state').html(data);
+	                }
+	            });
+
+	        });
+	     /* Dariuz Rubin */
+	     $("#shipping_same_as_billing").change(function() {     	
+		    if(this.checked) {		    	
+		        var address1 = $('#address1').val();
+			 	var address2 = $('#address2').val();
+			 	var city = $('#city').val();
+			 	var state = $('#state').val();
+			 	var zip = $('#zip').val();
+			 	var country = $('#country').val();
+			 	$.ajax({
+	                url: '/crm/ajax-get-regions',
+	                dataType: 'html',
+	                type: "POST",
+	                data: {country: country},
+	                success: function(data) {
+	                   $('#shipping_state').html(data);
+	                   $("#shipping_state").val(state);
+	                }
+	            });
+			 	$("#shipping_address1").val(address1);
+			 	$("#shipping_address2").val(address2);
+			 	$("#shipping_city").val(city);
+			 	$("#shipping_country").val(country);		
+			 	$("#shipping_zip").val(zip);
+			 	
+			 	
+		    }
+		 });
+		 
+		 $( "#duplicate_create_btn" ).click(function() {
+		 	$("#dialog_notify_duplicate").modal('hide');
+		 	$("#submit_type").val("Create");
+			$("#submit").click();	
+		    
+		 });
+		 $( "#duplicate_notify_btn" ).click(function() {
+		    
+		    $("#dialog_notify_duplicate").modal('hide');
+		    $("#submit_type").val("Noitfy");
+			$("#submit").click();
+		 });
+		 $("#submit_check").click(function() {
+		 	
+		 	// get apply value for selected
+		 	var check_applys = document.getElementsByName('applys_check[]');
+			var apply_vals = "";
+			for (var i=0, n=check_applys.length;i<n;i++) 
+			{
+			    if (check_applys[i].checked) 
+			    {
+			        apply_vals += ","+check_applys[i].value;
+			    }
+			}
+			if (apply_vals) 
+			{
+				apply_vals = apply_vals.substring(1);
+				$("#apply").val(apply_vals);
+			}
+
+		 	var address1 = $('#address1').val();
+		 	var address2 = $('#address2').val();
+		 	var firstname = $('#firstname').val();
+		 	var lastname = $('#lastname').val();
+		 	var contactphone = $('#contactphone').val();
+		 	var contactphone2 = $('#contactphone2').val();
+		 	var email = $('#email').val();
+		 	var email2 = $('#email2').val();
+		 	
+		 	
+		 	$.ajax({
+	            url: '/crm/search-account',
+	            dataType: 'html',
+	            type: "POST",
+	            data: 'address1=' + address1 + '&address2=' + address2 + '&firstname=' + firstname + '&lastname=' + lastname + '&contactphone=' + contactphone + '&email=' + email+ '&contactphone2=' + contactphone2+ '&email2=' + email2,
+	            success: function(res){
+	            	console.log(res);
+	                if (res == 'Yes')
+	                {
+	                	 $("#dialog_notify_duplicate").modal();
+					}else
+					{
+						$("#submit").click();	
+					}
+	            }
+	        });
+	     });
+		 /*====================*/
+	 });
+</script>
+<style type="text/css">
+	.customer-detail-font{
+		font-size: 14px !important;
+		font-family :Verdana, Arial, Helvetica, sans-serif;	    
+	    font-style: italic !important;
+	}
+	.customer-detail-black-font{
+		font-size: 14px !important;
+		font-family :Verdana, Arial, Helvetica, sans-serif;	    
+	    font-style: italic !important;
+	    color: black;
+	}
+	 
+	.customer-detail-section-head-font{
+		font-size: 18px !important;
+		text-align: center;
+	}
+	.customer-detail-field{
+		width: 100%;
+	    border: 2px solid #c4c4c4;
+	    border-radius: 3px;
+	    
+	}
+	.customer-detail-date-field{
+		width: 40%;
+	    
+	}
+	.customer-detail-image-field{
+		background-image: url(/public/image/calendar.png);
+	  	background-position: 5px 50%;
+	  	background-repeat: no-repeat;	 	
+	 	padding-left: 35px;
+	 	width: 100%;
+	 	color: black;
+	}
+	.customer-detail-left-field{
+		width: 40%;
+	    color: #737373;
+	    vertical-align: middle !important;
+	}
+	.customer-detail-left-activity-field{
+		width: 65%;
+	    color: #737373;
+	    vertical-align: middle !important;
+	}
+	.customer-detail-button{
+		    width: 100%;
+	    height: 112%;
+	    padding-top: 5px;
+	    padding-bottom: 0px;
+	}
+	table, tr, td {
+	    border: none !important;
+	   	    
+	}
+	table{
+		margin-bottom: auto !important;
+	}
+	.customer-detail-panel{
+		margin-bottom: 20px;
+	}
+	.panel-body {
+		border-width:2px;
+		border-color: #428bca;
+		padding: 15px;
+		
+    	background-color: #f2f0f1;
+	}
+	.row{
+		margin-left: auto;
+		margin-right: auto;
+	}	
+	.customer-detail-col{
+		padding:3px;
+	}
+	.customer-detail-followup-left-field{
+		width: 80%;
+	    color: #737373;
+	    vertical-align: middle;
+	}
+	.entry:not(:first-of-type)
+	{
+	    margin-top: 10px;
+	}
+
+	.glyphicon
+	{
+	    font-size: 18px;
+	}
+	.input-group-addon, .input-group-btn {
+	    vertical-align: top;
+	}
+	.table>tbody>tr>td{
+		padding-top: 4px !important;
+    	padding-bottom: 4px !IMPORTANT;
+	}
+	.customer-detail-added{
+		margin-bottom: 4px;		
+	}
+	.customer-detail-activity-checkbox{
+		    /* font-size: 210%; */
+	    -ms-transform: scale(1.2);
+	    -moz-transform: scale(1.2);
+	    -webkit-transform: scale(1.2);
+	    -o-transform: scale(1.2);	
+	    margin-top: 13px !important;	
+	    
+	}
+	.customer-detail-left-font {
+	    color: #737373; 	    
+	}
+	.shipping-address-panel-body{
+		padding-top : 5px;
+		
+	}
+	select#country {
+	    width: 100%;
+	}
+</style>

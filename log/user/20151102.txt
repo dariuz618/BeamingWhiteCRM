@@ -1,0 +1,86 @@
+2015-11-02T09:03:26-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:14:"See Your Smile";s:7:"user_id";s:4:"1996";}
+2015-11-02T09:03:29-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:14:"See Your Smile";s:7:"user_id";s:4:"1996";}
+2015-11-02T09:04:57-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:203:"BLUE CHEEK RETRACTORS
+Address: To Victor Tvrdak 
+Monita Beaty Skincare 
+Shop SP106 , Level 1
+Roselands Federation shopping center 
+32-62 Roselands drive 
+Roselands, NSW, 2179 
+Australia 
+Tel +61414412976";s:7:"user_id";s:4:"1615";}
+2015-11-02T09:27:37-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14517";}
+2015-11-02T09:29:02-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"214-402-8592";s:7:"user_id";s:5:"14301";}
+2015-11-02T09:31:56-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:23:"1219 West glenoaks blvd";s:7:"user_id";s:5:"14415";}
+2015-11-02T09:32:03-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:23:"1219 West Glenoaks blvd";s:7:"user_id";s:5:"14415";}
+2015-11-02T09:32:08-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:8:"Glendale";s:7:"user_id";s:5:"14415";}
+2015-11-02T09:32:13-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"91201";s:7:"user_id";s:5:"14415";}
+2015-11-02T09:32:18-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"14415";}
+2015-11-02T09:38:10-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:16:"104 Lyons Street";s:7:"user_id";s:4:"9569";}
+2015-11-02T09:38:24-08:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:14:"Indian Orchard";s:7:"user_id";s:4:"9569";}
+2015-11-02T09:45:25-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:132:"Has 2 med spa's, planing to open a 3rd soon. They see about 450 patients per day and do approximately 50 teeth whitenings per year. ";s:7:"user_id";s:5:"14415";}
+2015-11-02T09:50:30-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14415";}
+2015-11-02T10:10:00-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"610-883-7887";s:7:"user_id";s:5:"14518";}
+2015-11-02T10:10:17-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:12:"404 487-0042";s:7:"user_id";s:5:"11603";}
+2015-11-02T10:11:30-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:5:"Trina";s:7:"user_id";s:5:"14518";}
+2015-11-02T10:11:35-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Trina Clark";s:7:"user_id";s:5:"14518";}
+2015-11-02T10:11:38-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Trina Clark";s:7:"user_id";s:5:"14518";}
+2015-11-02T10:15:13-08:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"01151";s:7:"user_id";s:4:"9569";}
+2015-11-02T10:16:11-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:20:"New Look Skin Center";s:7:"user_id";s:5:"14415";}
+2015-11-02T10:16:38-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14415";}
+2015-11-02T10:17:00-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14518";}
+2015-11-02T10:20:40-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14517";}
+2015-11-02T10:20:43-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14517";}
+2015-11-02T10:56:42-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:15:"Glamorous Smile";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AB";s:3:"zip";s:0:"";s:7:"country";s:2:"CA";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:3:"Dan";s:8:"lastname";s:6:"Begley";s:12:"contactphone";s:0:"";s:5:"email";s:25:"danandleighanne@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d72b09c0c36c1ea763ccf9d9210889f2ab9d1c6e";s:8:"username";s:15:"Glamorous Smile";s:12:"created_time";s:19:"2015-11-02 10:56:42";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"bdfc9032df502bb99f92e06b38a4a2df";}
+2015-11-02T11:01:23-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"731-298-6202";s:7:"user_id";s:5:"14517";}
+2015-11-02T11:01:27-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14517";}
+2015-11-02T11:16:05-08:00 INFO (6): Cory Nielsen--a:2:{s:3:"zip";s:5:"30328";s:7:"user_id";s:5:"11603";}
+2015-11-02T11:25:03-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"226-236-6788";s:7:"user_id";s:5:"14521";}
+2015-11-02T11:30:04-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:9:"PB LA0012";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"LA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"225-931-4979";s:6:"source";s:5:"Other";s:9:"firstname";s:6:"Teresa";s:8:"lastname";s:7:"Normand";s:12:"contactphone";s:12:"225-931-4979";s:5:"email";s:28:"spadirector.la0012@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:12:"Planet Beach";s:4:"type";s:7:"Account";s:8:"password";s:40:"d5a5830e87e3f24b28a6ec0f908f3b207d8af3b5";s:8:"username";s:9:"PB LA0012";s:12:"created_time";s:19:"2015-11-02 11:30:04";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"7eff768d717822981d5bbb61b6f6cc90";}
+2015-11-02T11:30:17-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"5720 Corporate Blvd";s:7:"user_id";s:5:"14522";}
+2015-11-02T11:30:26-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:11:"Baton Rouge";s:7:"user_id";s:5:"14522";}
+2015-11-02T11:30:32-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"70808";s:7:"user_id";s:5:"14522";}
+2015-11-02T11:34:27-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14496";}
+2015-11-02T11:42:26-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"#2 2805 50th Ave";s:7:"user_id";s:5:"10192";}
+2015-11-02T11:42:32-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:12:"Lloydminster";s:7:"user_id";s:5:"10192";}
+2015-11-02T11:42:48-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:7:"S9V 1A8";s:7:"user_id";s:5:"10192";}
+2015-11-02T11:57:35-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:115:"DIANE WANTS EVERYTHING GENERIC PER OUR CONVERSATION 11/02. SHE IS ALSO INTERESTED IN TAN WHITE FOR FUTURE ORDERS-WJ";s:7:"user_id";s:4:"2701";}
+2015-11-02T12:04:54-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:92:"These prices are approved by Luis, please keep them. ADVANCED KITS WITH NO PENS @ $2.50 EACH";s:7:"user_id";s:4:"9311";}
+2015-11-02T12:26:10-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14496";}
+2015-11-02T12:26:48-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:123:"These prices are approved by Luis, please keep them. ADVANCED KITS WITH W/ OR W/OUT PENS @ $2.50 EACH (See Bridgett's note)";s:7:"user_id";s:4:"9311";}
+2015-11-02T12:28:45-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:126:"These prices are approved by Luis, please keep them. ADVANCED KITS WITH PEN @ $2.50 EACH, NO PEN $2 EACH (See Bridgett's note)";s:7:"user_id";s:4:"9311";}
+2015-11-02T13:08:17-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14116";}
+2015-11-02T13:10:09-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"702-748-4827";s:7:"user_id";s:5:"14267";}
+2015-11-02T13:44:34-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:10:"Glamour NY";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:7:"Tamesha";s:8:"lastname";s:7:"Tamesha";s:12:"contactphone";s:0:"";s:5:"email";s:24:"stylesbymeshat@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"9d73adfa89dd682bb2ff46231e166b985458593a";s:8:"username";s:10:"Glamour NY";s:12:"created_time";s:19:"2015-11-02 13:44:34";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"201ad0772c56c9c7d2250ebbb2bc5832";}
+2015-11-02T13:55:04-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14525";}
+2015-11-02T13:55:06-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14525";}
+2015-11-02T13:55:52-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:51:"Follow up to make sure that she received my e-mail.";s:7:"user_id";s:5:"14525";}
+2015-11-02T13:56:28-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"347-426-7261";s:7:"user_id";s:5:"14525";}
+2015-11-02T13:56:30-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"347-426-7261";s:7:"user_id";s:5:"14525";}
+2015-11-02T13:56:34-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"347-426-7261";s:7:"user_id";s:5:"14525";}
+2015-11-02T14:04:15-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:112:"Cory mentioned that we can get a reduced price if we can give her the Clamp on light instead of the Futura 2400.";s:7:"user_id";s:5:"14518";}
+2015-11-02T14:30:19-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:19:"1453 Flintrock Loop";s:7:"user_id";s:3:"659";}
+2015-11-02T14:42:52-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"130 North Fulton St";s:7:"user_id";s:5:"14496";}
+2015-11-02T14:42:59-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"43567";s:7:"user_id";s:5:"14496";}
+2015-11-02T16:12:12-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"718-916-1806";s:7:"user_id";s:5:"14526";}
+2015-11-02T16:14:23-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14526";}
+2015-11-02T16:23:12-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:25:"kellymc19744@yahoo.com.au";s:7:"user_id";s:4:"1695";}
+2015-11-02T16:23:23-08:00 INFO (6): Windy Jenkins--a:2:{s:5:"email";s:25:"truetherapies@outlook.com";s:7:"user_id";s:4:"1695";}
+2015-11-02T16:26:44-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:6:"Serena";s:7:"user_id";s:5:"14523";}
+2015-11-02T16:26:50-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Serena Rampino";s:7:"user_id";s:5:"14523";}
+2015-11-02T16:26:52-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Serena Rampino";s:7:"user_id";s:5:"14523";}
+2015-11-02T16:26:54-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14523";}
+2015-11-02T16:37:47-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14521";}
+2015-11-02T16:51:14-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"226-236-6788";s:7:"user_id";s:5:"14521";}
+2015-11-02T16:51:17-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"226-236-6788";s:7:"user_id";s:5:"14521";}
+2015-11-02T16:59:51-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14518";}
+2015-11-02T17:03:06-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:13:"+61487292112 ";s:7:"user_id";s:4:"1695";}
+2015-11-02T17:06:34-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14518";}
+2015-11-02T17:09:24-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:22:"True Therapies Day Spa";s:7:"user_id";s:4:"1695";}
+2015-11-02T17:09:36-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14524";}
+2015-11-02T17:15:43-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:8:"Jennifer";s:7:"user_id";s:5:"14475";}
+2015-11-02T17:27:06-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14475";}
+2015-11-02T17:27:07-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14475";}
+2015-11-02T17:33:57-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13154";}
+2015-11-02T17:41:15-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Lavish and Lounge";s:7:"user_id";s:5:"14475";}
+2015-11-02T17:41:28-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:65:"Per Alicia cust has previously ordered 2ml 16% Syringe @ $7 each ";s:7:"user_id";s:4:"1996";}

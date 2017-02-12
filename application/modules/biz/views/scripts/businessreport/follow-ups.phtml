@@ -1,0 +1,269 @@
+<?=$this->action('index', 'businessreport');?>          
+<div class="row">
+	<!-- Dariuz Rubin -->
+    <h3 class="page-header">Follow-ups</h3> 
+    <!------------------>
+    <div class="col-lg-12 space">
+    <form method="POST" name="verify" class="form-horizontal">
+    	<div class="row">
+    		<div class="col-md-4">
+    			<div class="form-group">
+	                <label for="from" class="col-sm-3 control-label required">From:</label>   
+	                <div class="col-sm-6">
+	                <input name="from" class="form-control" type="text" id="from" maxlength="10" value="<?php if (isset($_POST['from'])) {
+	                echo $_POST['from'];} ?>" />
+	                </div>
+	            </div>          
+    		</div>
+    		<div class="col-md-4">
+    			<div class="form-group">
+	                <label for="to" class="col-sm-3 control-label required">To:</label>   
+	                <div class="col-sm-6">
+	                <input name="to" class="form-control" type="text" id="to" maxlength="10" value="<?php if (isset($_POST['to'])) {
+	                echo $_POST['to'];} ?>" />
+	                </div>
+	            </div>       
+    		</div>
+    		<div class="col-md-4">
+    			<div class="form-group">                
+	                <label for="sales" class="col-sm-3 control-label">Rep</label>
+	                  <div class="col-sm-6">
+	                  
+	                  	<!--Dariuz Rubin-->	                  
+	                  	<select id="rep" name="rep[]" multiple="multiple" class="form-control">
+	                  		
+	                        <? foreach ($this->reps as $rep): ?>
+	                            <option value= "<?php 
+	                            	echo $rep['id'].','.$rep['name']; 
+	                            	?>"  <? 
+	                            			$check_rep = $rep['id'].','.$rep['name'];
+	                            			foreach ($_POST['rep'] as $post_rep)
+	                            			{
+												if ($check_rep == $post_rep)
+													echo 'selected';
+											}	                            		
+	                            		?>><?= $rep['name'] ?></option>                          
+	                        <? endforeach; ?>					       
+					    </select>     				  
+					    <!----------------->			    
+					
+	                  </div>
+	            </div>  
+    		</div>
+    	</div>
+    	
+    	<div class="row">
+    		<div class="col-md-12">
+    			<center>
+    				<button type="submit" class="btn btn-default">Submit</button>
+    			</center>
+    		</div>
+    	</div>     
+    </form>    
+    </div>
+   
+</div>
+
+
+
+<div class="row">
+<div class="col-lg-4">
+<div class="panel panel-default">
+   <div class="panel-heading">Created Events</div>
+
+   <div class="panel-body">
+<?if (!empty($this->createdEvents)):?>
+     <!-- Dariuz Rubin -->  
+	 <table class="table table-bordered table-striped table-hover" id="all-created-events">
+	    <thead>
+			 <th>Rep</th>
+			 <th>Count</th>
+		</thead>
+	    <tbody>
+		<?php		
+		$created_events_cnt=0;
+		foreach ($this->createdEvents as $key => $event)
+		{
+		?>
+			<tr>
+				<td>
+				<?php
+					echo $event[0]['parent_user'];					
+				?>
+				</td>
+				<td>
+				<?php
+					echo $event[0]['created_events_cnt'];	
+					$created_events_cnt +=	$event[0]['created_events_cnt'];	
+				?>
+				</td>					
+			</tr>
+		<?php
+		}				
+		?>		
+		<tr>
+			<td style="font-weight:bold">
+			<?php
+				echo 'Total';
+			?>
+			</td>
+			<td style="font-weight:bold">
+			<?php
+				echo $created_events_cnt;					
+			?>
+			</td>					
+		</tr>
+	    </tbody>  
+	</table>
+	 <!------------------>
+
+<? elseif(isset($this->isPost)) :?>
+    No events found.
+<?endif;?>
+   </div>
+</div>
+</div>
+
+
+
+	<div class="col-lg-4">
+		<div class="panel panel-default">
+		   <div class="panel-heading">Scheduled Events</div>
+	
+		   <div class="panel-body">
+		<?if (!empty($this->scheduledEvents)):?>
+		     <!-- Dariuz Rubin -->  
+			 <table class="table table-bordered table-striped table-hover" id="all-scheduled-events">
+			    <thead>
+					 <th>Rep</th>
+					 <th>Count</th>
+				</thead>
+			    <tbody>
+				<?php		
+				$scheduled_events_cnt=0;
+				foreach ($this->scheduledEvents as $key => $event)
+				{
+				?>
+					<tr>
+						<td>
+						<?php
+							echo $event[0]['parent_user'];					
+						?>
+						</td>
+						<td>
+						<?php
+							echo $event[0]['scheduled_events_cnt'];	
+							$scheduled_events_cnt +=	$event[0]['scheduled_events_cnt'];	
+						?>
+						</td>					
+					</tr>
+				<?php
+				}				
+				?>		
+				<tr>
+					<td style="font-weight:bold">
+					<?php
+						echo 'Total';
+					?>
+					</td>
+					<td style="font-weight:bold">
+					<?php
+						echo $scheduled_events_cnt;					
+					?>
+					</td>					
+				</tr>
+			    </tbody>  
+			</table>
+			 <!------------------>
+
+		<? elseif(isset($this->isPost)) :?>
+		    No events found.
+		<?endif;?>
+		   </div>
+		</div>
+	</div>
+
+
+	<div class="col-lg-4">
+		<div class="panel panel-default">
+		   <div class="panel-heading">Contacted Events</div>
+		
+		   <div class="panel-body">
+		<?if (!empty($this->contactedEvents)):?>
+		     <!-- Dariuz Rubin -->  
+			 <table class="table table-bordered table-striped table-hover" id="all-contacted-events">
+			    <thead>
+					 <th>Rep</th>
+					 <th>Count</th>
+				</thead>
+			    <tbody>
+				<?php		
+				$contacted_events_cnt=0;
+				foreach ($this->contactedEvents as $key => $event)
+				{
+				?>
+					<tr>
+						<td>
+						<?php
+							echo $event[0]['parent_user'];					
+						?>
+						</td>
+						<td>
+						<?php
+							echo $event[0]['contacted_events_cnt'];	
+							$contacted_events_cnt += $event[0]['contacted_events_cnt'];	
+						?>
+						</td>					
+					</tr>
+				<?php
+				}				
+				?>		
+				<tr>
+					<td style="font-weight:bold">
+					<?php
+						echo 'Total';
+					?>
+					</td>
+					<td style="font-weight:bold">
+					<?php
+						echo $contacted_events_cnt;					
+					?>
+					</td>					
+				</tr>
+			    </tbody>  
+			</table>
+			 <!------------------>
+
+		<? elseif(isset($this->isPost)) :?>
+		    No events found.
+		<?endif;?>
+		   </div>
+		</div>
+	</div>
+</div>
+
+<!-- Dariuz Rubin -->    
+<link rel="stylesheet" href="/public/css/bootstrap-multiselect.css" type="text/css">
+<script type="text/javascript" src="/public/js/bootstrap-multiselect.js"></script>
+<!------------------>
+<script src="/public/js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script>
+  $(function() {     	
+    $("#from").datepicker({dateFormat: 'yy-mm-dd'});
+    $("#to").datepicker({dateFormat: 'yy-mm-dd'});
+    $('#all_contacts').dataTable( {
+        
+    });    
+    
+    /* Dariuz Rubin */
+    /* Multiselect for Rep */    
+	
+	 $('#rep').multiselect({
+	   includeSelectAllOption: true,
+	   buttonWidth: '100%',
+	   numberDisplayed: 2	   
+	});
+   });
+   /*=======================*/
+</script>

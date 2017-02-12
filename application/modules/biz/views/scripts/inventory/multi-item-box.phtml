@@ -1,0 +1,158 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="/public/css/crm.css">	    
+</head>
+
+<div class="itemRow">    
+    <!--span id ="boxMessage">
+   <?if(!empty($this->boxes)):?>
+    <?if($this->boxQuantity != $this->boxes[0]['quantity_received']):?>
+        ` <div class="alert alert-danger alert-dismissable">
+                <a class="close" data-dismiss="alert" href="#">×</a>
+                Total Received: <?= $this->boxes[0]['quantity_received']?>, Total Quantity Recorded in boxes: <?= $this->boxQuantity ?>
+          </div>
+      <?else: ?>
+          <div class="alert alert-success alert-dismissable">
+            <a class="close" data-dismiss="alert" href="#">×</a>
+            Total Received: <?= $this->boxes[0]['quantity_received']?>
+          </div>
+    <?endif;?>
+    <?endif;?>
+    </span-->    
+    <table cellpadding="0" cellspacing="0" border="0" id="itemsTable" class="account" style="margin-top: 20px;">    
+                <tr>                   
+                    <th width="20%">Shipment Item ID</th>                    
+                    <th width="10%">Volume/Carton</th>         
+                    <th width="10%">G.W./Carton</th>
+                    <th width="10%" colspan="2">Action</th>  
+                </tr>
+                
+                 <?if(!empty($this->boxes)):?>
+                    <?foreach($this->boxes as $box):?>
+                        <tr>
+                            <input type="hidden" name="box_id" id="box_id" value="<?= $box['box_id']?>">
+                            <td width="20%" style="text-align:center;"><input type="text" size="20" name="shipment_items_id" value="<?= $box['shipment_items_id']?>" class="field_input shipment_items_id" style="text-align:center;"/></td>                    
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="volPerBox" value="<?= $box['volPerBox'] ?>" class="field_input volPerBox" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="weightPerBox" value="<?= $box['weightPerBox']?> " class="field_input weightPerBox" style="text-align:right;"/></td>                                                        
+                            <td width="5%"><span class="btn btn-primary btn-xs updateBox">Update</span></td> 
+                            <td width="5%"><span class="btn btn-danger btn-xs removeBox">Remove</span></td> 
+                        </tr>                
+                    <? endforeach;?>
+                <?endif?>  
+                                             
+                <tr class="boxRow">
+                    <td width="20%" style="text-align:center;"><input type="text" size="20" name="shipment_items_id" class="field_input shipment_items_id" style="text-align:center;"/></td>                    
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="volPerBox" class="field_input volPerBox" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="weightPerBox" class="field_input weightPerBox" style="text-align:right;"/></td>                    
+                    <td width="5%"><span class="btn btn-primary btn-xs addBox">Add</span></td> <td></td>                   
+                </tr>
+
+            </table>
+
+            <div id="add_box_row" class="button">+ Row</div>            
+           
+    
+</div>
+
+
+<script>
+    $(document).ready(function() {
+     
+     $('.itemRow').delegate('.updateBox', 'click', function() {              
+              var $row = $(this).closest('tr');            
+               $.post('/inventory/multi-item-box',  
+                      { 
+                         "action" : 'update', 
+                         "box_id":  $row.find('#box_id').val(),
+                         "shipment_items_id": $row.find('.shipment_items_id').val(),
+                         "volPerBox":$row.find('.volPerBox').val(),
+                         "weightPerBox":$row.find('.weightPerBox').val(),                          
+                         "id": <?=$this->shipemnt_id?>                                                 
+                      },
+                      function(data) {                           
+                             $("#boxMessage").empty().removeClass("alert alert-danger");                                    
+                             if (data == 'success') {                                
+                                $row.find('.updateBox').slideUp( 300 ).delay( 600 ).fadeIn( 400 );
+                             } else {
+                                 $("#boxMessage").html(data).addClass("alert alert-danger");
+                             }
+                      });
+         });
+               
+          $('.itemRow').delegate('.addBox', 'click', function() {              
+              var $row = $(this).closest('tr');            
+              $.post('/inventory/multi-item-box', 
+                      { 
+                          "action" : 'add', 
+                          "shipment_items_id": $row.find('.shipment_items_id').val(),
+                          "volPerBox":$row.find('.volPerBox').val(),
+                          "weightPerBox":$row.find('.weightPerBox').val(),                          
+                          "id": <?=$this->shipemnt_id?>
+                      },
+                      function(data) {                           
+                             $("#boxMessage").empty().removeClass("alert alert-danger");                                    
+                             if (data == 'success') {
+                                 $(".addBox").empty().switchClass("btn btn-primary btn-xs addBox", "added").html('added');
+                             } else {
+                                 $("#boxMessage").html(data).addClass("alert alert-danger");
+                             }
+                      });
+         });
+          $('.itemRow').delegate('.removeBox', 'click', function() {              
+              var $row = $(this).closest('tr');            
+              var r=confirm("Delete this box? ");                
+                if (r==true) {
+                    $(this).closest("tr").hide();
+                    $.post('/inventory/multi-item-box', 
+                    {
+                        "action" : 'remove',   
+                        "box_id":  $row.find('#box_id').val(),
+                    },
+                    function(data) {                           
+                        if (data == 'success') {                                                 
+                            $(this).closest("tr").remove();
+                        } else {
+                            $("#boxMessage").html(data).addClass("alert alert-danger alert-dismissable");   
+                        }
+                    });           
+                } 
+         });
+        
+      
+       
+        var numberExistingRows = 1;
+
+        $('#add_box_row').click(function() {
+      
+            // keep track of number of rows for input names
+            numberExistingRows++;
+            // clone a row
+            var $row = $('.boxRow:last').clone();
+            // strip previous values and fix names of inputs
+            
+            $row.find('input').each(function() {
+                var $input = $(this);// cache this input into jQuery object in lieu of using $(this) in below functions for clarity and performance                
+             
+                $input.val("");// reset value to none
+
+                // fix names
+                //var thisInputName = $input.attr('name').split('_')[0] + '_' + numberExistingRows;
+             
+                //$input.attr('name', thisInputName)
+
+            });            
+           // $row.find('.qtyPerBox, .numberOfBoxes').on("change", getQuantity);            
+            //$row.find('.added').switchClass("added", "btn btn-primary btn-xs addBox addBox").html("Add");
+            // bind item auto complete to new row. SInce using classes now makes it much easier to locate correct input
+            // $row.find('.item').bind("keyup", itemAutoComplete) ;   
+
+            // for real autocomplete 
+            // $row.find('.tbTitle').autocomplete(// options)
+
+            // append to table id=tblInventoryItems
+            $('#itemsTable').append($row);
+
+        });
+    });
+    
+   
+</script>

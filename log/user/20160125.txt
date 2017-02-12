@@ -1,0 +1,54 @@
+2016-01-25T08:23:27-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"7788 NW 71st Street";s:7:"user_id";s:5:"15219";}
+2016-01-25T08:23:33-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:19:"Miami Florida 33166";s:7:"user_id";s:5:"15219";}
+2016-01-25T08:23:51-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"15219";}
+2016-01-25T08:23:52-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"FM";s:7:"user_id";s:5:"15219";}
+2016-01-25T08:23:55-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:5:"15219";}
+2016-01-25T08:23:59-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:5:"Miami";s:7:"user_id";s:5:"15219";}
+2016-01-25T08:24:01-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"33166";s:7:"user_id";s:5:"15219";}
+2016-01-25T08:24:57-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:25:"http://www.corpodent.net/";s:7:"user_id";s:5:"15219";}
+2016-01-25T08:56:11-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15246";}
+2016-01-25T08:56:14-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15246";}
+2016-01-25T09:33:11-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:8:"Dr. Wael";s:7:"user_id";s:5:"15246";}
+2016-01-25T09:35:30-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"407-758-7075";s:7:"user_id";s:5:"15254";}
+2016-01-25T09:41:07-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"678-855-2405";s:7:"user_id";s:5:"15253";}
+2016-01-25T09:42:23-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Kecia";s:7:"user_id";s:5:"15253";}
+2016-01-25T09:42:28-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Kecia Vialet";s:7:"user_id";s:5:"15253";}
+2016-01-25T09:42:31-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Kecia Vialet";s:7:"user_id";s:5:"15253";}
+2016-01-25T09:43:06-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15253";}
+2016-01-25T09:49:54-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:10:"Individual";s:7:"user_id";s:5:"15253";}
+2016-01-25T09:50:00-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:5:"Other";s:7:"user_id";s:5:"15253";}
+2016-01-25T10:15:11-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Allison";s:7:"user_id";s:5:"15255";}
+2016-01-25T10:15:16-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Allison Laurion";s:7:"user_id";s:5:"15255";}
+2016-01-25T10:15:18-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Allison Laurion";s:7:"user_id";s:5:"15255";}
+2016-01-25T10:17:18-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15255";}
+2016-01-25T10:17:22-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"15255";}
+2016-01-25T10:17:26-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"15255";}
+2016-01-25T10:51:55-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:190:"Javis is in FL but had this service done in GA. Wasn't sure who's product he used but he is excited to offer this service. He is filing his taxes today and would like to purchase next week. ";s:7:"user_id";s:5:"15254";}
+2016-01-25T10:51:58-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15254";}
+2016-01-25T10:52:01-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15254";}
+2016-01-25T11:02:58-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15251";}
+2016-01-25T11:08:30-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15255";}
+2016-01-25T11:08:43-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15253";}
+2016-01-25T11:49:31-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"443-876-1759";s:7:"user_id";s:5:"14137";}
+2016-01-25T11:57:48-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15255";}
+2016-01-25T11:59:51-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:83:"Now interested in offering teeth whitening. Looking at mobile #1 without the chair.";s:7:"user_id";s:5:"14137";}
+2016-01-25T12:00:00-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14137";}
+2016-01-25T12:51:51-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:26:"AZ Diamond Smile Whitening";s:7:"user_id";s:5:"12271";}
+2016-01-25T13:09:51-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:17:"Dr Austin Baruffi";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"WA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"206-575-1551";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Austin";s:8:"lastname";s:7:"Baruffi";s:12:"contactphone";s:0:"";s:5:"email";s:19:"staff@drbaruffi.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"12f73fb1b78d5de9c5d35b7806f33c98bdf89cbf";s:8:"username";s:17:"Dr Austin Baruffi";s:12:"created_time";s:19:"2016-01-25 13:09:51";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"5ec611bf8fad56f65d3a86a512b6f581";}
+2016-01-25T13:10:06-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:17:"411 Strander Blvd";s:7:"user_id";s:5:"15256";}
+2016-01-25T13:10:11-08:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 108";s:7:"user_id";s:5:"15256";}
+2016-01-25T13:10:19-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"98188";s:7:"user_id";s:5:"15256";}
+2016-01-25T13:59:23-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:15:"Victoria Graham";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AR";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:8:"Victoria";s:8:"lastname";s:6:"Graham";s:12:"contactphone";s:12:"501-269-9633";s:5:"email";s:16:"vsbrown@ualr.edu";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"c8abebcae321099ca6d0e1a6627c011ebcde55da";s:8:"username";s:15:"Victoria Graham";s:12:"created_time";s:19:"2016-01-25 13:59:23";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"9cecc22467ef7b0d27d45bcb00e2bf1b";}
+2016-01-25T13:59:32-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15257";}
+2016-01-25T13:59:34-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15257";}
+2016-01-25T16:19:44-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:22:"Whiter Smilers RVA LLC";s:7:"user_id";s:5:"14332";}
+2016-01-25T16:24:19-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:16:"5706 Vinings Dr.";s:7:"user_id";s:5:"14332";}
+2016-01-25T16:24:26-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:8:"Richmond";s:7:"user_id";s:5:"14332";}
+2016-01-25T16:24:31-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"23234";s:7:"user_id";s:5:"14332";}
+2016-01-25T16:24:46-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:27:"5706 Vinings Dr. Unit 304-8";s:7:"user_id";s:5:"14332";}
+2016-01-25T16:25:03-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:26:"5706 Vinings Dr. Apt 304-8";s:7:"user_id";s:5:"14332";}
+2016-01-25T16:30:06-08:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:25:"whitersmilesrva@gmail.com";s:7:"user_id";s:5:"14332";}
+2016-01-25T16:57:09-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"517-505-6680";s:7:"user_id";s:5:"15255";}
+2016-01-25T16:57:12-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:14:"517-505-6680??";s:7:"user_id";s:5:"15255";}
+2016-01-25T17:19:41-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"818-441-1788";s:7:"user_id";s:5:"14711";}
+2016-01-25T17:20:55-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14623";}

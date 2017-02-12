@@ -1,0 +1,94 @@
+2016-08-08T08:38:10-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"10010";}
+2016-08-08T08:38:20-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:61:"SAPIENT
+
+Drk@prestigefamilydentistry.net
+mkashkouli@gmail.com";s:7:"user_id";s:4:"8983";}
+2016-08-08T08:43:01-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17074";}
+2016-08-08T09:33:56-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17143";}
+2016-08-08T09:48:46-07:00 INFO (6): Cory Nielsen--a:2:{s:8:"interest";s:158:"Skin FX -$650
+(MSRP - $1000)
+
+Needle Tips - $6 (min 10)
+(MSRP - $10)
+
+RGB -  $350
+(MSRP $500)
+
+Red Mask - $175
+(MSRP $300)
+
+Futura Face - $1500
+(MSRP $2000)
+
+";s:7:"user_id";s:5:"16829";}
+2016-08-08T10:09:38-07:00 INFO (6): Michael Darby--a:28:{s:12:"businessname";s:10:"TARGET.COM";s:12:"businesstype";s:6:"Retail";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:18:"1000 Nicollet Mall";s:8:"address2";s:0:"";s:4:"city";s:11:"Minneapolis";s:5:"state";s:2:"MN";s:3:"zip";s:5:"55403";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"612-304-6073";s:6:"source";s:8:"Referred";s:9:"firstname";s:5:"Sonia";s:8:"lastname";s:10:"Eschenauer";s:12:"contactphone";s:0:"";s:5:"email";s:27:"sonia.eschenauer@target.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"Mike Dixon";s:4:"type";s:4:"Lead";s:8:"password";s:40:"b3670da10d907bddca56edd3b22866a45b488faf";s:8:"username";s:10:"TARGET.COM";s:12:"created_time";s:19:"2016-08-08 10:09:38";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"a0be1b5257183483c0cff3a8c00cf8fd";}
+2016-08-08T11:53:27-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17058";}
+2016-08-08T13:47:23-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:874:"8/8/2016: $569 CREDIT FOR FUTURE ORDERS.
+
+Randa Kullab � Sales and Marketing Coordinator
+Tel: +966 11 2885022 Ext.106
+                                                Fax: +966 11 2885060
+                                                         Mobile: +966 550021518
+                                                        Website: www.abdulwahed.med.sa
+
+
+Please use our DHL A/c 961207209 and ship the goods to the bellow adress: 
+
+Ahmed Abdulwahed Trading Company - Riyadh 
+Al- Dabab - front of King Fahad Medical City
+Al-Dabab trading tower - third floor - ofiice 25-26
+Name: Randa Kullab 
+Tel : 00966112885022 Ext : 106
+Mobile : 00966550021518
+
+Ajmal
+Logistics & Supply Chain Co-ordinator
+Ahmed Abdulwahed Co.
+Amal Plaza, P.O Box: 3611, Hail Street, Jeddah- 21481, Saudi Arabia
+Tel: +966 12 6500282 x 571, Fax: +966 12 6502625, Email: ajmal@abdulwahed.com
+
+Plug Type A.";s:7:"user_id";s:5:"10230";}
+2016-08-08T14:12:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16948";}
+2016-08-08T14:19:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Ky Shawn";s:7:"user_id";s:5:"17151";}
+2016-08-08T14:20:48-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17151";}
+2016-08-08T14:28:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17151";}
+2016-08-08T14:38:32-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:14:"1-438-928-6690";s:7:"user_id";s:5:"17156";}
+2016-08-08T14:38:39-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:34:"instantblancheurofficial@gmail.com";s:7:"user_id";s:5:"17151";}
+2016-08-08T14:38:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Instant Blancheur";s:7:"user_id";s:5:"17151";}
+2016-08-08T14:41:06-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"514-898-0401";s:7:"user_id";s:5:"17161";}
+2016-08-08T14:41:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Aron";s:7:"user_id";s:5:"17161";}
+2016-08-08T14:41:33-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Aron Black";s:7:"user_id";s:5:"17161";}
+2016-08-08T14:41:36-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Aron Black";s:7:"user_id";s:5:"17161";}
+2016-08-08T14:43:10-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Letacha";s:7:"user_id";s:5:"17160";}
+2016-08-08T14:43:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Letacha Carter";s:7:"user_id";s:5:"17160";}
+2016-08-08T14:43:20-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Letacha Carter";s:7:"user_id";s:5:"17160";}
+2016-08-08T14:44:38-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17160";}
+2016-08-08T14:44:55-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17160";}
+2016-08-08T14:47:34-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16991";}
+2016-08-08T15:27:33-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:9:"Paula Uno";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:7:"Everett";s:5:"state";s:2:"WA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:9:"206715299";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Paula";s:8:"lastname";s:3:"Uno";s:12:"contactphone";s:9:"206715299";s:5:"email";s:19:"pmuno37@comcast.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"56dfabd370693388ab39cae1a1c9ec09c818843e";s:8:"username";s:9:"Paula Uno";s:12:"created_time";s:19:"2016-08-08 15:27:33";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6c8b0cc1bd531a0427459dfbdd8c3fbc";}
+2016-08-08T15:28:53-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"206-715-2991";s:7:"user_id";s:5:"17166";}
+2016-08-08T15:42:30-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"210-415-8586";s:7:"user_id";s:5:"17157";}
+2016-08-08T15:45:59-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17157";}
+2016-08-08T15:46:45-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"209-585-0569";s:7:"user_id";s:5:"17164";}
+2016-08-08T15:46:54-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Marcus";s:7:"user_id";s:5:"17164";}
+2016-08-08T15:47:01-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Marcus Salinas";s:7:"user_id";s:5:"17164";}
+2016-08-08T15:48:56-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17164";}
+2016-08-08T15:59:11-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:19:"Ashley's Laquer Bar";s:7:"user_id";s:5:"17149";}
+2016-08-08T15:59:18-07:00 INFO (6): Alison Duff--a:2:{s:12:"businessname";s:19:"Ashley's Laquer Bar";s:7:"user_id";s:5:"17149";}
+2016-08-08T16:07:48-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17161";}
+2016-08-08T16:22:53-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17161";}
+2016-08-08T16:22:55-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17161";}
+2016-08-08T16:47:54-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"17157";}
+2016-08-08T16:49:09-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17157";}
+2016-08-08T17:01:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17157";}
+2016-08-08T17:01:45-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:15:"Sheila (Odette)";s:7:"user_id";s:4:"2647";}
+2016-08-08T17:05:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17081";}
+2016-08-08T17:09:48-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:17:"Sheila and Odette";s:7:"user_id";s:4:"2647";}
+2016-08-08T17:10:45-07:00 INFO (6): Alison Duff--a:2:{s:11:"description";s:0:"";s:7:"user_id";s:4:"2647";}
+2016-08-08T17:28:54-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"DUPLICATE ACCOUNT";s:7:"user_id";s:5:"17156";}
+2016-08-08T17:35:48-07:00 INFO (6): Alison Duff--a:2:{s:11:"description";s:90:"Daily White Fusion Foam US: $7.50 each 
+10mL Syringes: $7.50 each 
+Finger Wipes: .22 each ";s:7:"user_id";s:4:"2647";}
+2016-08-08T17:51:24-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"803-735-5051";s:7:"user_id";s:5:"17048";}
+2016-08-08T17:55:43-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Jaime Harding";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AB";s:3:"zip";s:0:"";s:7:"country";s:2:"CA";s:13:"businessphone";s:12:"403-501-1453";s:6:"source";N;s:9:"firstname";s:5:"Jaime";s:8:"lastname";s:7:"Harding";s:12:"contactphone";s:12:"403-501-1453";s:5:"email";s:21:"jaimers42@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5317ad0da00ac518bcec60d6c80d654424309e6d";s:8:"username";s:13:"Jaime Harding";s:12:"created_time";s:19:"2016-08-08 17:55:43";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"d16b57d4d87f64a96e82e5a1cbfb0083";}
+2016-08-08T17:55:52-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17167";}

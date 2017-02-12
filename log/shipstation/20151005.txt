@@ -1,0 +1,1178 @@
+2015-10-05T08:37:11-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/03/2015 15:00";s:8:"end_date";s:16:"10/06/2015 08:37";s:4:"page";s:1:"1";}
+2015-10-05T09:14:14-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/03/2015 15:00";s:8:"end_date";s:16:"10/06/2015 09:13";s:4:"page";s:1:"1";}
+2015-10-05T09:30:46-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 08:14";s:8:"end_date";s:16:"10/06/2015 09:30";s:4:"page";s:1:"1";}
+2015-10-05T09:54:17-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/04/2015 01:30";s:8:"end_date";s:16:"10/06/2015 09:54";s:4:"page";s:1:"1";}
+2015-10-05T10:54:58-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 01:54";s:8:"end_date";s:16:"10/06/2015 10:54";s:4:"page";s:1:"1";}
+2015-10-05T11:27:24-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 11:27";s:4:"page";s:1:"1";}
+2015-10-05T11:34:17-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"CJCFASVB";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068212";}
+2015-10-05T11:34:17-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"EMDNGGUP";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068243";}
+2015-10-05T11:34:17-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"MWURFGDB";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068274";}
+2015-10-05T11:34:18-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"YZVZNGBE";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068304";}
+2015-10-05T11:34:18-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"QQWRXZZS";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068335";}
+2015-10-05T11:34:18-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"RTHKVMXH";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068366";}
+2015-10-05T11:34:19-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"JAAZMQHZ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068397";}
+2015-10-05T11:34:19-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"WSCL-286";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068410";}
+2015-10-05T11:34:19-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:10:"4-tztzmhxb";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068441";}
+2015-10-05T11:34:19-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:10:"4-p8y7i2lx";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068472";}
+2015-10-05T11:34:20-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:10:"4-oy71yygw";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068502";}
+2015-10-05T11:34:20-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:11:"16-pcuty6fx";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068533";}
+2015-10-05T11:34:20-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"WCKFAAYE";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068588";}
+2015-10-05T11:34:21-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"YVJYMUAH";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068618";}
+2015-10-05T11:34:21-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"HYUDUPWV";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068649";}
+2015-10-05T11:34:21-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"TTVNXKGP";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068694";}
+2015-10-05T11:34:21-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"DZUCGCFS";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068717";}
+2015-10-05T11:34:22-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"HQFCBKJA";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068731";}
+2015-10-05T11:34:22-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"ZTHBASFG";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068205";}
+2015-10-05T11:34:22-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"WRNMNJBR";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068236";}
+2015-10-05T11:34:23-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"EAXXFDNE";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068267";}
+2015-10-05T11:34:23-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"KWYMMUHB";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068298";}
+2015-10-05T11:34:23-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"RRFSBECW";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068328";}
+2015-10-05T11:34:24-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"FDUURZNQ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068342";}
+2015-10-05T11:34:24-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"MPHZRWDW";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068373";}
+2015-10-05T11:34:24-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"QYEFNRFD";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068403";}
+2015-10-05T11:34:25-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"DUHJEKUY";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068427";}
+2015-10-05T11:34:25-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:11:"8-1b9bleupk";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068458";}
+2015-10-05T11:34:25-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:11:"12-a4lgcuyn";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068489";}
+2015-10-05T11:34:25-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:12:"13-17ndgi8t8";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068519";}
+2015-10-05T11:34:26-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"KATUVYRQ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068540";}
+2015-10-05T11:34:26-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"ZAZNWVSU";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068564";}
+2015-10-05T11:34:26-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"BCVYWMXT";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068595";}
+2015-10-05T11:34:27-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"VZRGRBTR";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068625";}
+2015-10-05T11:34:27-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"NBKECJAJ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068656";}
+2015-10-05T11:34:27-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"EYWZTFCC";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068687";}
+2015-10-05T11:34:27-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"ZKRTMBUP";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068229";}
+2015-10-05T11:34:28-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"EUKZXKCS";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068250";}
+2015-10-05T11:34:28-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"QARMVQXB";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068281";}
+2015-10-05T11:34:28-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"RENVYDCS";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068311";}
+2015-10-05T11:34:29-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"NNEMEZPC";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068359";}
+2015-10-05T11:34:29-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"WVKQMUFJ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068380";}
+2015-10-05T11:34:29-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"HKBJBBTU";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068434";}
+2015-10-05T11:34:30-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"ETBGMZUM";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068465";}
+2015-10-05T11:34:30-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"XFMGRWQN";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068496";}
+2015-10-05T11:34:30-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"DXHZZHUW";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068526";}
+2015-10-05T11:34:30-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"NPHDHVDK";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068557";}
+2015-10-05T11:34:31-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"RCQPMUWJ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068571";}
+2015-10-05T11:34:31-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"RRPEXPWZ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068601";}
+2015-10-05T11:34:31-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"SKVTDWAM";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068632";}
+2015-10-05T11:34:32-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"SXFKHWQK";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068663";}
+2015-10-05T11:34:32-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"DQDGJTRF";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068670";}
+2015-10-05T11:34:32-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"HNDUYQAV";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068700";}
+2015-10-05T11:34:32-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"ZVKVAVYM";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068724";}
+2015-10-05T11:37:32-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 11:37";s:4:"page";s:1:"1";}
+2015-10-05T11:37:41-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 11:37";s:4:"page";s:1:"1";}
+2015-10-05T11:42:25-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 11:42";s:4:"page";s:1:"1";}
+2015-10-05T11:44:48-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 11:44";s:4:"page";s:1:"1";}
+2015-10-05T11:46:56-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 11:46";s:4:"page";s:1:"1";}
+2015-10-05T11:48:01-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 11:47";s:4:"page";s:1:"1";}
+2015-10-05T11:55:09-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 11:54";s:4:"page";s:1:"1";}
+2015-10-05T12:00:17-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 12:00";s:4:"page";s:1:"1";}
+2015-10-05T12:14:22-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 02:55";s:8:"end_date";s:16:"10/06/2015 12:14";s:4:"page";s:1:"1";}
+2015-10-05T12:43:46-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 04:14";s:8:"end_date";s:16:"10/06/2015 12:43";s:4:"page";s:1:"1";}
+2015-10-05T12:59:21-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 04:14";s:8:"end_date";s:16:"10/06/2015 12:59";s:4:"page";s:1:"1";}
+2015-10-05T13:51:40-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 04:14";s:8:"end_date";s:16:"10/06/2015 13:51";s:4:"page";s:1:"1";}
+2015-10-05T14:10:20-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 04:14";s:8:"end_date";s:16:"10/06/2015 14:09";s:4:"page";s:1:"1";}
+2015-10-05T14:11:14-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 06:10";s:8:"end_date";s:16:"10/06/2015 14:11";s:4:"page";s:1:"1";}
+2015-10-05T14:14:52-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 06:11";s:8:"end_date";s:16:"10/06/2015 14:14";s:4:"page";s:1:"1";}
+2015-10-05T14:18:30-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 06:11";s:8:"end_date";s:16:"10/06/2015 14:18";s:4:"page";s:1:"1";}
+2015-10-05T14:20:53-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 06:11";s:8:"end_date";s:16:"10/06/2015 14:20";s:4:"page";s:1:"1";}
+2015-10-05T14:27:18-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 06:11";s:8:"end_date";s:16:"10/06/2015 14:27";s:4:"page";s:1:"1";}
+2015-10-05T14:27:18-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >=  2015-10-05 06:11:00 AND datetime <= 2015-10-06 14:27:00
+2015-10-05T14:34:22-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 06:11";s:8:"end_date";s:16:"10/06/2015 14:33";s:4:"page";s:1:"1";}
+2015-10-05T14:34:22-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2015-10-05 06:11:00' AND datetime <= '2015-10-06 14:33:00'
+2015-10-05T14:34:23-07:00 INFO (6): <?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+	<Order>
+		<OrderID><![CDATA[43951]]></OrderID>
+		<OrderNumber><![CDATA[9-ms9aaxzh]]></OrderNumber>
+		<OrderDate>10/5/2015 1:36 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 1:36 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>Parisvenice@me.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Tina Davis]]></Name>
+				<Phone>310-962-0962</Phone>
+				<Email>Parisvenice@me.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Tina Davis]]></Name>
+				<Address1><![CDATA[100 Vilaggio ]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Newport Beach]]></City>
+				<State><![CDATA[CA]]></State>
+				<PostalCode><![CDATA[92660]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>310-962-0962</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[114828]]></OrderID>
+		<OrderNumber><![CDATA[24-14oy6r7yf]]></OrderNumber>
+		<OrderDate>10/5/2015 3:11 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 3:11 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>dfjakub@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[donna spector]]></Name>
+				<Phone>917-741-9642</Phone>
+				<Email>dfjakub@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[donna spector]]></Name>
+				<Address1><![CDATA[275 west 96th street apt 30a]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[new york]]></City>
+				<State><![CDATA[NY]]></State>
+				<PostalCode><![CDATA[10025]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>917-741-9642</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.3]]></SKU>
+				<Name><![CDATA[Elite Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[265821]]></OrderID>
+		<OrderNumber><![CDATA[EUYUJTKF]]></OrderNumber>
+		<OrderDate>10/5/2015 4:04 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 4:04 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>Catiehoydic@yahoo.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Catie Hoydic]]></Name>
+				<Phone>770-316-6142</Phone>
+				<Email>Catiehoydic@yahoo.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Catie Hoydic]]></Name>
+				<Address1><![CDATA[1745 Terrace Lake Drive]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Lawrenceville]]></City>
+				<State><![CDATA[GA]]></State>
+				<PostalCode><![CDATA[30043]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>770-316-6142</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.4]]></SKU>
+				<Name><![CDATA[Premium Clear Take Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[278786]]></OrderID>
+		<OrderNumber><![CDATA[KJPHRHKY]]></OrderNumber>
+		<OrderDate>10/5/2015 2:47 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 2:47 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>connellyjs@yahoo.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[James Connelly]]></Name>
+				<Phone>619-549-2652</Phone>
+				<Email>connellyjs@yahoo.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[James Connelly]]></Name>
+				<Address1><![CDATA[8704 Shenandoah Run]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Wesley Chapel]]></City>
+				<State><![CDATA[FL]]></State>
+				<PostalCode><![CDATA[33544]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>619-549-2652</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.4]]></SKU>
+				<Name><![CDATA[Premium Clear Take Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[279011]]></OrderID>
+		<OrderNumber><![CDATA[GFPMPJGP]]></OrderNumber>
+		<OrderDate>10/5/2015 2:43 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 2:43 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>jca5065@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[James Abbott]]></Name>
+				<Phone>484-599-0037</Phone>
+				<Email>jca5065@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[James Abbott]]></Name>
+				<Address1><![CDATA[10800 Brighton Bay Blvd]]></Address1>
+				<Address2><![CDATA[Apt #19207]]></Address2>
+				<City><![CDATA[St. Petersburg]]></City>
+				<State><![CDATA[FL]]></State>
+				<PostalCode><![CDATA[33716]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>484-599-0037</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.4]]></SKU>
+				<Name><![CDATA[Premium Clear Take Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[391360]]></OrderID>
+		<OrderNumber><![CDATA[HNMNZJPA]]></OrderNumber>
+		<OrderDate>10/5/2015 1:33 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 1:33 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>susan.j.h.55303@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Susan Holt]]></Name>
+				<Phone>763-323-4969</Phone>
+				<Email>susan.j.h.55303@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Susan Holt]]></Name>
+				<Address1><![CDATA[5860 147th Lane NW]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Ramsey]]></City>
+				<State><![CDATA[MN]]></State>
+				<PostalCode><![CDATA[55303]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>763-323-4969</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[392661]]></OrderID>
+		<OrderNumber><![CDATA[CJMAZEME]]></OrderNumber>
+		<OrderDate>10/5/2015 2:37 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 2:37 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>susan.j.h.55303@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Susan Holt]]></Name>
+				<Phone>763-323-4969</Phone>
+				<Email>susan.j.h.55303@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Susan Holt]]></Name>
+				<Address1><![CDATA[5860 147th Lane NW]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Ramsey]]></City>
+				<State><![CDATA[MN]]></State>
+				<PostalCode><![CDATA[55303]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>763-323-4969</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[425971]]></OrderID>
+		<OrderNumber><![CDATA[ADAMTVPC]]></OrderNumber>
+		<OrderDate>10/5/2015 12:57 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 12:57 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>mokasi@hotmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Mehdi Okasi]]></Name>
+				<Phone>508-202-2946</Phone>
+				<Email>mokasi@hotmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Mehdi Okasi]]></Name>
+				<Address1><![CDATA[900 West End Avenue]]></Address1>
+				<Address2><![CDATA[Apt 10A]]></Address2>
+				<City><![CDATA[New York]]></City>
+				<State><![CDATA[NY]]></State>
+				<PostalCode><![CDATA[10025]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>508-202-2946</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[443540]]></OrderID>
+		<OrderNumber><![CDATA[KCMZEMEQ]]></OrderNumber>
+		<OrderDate>10/5/2015 12:29 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 12:29 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>cindtwagner333@hotmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[CINDY WAGNER]]></Name>
+				<Phone>309-299-1006</Phone>
+				<Email>cindtwagner333@hotmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[CINDY WAGNER]]></Name>
+				<Address1><![CDATA[117 Lakeview Drive]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[East Galesburg]]></City>
+				<State><![CDATA[IL]]></State>
+				<PostalCode><![CDATA[61430]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>309-299-1006</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[705896]]></OrderID>
+		<OrderNumber><![CDATA[BGPZXAUK]]></OrderNumber>
+		<OrderDate>10/5/2015 3:33 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 3:33 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>nmklm2001@yahoo.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Ynova Vazquez]]></Name>
+				<Phone>281-451-7302</Phone>
+				<Email>nmklm2001@yahoo.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Ynova Vazquez]]></Name>
+				<Address1><![CDATA[9494 Humble Westfield Rd #813]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Humble]]></City>
+				<State><![CDATA[TX]]></State>
+				<PostalCode><![CDATA[77338]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>281-451-7302</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[60.7]]></SKU>
+				<Name><![CDATA[3 pack of whitening pens]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[726678]]></OrderID>
+		<OrderNumber><![CDATA[BNGAAPVG]]></OrderNumber>
+		<OrderDate>10/5/2015 3:56 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 3:56 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>doakley1@comcast.net</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Deborah Oakley]]></Name>
+				<Phone>713-416-0291</Phone>
+				<Email>doakley1@comcast.net</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Deborah Oakley]]></Name>
+				<Address1><![CDATA[1802 Eagle Falls Ct]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Houston]]></City>
+				<State><![CDATA[TX]]></State>
+				<PostalCode><![CDATA[77077]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>713-416-0291</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[739577]]></OrderID>
+		<OrderNumber><![CDATA[HMFKQVRB]]></OrderNumber>
+		<OrderDate>10/5/2015 2:57 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 2:57 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>sharpdrumr@yahoo.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[MATT SHARP]]></Name>
+				<Phone>408-206-3015</Phone>
+				<Email>sharpdrumr@yahoo.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[MATT SHARP]]></Name>
+				<Address1><![CDATA[545 Horning st]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[San Jose]]></City>
+				<State><![CDATA[CA]]></State>
+				<PostalCode><![CDATA[95112]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>408-206-3015</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[844796]]></OrderID>
+		<OrderNumber><![CDATA[JXPDFMNV]]></OrderNumber>
+		<OrderDate>10/5/2015 12:49 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 12:49 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>toijoi28@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Toi Thorpe]]></Name>
+				<Phone>312-287-9010</Phone>
+				<Email>toijoi28@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Toi Thorpe]]></Name>
+				<Address1><![CDATA[16549 s Winchester]]></Address1>
+				<Address2><![CDATA[16549 s Winchester]]></Address2>
+				<City><![CDATA[Markham]]></City>
+				<State><![CDATA[IL]]></State>
+				<PostalCode><![CDATA[60428]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>312-287-9010</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[847400]]></OrderID>
+		<OrderNumber><![CDATA[XJECDPFH]]></OrderNumber>
+		<OrderDate>10/5/2015 1:06 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 1:06 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>m.munoz9@me.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Mary Hernandez]]></Name>
+				<Phone>219-671-4946</Phone>
+				<Email>m.munoz9@me.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Mary Hernandez]]></Name>
+				<Address1><![CDATA[7413 Oakdale Ave]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Hammond]]></City>
+				<State><![CDATA[IN]]></State>
+				<PostalCode><![CDATA[46324]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>219-671-4946</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+</Orders>
+2015-10-05T14:46:05-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 06:34";s:8:"end_date";s:16:"10/06/2015 14:45";s:4:"page";s:1:"1";}
+2015-10-05T14:46:05-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2015-10-05 06:34:00' AND datetime <= '2015-10-06 14:45:00'
+2015-10-05T14:46:07-07:00 INFO (6): <?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+	<Order>
+		<OrderID><![CDATA[43951]]></OrderID>
+		<OrderNumber><![CDATA[9-ms9aaxzh]]></OrderNumber>
+		<OrderDate>10/5/2015 1:36 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 1:36 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>Parisvenice@me.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Tina Davis]]></Name>
+				<Phone>310-962-0962</Phone>
+				<Email>Parisvenice@me.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Tina Davis]]></Name>
+				<Address1><![CDATA[100 Vilaggio ]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Newport Beach]]></City>
+				<State><![CDATA[CA]]></State>
+				<PostalCode><![CDATA[92660]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>310-962-0962</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[114828]]></OrderID>
+		<OrderNumber><![CDATA[24-14oy6r7yf]]></OrderNumber>
+		<OrderDate>10/5/2015 3:11 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 3:11 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>dfjakub@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[donna spector]]></Name>
+				<Phone>917-741-9642</Phone>
+				<Email>dfjakub@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[donna spector]]></Name>
+				<Address1><![CDATA[275 west 96th street apt 30a]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[new york]]></City>
+				<State><![CDATA[NY]]></State>
+				<PostalCode><![CDATA[10025]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>917-741-9642</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.3]]></SKU>
+				<Name><![CDATA[Elite Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[265821]]></OrderID>
+		<OrderNumber><![CDATA[EUYUJTKF]]></OrderNumber>
+		<OrderDate>10/5/2015 4:04 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 4:04 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>Catiehoydic@yahoo.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Catie Hoydic]]></Name>
+				<Phone>770-316-6142</Phone>
+				<Email>Catiehoydic@yahoo.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Catie Hoydic]]></Name>
+				<Address1><![CDATA[1745 Terrace Lake Drive]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Lawrenceville]]></City>
+				<State><![CDATA[GA]]></State>
+				<PostalCode><![CDATA[30043]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>770-316-6142</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.4]]></SKU>
+				<Name><![CDATA[Premium Clear Take Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[278786]]></OrderID>
+		<OrderNumber><![CDATA[KJPHRHKY]]></OrderNumber>
+		<OrderDate>10/5/2015 2:47 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 2:47 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>connellyjs@yahoo.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[James Connelly]]></Name>
+				<Phone>619-549-2652</Phone>
+				<Email>connellyjs@yahoo.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[James Connelly]]></Name>
+				<Address1><![CDATA[8704 Shenandoah Run]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Wesley Chapel]]></City>
+				<State><![CDATA[FL]]></State>
+				<PostalCode><![CDATA[33544]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>619-549-2652</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.4]]></SKU>
+				<Name><![CDATA[Premium Clear Take Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[279011]]></OrderID>
+		<OrderNumber><![CDATA[GFPMPJGP]]></OrderNumber>
+		<OrderDate>10/5/2015 2:43 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 2:43 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>jca5065@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[James Abbott]]></Name>
+				<Phone>484-599-0037</Phone>
+				<Email>jca5065@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[James Abbott]]></Name>
+				<Address1><![CDATA[10800 Brighton Bay Blvd]]></Address1>
+				<Address2><![CDATA[Apt #19207]]></Address2>
+				<City><![CDATA[St. Petersburg]]></City>
+				<State><![CDATA[FL]]></State>
+				<PostalCode><![CDATA[33716]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>484-599-0037</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.4]]></SKU>
+				<Name><![CDATA[Premium Clear Take Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[391360]]></OrderID>
+		<OrderNumber><![CDATA[HNMNZJPA]]></OrderNumber>
+		<OrderDate>10/5/2015 1:33 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 1:33 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>susan.j.h.55303@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Susan Holt]]></Name>
+				<Phone>763-323-4969</Phone>
+				<Email>susan.j.h.55303@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Susan Holt]]></Name>
+				<Address1><![CDATA[5860 147th Lane NW]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Ramsey]]></City>
+				<State><![CDATA[MN]]></State>
+				<PostalCode><![CDATA[55303]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>763-323-4969</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[392661]]></OrderID>
+		<OrderNumber><![CDATA[CJMAZEME]]></OrderNumber>
+		<OrderDate>10/5/2015 2:37 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 2:37 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>susan.j.h.55303@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Susan Holt]]></Name>
+				<Phone>763-323-4969</Phone>
+				<Email>susan.j.h.55303@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Susan Holt]]></Name>
+				<Address1><![CDATA[5860 147th Lane NW]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Ramsey]]></City>
+				<State><![CDATA[MN]]></State>
+				<PostalCode><![CDATA[55303]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>763-323-4969</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[425971]]></OrderID>
+		<OrderNumber><![CDATA[ADAMTVPC]]></OrderNumber>
+		<OrderDate>10/5/2015 12:57 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 12:57 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>mokasi@hotmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Mehdi Okasi]]></Name>
+				<Phone>508-202-2946</Phone>
+				<Email>mokasi@hotmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Mehdi Okasi]]></Name>
+				<Address1><![CDATA[900 West End Avenue]]></Address1>
+				<Address2><![CDATA[Apt 10A]]></Address2>
+				<City><![CDATA[New York]]></City>
+				<State><![CDATA[NY]]></State>
+				<PostalCode><![CDATA[10025]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>508-202-2946</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[443540]]></OrderID>
+		<OrderNumber><![CDATA[KCMZEMEQ]]></OrderNumber>
+		<OrderDate>10/5/2015 12:29 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 12:29 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>cindtwagner333@hotmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[CINDY WAGNER]]></Name>
+				<Phone>309-299-1006</Phone>
+				<Email>cindtwagner333@hotmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[CINDY WAGNER]]></Name>
+				<Address1><![CDATA[117 Lakeview Drive]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[East Galesburg]]></City>
+				<State><![CDATA[IL]]></State>
+				<PostalCode><![CDATA[61430]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>309-299-1006</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[705896]]></OrderID>
+		<OrderNumber><![CDATA[BGPZXAUK]]></OrderNumber>
+		<OrderDate>10/5/2015 3:33 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 3:33 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>nmklm2001@yahoo.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Ynova Vazquez]]></Name>
+				<Phone>281-451-7302</Phone>
+				<Email>nmklm2001@yahoo.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Ynova Vazquez]]></Name>
+				<Address1><![CDATA[9494 Humble Westfield Rd #813]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Humble]]></City>
+				<State><![CDATA[TX]]></State>
+				<PostalCode><![CDATA[77338]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>281-451-7302</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[60.7]]></SKU>
+				<Name><![CDATA[3 pack of whitening pens]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[726678]]></OrderID>
+		<OrderNumber><![CDATA[BNGAAPVG]]></OrderNumber>
+		<OrderDate>10/5/2015 3:56 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 3:56 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>doakley1@comcast.net</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Deborah Oakley]]></Name>
+				<Phone>713-416-0291</Phone>
+				<Email>doakley1@comcast.net</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Deborah Oakley]]></Name>
+				<Address1><![CDATA[1802 Eagle Falls Ct]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Houston]]></City>
+				<State><![CDATA[TX]]></State>
+				<PostalCode><![CDATA[77077]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>713-416-0291</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[739577]]></OrderID>
+		<OrderNumber><![CDATA[HMFKQVRB]]></OrderNumber>
+		<OrderDate>10/5/2015 2:57 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 2:57 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>sharpdrumr@yahoo.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[MATT SHARP]]></Name>
+				<Phone>408-206-3015</Phone>
+				<Email>sharpdrumr@yahoo.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[MATT SHARP]]></Name>
+				<Address1><![CDATA[545 Horning st]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[San Jose]]></City>
+				<State><![CDATA[CA]]></State>
+				<PostalCode><![CDATA[95112]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>408-206-3015</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[844796]]></OrderID>
+		<OrderNumber><![CDATA[JXPDFMNV]]></OrderNumber>
+		<OrderDate>10/5/2015 12:49 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 12:49 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>toijoi28@gmail.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Toi Thorpe]]></Name>
+				<Phone>312-287-9010</Phone>
+				<Email>toijoi28@gmail.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Toi Thorpe]]></Name>
+				<Address1><![CDATA[16549 s Winchester]]></Address1>
+				<Address2><![CDATA[16549 s Winchester]]></Address2>
+				<City><![CDATA[Markham]]></City>
+				<State><![CDATA[IL]]></State>
+				<PostalCode><![CDATA[60428]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>312-287-9010</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+	<Order>
+		<OrderID><![CDATA[847400]]></OrderID>
+		<OrderNumber><![CDATA[XJECDPFH]]></OrderNumber>
+		<OrderDate>10/5/2015 1:06 PM</OrderDate>
+		<OrderStatus><![CDATA[paid]]></OrderStatus>
+		<LastModified>10/5/2015 1:06 PM</LastModified>
+		<ShippingMethod><![CDATA[Smartmail Parcels Ground]]></ShippingMethod>
+		<OrderTotal>0</OrderTotal>
+		<ShippingAmount>0</ShippingAmount>
+		<CustomField1><![CDATA[WSC]]></CustomField1>
+		<Source><![CDATA[WSC]]></Source>
+		<Customer>
+			<CustomerCode>m.munoz9@me.com</CustomerCode>
+			<BillTo>
+				<Name><![CDATA[Mary Hernandez]]></Name>
+				<Phone>219-671-4946</Phone>
+				<Email>m.munoz9@me.com</Email>
+			</BillTo>
+			<ShipTo>
+				<Name><![CDATA[Mary Hernandez]]></Name>
+				<Address1><![CDATA[7413 Oakdale Ave]]></Address1>
+				<Address2><![CDATA[]]></Address2>
+				<City><![CDATA[Hammond]]></City>
+				<State><![CDATA[IN]]></State>
+				<PostalCode><![CDATA[46324]]></PostalCode>
+				<Country><![CDATA[US]]></Country>
+				<Phone>219-671-4946</Phone>
+			</ShipTo>
+		</Customer>
+		<Items>
+			<Item>
+				<SKU><![CDATA[8.2.3]]></SKU>
+				<Name><![CDATA[Premium Take-Home Kit]]></Name>
+				<Quantity>1</Quantity>
+				<UnitPrice>0</UnitPrice>
+			</Item>
+		</Items>
+	</Order>
+</Orders>
+2015-10-05T14:54:30-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"10/05/2015 06:46";s:8:"end_date";s:16:"10/06/2015 14:54";s:4:"page";s:1:"1";}
+2015-10-05T14:54:30-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2015-10-05 06:46:00' AND datetime <= '2015-10-06 14:54:00'
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"AAAKGGNT";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068076";}
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"FZJEDFKW";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068199";}
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"JHWPWPRW";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068021";}
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"KPEDBJRA";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068045";}
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"JGKBPTBW";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068182";}
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"HFXTEGPJ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068168";}
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"AJVZJEXT";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068144";}
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"ZVFUZNXN";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068113";}
+2015-10-05T20:00:09-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:12:"26-19bykxkga";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068175";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"GUCKAQJW";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068090";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:12:"21-19ks87te9";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068151";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:11:"9-19xwb2lb3";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068038";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"WFYAGKNY";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068120";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"FUVMWTNQ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068083";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"RFQDGEMF";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068137";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"FHAMJSKP";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068106";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"ZVHMBPCZ";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068748";}
+2015-10-05T20:00:10-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"UMWUNEXK";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068069";}
+2015-10-05T20:00:11-07:00 INFO (6): a:7:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:11:"16-625gt0mt";s:7:"carrier";s:4:"USPS";s:7:"service";s:24:"Smartmail Parcels Ground";s:15:"tracking_number";s:22:"9274899990964800068052";}

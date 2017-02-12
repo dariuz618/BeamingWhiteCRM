@@ -1,0 +1,35 @@
+2016-06-29T08:22:59-07:00 INFO (6): Erika Rose--a:2:{s:13:"resale_number";s:26:"443-239-7630 - Work Number";s:7:"user_id";s:5:"11112";}
+2016-06-29T08:47:04-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16579";}
+2016-06-29T09:29:32-07:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:5:"Other";s:7:"user_id";s:5:"16714";}
+2016-06-29T09:29:43-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:16:"Las Vegas 6/2016";s:7:"user_id";s:5:"16714";}
+2016-06-29T09:31:03-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16714";}
+2016-06-29T09:46:29-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:436:"ADVANCED KITS 16% HP 1.2.2 @ $3.50 PRE-FILLED TRAY KIT 36% CP 4.1 @ $3.00 DLX KITS/PREMIUM BAGS **GENERIC 36% 8.2.1 @ $8.00 MINERAL PEN 60.6 @ $3.25 FW TOUCH UP PEN 60.1 @ $2.00 CASE 61.1 @ $72.00 10ML SYRINGE 70.5 @ $2.50 LARGE RED GOGGLES #12330 @ $6.00 LCR CHEEK RETRACTORS #7030 @ $0.75 FINGER WIPE #9030 @ $0.13
+VITAMIN E-SWAB #12560 @ $0.10
+BIB #12470 @ $0.13
+DLX KITS ARE GENERIC, EVERYTHING ELSE BRANDED
+R-20 Shade Guide @$60.00";s:7:"user_id";s:3:"101";}
+2016-06-29T10:00:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16693";}
+2016-06-29T10:00:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16693";}
+2016-06-29T10:05:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16693";}
+2016-06-29T10:23:38-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:69:"Ordered Mobile Option #1 (No Chair)
+SIGNATURE REQUIRED FOR ALL ORDERS";s:7:"user_id";s:5:"11479";}
+2016-06-29T10:51:15-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:5:"Soler";s:7:"user_id";s:5:"16703";}
+2016-06-29T10:51:31-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Emma Soler";s:7:"user_id";s:5:"16703";}
+2016-06-29T10:51:35-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Emma Soler";s:7:"user_id";s:5:"16703";}
+2016-06-29T10:54:59-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:25:"2601 Boundbrook Blvd #114";s:7:"user_id";s:5:"16703";}
+2016-06-29T10:55:01-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"33406";s:7:"user_id";s:5:"16703";}
+2016-06-29T11:19:27-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"615-216-6045";s:7:"user_id";s:5:"16716";}
+2016-06-29T13:44:46-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16685";}
+2016-06-29T13:57:28-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:28:"subrosahelaingarts@gmail.com";s:7:"user_id";s:5:"16685";}
+2016-06-29T13:58:06-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:28:"subrosahealingarts@gmail.com";s:7:"user_id";s:5:"16685";}
+2016-06-29T14:04:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16685";}
+2016-06-29T14:21:52-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:62:"http://heckyaa.com/fl/tampa/subrosa-heaing-arts-tampa-fl-33634";s:7:"user_id";s:5:"16685";}
+2016-06-29T15:35:04-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:18:"Advanced Cosmetics";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:20:"2727 Nacogdoches Rd.";s:8:"address2";s:0:"";s:4:"city";s:11:"San Antonio";s:5:"state";s:2:"TX";s:3:"zip";s:5:"78217";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"210-824-2750";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:7:"Belinda";s:8:"lastname";s:6:"Fallon";s:12:"contactphone";s:12:"210-824-2750";s:5:"email";s:29:"advancedcosmetics@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:13:"IBS Las Vegas";s:4:"type";s:7:"Account";s:8:"password";s:40:"a23a00bc2eb67a3f9d8020dcd50db55249bbc04f";s:8:"username";s:18:"Advanced Cosmetics";s:12:"created_time";s:19:"2016-06-29 15:35:04";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"85df678ddb316a6aa36a057aef0ced63";}
+2016-06-29T15:40:30-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:13:"Salud Natural";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:17:"14075 Buckner Dr.";s:8:"address2";s:0:"";s:4:"city";s:8:"San Jose";s:5:"state";s:2:"CA";s:3:"zip";s:5:"95027";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"408-259-9607";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:7:"Roberto";s:8:"lastname";s:5:"Tapia";s:12:"contactphone";s:12:"408-259-9607";s:5:"email";s:25:"robertootapia@comcast.net";s:13:"contactphone2";s:18:"Cell- 408-509-2091";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:18:"IBS Las Vegas 2016";s:4:"type";s:7:"Account";s:8:"password";s:40:"f743ca2f108923f029f33a563769dc5053f5b07f";s:8:"username";s:13:"Salud Natural";s:12:"created_time";s:19:"2016-06-29 15:40:29";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"09e5e5abc4388ce5c557090a161dce9e";}
+2016-06-29T15:47:50-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:14:"Textures Salon";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:6:"Cliona";s:8:"address1";s:18:"11297 Golf Link Rd";s:8:"address2";s:0:"";s:4:"city";s:7:"Turlock";s:5:"state";s:2:"CA";s:3:"zip";s:5:"95380";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"209-664-0498";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:6:"Carrie";s:8:"lastname";s:5:"Dempe";s:12:"contactphone";s:12:"209-664-0498";s:5:"email";s:17:"turlockhs@aol.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:25:"Las Vegas Trade Show 2016";s:4:"type";s:7:"Account";s:8:"password";s:40:"57a79ab8e02fc23952ce8c309e1d6d2247243142";s:8:"username";s:14:"Textures Salon";s:12:"created_time";s:19:"2016-06-29 15:47:50";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"0d71cfae8a77820a1cc66d2141b3dfa0";}
+2016-06-29T16:21:36-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16718";}
+2016-06-29T16:21:49-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16685";}
+2016-06-29T16:36:48-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:30:"Mobile Laser Clinical Services";s:7:"user_id";s:5:"10840";}
+2016-06-29T17:07:03-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:15:"566 N. State Rd";s:7:"user_id";s:5:"10976";}
+2016-06-29T17:07:15-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"10510";s:7:"user_id";s:5:"10976";}
+2016-06-29T17:07:22-07:00 INFO (6): Stephanie Brown--a:2:{s:4:"city";s:10:"Briarcliss";s:7:"user_id";s:5:"10976";}

@@ -1,0 +1,96 @@
+2016-08-26T09:09:19-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:74:"Shipping Address: 
+4-7-6, shinkashiwa, kashiwa-shi, chiba, 277-0084, Japan";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:09:30-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"04-7165-0101";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:09:49-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:55:"4-7-6, shinkashiwa, kashiwa-shi, chiba, 277-0084, Japan";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:09:54-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:48:"4-7-6, shinkashiwa, kashiwa-shi, chiba, 277-0084";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:10:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:38:"4-7-6, shinkashiwa, kashiwa-shi, chiba";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:10:08-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:8:"277-0084";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:10:29-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"CH";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:10:37-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:20:"4-7-6, shinkashiwa, ";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:10:42-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:"Kashiwa-shi";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:10:50-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"4-7-6, Shinkashiwa";s:7:"user_id";s:5:"17245";}
+2016-08-26T09:35:55-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:11:"Albuquerque";s:7:"user_id";s:5:"16134";}
+2016-08-26T09:43:37-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16134";}
+2016-08-26T10:24:23-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"10010";}
+2016-08-26T10:39:42-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:33:"Nurgul (female) and husband Marat";s:7:"user_id";s:5:"16977";}
+2016-08-26T10:43:01-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"25 West 31st Street";s:7:"user_id";s:5:"10010";}
+2016-08-26T10:43:24-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"10010";}
+2016-08-26T10:43:33-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:8:"New York";s:7:"user_id";s:5:"10010";}
+2016-08-26T10:43:35-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NE";s:7:"user_id";s:5:"10010";}
+2016-08-26T10:43:38-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"10010";}
+2016-08-26T10:43:39-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"10001";s:7:"user_id";s:5:"10010";}
+2016-08-26T11:26:28-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16974";}
+2016-08-26T11:28:57-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"16134";}
+2016-08-26T12:28:10-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:214:"Pricing for 200-1000 units: Deluxe Take Home Kit: $11.00 each 
+Forever White Pen 2mL: $6.50 each 
+Forever White XL Pen 4mL: $8.50 each 
+Daily White Fusion Foam: $5.00 each 
+Minerals Enamel Booster Pen: $5.00 each 
+";s:7:"user_id";s:5:"16617";}
+2016-08-26T12:28:20-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:215:"Pricing for 200-1000 units: 
+Deluxe Take Home Kit: $11.00 each 
+Forever White Pen 2mL: $6.50 each 
+Forever White XL Pen 4mL: $8.50 each 
+Daily White Fusion Foam: $5.00 each 
+Minerals Enamel Booster Pen: $5.00 each 
+";s:7:"user_id";s:5:"16617";}
+2016-08-26T12:36:06-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17127";}
+2016-08-26T12:36:08-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17127";}
+2016-08-26T12:43:26-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:125:"AK: 
+1-9: $15
+10-24: $13.50 
+25-49: $12.50 
+50+: $11.50 
+Preloaded Kit: 
+1-9: $14 
+10-24: $12.50
+25-49: $11.50 
+50+: $10.50 
+";s:7:"user_id";s:5:"17040";}
+2016-08-26T12:43:32-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:126:"AK: 
+1-9: $15
+10-24: $13.50 
+25-49: $12.50 
+50+: $11.50 
+
+Preloaded Kit: 
+1-9: $14 
+10-24: $12.50
+25-49: $11.50 
+50+: $10.50 
+";s:7:"user_id";s:5:"17040";}
+2016-08-26T12:45:59-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17248";}
+2016-08-26T12:54:01-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"CONSUMER";s:7:"user_id";s:5:"17248";}
+2016-08-26T13:56:19-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:23:"Traditional kits $8 ea
+";s:7:"user_id";s:5:"11167";}
+2016-08-26T14:20:13-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17287";}
+2016-08-26T14:34:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17287";}
+2016-08-26T14:37:50-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:37:"Sisters Dental Office: Salazar Dental";s:7:"user_id";s:5:"17287";}
+2016-08-26T14:50:22-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:12:"Amie Slusser";s:7:"user_id";s:5:"17217";}
+2016-08-26T14:50:27-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:16:"Dad: Paul Ellett";s:7:"user_id";s:5:"17217";}
+2016-08-26T15:04:39-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17285";}
+2016-08-26T15:12:45-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Kernevia";s:7:"user_id";s:5:"11246";}
+2016-08-26T15:12:50-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Kernevia House";s:7:"user_id";s:5:"11246";}
+2016-08-26T15:12:52-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Kernevia House";s:7:"user_id";s:5:"11246";}
+2016-08-26T15:15:03-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Ronald Brid";s:7:"user_id";s:5:"17298";}
+2016-08-26T15:15:12-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Ronald Brid";s:7:"user_id";s:5:"17298";}
+2016-08-26T15:31:33-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17298";}
+2016-08-26T15:40:10-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:132:"Deluxe Kits: 
+1-9: $22.00
+10-24: $18.50 
+25-49: $17.50 
+50+: $16.50 
+
+2mL HP Pen: 
+1-9: $10.00
+10-24: $9.00
+25-49: $8.00
+50+: $7.00 ";s:7:"user_id";s:5:"11900";}
+2016-08-26T16:18:55-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:26:"Eric B Fromer Chiropractic";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:4:"Eric";s:8:"lastname";s:6:"Fromer";s:12:"contactphone";s:12:"323-407-6005";s:5:"email";s:16:"fromerdc@aol.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"c282b7684c976e5cf8726676152873d6f33ca877";s:8:"username";s:26:"Eric B Fromer Chiropractic";s:12:"created_time";s:19:"2016-08-26 16:18:55";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"d4b0bffc425cb7821036d72b3c0b2f19";}
+2016-08-26T16:19:46-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17300";}
+2016-08-26T16:20:51-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17300";}
+2016-08-26T16:38:27-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:18:"2529 SW 11th Court";s:7:"user_id";s:5:"16166";}
+2016-08-26T16:38:32-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"33914";s:7:"user_id";s:5:"16166";}
+2016-08-26T17:00:00-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:40:"http://chirohollywood.com/contact-us.php";s:7:"user_id";s:5:"17300";}
+2016-08-26T17:19:09-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16166";}
+2016-08-26T17:20:47-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17217";}

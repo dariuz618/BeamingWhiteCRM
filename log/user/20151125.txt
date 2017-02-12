@@ -1,0 +1,50 @@
+2015-11-25T08:30:38-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:4:"9647";}
+2015-11-25T08:30:52-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:7:"Pending";s:7:"user_id";s:4:"9647";}
+2015-11-25T08:30:54-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:4:"9647";}
+2015-11-25T08:31:36-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"14719";}
+2015-11-25T08:31:36-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14719";}
+2015-11-25T08:40:55-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:9:"Rita Hall";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Rita";s:8:"lastname";s:4:"Hall";s:12:"contactphone";s:0:"";s:5:"email";s:21:"jeneehall33@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"bab877c1a1c45bb42c493f4a53829f35d8ff2bfd";s:8:"username";s:9:"Rita Hall";s:12:"created_time";s:19:"2015-11-25 08:40:55";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"e1222b67475cf2d2ea51bfa665701036";}
+2015-11-25T08:41:03-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14723";}
+2015-11-25T08:41:07-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14723";}
+2015-11-25T08:44:20-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"706-373-7771";s:7:"user_id";s:5:"14723";}
+2015-11-25T09:26:49-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14722";}
+2015-11-25T09:26:53-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:7:"Keydent";s:7:"user_id";s:5:"14722";}
+2015-11-25T09:27:00-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:21:"Keydent Establishment";s:7:"user_id";s:5:"14722";}
+2015-11-25T09:27:02-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:21:"Keydent Establishment";s:7:"user_id";s:5:"14722";}
+2015-11-25T09:31:40-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:302:"Based in Torronto but runs a textile business in India. Says the beauty industry there is EXPLODING!!! He currently had warehoused and a call center there as well as contacts in the spa, salon, and make up artist industry. Would like products shipped direct to India and he will distribute from there. ";s:7:"user_id";s:5:"14712";}
+2015-11-25T09:39:19-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:82:"http://www.keydent.net/index.php?option=com_content&view=article&id=140&Itemid=172";s:7:"user_id";s:5:"14722";}
+2015-11-25T09:48:49-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14713";}
+2015-11-25T09:58:22-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:13:" 416-618-2843";s:7:"user_id";s:5:"12443";}
+2015-11-25T10:30:26-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11642";}
+2015-11-25T10:30:57-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11642";}
+2015-11-25T10:37:09-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14714";}
+2015-11-25T10:37:25-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14588";}
+2015-11-25T10:57:10-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:17:"jprayjr@gmail.com";s:7:"user_id";s:4:"2901";}
+2015-11-25T11:27:18-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:10:"Jas (Jazz)";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AB";s:3:"zip";s:0:"";s:7:"country";s:2:"CA";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:10:"Jas (jazz)";s:8:"lastname";s:10:"Jas (jazz)";s:12:"contactphone";s:0:"";s:5:"email";s:23:"jdhaliwal2585@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"56415d341ab3f875077ce20f55fbf6feceb8c176";s:8:"username";s:10:"Jas (Jazz)";s:12:"created_time";s:19:"2015-11-25 11:27:18";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"2b3a1aaefceea7c00ad0dd7bef5e42e5";}
+2015-11-25T11:27:27-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14724";}
+2015-11-25T11:27:41-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14724";}
+2015-11-25T11:27:43-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14724";}
+2015-11-25T11:27:46-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14724";}
+2015-11-25T11:28:40-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"416-655-9272";s:7:"user_id";s:5:"14724";}
+2015-11-25T11:28:44-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"416-655-9272";s:7:"user_id";s:5:"14724";}
+2015-11-25T11:28:46-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"416-655-9272";s:7:"user_id";s:5:"14724";}
+2015-11-25T11:29:15-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Toronto";s:7:"user_id";s:5:"14724";}
+2015-11-25T11:38:11-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"985-956-0748";s:7:"user_id";s:5:"14721";}
+2015-11-25T11:38:49-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14721";}
+2015-11-25T12:14:51-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14717";}
+2015-11-25T12:14:54-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"14717";}
+2015-11-25T12:14:59-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14717";}
+2015-11-25T12:21:00-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11223";}
+2015-11-25T12:26:28-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"11223";}
+2015-11-25T12:50:27-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:12:"Jackie Ortiz";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Jackie";s:8:"lastname";s:5:"Ortiz";s:12:"contactphone";s:12:"914-246-0844";s:5:"email";s:16:"jsortiz@live.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"e7630e660e28e66d1b0e87971bd46129e013d280";s:8:"username";s:12:"Jackie Ortiz";s:12:"created_time";s:19:"2015-11-25 12:50:27";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"2b0cc0ec665a2ef8c902dab900b9c900";}
+2015-11-25T12:51:28-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:129:"Jackie is going into business with her friend Patricia who is in school to become a cosmetologist. They hope to open Dec or Jan. ";s:7:"user_id";s:5:"14727";}
+2015-11-25T12:51:38-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:19:"No schooling needed";s:7:"user_id";s:5:"14727";}
+2015-11-25T12:52:45-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:198:"Jackie is going into business with her friend Patricia who is in school to become a cosmetologist. They hope to open Dec or Jan. Jackie will be paying for her package but needs Patricia's approval? ";s:7:"user_id";s:5:"14727";}
+2015-11-25T13:11:44-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:13:"***GENERIC**
+";s:7:"user_id";s:5:"11468";}
+2015-11-25T13:31:10-08:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:18:"apuntiel@yahoo.com";s:7:"user_id";s:5:"14717";}
+2015-11-25T13:35:01-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:122:"They want to start in Jan 2016. Have no $$$ with Christmas coming up. Offered the holiday special if they buy before Dec. ";s:7:"user_id";s:5:"14717";}
+2015-11-25T13:35:45-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14717";}
+2015-11-25T13:35:49-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14717";}
+2015-11-25T15:17:36-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:16:"345 N 8th Street";s:7:"user_id";s:5:"13101";}
+2015-11-25T15:17:48-08:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:12:"Grover Beach";s:7:"user_id";s:5:"13101";}

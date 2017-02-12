@@ -1,0 +1,41 @@
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Internal File Sharing System</h1>
+    </div>
+</div>
+
+
+<div class="bs-callout bs-callout-info">
+<h4>Welcome to the Beaming White Internal File Sharing System. <br>
+    </h4>
+<p>Please follow these guidelines when using this system:</p>
+<p>Only authorized BW personnel may access this section.</p>
+
+<p>Only upload the most recent and approved version of a file; so remove the expired file if you are uploading a more recent version. Older versions can still be accessed by contacting Graphics.</p>
+
+<p>Following BW File Naming SOPs. You can find them in the SOPs category.</p>
+<p>Be sure to upload files to the appropriate category and if the category does not exist, create a new category or sub-category only if authorized.</p>
+
+</div>
+
+
+<div class="col-lg-4">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <h4>Shared Files</h4>
+        </div>
+        <div class="panel-body">
+        <? foreach ($this->categories as $category): ?>            
+                <p><a href="/fm/file-list/id/<?= $category['category_id'] ?>">  <?= ucwords($category['name']) ?></a></p>           
+        <? endforeach; ?>
+        </div>
+    </div>
+</div>
+ <? if(Zend_Auth::getInstance()->getIdentity() && Zend_Auth::getInstance()->getIdentity()->file_level > 2):?> 
+<div class="col-lg-6">
+    <? if(Zend_Auth::getInstance()->getIdentity()->file_level > 3):?>
+    <a class="btn btn-outline btn-primary btn-lg" type="button" href="/fm/category">Manage Categories</a> <br><br>
+    <? endif; ?>
+    <a class="btn btn-outline btn-primary btn-lg" type="button" href="/fm/upload">Upload Files</a>
+</div>
+<?endif;?>

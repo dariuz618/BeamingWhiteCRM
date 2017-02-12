@@ -1,0 +1,74 @@
+2016-09-08T08:35:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16072";}
+2016-09-08T08:49:16-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16072";}
+2016-09-08T09:01:32-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17272";}
+2016-09-08T09:06:06-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:21:"+ 44 (0) 7530 428 972";s:7:"user_id";s:5:"17417";}
+2016-09-08T09:06:24-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:18:"+44 0 7530 428 972";s:7:"user_id";s:5:"17417";}
+2016-09-08T09:06:29-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17417";}
+2016-09-08T09:09:03-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"21 Foley Street";s:7:"user_id";s:5:"17417";}
+2016-09-08T09:09:13-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:9:"Fitzrovia";s:7:"user_id";s:5:"17417";}
+2016-09-08T09:09:21-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:6:"London";s:7:"user_id";s:5:"17417";}
+2016-09-08T09:09:27-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:7:"W1W 6DR";s:7:"user_id";s:5:"17417";}
+2016-09-08T09:09:41-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:26:"http://www.pfeffersal.com/";s:7:"user_id";s:5:"17417";}
+2016-09-08T09:13:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17284";}
+2016-09-08T09:37:42-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Aolani Resources";s:7:"user_id";s:5:"17405";}
+2016-09-08T09:37:55-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:24:"Aolani Resources - Salju";s:7:"user_id";s:5:"17405";}
+2016-09-08T09:42:55-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"+60102255789";s:7:"user_id";s:5:"17405";}
+2016-09-08T10:20:55-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:44:"5:00pm for us us 8:00am for them (tomorrow).";s:7:"user_id";s:5:"17405";}
+2016-09-08T10:22:11-07:00 INFO (6): Cory Nielsen--a:2:{s:9:"firstname";s:4:"Rene";s:7:"user_id";s:4:"2769";}
+2016-09-08T10:23:00-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:119:"4:00pm for us is 8:00am for them (tomorrow).
+Shipping Address: 
+4-7-6, shinkashiwa, kashiwa-shi, chiba, 277-0084, Japan";s:7:"user_id";s:5:"17245";}
+2016-09-08T10:23:10-07:00 INFO (6): Cory Nielsen--a:2:{s:8:"username";s:13:"Rene Martinez";s:7:"user_id";s:4:"2769";}
+2016-09-08T10:38:45-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Sara";s:7:"user_id";s:5:"17427";}
+2016-09-08T10:38:52-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Sara El-cheikh";s:7:"user_id";s:5:"17427";}
+2016-09-08T10:38:55-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Sara El-cheikh";s:7:"user_id";s:5:"17427";}
+2016-09-08T10:40:43-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"305-371-0016";s:7:"user_id";s:5:"17431";}
+2016-09-08T10:41:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:14:"1-473-535-2069";s:7:"user_id";s:5:"17431";}
+2016-09-08T10:42:54-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"17431";}
+2016-09-08T10:46:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17431";}
+2016-09-08T10:49:49-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"473-435-2157";s:7:"user_id";s:5:"17431";}
+2016-09-08T10:49:58-07:00 INFO (6): Felisha Monahan--a:2:{s:5:"email";s:27:"gloryhair_sheneka@yahoo.com";s:7:"user_id";s:5:"15157";}
+2016-09-08T10:50:39-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:120:"https://www.facebook.com/pg/Evolution-Beauty-Concept-849789781832905/about/?entry_point=page_nav_about_item&tab=overview";s:7:"user_id";s:5:"17431";}
+2016-09-08T10:52:21-07:00 INFO (6): Felisha Monahan--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15157";}
+2016-09-08T10:52:32-07:00 INFO (6): Felisha Monahan--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15157";}
+2016-09-08T11:01:34-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:80:"2016 pricing:
+10ml CP syringes: $4.50
+Cheek Retractors: $1.25
+Syringe Tips:$0.20";s:7:"user_id";s:4:"1358";}
+2016-09-08T11:07:30-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17427";}
+2016-09-08T11:36:54-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"876-850-2101";s:7:"user_id";s:4:"9470";}
+2016-09-08T11:37:50-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Denise";s:7:"user_id";s:4:"9470";}
+2016-09-08T11:37:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Denise Rose";s:7:"user_id";s:4:"9470";}
+2016-09-08T11:40:33-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:4:"9470";}
+2016-09-08T11:56:10-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17431";}
+2016-09-08T12:29:00-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17285";}
+2016-09-08T12:31:22-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:28:"rhonda@beingbeautifulyou.com";s:7:"user_id";s:5:"16423";}
+2016-09-08T12:46:40-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:33:"http://www.firsteastcircular.com/";s:7:"user_id";s:5:"17271";}
+2016-09-08T13:14:10-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:20:"lovelash15@yahoo.com";s:7:"user_id";s:5:"12629";}
+2016-09-08T13:17:27-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:17:"1295 W Spring St.";s:7:"user_id";s:5:"12629";}
+2016-09-08T13:17:32-07:00 INFO (6): Stephanie Brown--a:2:{s:4:"city";s:6:"Smyrna";s:7:"user_id";s:5:"12629";}
+2016-09-08T13:17:39-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"30080";s:7:"user_id";s:5:"12629";}
+2016-09-08T13:38:08-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:22:"noralopez393@yahoo.com";s:7:"user_id";s:5:"15362";}
+2016-09-08T14:04:24-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:29:"inversionesdentales@gmail.com";s:7:"user_id";s:5:"17349";}
+2016-09-08T14:06:45-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17431";}
+2016-09-08T14:06:54-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"473-535-2069";s:7:"user_id";s:5:"17431";}
+2016-09-08T14:32:12-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:22:"deniserose81@yahoo.com";s:7:"user_id";s:5:"17431";}
+2016-09-08T14:32:17-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:22:"ebcsalon2016@gmail.com";s:7:"user_id";s:4:"9470";}
+2016-09-08T14:33:09-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:25:"Evolution Beauty Concept ";s:7:"user_id";s:4:"9470";}
+2016-09-08T14:41:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:4:"9470";}
+2016-09-08T14:41:33-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17431";}
+2016-09-08T15:10:21-07:00 INFO (6): Felisha Monahan--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"15181";}
+2016-09-08T15:43:02-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:4:"3142";}
+2016-09-08T15:56:30-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17431";}
+2016-09-08T15:57:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:4:"9470";}
+2016-09-08T16:08:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17328";}
+2016-09-08T16:14:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17226";}
+2016-09-08T16:28:49-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:16:"44 Caraway Court";s:7:"user_id";s:5:"16072";}
+2016-09-08T16:28:57-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"UG";s:7:"user_id";s:5:"16072";}
+2016-09-08T16:29:00-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"16072";}
+2016-09-08T16:29:02-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"28326";s:7:"user_id";s:5:"16072";}
+2016-09-08T16:29:05-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NE";s:7:"user_id";s:5:"16072";}
+2016-09-08T16:29:10-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NC";s:7:"user_id";s:5:"16072";}
+2016-09-08T16:41:22-07:00 INFO (6): Stephanie Brown--a:2:{s:9:"firstname";s:7:"Anthony";s:7:"user_id";s:4:"2707";}
+2016-09-08T16:41:29-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"lastname";s:7:"Bradley";s:7:"user_id";s:4:"2707";}
+2016-09-08T16:41:38-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:21:"abradley20k@gmail.com";s:7:"user_id";s:4:"2707";}

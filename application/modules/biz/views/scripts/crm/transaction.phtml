@@ -1,0 +1,315 @@
+<?
+    $id = $this->user['id'];
+    $link_param = "/id/".$id;    
+?>
+
+<head>    
+    <!--link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">    
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script--> 
+    <link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/css/jqueryui-editable.css" rel="stylesheet"/>
+    <link href="/public/css/jquery.datetimepicker.css" rel="stylesheet" />
+	<script src="/public/js/jquery/jquery.datetimepicker.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/js/jqueryui-editable.min.js"></script> 
+    <script src="/public/js/jquery/jquery-editable-poshytip.js"></script>    
+   	
+</head>
+
+
+<div class="row">                    
+	<form name="transaction_form" id="transaction_form" method="post" enctype="multipart/form-data">		
+		<div class="row">
+			<div class="col-sm-12 col-xs-12 customer-detail-col">
+				<div class="panel panel-primary customer-detail-panel">
+					<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Transaction</div>
+					<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+						 <fieldset>
+                            <div class="form-group col-lg-3">
+                                <label for="transaction_card_number">Card Number</label>
+                                <input class="form-control" required placeholder="Card Number" name="transaction_card_number"  id="transaction_card_number" type="text" autofocus>
+                            </div>
+                             <div class="form-group col-lg-3">
+								 <label for="transaction_amount" class="control-label">Amount</label> 
+									 <div class="input-group">
+										 <span class="input-group-addon">$</span>                                      
+										 <input class="form-control" required placeholder="Amount"  id="transaction_amount" name="transaction_amount" type="text" value="">
+									 </div>
+                           </div>
+                            <div class="form-group col-lg-3" id="expense">
+                                <label for="edate">CVV</label>
+                                <input type="text" class="customer-detail-field customer-detail-font"  name="transaction_cvv" id="transaction_cvv" size="20" value="">
+								
+                           </div>
+                           <div class="form-group col-lg-3" id="expense">
+                                <label for="edate">Expires</label>
+                                <input type="text" class="datetimePicker1 customer-detail-image-field customer-detail-field customer-detail-font"  name="transaction_card_expire" id="transaction_card_expire" size="20" value="<?php echo date("m-Y");?>">
+								
+                           </div>
+                           <div class="form-group col-lg-12 clearbothh">
+                                 <label for="transaction_description">Description</label>
+                                <textarea name="transaction_description" id="transaction_description"" class="form-control"></textarea>
+                           </div>                             
+                           <div class="form-group col-lg-12" align="center">
+                           		<button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  type="button" id="send_btn" name="send_btn">Send</button>
+                           	
+                           </div>                             
+                        </fieldset>
+							
+					</div>
+				
+				</div>			
+			</div>		
+			
+		</div>
+		
+	
+	</form>
+</div>
+<br>
+<div class="row">
+	<div class="col-sm-12 customer-detail-col">
+        <div class="panel panel-primary customer-detail-panel">
+        	<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Transaction Log</div>
+			<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">				       	           		
+            	<div class="table-responsive">
+                    <table class="table table-striped table-hover">
+                        <thead>
+                            <tr>
+                            	<th>Card Number</th>
+                                <th>Amount</th>
+                                <th>CVV</th>
+                                <th>Expires</th>
+                                <th>Description</th>
+                                <th>By</th>	                                
+                                <th>Date</th>	                                
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                        	<?php		
+							if (!empty($this->transactions))
+							{
+								foreach ($this->transactions as $key => $transaction)
+								{																
+								?>
+									<tr>									
+										<td><?= $transaction['card_number'] ?></td>
+										<td><?= '$'.$transaction['amount'] ?></td>
+										<td><?= $transaction['cvv'] ?></td>
+										<td><?= $transaction['expires'] ?></td>
+										<td><?= $transaction['description'] ?></td>								
+										<td><?= $transaction['sold_by'] ?></td>	
+										<td><?= $transaction['transaction_date']?date('m/d/Y g:i A', strtotime($transaction['transaction_date'])):'' ?></td>
+																	
+											
+									</tr>
+								<?php									
+								}					
+							}else
+							{
+							?>         
+								<tr>									
+									<td colspan="6"> No Payment transaction found.</td>										
+								</tr>      
+								
+							<?php
+        					}
+							?>			
+                        </tbody>
+                    </table>
+                </div>
+           
+                
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+</div>
+
+<script>    
+
+	$(document).ready(function() {   
+    	  $('.datetimePicker1').datetimepicker(							
+		    {
+	            dayOfWeekStart: 0,
+	            format: 'm-Y'
+	        });
+	        
+	        
+	      $("#send_btn").click(function() {
+	      	console.log("send");
+	     	var transaction_card_number = $("#transaction_card_number").val();
+	     	var transaction_amount = $("#transaction_amount").val();
+	     	
+	     	if (transaction_card_number.length ==0)
+	     		alert("Please input Card Number");
+	     	else if (transaction_amount.length ==0)
+	     		alert("Please input Amount");
+	     	else
+	     	{
+				dataString = $("#transaction_form").serialize();        
+			 	$.ajax({
+		            url: '/crm/transaction<?= $link_param?>',
+		            data: dataString,
+		            dataType: 'html',
+		            type: "POST",            
+		            success: function(res){
+		            	console.log(res);		            	
+		            	alert(res);
+		            	location.reload();
+		                /*if (res == 'Success')
+		                {
+							alert("New Branch is successfully created!");
+						}*/
+		            }
+		        });
+			}
+		 	
+	     });  
+	});
+	
+</script>
+<!--<style type="text/css">
+	.customer-detail-font{
+		font-size: 14px !important;
+		font-family :Verdana, Arial, Helvetica, sans-serif;	    
+	    font-style: italic !important;
+	}
+	.customer-detail-black-font{
+		font-size: 14px !important;
+		font-family :Verdana, Arial, Helvetica, sans-serif;	    
+	    font-style: italic !important;
+	    color: black;
+	}
+	 
+	.customer-detail-section-head-font{
+		font-size: 18px !important;
+		text-align: center;
+	}
+	.customer-detail-field{
+		width: 100%;
+	    border: 2px solid #c4c4c4;
+	    border-radius: 3px;
+	    
+	}
+	.customer-detail-date-field{
+		width: 40%;
+	    
+	}
+	.customer-detail-image-field{
+		background-image: url(/public/image/calendar.png);
+	  	background-position: 5px 50%;
+	  	background-repeat: no-repeat;	 	
+	 	padding-left: 35px;
+	 	width: 100%;
+	 	color: black;
+	}
+	.customer-detail-left-field{
+		width: 40%;
+	    color: #737373;
+	    vertical-align: middle !important;
+	}
+	.customer-detail-left-activity-field{
+		width: 65%;
+	    color: #737373;
+	    vertical-align: middle !important;
+	}
+	.customer-detail-button{
+		/*    width: 100%;
+	    height: 112%;
+	    padding-top: 5px;
+	    padding-bottom: 0px;*/
+	    border-radius: 0px;
+	    width: 100%;
+	}
+	table, tr, td {
+	    border: none !important;
+	   	    
+	}
+	table{
+		margin-bottom: auto !important;
+	}
+	.customer-detail-panel{
+		margin-bottom: 20px;
+	}
+	.panel-body {
+		border-width:2px;
+		border-color: #428bca;
+		padding-top: 10px;
+    	padding-bottom: 10px;
+    	background-color: #f2f0f1;
+	}
+	.account-panel-heading {
+	    color: #fff !important;
+	    background-color: #428bca !important;
+	    border-color: #428bca !important;
+	}
+	.lead-panel-heading {
+	    color: #fff !important;
+	    background-color: green !important;
+	    border-color: green !important;
+	}
+	.prospect-panel-heading {
+	    color: #4c4646 !important;
+	    /*background-color: aqua !important;
+	     border-color:aqua !important;*/
+	    background-color: rgb(21,202,204) !important;
+	    border-color:rgb(21,202,204) !important;
+	   
+	}
+	.account-panel {		
+		border-color: #428bca;		
+	}
+	.lead-panel {		
+		border-color: green;		
+	}
+	.prospect-panel {		
+		/*border-color: aqua;*/
+		 border-color:rgb(21,202,204) !important;
+	}
+	.row{
+		margin-left: auto;
+		margin-right: auto;
+	}	
+	.customer-detail-col{
+		padding:3px;
+	}
+	.customer-detail-followup-left-field{
+		width: 80%;
+	    color: #737373;
+	    vertical-align: middle;
+	}
+	.entry:not(:first-of-type)
+	{
+	    margin-top: 10px;
+	}
+
+	.glyphicon
+	{
+	    font-size: 18px;
+	}
+	.input-group-addon, .input-group-btn {
+	    vertical-align: top;
+	}
+	.table>tbody>tr>td{
+		padding-top: 4px !important;
+    	padding-bottom: 4px !IMPORTANT;
+	}
+	.customer-detail-added{
+		margin-bottom: 4px;		
+	}
+	.customer-detail-activity-checkbox{
+		    /* font-size: 210%; */
+	    -ms-transform: scale(2);
+	    -moz-transform: scale(2);
+	    -webkit-transform: scale(2);
+	    -o-transform: scale(2);	
+	    margin-top: 13px !important;	
+	    
+	}
+	    
+</style>
+
+
+
+-->

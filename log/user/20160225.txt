@@ -1,0 +1,45 @@
+2016-02-25T08:37:08-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:11:"Berthenolli";s:7:"user_id";s:4:"1922";}
+2016-02-25T09:41:07-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:103:"2016 pricing
+Lisa Danielson DIL
+Adv Kits $9.5 ea
+DW Fusion $5.5 ea
+FW Pen $7.5 ea
+Minerals Pens $7.5 ea";s:7:"user_id";s:4:"9278";}
+2016-02-25T10:17:50-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:13:"Tasheen Ortiz";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"386-215-9431";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Tasheen";s:8:"lastname";s:5:"Ortiz";s:12:"contactphone";s:12:"386-215-9431";s:5:"email";s:18:"Tasheen@noidea.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1a545dc2b98764b5718555157d006a6311e30394";s:8:"username";s:13:"Tasheen Ortiz";s:12:"created_time";s:19:"2016-02-25 10:17:50";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"e2f74fef718e6f579f14dcfd11ea6c15";}
+2016-02-25T10:18:01-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15600";}
+2016-02-25T10:55:22-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"804-252-5211";s:7:"user_id";s:4:"2834";}
+2016-02-25T10:55:28-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:18:"804-479-7543nogood";s:7:"user_id";s:4:"2834";}
+2016-02-25T10:59:17-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:280:"Tasheen is going to school for psychology. Wants to whiten teeth out of a space in her friends salon. She has seen people selling take home kits on Instagram and is interested in them as well. She says she would also like to do bridal showers so a mobile package would be best.   ";s:7:"user_id";s:5:"15600";}
+2016-02-25T11:00:30-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15600";}
+2016-02-25T11:20:07-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:8:"Johnston";s:7:"user_id";s:5:"14570";}
+2016-02-25T11:27:07-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15600";}
+2016-02-25T11:27:49-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"137 Auto Mall Dr";s:7:"user_id";s:5:"15600";}
+2016-02-25T11:27:56-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:13:"Daytona Beach";s:7:"user_id";s:5:"15600";}
+2016-02-25T11:28:02-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"32124";s:7:"user_id";s:5:"15600";}
+2016-02-25T12:05:19-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:160:"2016 pricing
+ADVANCED GENERIC 1.1.4G (SCR)**GENERIC $5 ea
+Lamps $650 ea
+Kits $5 ea
+T/U pens $4.5 ea
+Min Pens $3.95 ea
+DW Fusion $3.65
+Goggles $8
+Bib Holder $4.5";s:7:"user_id";s:4:"2566";}
+2016-02-25T14:07:09-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"506-866-9410";s:7:"user_id";s:5:"15601";}
+2016-02-25T14:35:23-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"9907";}
+2016-02-25T15:21:54-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:19:"Planet Beach OH0010";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"OH";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:8:"Caroline";s:8:"lastname";s:6:"Mourad";s:12:"contactphone";s:12:"216-417-6423";s:5:"email";s:31:"Caroline.mourad@planetbeach.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:12:"Planet Beach";s:4:"type";s:7:"Account";s:8:"password";s:40:"dce84270ed9343ca5fcf077f74090a1e4f597697";s:8:"username";s:19:"Planet Beach OH0010";s:12:"created_time";s:19:"2016-02-25 15:21:54";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"ca3581db93214944ba8fa91bc1d21964";}
+2016-02-25T15:21:55-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:16:"612 Highway 90 E";s:7:"user_id";s:5:"15591";}
+2016-02-25T15:22:03-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:9:"Patterson";s:7:"user_id";s:5:"15591";}
+2016-02-25T15:22:20-08:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"LA";s:7:"user_id";s:5:"15591";}
+2016-02-25T15:22:29-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"70392";s:7:"user_id";s:5:"15591";}
+2016-02-25T15:38:08-08:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:19:"nsavard77@yahoo.com";s:7:"user_id";s:5:"15592";}
+2016-02-25T15:58:14-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11160";}
+2016-02-25T16:16:29-08:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:22:"mariefinger13@mail.com";s:7:"user_id";s:5:"14362";}
+2016-02-25T16:16:37-08:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"14362";}
+2016-02-25T16:16:47-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"512-289-4472";s:7:"user_id";s:5:"14362";}
+2016-02-25T16:17:57-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15601";}
+2016-02-25T16:18:16-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"15601";}
+2016-02-25T16:36:56-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:14:"1750 Duarte Dr";s:7:"user_id";s:3:"538";}
+2016-02-25T16:37:02-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:9:"HENDERSON";s:7:"user_id";s:3:"538";}
+2016-02-25T16:37:08-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"89014";s:7:"user_id";s:3:"538";}
+2016-02-25T16:37:15-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address2";s:15:"BILLING ADDRESS";s:7:"user_id";s:3:"538";}

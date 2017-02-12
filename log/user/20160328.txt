@@ -1,0 +1,74 @@
+2016-03-28T08:34:20-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15748";}
+2016-03-28T09:09:46-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:23:"Lahai Beauty Essentials";s:7:"user_id";s:4:"2739";}
+2016-03-28T09:15:00-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15924";}
+2016-03-28T09:16:17-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"3166";}
+2016-03-28T09:16:29-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15670";}
+2016-03-28T09:24:02-07:00 INFO (6): Brian Radke--a:2:{s:13:"contactphone2";s:12:"410-961-4671";s:7:"user_id";s:5:"14165";}
+2016-03-28T09:54:32-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"407-953-5327";s:7:"user_id";s:5:"15955";}
+2016-03-28T10:02:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15955";}
+2016-03-28T10:02:54-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Eyal Schwarz";s:7:"user_id";s:5:"15957";}
+2016-03-28T10:02:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Eyal Schwarz";s:7:"user_id";s:5:"15957";}
+2016-03-28T10:09:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15957";}
+2016-03-28T10:09:59-07:00 INFO (6): Cory Nielsen--a:2:{s:5:"email";s:27:"office@clackamasdentist.com";s:7:"user_id";s:4:"8986";}
+2016-03-28T10:12:32-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Patricia";s:7:"user_id";s:5:"15968";}
+2016-03-28T10:12:37-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Patricia Brown";s:7:"user_id";s:5:"15968";}
+2016-03-28T10:12:41-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Patricia Brown";s:7:"user_id";s:5:"15968";}
+2016-03-28T10:12:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"386-868-8830";s:7:"user_id";s:5:"15968";}
+2016-03-28T10:12:51-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"386-868-8830";s:7:"user_id";s:5:"15968";}
+2016-03-28T10:13:50-07:00 INFO (6): Cory Nielsen--a:2:{s:5:"email";s:30:"Balancing7SkinStudio@gmail.com";s:7:"user_id";s:5:"14591";}
+2016-03-28T10:14:09-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15968";}
+2016-03-28T10:15:35-07:00 INFO (6): Cory Nielsen--a:2:{s:5:"email";s:20:"gmooneyknx@gmail.com";s:7:"user_id";s:4:"2664";}
+2016-03-28T10:18:35-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15968";}
+2016-03-28T10:18:58-07:00 INFO (6): Cory Nielsen--a:2:{s:5:"email";s:27:" ct@sunkissedmobileglow.com";s:7:"user_id";s:3:"928";}
+2016-03-28T10:22:45-07:00 INFO (6): Cory Nielsen--a:2:{s:5:"email";s:22:"smile@kristoffdds.com ";s:7:"user_id";s:4:"8850";}
+2016-03-28T10:23:50-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15968";}
+2016-03-28T10:30:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Claudia";s:7:"user_id";s:5:"15955";}
+2016-03-28T10:30:21-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Claudia Argenal";s:7:"user_id";s:5:"15955";}
+2016-03-28T10:36:04-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"765-779-4825";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:36:10-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:14:"765-779-4825hm";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:38:10-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:20:"Beautiful Beginnings";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:38:31-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:16:"4028 E US Hwy 36";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:38:35-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"ID";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:38:39-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"IN";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:38:44-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"46056";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:48:11-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Karen";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:48:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Karen Gustin";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:48:20-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Karen Gustin";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:50:55-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:50:56-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"9247";}
+2016-03-28T10:52:35-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:34:"accounting@healthandpsychiatry.com";s:7:"user_id";s:5:"15949";}
+2016-03-28T10:56:05-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"2745 State Road 580";s:7:"user_id";s:5:"15949";}
+2016-03-28T10:56:21-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 101";s:7:"user_id";s:5:"15949";}
+2016-03-28T10:56:29-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:11:"Clear Water";s:7:"user_id";s:5:"15949";}
+2016-03-28T10:56:35-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"33761";s:7:"user_id";s:5:"15949";}
+2016-03-28T10:57:02-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:20:"290 Hilderdrand Dr. ";s:7:"user_id";s:5:"11303";}
+2016-03-28T10:57:06-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address2";s:3:"B14";s:7:"user_id";s:5:"11303";}
+2016-03-28T10:57:13-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:7:"Atlanta";s:7:"user_id";s:5:"11303";}
+2016-03-28T10:57:19-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"30328";s:7:"user_id";s:5:"11303";}
+2016-03-28T11:04:56-07:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:5:"Usman";s:7:"user_id";s:5:"15949";}
+2016-03-28T11:05:03-07:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:4:"Ezad";s:7:"user_id";s:5:"15949";}
+2016-03-28T11:05:17-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:18:"Health and Med Spa";s:7:"user_id";s:5:"15949";}
+2016-03-28T11:05:52-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15949";}
+2016-03-28T13:27:12-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15949";}
+2016-03-28T13:46:03-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15962";}
+2016-03-28T13:46:12-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15958";}
+2016-03-28T13:52:07-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:14:"Kevin Fountain";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"914-426-8121";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Kevin";s:8:"lastname";s:8:"Founcain";s:12:"contactphone";s:0:"";s:5:"email";s:20:"fountain21@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"78c48268ec6c39e4b1d341c0e6c0642714d2519a";s:8:"username";s:14:"Kevin Fountain";s:12:"created_time";s:19:"2016-03-28 13:52:07";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"66a4e7fbd41e3659db0c8fc108e5b0ef";}
+2016-03-28T13:52:18-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:22:"Interested in Salon #2";s:7:"user_id";s:5:"15974";}
+2016-03-28T13:53:05-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:44:"Interested in Salon #2. Talks in half words.";s:7:"user_id";s:5:"15974";}
+2016-03-28T13:53:11-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:21:"2/72 Broadmeadows Rd.";s:7:"user_id";s:4:"2819";}
+2016-03-28T13:53:19-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:11:"Tullamarine";s:7:"user_id";s:4:"2819";}
+2016-03-28T13:53:24-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:4:"3034";s:7:"user_id";s:4:"2819";}
+2016-03-28T14:02:47-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15882";}
+2016-03-28T14:27:09-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"2 Mountain Ledge Dr";s:7:"user_id";s:5:"10239";}
+2016-03-28T14:27:20-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"Gansevoort";s:7:"user_id";s:5:"10239";}
+2016-03-28T14:27:26-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"12831";s:7:"user_id";s:5:"10239";}
+2016-03-28T14:30:17-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:24:"angelojohngage@gmail.com";s:7:"user_id";s:5:"15136";}
+2016-03-28T14:30:21-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:24:"angelojohngage@gmail.com";s:7:"user_id";s:5:"15136";}
+2016-03-28T14:31:06-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15136";}
+2016-03-28T14:50:35-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:26:"medspa@northcountryent.com";s:7:"user_id";s:5:"10239";}
+2016-03-28T15:18:49-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15902";}
+2016-03-28T16:49:01-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:20:"Mercy Halim-Tambunan";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"510-415-4323";s:6:"source";N;s:9:"firstname";s:5:"Mercy";s:8:"lastname";s:14:"Halim-tambunan";s:12:"contactphone";s:12:"510-722-9161";s:5:"email";s:24:"buyer@ideatradegroup.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"ce25f1acf297a9607dc9ed48779827b698ced250";s:8:"username";s:20:"Mercy Halim-Tambunan";s:12:"created_time";s:19:"2016-03-28 16:49:01";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6defd5c7ceef17c896ae572ee57cf9db";}
+2016-03-28T16:49:12-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15975";}
+2016-03-28T16:49:17-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15975";}
+2016-03-28T17:08:59-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"San Jose ";s:7:"user_id";s:5:"15975";}
+2016-03-28T17:09:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15975";}

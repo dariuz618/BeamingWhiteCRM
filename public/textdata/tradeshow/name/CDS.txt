@@ -1,0 +1,2 @@
+<option>Please pick a city</option>
+<option value=chicago_il>Chicago, IL</option>

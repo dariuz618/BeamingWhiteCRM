@@ -1,0 +1,56 @@
+2015-12-10T09:18:05-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Corrie";s:7:"user_id";s:5:"15000";}
+2015-12-10T09:18:12-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Corrie Eubanks";s:7:"user_id";s:5:"15000";}
+2015-12-10T09:18:17-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Corrie Eubanks";s:7:"user_id";s:5:"15000";}
+2015-12-10T09:18:47-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15000";}
+2015-12-10T09:18:49-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15000";}
+2015-12-10T09:55:36-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15000";}
+2015-12-10T10:06:16-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"807-464-3728";s:7:"user_id";s:5:"14998";}
+2015-12-10T10:42:00-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:16:"k2b3@hotmail.com";s:7:"user_id";s:3:"770";}
+2015-12-10T10:42:09-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:27:"westcoastinteriors@mail.com";s:7:"user_id";s:3:"770";}
+2015-12-10T10:47:16-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"306-382-4364";s:7:"user_id";s:3:"770";}
+2015-12-10T10:47:21-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"250-818-0985";s:7:"user_id";s:3:"770";}
+2015-12-10T10:52:22-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"321-362-2687";s:7:"user_id";s:5:"14265";}
+2015-12-10T10:52:34-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"99223";s:7:"user_id";s:5:"15000";}
+2015-12-10T10:55:38-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:28:"3150 East 27th Ave Suite 200";s:7:"user_id";s:5:"15000";}
+2015-12-10T11:00:01-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Dr. Witter";s:7:"user_id";s:5:"15000";}
+2015-12-10T11:05:12-08:00 INFO (6): Erika Rose--a:2:{s:13:"resale_number";s:8:"8.7% TAX";s:7:"user_id";s:5:"15000";}
+2015-12-10T11:05:42-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14747";}
+2015-12-10T11:06:01-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"UG";s:7:"user_id";s:5:"15000";}
+2015-12-10T11:06:05-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"15000";}
+2015-12-10T11:06:07-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"WA";s:7:"user_id";s:5:"15000";}
+2015-12-10T11:20:03-08:00 INFO (6): Brian Radke--a:2:{s:13:"contactphone2";s:12:"606-694-7111";s:7:"user_id";s:5:"10979";}
+2015-12-10T11:31:48-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:15:"East Coast Glam";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"KY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:6:"Andrea";s:8:"lastname";s:9:"Kazantzis";s:12:"contactphone";s:12:"860-774-4477";s:5:"email";s:20:"akazantzis@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:24:"Purchased an Exotic Tans";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"edaa41115dee5c778d7acb61ed7d5e90bf035215";s:8:"username";s:15:"East Coast Glam";s:12:"created_time";s:19:"2015-12-10 11:31:38";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"3005ff0634f2eaeb44af063842d50599";}
+2015-12-10T11:39:25-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:290:"Bought this tanning salon a few months ago and her Futura started acting weird. The lights flash and it wont stay on. They advertise, have a window cling, use social media, and mention it to their customers but only do a couple treatments per month. Serial number of lamp is 2400011011134. ";s:7:"user_id";s:5:"15002";}
+2015-12-10T11:55:44-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14998";}
+2015-12-10T12:16:41-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:16:"www.sundental.in";s:7:"user_id";s:5:"14832";}
+2015-12-10T12:20:51-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:20:"Tarik Al- Sahaa est.";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:6:"Riyadh";s:5:"state";s:2:"AS";s:3:"zip";s:0:"";s:7:"country";s:2:"SA";s:13:"businessphone";s:13:"+966112696816";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:8:"Mohammed";s:8:"lastname";s:11:"Abd Elhamed";s:12:"contactphone";s:13:"+966112696816";s:5:"email";s:23:"tarikalsahaa@outlook.sa";s:13:"contactphone2";s:13:"+966565632225";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"14f61435253ccfeb95eaec62b6de232d97c6cfae";s:8:"username";s:20:"Tarik Al- Sahaa est.";s:12:"created_time";s:19:"2015-12-10 12:20:48";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"f90f7a00f1523b556f4e1f033a4a5086";}
+2015-12-10T12:21:11-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:13:"+966112696820";s:7:"user_id";s:5:"15003";}
+2015-12-10T12:21:49-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:60:"distributor in saudi arabia 
+Ramy Ramadan
+ramyara3@yahoo.com";s:7:"user_id";s:5:"15003";}
+2015-12-10T12:30:03-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:9:"MG Dental";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:32:"medica sur puente de piedra #150";s:8:"address2";s:0:"";s:4:"city";s:34:"Col. Toriello Guerra, Tlalpan C.P.";s:5:"state";s:2:"BN";s:3:"zip";s:5:"14050";s:7:"country";s:2:"MX";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:10:"Dr. Martin";s:8:"lastname";s:16:"Hernandez Munive";s:12:"contactphone";s:9:"6639-2021";s:5:"email";s:23:"dr.martinhm@hotmail.com";s:13:"contactphone2";s:12:"55-4352-7011";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"1a0324b08e906ad0e816bd73fe64cbbc6e18570a";s:8:"username";s:9:"MG Dental";s:12:"created_time";s:19:"2015-12-10 12:28:01";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"af49954d061062821457587b980ef5ba";}
+2015-12-10T12:32:34-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:9:"MG Dental";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:32:"medica sur puente de piedra #150";s:8:"address2";s:0:"";s:4:"city";s:34:"Col. Toriello Guerra, Tlalpan C.P.";s:5:"state";s:2:"BN";s:3:"zip";s:5:"14050";s:7:"country";s:2:"MX";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:10:"Dr. Martin";s:8:"lastname";s:16:"Hernandez Munive";s:12:"contactphone";s:9:"6639-2021";s:5:"email";s:23:"2drmartinhm@hotmail.com";s:13:"contactphone2";s:12:"55-4352-7011";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"299b8f624866f0d4b0ad181d3d14ab57372c3dc1";s:8:"username";s:9:"MG Dental";s:12:"created_time";s:19:"2015-12-10 12:32:29";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"deb52f74d8fb25cf408579f73a748bec";}
+2015-12-10T12:34:32-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:13:"0414-136-8464";s:7:"user_id";s:5:"14844";}
+2015-12-10T12:34:44-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:13:"0212-615-5759";s:7:"user_id";s:5:"14844";}
+2015-12-10T12:34:56-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:22:"lenyatacho@hotmail.com";s:7:"user_id";s:5:"14844";}
+2015-12-10T12:40:02-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"210-403-9000";s:7:"user_id";s:4:"1240";}
+2015-12-10T12:47:39-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"813-855-0111";s:7:"user_id";s:5:"14886";}
+2015-12-10T14:51:06-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"908-590-9007";s:7:"user_id";s:5:"14975";}
+2015-12-10T15:49:51-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:188:"Babak is helping a Dentist to create a private label kit so that he can give a way at his office to bring more patient in.
+
+Use 15025 for the graphic, and 15026 for the pad printing plate.";s:7:"user_id";s:5:"10620";}
+2015-12-10T15:50:47-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:239:"Babak is helping a Dentist to create a private label kit so that he can give a way at his office to bring more patient in.
+
+Item Numbers: 15025 - Pen Clear 1.2 mL, Pro Teeth Whitening Co & 15026 - Pro Teeth Whitening Co pad printing plate.";s:7:"user_id";s:5:"10620";}
+2015-12-10T16:05:38-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Khaled";s:7:"user_id";s:5:"15006";}
+2015-12-10T16:05:43-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Khaled Haddar";s:7:"user_id";s:5:"15006";}
+2015-12-10T16:05:45-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Khaled Haddar";s:7:"user_id";s:5:"15006";}
+2015-12-10T16:17:42-08:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:5:"Nona ";s:7:"user_id";s:4:"9380";}
+2015-12-10T16:17:48-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:7:"Serobin";s:7:"user_id";s:4:"9380";}
+2015-12-10T16:22:26-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15006";}
+2015-12-10T16:22:27-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15006";}
+2015-12-10T16:31:14-08:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:8:"Serobian";s:7:"user_id";s:4:"9380";}
+2015-12-10T16:31:26-08:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:5:"Naune";s:7:"user_id";s:4:"9380";}
+2015-12-10T16:31:35-08:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:14:"info@7qspa.com";s:7:"user_id";s:4:"9380";}
+2015-12-10T16:34:46-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14975";}
+2015-12-10T16:34:48-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14975";}

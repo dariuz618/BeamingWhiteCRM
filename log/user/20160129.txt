@@ -1,0 +1,50 @@
+2016-01-29T09:07:25-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"10795";}
+2016-01-29T09:13:17-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11165";}
+2016-01-29T09:15:13-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11232";}
+2016-01-29T09:50:45-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11252";}
+2016-01-29T10:17:58-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11402";}
+2016-01-29T10:49:37-08:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"11429";}
+2016-01-29T10:56:26-08:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:6:"Selena";s:7:"user_id";s:5:"11474";}
+2016-01-29T10:56:43-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11474";}
+2016-01-29T11:15:34-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:10:"3127315793";s:7:"user_id";s:4:"2781";}
+2016-01-29T11:15:57-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"256-810-4296";s:7:"user_id";s:5:"15284";}
+2016-01-29T11:16:45-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11495";}
+2016-01-29T11:28:09-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11499";}
+2016-01-29T11:41:16-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11518";}
+2016-01-29T11:52:07-08:00 INFO (6): Brian Radke--a:2:{s:13:"businessphone";s:12:"832-928-2088";s:7:"user_id";s:5:"15287";}
+2016-01-29T12:02:19-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:142:"Not sure what the 713 number is. Sabrina answered the 832 number but thought I was collections??? She is interested in mobile #1 with a chair.";s:7:"user_id";s:5:"15287";}
+2016-01-29T12:02:29-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15287";}
+2016-01-29T12:03:37-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15287";}
+2016-01-29T12:07:25-08:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"11596";}
+2016-01-29T12:29:47-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11626";}
+2016-01-29T12:53:31-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11643";}
+2016-01-29T12:55:17-08:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"ON";s:7:"user_id";s:5:"11659";}
+2016-01-29T13:06:37-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11663";}
+2016-01-29T13:36:05-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:8:"Brooklyn";s:7:"user_id";s:4:"3211";}
+2016-01-29T13:38:53-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11691";}
+2016-01-29T13:42:05-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"832-928-2088";s:7:"user_id";s:5:"15287";}
+2016-01-29T13:59:24-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"504-782-9477";s:7:"user_id";s:5:"14756";}
+2016-01-29T14:16:55-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11724";}
+2016-01-29T14:21:38-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15278";}
+2016-01-29T14:32:57-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:119:"Wants to do private label 3ml colored syringes with minerals gel and 22% CP. Also interested in different tray options.";s:7:"user_id";s:5:"15278";}
+2016-01-29T14:36:37-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:43:"Works at: http://www.bocaperioimplants.com/";s:7:"user_id";s:5:"15161";}
+2016-01-29T14:37:46-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:11:"Desi Greene";s:7:"user_id";s:4:"9847";}
+2016-01-29T14:38:06-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"businessphone";s:12:"704-294-7093";s:7:"user_id";s:4:"9847";}
+2016-01-29T14:38:15-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"404-516-7376";s:7:"user_id";s:4:"9847";}
+2016-01-29T14:40:02-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:19:"Beautiful De' Salon";s:7:"user_id";s:4:"9847";}
+2016-01-29T14:44:06-08:00 INFO (6): Rachel Reiser--a:2:{s:7:"website";s:24:"beautystreet@hotmail.com";s:7:"user_id";s:4:"9847";}
+2016-01-29T15:16:27-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:16:"Sun Rays Tanning";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"616-866-3432";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Matilda";s:8:"lastname";s:5:"Stone";s:12:"contactphone";s:12:"616-866-3432";s:5:"email";s:19:"hcarter70@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"6be3a81d3ba5a3587cea95fb049e5e28b592a02a";s:8:"username";s:16:"Sun Rays Tanning";s:12:"created_time";s:19:"2016-01-29 15:16:27";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"edf928c2fef2ad915104d288dbdc26af";}
+2016-01-29T15:16:49-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:17:"400 EAst Division";s:7:"user_id";s:5:"15289";}
+2016-01-29T15:16:53-08:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:7:"suite 5";s:7:"user_id";s:5:"15289";}
+2016-01-29T15:17:00-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"49341";s:7:"user_id";s:5:"15289";}
+2016-01-29T15:17:05-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:8:"Rockford";s:7:"user_id";s:5:"15289";}
+2016-01-29T15:17:11-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"MI";s:7:"user_id";s:5:"15289";}
+2016-01-29T15:17:25-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:17:"400 East Division";s:7:"user_id";s:5:"15289";}
+2016-01-29T15:17:39-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11860";}
+2016-01-29T15:18:51-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15289";}
+2016-01-29T15:19:53-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:63:"Met us at Smart Tan Nashville. Interested in the show special. ";s:7:"user_id";s:5:"15289";}
+2016-01-29T15:47:38-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11868";}
+2016-01-29T16:10:23-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11893";}
+2016-01-29T16:17:38-08:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"NE";s:7:"user_id";s:5:"11918";}
+2016-01-29T16:17:44-08:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"11918";}
+2016-01-29T17:34:18-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:12:"Michael Tran";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:7:"Michael";s:8:"lastname";s:4:"Tran";s:12:"contactphone";s:0:"";s:5:"email";s:24:"michaelhtran@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"b5699c8e9400d510041fef1aea821158891ad1fd";s:8:"username";s:12:"Michael Tran";s:12:"created_time";s:19:"2016-01-29 17:34:18";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"1667e994e01caa527320ef754c93350b";}

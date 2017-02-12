@@ -1,0 +1,61 @@
+2016-03-17T08:58:52-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:54:"2016
+AK's $10.50 ea
+FW Pens $8.50 ea
+Min Pens $9.50 ea";s:7:"user_id";s:4:"2041";}
+2016-03-17T09:11:04-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:235:"Owns a wellness center next to a gym with 10,000 members. Lots of foot traffic walking by. He offers massage, acupuncture, chiropractic, and LED body sculpting. uses Groupon. He has been talking with Maui Whitening.
+
+
+WA sales tax 9.6%";s:7:"user_id";s:5:"14333";}
+2016-03-17T09:24:56-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"22180";s:7:"user_id";s:4:"9306";}
+2016-03-17T10:20:37-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:113:"2016:
+DW Fusion $3.5
+Min pens $3.25 no box
+16% 2ml pen $3.00
+FW Pens $3.5
+LCR's $1
+Sonic FX $20
+Pre kits- @$10.50";s:7:"user_id";s:3:"538";}
+2016-03-17T10:39:48-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15861";}
+2016-03-17T10:59:22-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:145:"2016:
+DW Fusion $3.5
+Min pens $3.25 no box
+16% 2ml pen $3.00
+FW Pens $3.5
+LCR's $1
+Sonic FX $20
+Pre kits- @$10.50
+
+Evoke $150
+Futura Face $2,500
+";s:7:"user_id";s:3:"538";}
+2016-03-17T11:04:33-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"321-800-0656";s:7:"user_id";s:5:"15867";}
+2016-03-17T11:05:47-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"918-361-7529";s:7:"user_id";s:5:"15874";}
+2016-03-17T11:15:37-07:00 INFO (6): Stephanie Brown--a:2:{s:9:"firstname";s:3:"Ann";s:7:"user_id";s:5:"10801";}
+2016-03-17T11:15:40-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"lastname";s:0:"";s:7:"user_id";s:5:"10801";}
+2016-03-17T11:25:51-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15868";}
+2016-03-17T11:29:56-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15826";}
+2016-03-17T11:44:46-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15863";}
+2016-03-17T11:44:55-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15863";}
+2016-03-17T12:26:11-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"6813 North May Ave";s:7:"user_id";s:4:"2166";}
+2016-03-17T12:26:41-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"73116";s:7:"user_id";s:4:"2166";}
+2016-03-17T12:26:49-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:13:"Oklahoma City";s:7:"user_id";s:4:"2166";}
+2016-03-17T12:55:59-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:32:"1901 South Calumet Ave. Unit 612";s:7:"user_id";s:5:"12278";}
+2016-03-17T12:56:09-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:7:"Chicago";s:7:"user_id";s:5:"12278";}
+2016-03-17T12:56:13-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"IL";s:7:"user_id";s:5:"12278";}
+2016-03-17T12:56:20-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"60616";s:7:"user_id";s:5:"12278";}
+2016-03-17T13:33:20-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"2166";}
+2016-03-17T14:03:24-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Vanessa";s:8:"lastname";s:6:"Sarrio";s:12:"contactphone";s:12:"504-460-2710";s:5:"email";s:13:"none@blah.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"b41575fce88b2a6686894a79c63527190fd1cccb";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-03-17 14:03:24";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"ae2490cad552af3ae0100c8019e3d71d";}
+2016-03-17T14:03:28-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"LA";s:7:"user_id";s:5:"15875";}
+2016-03-17T14:08:04-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:10:"Bella Kara";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:6:"Cliona";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MI";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"269-744-6217";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:6:"Heleda";s:8:"lastname";s:5:"Perez";s:12:"contactphone";s:0:"";s:5:"email";s:21:"bellakarami@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:16:"IBS/IECS NY 2016";s:4:"type";s:7:"Account";s:8:"password";s:40:"177ab228efbaba8a30e458488fab1165d9e0577e";s:8:"username";s:10:"Bella Kara";s:12:"created_time";s:19:"2016-03-17 14:08:04";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"bb5e9ab3d4d20e984779a541a7e7fbdc";}
+2016-03-17T14:09:22-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:14:"Monika Gorecki";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:6:"Cliona";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"IL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"847-409-5607";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:6:"Monika";s:8:"lastname";s:7:"Gorecki";s:12:"contactphone";s:12:"847-409-5607";s:5:"email";s:25:"monikaesthetics@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:7:"Chicago";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"c79f3569ae5bc3e54050a02491c8179409ebdcdf";s:8:"username";s:14:"Monika Gorecki";s:12:"created_time";s:19:"2016-03-17 14:09:22";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6665234a732563c43f254b77c39ab160";}
+2016-03-17T14:09:58-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:20:"23 East Illinois Ave";s:7:"user_id";s:5:"15877";}
+2016-03-17T14:10:05-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:8:"Palatine";s:7:"user_id";s:5:"15877";}
+2016-03-17T14:10:11-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"60067";s:7:"user_id";s:5:"15877";}
+2016-03-17T14:10:49-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:25:"1133 West Perigrine Court";s:7:"user_id";s:5:"15877";}
+2016-03-17T14:29:16-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:19:"11642 Oakland Drive";s:7:"user_id";s:5:"15876";}
+2016-03-17T14:29:25-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"49087";s:7:"user_id";s:5:"15876";}
+2016-03-17T14:29:53-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:11:"Schoolcraft";s:7:"user_id";s:5:"15876";}
+2016-03-17T15:43:02-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:8:"Herlinda";s:7:"user_id";s:5:"15876";}
+2016-03-17T16:31:45-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:15:"13235 Gulf Blvd";s:7:"user_id";s:5:"11407";}
+2016-03-17T16:32:00-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"33708";s:7:"user_id";s:5:"11407";}
+2016-03-17T17:07:25-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:13:"Jakki and Ron";s:7:"user_id";s:5:"15806";}

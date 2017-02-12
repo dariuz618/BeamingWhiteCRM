@@ -1,0 +1,32 @@
+2016-09-28T09:44:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:4:"9806";}
+2016-09-28T10:32:39-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16072";}
+2016-09-28T10:39:08-07:00 INFO (6): Alison Duff--a:27:{s:12:"businessname";s:12:"Sasha Bandoo";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CO";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"868-754-4020";s:6:"source";N;s:9:"firstname";s:5:"Sasha";s:8:"lastname";s:6:"Bandoo";s:12:"contactphone";s:12:"868-754-4020";s:5:"email";s:16:"sashabt@live.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"2c793f1bc2135ebf2b04222c381914136247b434";s:8:"username";s:12:"Sasha Bandoo";s:12:"created_time";s:19:"2016-09-28 10:39:07";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"620aac28bce817f073bd2bc21032c5df";}
+2016-09-28T10:47:52-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:42:"https://www.styleseat.com/m/book/p/1147257";s:7:"user_id";s:5:"17566";}
+2016-09-28T11:03:48-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17553";}
+2016-09-28T11:15:29-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"813-494-0543";s:7:"user_id";s:5:"17562";}
+2016-09-28T11:15:38-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Antonia";s:7:"user_id";s:5:"17562";}
+2016-09-28T11:15:44-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Antonia Bain";s:7:"user_id";s:5:"17562";}
+2016-09-28T11:15:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Antonia Bain";s:7:"user_id";s:5:"17562";}
+2016-09-28T11:16:15-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17562";}
+2016-09-28T11:17:16-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17562";}
+2016-09-28T12:53:52-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:9:"Dr.gandhi";s:7:"user_id";s:5:"17564";}
+2016-09-28T13:05:51-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17564";}
+2016-09-28T13:07:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:10:"Dr. Gandhi";s:7:"user_id";s:5:"17564";}
+2016-09-28T14:59:30-07:00 INFO (6): Felisha Monahan--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17552";}
+2016-09-28T15:26:28-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:256:"My Pearly Teeth
+22568 Mission Blvd #329. Hayward, CA 94541
+510.722.9161
+$2.50 per bag to private label the bags or an additional cost to get the white bags with no logo.
+
+Cory let me know that we can add $0.75 - $1,25 more for the 4mL pens vs the 2mL Pens.";s:7:"user_id";s:5:"15975";}
+2016-09-28T15:26:39-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:256:"My Pearly Teeth
+22568 Mission Blvd #329. Hayward, CA 94541
+510.722.9161
+$2.50 per bag to private label the bags or an additional cost to get the white bags with no logo.
+
+Cory let me know that we can add $0.75 - $1.25 more for the 4mL pens vs the 2mL Pens.";s:7:"user_id";s:5:"15975";}
+2016-09-28T16:00:08-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16072";}
+2016-09-28T16:55:36-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17553";}
+2016-09-28T17:23:34-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17562";}
+2016-09-28T17:46:37-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:11:"Jason Allen";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"214-228-3061";s:6:"source";N;s:9:"firstname";s:5:"Jason";s:8:"lastname";s:5:"Allen";s:12:"contactphone";s:12:"214-228-3061";s:5:"email";s:20:"jallen6221@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1aca4883f0df8dd8ea2bb988e6cdd1d9e9a06b3f";s:8:"username";s:11:"Jason Allen";s:12:"created_time";s:19:"2016-09-28 17:46:37";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"fbba43ad33ce735a86e6bd7632623728";}
+2016-09-28T17:46:57-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17568";}

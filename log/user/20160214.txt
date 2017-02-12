@@ -1,0 +1,4 @@
+2016-02-14T13:56:16-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Denski";s:7:"user_id";s:5:"15013";}
+2016-02-14T13:58:12-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15013";}
+2016-02-14T15:01:45-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:20:"813-749-1800 EXT 305";s:7:"user_id";s:5:"14886";}
+2016-02-14T15:24:39-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"786-853-5983";s:7:"user_id";s:4:"9637";}

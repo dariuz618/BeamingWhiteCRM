@@ -1,0 +1,237 @@
+<?
+    echo $this->inlineScript()->appendFile($this->baseUrl('/public/js/jquery.easyui.min.js'));
+    $auth = Zend_Auth::getInstance()->getIdentity();
+    if ($auth->role == 'sales') {
+        $link = "?repid=$auth->id";
+    } else {
+        $link = '';
+    }
+?>
+<div class="row">     
+        <div class="col-lg-12 page-header">            
+            <div class="col-lg-6">
+                <h2>Sales CRM - Leads</h2>
+            </div>
+            <div style="margin-top: 20px;">
+                <?=$this->action('search', 'crm');?> 
+            </div>
+         </div>
+            
+       <div class="col-lg-12">       
+        <ol class="breadcrumb">                                 
+            <li><a href="/crm/prospect<?= $link?>">Prospects</a></li>             
+            <li><a href="/crm/accounts<?= $link?>">Accounts</a></li>  
+            <li><a href="/crm/activity">Activities</a></li>
+            <li class="active">Leads</li>            
+            <li class="dropdown" style='margin-left: 60%;'>
+                <a class="dropdown-toggle" href="#" data-toggle="dropdown">
+                Create
+                <i class="fa fa-caret-down"></i>
+                </a>
+                <ul class="dropdown-menu dropdown-user">
+                    <li><a href="/crm/create-user/type/lead">Lead</a></li>
+                    <li><a href="/crm/create-user/type/Prospect">Prospect</a></li>
+                    <li><a href="/crm/create-user/type/Account">Account</a></li>
+                </ul>                
+            </li>
+        </ol>       
+    </div>    
+</div>
+           
+<div class="row">
+  <div class="col-lg-12">  
+  	<!-- Dariuz Rubin -->  	
+  	<?if($this->website_events):?>     
+  		<div class="row" style="width:80%;margin-left:0px;margin-right:0px;">    
+	  		<div class="panel panel-primary " style="border-color: #428bca;border: 1px solid #428bca;border-radius: 4px;">
+		   		<div class="panel-heading">Follow up from Website</div>		   		
+	   			<div class="panel-body" style="border:none !important" id="website_events_div">	   		
+	   					
+	   				<?foreach($this->website_events as $website_events):?>
+		                <?if($website_events['customer_id'] != 0):?>
+		                	<div class="alert alert-warning" style="background-color: orange; color:black;font-weight: 500;margin:4px">
+		                		<a href="#" class="close" data-dismiss="alert" aria-label="close" onclick="javascript:DismissEvent('<?= $website_events['id']?>')">&times;</a>
+		                		<a target="_blank" href="/biz/crm/customer/id/<?= $website_events['customer_id']?>" style="color:black"><?=$website_events['title']?></a>&nbsp;&nbsp;&nbsp;<?= date('g:i A', strtotime($website_events['start']))?>
+							</div>					
+		                 <? else:?>
+		                            <?= $website_events['title']?>
+		                 <?endif;?>                  
+		           <?endforeach;?>                
+	   			</div>
+			</div>
+		</div>
+		<br>
+    <?endif;?>
+    
+    <?if($this->events):?>         
+       <div class="row" style="width:80%;margin-left:0px;margin-right:0px;">        
+	  		<div class="panel panel-primary " style="border-color: #428bca;border: 1px solid #428bca;border-radius: 4px;">
+		   		<div class="panel-heading">Follow up from CRM</div>
+	   			<div class="panel-body"  style="border:none !important"  id="events_div">
+		           <?foreach($this->events as $event):?>
+		                <?if($event['customer_id'] != 0):?>
+		                	<div class="alert alert-warning" style="background-color: orange; color:black;font-weight: 500;margin:4px">
+		                		<a href="#" class="close" data-dismiss="alert" aria-label="close" onclick="javascript:DismissEvent('<?= $event['id']?>')">&times;</a>
+								<a target="_blank" href="/biz/crm/customer/id/<?= $event['customer_id']?>" style="color:black"><?=$event['title']?></a>&nbsp;&nbsp;&nbsp;<?= date('g:i A', strtotime($event['start']))?>
+							</div>					
+		                 <? else:?>
+		                            <?= $event['title']?>
+		                 <?endif;?>                  
+		           <?endforeach;?>  
+		        </div>
+			</div>
+		</div>  
+		<br>                        
+    <?endif;?>
+    <!------------------>
+    Rep: <select name="repid" id="repid">        
+            <option value="">All </option>
+            <? foreach($this->reps as $reps):?>        
+            <option value="<?= $reps['id']?>" <?if(isset($this->rep) && $this->rep == $reps['id']) echo 'selected';?>><?= $reps['name']?></option>
+            <?endforeach;?>
+        </select>
+       
+    <span style="margin-left: 10px;"></span>       
+    Potential: <select name="pid" id="pid">        
+        <option value="">All</option>
+        <? foreach($this->potentials as $key=>$value):?>        
+        <option value="<?= $key?>" <?if(isset($this->pid) && $this->pid == $key) echo 'selected';?>><?= $value?></option>
+        <?endforeach;?>
+    </select>
+    
+    <span style="margin-left: 10px;"></span>       
+    Source: <select name="source" id="source">        
+        <option value="">All</option>
+        <? foreach($this->sources as $key=>$value):?>        
+        <option value="<?= $key?>" <?if(isset($this->source) && $this->source == $key) echo 'selected';?>><?= $value?></option>
+        <?endforeach;?>
+    </select>
+    
+    <span style="margin-left: 10px;"></span>       
+    Sold By: <select name="soldBy" id="soldBy" style="width:100px;">        
+        <option value="">All</option>
+        <? foreach($this->soldBys as $key=>$value):?>        
+        <option value="<?= $key?>" <?if(isset($this->soldBy) && $this->soldBy == $key) echo 'selected';?>><?= $value?></option>
+        <?endforeach;?>
+    </select>
+    
+    <span style="margin-left: 10px;"></span>       
+    Last Contacted: <select name="lastAttempt" id="lastAttempt">        
+        <option value="">All</option>              
+        <option value="10" <?if(isset($this->lastAttempt) && $this->lastAttempt == 10) echo 'selected';?>>1-10 Days</option>
+        <option value="30" <?if(isset($this->lastAttempt) && $this->lastAttempt == 30) echo 'selected';?>>10-30 Days</option>
+        <option value="60" <?if(isset($this->lastAttempt) && $this->lastAttempt == 60) echo 'selected';?>>30-60 Days</option>
+        <option value="90" <?if(isset($this->lastAttempt) && $this->lastAttempt == 90) echo 'selected';?>>60-90 Days</option>
+        <option value="91" <?if(isset($this->lastAttempt) && $this->lastAttempt == 91) echo 'selected';?>>90+ Days</option>
+    </select>
+	
+<? 
+$parent_user = $potential =  $source = $soldBy = $lastAttempt =$from=$to= '';
+if(isset($this->rep) && $this->rep !='' ) {
+    $parent_user = (int)$this->rep;
+}
+if(isset($this->pid) && $this->pid !='' ) {
+    $potential = $this->pid;
+}
+if(isset($this->source) && $this->source !='' ) {
+    $source = $this->source;
+}
+if(isset($this->soldBy) && $this->soldBy !='' ) {
+    $soldBy = $this->soldBy;
+}
+if(isset($this->lastAttempt) && $this->lastAttempt !='' ) {
+    $lastAttempt = $this->lastAttempt;
+}
+if(isset($this->from) && $this->from !='' ) {
+    $from = $this->from;
+}if(isset($this->to) && $this->to !='' ) {
+    $to = $this->to;
+}
+?>	
+	<input  type="hidden"  name="from" id="from" value="<?= $this->from?>"/>
+	<input  type="hidden"  name="to" id="to" value="<?= $this->to?>"/>
+	
+<div style="clear:both;"></div>
+	<div style="clear:both;"></div>
+		<table id="dg" title="Leads" style="width:735px;height:auto"
+					data-options="rownumbers:true,pagination:true,pageSize:30,
+		                        url:'get-leads/repid/<?= $parent_user?>/pid/<?= $potential?>/source/<?= $source?>/soldBy/<?= $soldBy?>/lastAttempt/<?= $lastAttempt?>/from/<?= $from?>/to/<?= $to?>',method:'get'">
+		 	<thead>
+			    <tr>
+				    <th data-options="field:'id',width:45, formatter:formatAction">Action</th>    
+				    <th data-options="field:'rep',width:60,sortable:'true'">Owner</th>			    
+				    <th data-options="field:'firstname',width:75,sortable:'true'">First</th>    
+				    <th data-options="field:'lastname',width:75,sortable:'true'">Last</th>   			    
+				    <th data-options="field:'show_time',width:128,sortable:'true'">Assigned Time</th>
+				    <th data-options="field:'enter_time', width:128, sortable:'true'">Last Contacted</th>  
+				    <th data-options="field:'follow_up', width:128, sortable:'true'">Next Contact</th>  
+				    <th data-options="field:'state',width:60,sortable:'true'">State</th>    
+			    </tr>
+			</thead>
+		</table>
+	</div>
+</div>
+
+<!-------------------->
+													
+<script type="text/javascript">
+	
+    function formatAction(val,row){    
+            return '<a target="_blank" href= "customer/id/' + val + '">'  + 'Detail </a>';    
+    }
+    function keepSessionAlive() {
+        $.post("ping");
+    }
+    
+    $(function(){       
+         
+         var dg = $('#dg').datagrid({
+             /*filterBtnIconCls:'icon-filter',*/
+              rowStyler:function(index,row){                              
+                if (row.potential == 'Hot') {
+                    return 'background-color:darkred;color:white;';                  
+                }else if (row.potential == 'Warm') {
+                    return 'background-color: darkorange;color:blue;';                  
+                }else if (row.potential == 'Cool') {
+                    return 'background-color: yellow;color:blue;';                  
+                }else if (row.potential == 'Cold') {
+                    return 'background-color: lightyellow;color:blue;';                  
+                }else if (row.potential == 'Big') {
+                    return 'background-color: lawngreen;color:dark;';                  
+                }else if (row.potential == 'Huge') {
+                    return 'background-color: darkgreen;color:white;';                  
+                }
+              }             
+          });   
+        
+       
+		
+     $( "#repid" ).change(function() {  
+          window.location.href = '/crm/leads?repid=' + $( "select[name='repid']" ).val() +'&pid=' + $( "select[name='pid']" ).val() +'&source=' + $( "select[name='source']" ).val() + '&soldBy=' + $( "select[name='soldBy']" ).val() +'&lastAttempt=' + $( "select[name='lastAttempt']" ).val()+'&from=' + $( "#from" ).val()+'&to=' + $( "#to" ).val();
+      });
+      
+      $( "#pid" ).change(function() {  
+          window.location.href = '/crm/leads?repid=' + $( "select[name='repid']" ).val() +'&pid=' + $( "select[name='pid']" ).val() +'&source=' + $( "select[name='source']" ).val() + '&soldBy=' + $( "select[name='soldBy']" ).val() +'&lastAttempt=' + $( "select[name='lastAttempt']" ).val()+'&from=' + $( "#from" ).val()+'&to=' + $( "#to" ).val();
+      });
+      $( "#source" ).change(function() {  
+          window.location.href = '/crm/leads?repid=' + $( "select[name='repid']" ).val() +'&pid=' + $( "select[name='pid']" ).val() +'&source=' + $( "select[name='source']" ).val() + '&soldBy=' + $( "select[name='soldBy']" ).val() +'&lastAttempt=' + $( "select[name='lastAttempt']" ).val()+'&from=' + $( "#from" ).val()+'&to=' + $( "#to" ).val();
+      });
+      $( "#soldBy" ).change(function() {  
+          window.location.href = '/crm/leads?repid=' + $( "select[name='repid']" ).val() +'&pid=' + $( "select[name='pid']" ).val() +'&source=' + $( "select[name='source']" ).val() + '&soldBy=' + $( "select[name='soldBy']" ).val() +'&lastAttempt=' + $( "select[name='lastAttempt']" ).val()+'&from=' + $( "#from" ).val()+'&to=' + $( "#to" ).val();
+      });
+      $( "#lastAttempt" ).change(function() {  
+          window.location.href = '/crm/leads?repid=' + $( "select[name='repid']" ).val() +'&pid=' + $( "select[name='pid']" ).val() +'&source=' + $( "select[name='source']" ).val() + '&soldBy=' + $( "select[name='soldBy']" ).val() +'&lastAttempt=' + $( "select[name='lastAttempt']" ).val()+'&from=' + $( "#from" ).val()+'&to=' + $( "#to" ).val();
+      }); 
+        
+      /* Dariuz Rubin */
+     /* $(document).ready(function(){	  			
+	        setInterval(alertfollowup,1000*60*2);	              // alert for contact from contact-side bar
+		    function alertfollowup(){    
+		    	console.log("alertfollowup");
+		    	location.reload();
+		    }
+	  });*/
+	  /*==============*/
+    })   
+   
+</script>

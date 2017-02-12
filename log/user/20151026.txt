@@ -1,0 +1,113 @@
+2015-10-26T08:37:02-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:24:"Furman Dental Consulting";s:7:"user_id";s:5:"14459";}
+2015-10-26T08:37:08-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:43:"http://furmandentalconsulting.com/about-us/";s:7:"user_id";s:5:"14459";}
+2015-10-26T08:44:22-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:23:"Mobile: +966 5 70079029";s:7:"user_id";s:5:"10230";}
+2015-10-26T08:44:42-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:23:"966 11 2885022 Ext. 106";s:7:"user_id";s:5:"10230";}
+2015-10-26T08:44:49-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:24:"966 11 288 5022 Ext. 106";s:7:"user_id";s:5:"10230";}
+2015-10-26T08:45:28-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:16:"+966 11 288 5060";s:7:"user_id";s:5:"10230";}
+2015-10-26T08:45:34-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:21:"FAX: +966 11 288 5060";s:7:"user_id";s:5:"10230";}
+2015-10-26T09:55:46-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12530";}
+2015-10-26T09:57:18-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:10:"Sheik Glam";s:7:"user_id";s:5:"12530";}
+2015-10-26T10:32:08-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14235";}
+2015-10-26T11:31:29-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:12:"USPS ONLY!!!";s:7:"user_id";s:5:"14283";}
+2015-10-26T11:31:42-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:9:"USPS ONLY";s:7:"user_id";s:5:"14283";}
+2015-10-26T11:42:18-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:6:"Trudy ";s:7:"user_id";s:5:"14399";}
+2015-10-26T11:42:23-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Trudy Bone";s:7:"user_id";s:5:"14399";}
+2015-10-26T11:42:26-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Trudy Bone";s:7:"user_id";s:5:"14399";}
+2015-10-26T11:42:33-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14399";}
+2015-10-26T11:49:51-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:0:"";s:7:"user_id";s:5:"14442";}
+2015-10-26T12:21:33-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:96:"Wants to start a mobile business but has no $$$. Is going to talk with someone about financing. ";s:7:"user_id";s:5:"14462";}
+2015-10-26T12:21:37-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14462";}
+2015-10-26T12:21:41-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14462";}
+2015-10-26T12:24:56-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:20:"Serene Skin and Body";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:7:"Allison";s:8:"lastname";s:6:"Bagley";s:12:"contactphone";s:12:"831-427-1912";s:5:"email";s:26:"inquiry@sereneskincare.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:22:"Face and Body San Jose";s:4:"type";s:7:"Account";s:8:"password";s:40:"26c06417afbc24a4ca891b9ff30527c7513b906a";s:8:"username";s:20:"Serene Skin and Body";s:12:"created_time";s:19:"2015-10-26 12:24:56";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"825c2d862c731e551166d6b5de42472f";}
+2015-10-26T12:28:16-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Salon Royale";s:7:"user_id";s:3:"264";}
+2015-10-26T12:28:21-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Salon Royale";s:7:"user_id";s:3:"264";}
+2015-10-26T12:32:45-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:24:"terushajenkins@gmail.com";s:7:"user_id";s:5:"14462";}
+2015-10-26T12:39:25-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14469";}
+2015-10-26T12:40:31-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14471";}
+2015-10-26T13:09:23-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14471";}
+2015-10-26T13:10:28-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14471";}
+2015-10-26T13:19:30-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"503-309-6561";s:7:"user_id";s:5:"14273";}
+2015-10-26T13:28:08-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14273";}
+2015-10-26T13:35:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14424";}
+2015-10-26T13:38:13-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:13:"508-317-8709 ";s:7:"user_id";s:5:"14442";}
+2015-10-26T13:48:28-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"765-714-5248";s:7:"user_id";s:5:"14447";}
+2015-10-26T13:48:57-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14447";}
+2015-10-26T13:56:45-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"386-453-7660";s:7:"user_id";s:5:"14454";}
+2015-10-26T13:56:52-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:21:"becky_julia@yahoo.com";s:7:"user_id";s:5:"14454";}
+2015-10-26T13:58:45-07:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"14453";}
+2015-10-26T14:36:02-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:32:"(217) 546-0919 FAX: 217-291-0401";s:7:"user_id";s:4:"8895";}
+2015-10-26T14:51:33-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:8:"Fay Berg";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"845-826-4928";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Fay";s:8:"lastname";s:4:"Berg";s:12:"contactphone";s:12:"845-826-4928";s:5:"email";s:18:"pb2001us@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"182b4afa89e3325ee173abbf622c7537e7fc45ca";s:8:"username";s:8:"Fay Berg";s:12:"created_time";s:19:"2015-10-26 14:51:33";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"fd9f7faa0e29a5fa28b1869c842aef6e";}
+2015-10-26T14:52:20-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:132:"Currently using Smile Labs. Does about 20 treatments per month. Interested in generic products, says Smile Labs doesn't offer that. ";s:7:"user_id";s:5:"14474";}
+2015-10-26T14:53:00-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:10:"26 Jill Ln";s:7:"user_id";s:5:"14474";}
+2015-10-26T14:53:06-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:6:"Monsey";s:7:"user_id";s:5:"14474";}
+2015-10-26T14:53:14-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:23:"victor.tvrdak@gmail.com";s:7:"user_id";s:4:"1615";}
+2015-10-26T14:53:15-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"10952";s:7:"user_id";s:5:"14474";}
+2015-10-26T14:53:31-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:14:"61-41-441-2976";s:7:"user_id";s:4:"1615";}
+2015-10-26T15:09:20-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14454";}
+2015-10-26T15:09:41-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:5:"Julia";s:7:"user_id";s:5:"14454";}
+2015-10-26T15:09:43-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Julia";s:7:"user_id";s:5:"14454";}
+2015-10-26T15:10:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"407-437-4268";s:7:"user_id";s:5:"14456";}
+2015-10-26T15:10:52-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"Roberta ";s:7:"user_id";s:5:"14456";}
+2015-10-26T15:10:57-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Roberta Gregory";s:7:"user_id";s:5:"14456";}
+2015-10-26T15:11:00-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Roberta Gregory";s:7:"user_id";s:5:"14456";}
+2015-10-26T15:11:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14456";}
+2015-10-26T15:15:45-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:47:"Call and make suer that she received my e-mail.";s:7:"user_id";s:5:"14454";}
+2015-10-26T15:30:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"612-332-0142";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:30:45-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:5:"Angie";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:39:21-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Angie Byboth-malmin";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:39:24-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:19:"Angie Byboth-malmin";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:39:28-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:40:58-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:6:"Cindy ";s:7:"user_id";s:5:"14464";}
+2015-10-26T15:41:03-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Cindy Coppersmith";s:7:"user_id";s:5:"14464";}
+2015-10-26T15:41:04-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:17:"Cindy Coppersmith";s:7:"user_id";s:5:"14464";}
+2015-10-26T15:41:08-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"270-935-5266";s:7:"user_id";s:5:"14464";}
+2015-10-26T15:49:06-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:35:"http://www.permanentmakeuparts.com/";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:49:51-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"4204 Cedar ave ";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:49:59-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:6:"55407 ";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:50:18-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"UG";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:50:21-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:50:40-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"MN";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:50:53-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:13:"612-332-0142 ";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:50:58-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:13:"612-332-0142 ";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:51:14-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:29:"Angie@permanentmakeuparts.com";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:51:23-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:21:"PERMANENT MAKEUP ARTS";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:51:27-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:21:"PERMANENT MAKEUP ARTS";s:7:"user_id";s:5:"14461";}
+2015-10-26T15:55:00-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:07:22-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"11981 East Bord Dr";s:7:"user_id";s:5:"10307";}
+2015-10-26T16:07:30-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"80012";s:7:"user_id";s:5:"10307";}
+2015-10-26T16:07:37-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"11981 East Board Dr";s:7:"user_id";s:5:"10307";}
+2015-10-26T16:12:26-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:502:"Currently using davinci. Her two year contract is up and she is interested in trying something new. Says she is currently using a paint on method and gets 5 - 10 shades of improvement after 3 20 min applications. One thing she likes about Davinci is that they are just down the road and they accept Care Credit. She says she only works on weekends but that she does 12 - 16 appointments per week. She is interested in both Advanced Kits and Deluxe Home Kits. She would like to Private Label Home Kits. ";s:7:"user_id";s:5:"10307";}
+2015-10-26T16:13:02-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:502:"Currently using davinci. Her two year contract is up and she is interested in trying something new. Says she is currently using a paint on method and gets 5 - 10 shades of improvement after 3 20 min applications. One thing she likes about Davinci is that they are just down the road and they accept Care Credit. She says she only works on weekends but that she does 12 - 16 appointments per week. She is interested in both Advanced Kits and Deluxe Home Kits. She would like to Private Label Home Kits. ";s:7:"user_id";s:5:"14473";}
+2015-10-26T16:15:09-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:21:"sonyapolice@gmail.com";s:7:"user_id";s:5:"10307";}
+2015-10-26T16:28:49-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:30:"Perfect Image Body Spa & Laser";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:28:52-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:30:"Perfect Image Body Spa & Laser";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:29:12-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:138:"Hours
+Mon: 9:00AM-6:00PM
+Tue: 9:00AM-6:00PM
+Wed: 9:00AM-6:00PM
+Thu: 9:00AM-6:00PM
+Fri: 9:00AM-6:00PM
+Sat: 9:00AM-6:00PM
+Sun: 9:00AM-4:00PM";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:29:23-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"270-935-5266";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:29:26-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"270-935-5266";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:29:42-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:29:"http://perfectimagespaky.com/";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:29:56-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"927 Broadway Avenue";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:30:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:23:"Bowling Green, KY 42101";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:30:12-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:13:"Bowling Green";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:30:17-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:30:22-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"KY";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:30:23-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"42101";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:30:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:0:"";s:7:"user_id";s:5:"14464";}
+2015-10-26T16:34:49-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"330-245-7154";s:7:"user_id";s:5:"14466";}
+2015-10-26T16:35:17-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:9:"Gabrielle";s:7:"user_id";s:5:"14466";}
+2015-10-26T16:35:22-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Gabrielle Daniel";s:7:"user_id";s:5:"14466";}
+2015-10-26T16:35:24-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Gabrielle Daniel";s:7:"user_id";s:5:"14466";}
+2015-10-26T16:35:27-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14466";}
+2015-10-26T16:35:32-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14466";}
+2015-10-26T16:57:17-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14273";}
+2015-10-26T17:06:41-07:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"14468";}
+2015-10-26T17:55:30-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:21:"Jubilee Dental Center";s:7:"user_id";s:3:"284";}
+2015-10-26T17:55:52-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:27:"http://www.goldenpeach.net/";s:7:"user_id";s:3:"284";}
+2015-10-26T17:56:22-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:21:"Jubilee Dental Centre";s:7:"user_id";s:3:"284";}
+2015-10-26T17:56:41-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:19:"778-476-5900 - CELL";s:7:"user_id";s:3:"284";}

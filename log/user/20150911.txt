@@ -1,0 +1,31 @@
+2015-09-11T08:54:12-07:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"12748";}
+2015-09-11T08:54:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:4:"Rani";s:7:"user_id";s:5:"12091";}
+2015-09-11T08:54:51-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"858-536-8111";s:7:"user_id";s:5:"12091";}
+2015-09-11T09:40:37-07:00 INFO (6): Adrian Wallace--a:2:{s:12:"contactphone";s:12:"727 799 1088";s:7:"user_id";s:4:"2178";}
+2015-09-11T09:41:33-07:00 INFO (6): Adrian Wallace--a:2:{s:13:"contactphone2";s:12:"727 599 8447";s:7:"user_id";s:4:"2178";}
+2015-09-11T10:01:16-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"12948";}
+2015-09-11T10:04:38-07:00 INFO (6): Adrian Wallace--a:2:{s:5:"email";s:20:"rickfromme@gmail.com";s:7:"user_id";s:5:"10545";}
+2015-09-11T12:27:41-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:17:"eosmaneid@aol.com";s:7:"user_id";s:5:"13143";}
+2015-09-11T13:01:41-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"McKinney Smiles";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:23:"2780 Virginia Pkwy #201";s:8:"address2";s:0:"";s:4:"city";s:8:"McKinney";s:5:"state";s:2:"TX";s:3:"zip";s:5:"75071";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Nicole";s:8:"lastname";s:6:"Nicole";s:12:"contactphone";s:0:"";s:5:"email";s:20:"nbeasley37@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"c479773c1fbcc0462c3497b6ff5b9180f72e215e";s:8:"username";s:15:"McKinney Smiles";s:12:"created_time";s:19:"2015-09-11 13:01:41";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"bd4c854388dfb7910a9633f091941206";}
+2015-09-11T13:02:23-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:18:"Nicole - Hygienist";s:7:"user_id";s:5:"14090";}
+2015-09-11T13:02:28-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:19:"Nicole - Hygienist
+";s:7:"user_id";s:5:"14090";}
+2015-09-11T13:02:39-07:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:5:"14090";}
+2015-09-11T13:03:01-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"972-542-8400";s:7:"user_id";s:5:"14090";}
+2015-09-11T13:03:09-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"972-542-8400";s:7:"user_id";s:5:"14090";}
+2015-09-11T13:23:59-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:26:"http://mckinneysmiles.com/";s:7:"user_id";s:5:"14090";}
+2015-09-11T13:28:40-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14084";}
+2015-09-11T13:30:05-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14086";}
+2015-09-11T13:30:41-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14087";}
+2015-09-11T13:32:32-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14088";}
+2015-09-11T13:40:06-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12948";}
+2015-09-11T14:36:27-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:19:"*** ALL GENERIC ***";s:7:"user_id";s:5:"12948";}
+2015-09-11T14:58:31-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14090";}
+2015-09-11T14:59:05-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:15:"F: 972-542-8430";s:7:"user_id";s:5:"14090";}
+2015-09-11T14:59:29-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:137:"Nicole - Hygienist
+8 am – 5 pm Monday
+7 am – 4 pm Tuesday
+7 am – 4 pm Wednesday
+7 am – 4 pm Thursday
+8 am – 1 pm Select Fridays";s:7:"user_id";s:5:"14090";}
+2015-09-11T17:30:40-07:00 INFO (6): Adrian Wallace--a:2:{s:8:"address1";s:13:"8 Seacove Crt";s:7:"user_id";s:4:"1046";}

@@ -1,0 +1,105 @@
+<!--div class="row">
+    <div class="col-lg-12">
+        <h2 class="page-header">Edit Category</h2>
+    </div>
+   
+</div-->
+<!-- /.row -->
+
+<div class="row">
+   
+    <div class="col-lg-10">    
+        
+        <div class="panel panel-info">           
+            <div class="panel-heading"> Click an icon to edit Category </div>
+            <div class="panel-body">
+        <form role="form" id="categoryForm">
+       <? foreach($this->categories as $category): ?>   
+           <ul class="nav">        
+            <li><?= $category['name'] ?>  <span style="margin-left: 3em; cursor:pointer;" class="glyphicon glyphicon-pencil" id="<?= $category['category_id']?>"></span> | <span style="cursor:pointer;" class="glyphicon glyphicon-remove" id="<?= $category['category_id']?>"></span></li>             
+            <? if(!empty($category['children'])): ?>
+            <ul class="nav nav-second-level">
+                <? foreach($category['children'] as $children): ?>
+                <li>&nbsp;&nbsp;&nbsp; --<?= $children['name'] ?>  <span style="margin-left: 3em;cursor:pointer;" class="glyphicon glyphicon-pencil" id="<?= $children['category_id']?>"></span> | <span style="cursor:pointer;" class="glyphicon glyphicon-remove" id="<?= $children['category_id']?>"></span></li>
+                <? endforeach; ?>     
+            </ul>
+            <? endif;?>
+            </ul>
+        <?endforeach;?>
+       
+      </form> 
+            </div>
+    </div>
+        </div>
+    <!-- /.col-lg-12 -->
+</div>
+
+<div id="dialog_edit_category">
+	<div id="edit_category"></div>
+</div>
+
+
+<script>
+$(function() {
+    $(".glyphicon-remove").click(function() {           
+        var r=confirm("Delete this category? All subgategory will be deleted.");
+        if (r==true) {
+            $.post('/biz/fm/edit-category', 
+                                { 
+                                    "action" : 'delete',
+                                    "category_id":$(this).attr("id")                     
+                                },
+                         function(data) {                           
+                             if (data == 'success') {
+                                  window.location.href = '/biz/fm/category';
+                             }
+                         });           
+        }        
+    });
+    
+    $('.glyphicon-pencil').click(function() {                   
+            $('#edit_category').html(''); 
+            $("#edit_category").load("/biz/fm/edit-category-name", {
+                        'category_id': $(this).attr("id")                        
+                      });
+	    $('#dialog_edit_category').dialog('open');
+	}); 
+        
+    $('#dialog_edit_category').dialog({
+		title: 'Edit Category Name',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    Edit: function() {                      
+                       // e.preventDefault();
+			dataString = $("#categoryNameForm").serialize();                    
+                        $.ajax({                                    
+				type: "POST",
+				url: '/biz/fm/edit-category',
+				data: dataString,
+				dataType: 'html',
+				success: function(data) {
+                                    if (data == 'success') {                                                                          
+                                        $("#dialog_edit_category").dialog('close');   
+                                         window.location.href = '/biz/fm/category';
+                                     } else {
+                                         $("#message").html(data);                               
+                                     }
+				}
+			});
+                    },
+		    Cancel: function() {
+			$('#edit_category').html('');
+			$(this).dialog('close');
+                    }
+		}
+	});
+
+   
+    
+});
+</script>

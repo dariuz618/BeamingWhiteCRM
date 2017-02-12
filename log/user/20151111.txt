@@ -1,0 +1,81 @@
+2015-11-11T08:51:50-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:16:"Danielle Jeffrey";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:8:"Danielle";s:8:"lastname";s:7:"Jeffrey";s:12:"contactphone";s:0:"";s:5:"email";s:26:"daniellenjeffrey@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"748e88c54fdc8f1598be5a276060aadabd532e50";s:8:"username";s:16:"Danielle Jeffrey";s:12:"created_time";s:19:"2015-11-11 08:51:49";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"0085744497e2038cb1509747dd589695";}
+2015-11-11T08:52:17-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"404-396-5032";s:7:"user_id";s:5:"14588";}
+2015-11-11T09:14:45-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"LA";s:7:"user_id";s:5:"14586";}
+2015-11-11T09:32:26-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:223:"I am an entrepreneur and interested in a teeth whitening business. Purchasing some portion or all of Glam Whitening from Julia. Called in about kits.
+Adv Kits $9 ea 1.1.4 SCR
+DW Fusion $5 ea
+FW Pen $7 ea
+Minerals Pens $7 ea";s:7:"user_id";s:4:"2400";}
+2015-11-11T09:38:02-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"12618";}
+2015-11-11T09:43:38-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:15:"claudia@bbwa.us";s:7:"user_id";s:4:"1251";}
+2015-11-11T09:48:41-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:31:"Be Bellus Wellness & Aesthetics";s:7:"user_id";s:4:"1251";}
+2015-11-11T09:48:46-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:31:"Be Bellus Wellness & Aesthetics";s:7:"user_id";s:4:"1251";}
+2015-11-11T09:49:25-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:21:"6914 W. Linebaugh Ave";s:7:"user_id";s:4:"1251";}
+2015-11-11T09:49:58-08:00 INFO (6): Windy Jenkins--a:2:{s:5:"email";s:15:"claudia@bbwa.us";s:7:"user_id";s:4:"1251";}
+2015-11-11T09:50:08-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:15:"lem@bbellus.com";s:7:"user_id";s:4:"1251";}
+2015-11-11T09:55:23-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14588";}
+2015-11-11T09:56:25-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14367";}
+2015-11-11T09:59:43-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:650:"I spoke to Danielle today. She mentioned that talked to someone before but did not know who. I asked Brian but he does not remember her, it must have been Jonathan since she was not in the CRM. I spoke to her about Stationary Option #2 and the Salon Starter Package. She is mainly interested in Stationary Option #2 with a portable mesh recliner and the Professional Facial Bed. She also wanted to know our prices for the website and custom flyers. I sent her all of this information by e-mail along with the order form. I told her that the Stationary Option #2 is $1,749 + $200 for the professional Facial Bed & $100 for the portable mesh recliner. ";s:7:"user_id";s:5:"14588";}
+2015-11-11T09:59:48-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:0:"";s:7:"user_id";s:5:"14588";}
+2015-11-11T09:59:52-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"413 Kendall Ln.";s:7:"user_id";s:5:"14588";}
+2015-11-11T10:00:03-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"McDonough";s:7:"user_id";s:5:"14588";}
+2015-11-11T10:00:05-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"30253";s:7:"user_id";s:5:"14588";}
+2015-11-11T10:00:23-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"14588";}
+2015-11-11T10:25:08-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:14:"Glow Salon Spa";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MO";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"314-323-7531";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Sandy";s:8:"lastname";s:5:"Suter";s:12:"contactphone";s:12:"314-323-7531";s:5:"email";s:22:"sandy@glowsalonspa.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"7a375fe9220e7ed6bff423856a996e31f0c437eb";s:8:"username";s:14:"Glow Salon Spa";s:12:"created_time";s:19:"2015-11-11 10:25:08";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"56dfd323b9b13a617ce6e5b43b6439dc";}
+2015-11-11T10:26:06-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:160:"Sandy just hired an aesthetician who did TW at another spa and wants to offer it at Glo Salon. Sandy called to learn a little about it before talking with her. ";s:7:"user_id";s:5:"14590";}
+2015-11-11T10:50:52-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14552";}
+2015-11-11T10:51:00-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14552";}
+2015-11-11T10:51:45-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:129:"Sandy's family is opening a salon in the spring of 2016. They are interested in 2 - 4 teeth whitening stations. They have chairs.";s:7:"user_id";s:5:"14552";}
+2015-11-11T11:05:59-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:13:"Stacey Cooper";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"VA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:6:"Stacey";s:8:"lastname";s:6:"Cooper";s:12:"contactphone";s:0:"";s:5:"email";s:34:"balancing7beautyboutique@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:17:"Philadelphia 2015";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"e4169ea4cbe0bc19f3ad1d134162d7134d4ef36c";s:8:"username";s:13:"Stacey Cooper";s:12:"created_time";s:19:"2015-11-11 11:05:58";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"e116426c080a9ff0a3301566f4e25b71";}
+2015-11-11T11:07:16-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"757-774-7141";s:7:"user_id";s:5:"14591";}
+2015-11-11T11:09:22-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:25:"4308 Colindale Rd APT 203";s:7:"user_id";s:5:"14591";}
+2015-11-11T11:09:27-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:" Chesapeake";s:7:"user_id";s:5:"14591";}
+2015-11-11T11:09:30-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:6:"23321 ";s:7:"user_id";s:5:"14591";}
+2015-11-11T11:09:37-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:26:"4308 Colindale Rd Unit 203";s:7:"user_id";s:5:"14591";}
+2015-11-11T11:44:41-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14591";}
+2015-11-11T11:45:51-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"412-804-1024";s:7:"user_id";s:5:"14587";}
+2015-11-11T11:47:47-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14587";}
+2015-11-11T11:47:51-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:6:"Jackie";s:7:"user_id";s:5:"14587";}
+2015-11-11T11:47:58-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Jackie Weber";s:7:"user_id";s:5:"14587";}
+2015-11-11T11:48:00-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Jackie Weber";s:7:"user_id";s:5:"14587";}
+2015-11-11T12:06:15-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:16:"Victoria Robbins";s:7:"user_id";s:4:"3291";}
+2015-11-11T12:06:21-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"lastname";s:7:"Robbins";s:7:"user_id";s:4:"3291";}
+2015-11-11T12:18:57-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:15:"John the Barber";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"UT";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"John";s:8:"lastname";s:5:"Lopez";s:12:"contactphone";s:12:"801-808-4458";s:5:"email";s:24:"slctruebarbers@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"fd460b25d4352039a4420e4efa1ad77a3954f5fb";s:8:"username";s:15:"John the Barber";s:12:"created_time";s:19:"2015-11-11 12:18:57";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"00393ca4e9b923bb74238ffe472da558";}
+2015-11-11T12:19:52-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:45:"Called in on 11/9 left a message with Windy. ";s:7:"user_id";s:5:"14593";}
+2015-11-11T12:43:39-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"210-401-4441";s:7:"user_id";s:4:"2375";}
+2015-11-11T12:43:56-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:34:"beautycliniquesanantonio@gmail.com";s:7:"user_id";s:4:"2137";}
+2015-11-11T12:44:05-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"210-401-4441";s:7:"user_id";s:4:"2137";}
+2015-11-11T12:44:32-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Beauty Clinique";s:7:"user_id";s:4:"2137";}
+2015-11-11T12:50:43-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"210-328-7686";s:7:"user_id";s:4:"2137";}
+2015-11-11T12:51:22-08:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:4:"2137";}
+2015-11-11T14:28:34-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:14:"(347) 426-7261";s:7:"user_id";s:5:"14525";}
+2015-11-11T14:38:32-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:9:"Bridgette";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:9:"Bridgette";s:8:"lastname";s:9:"Bridgette";s:12:"contactphone";s:0:"";s:5:"email";s:20:"needemail1@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"30a96f2b86a50e538a97da030e805bf8981a7702";s:8:"username";s:9:"Bridgette";s:12:"created_time";s:19:"2015-11-11 14:38:32";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"9082e2640de218f0bd15996de611abea";}
+2015-11-11T14:39:28-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14596";}
+2015-11-11T14:56:43-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14562";}
+2015-11-11T16:07:50-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:18:"Monica Pazvillegas";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"508-292-8273";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Monica";s:8:"lastname";s:11:"Pazvillegas";s:12:"contactphone";s:12:"508-292-8273";s:5:"email";s:28:"monica.pazvillegas@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"078177e724bccbe497d4e712c63bc35b55491ee6";s:8:"username";s:18:"Monica Pazvillegas";s:12:"created_time";s:19:"2015-11-11 16:07:50";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"0200083f50ef22e3674475465195caf9";}
+2015-11-11T16:09:30-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:136:"Heavy accent. Says she was a dentist in another country? Interested in a Mobile package, sold her mobile #2 with a recliner for $1,799. ";s:7:"user_id";s:5:"14597";}
+2015-11-11T17:13:00-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:17:"Jennifer Mitchell";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:8:"Jennifer";s:8:"lastname";s:8:"Mitchell";s:12:"contactphone";s:0:"";s:5:"email";s:20:"needemail2@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"efda5636783c2d79558eb6f76574f67d58b7dcf1";s:8:"username";s:17:"Jennifer Mitchell";s:12:"created_time";s:19:"2015-11-11 17:12:59";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"b5a19d9d9980357e64f81727d22b353e";}
+2015-11-11T17:13:15-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"857 939-0072";s:7:"user_id";s:5:"14599";}
+2015-11-11T17:13:18-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"857 939-0072";s:7:"user_id";s:5:"14599";}
+2015-11-11T17:14:15-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"857-939-0072";s:7:"user_id";s:5:"14599";}
+2015-11-11T17:15:06-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14599";}
+2015-11-11T17:19:24-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:20:"aaron095@comcast.net";s:7:"user_id";s:5:"14528";}
+2015-11-11T17:49:05-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:143:"ADVANCED GENERIC 1.1.4G (SCR)**GENERIC
+Lamps $650 ea
+Kits $4.50 ea
+T/U pens $4 ea
+Min Pens $3.45 ea
+DW Fusion $3.15
+Goggles $7.50
+Bib Holder $4";s:7:"user_id";s:4:"2566";}
+2015-11-11T17:50:31-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"913-334-8053";s:7:"user_id";s:5:"14598";}
+2015-11-11T17:50:36-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"913-334-8053";s:7:"user_id";s:5:"14598";}
+2015-11-11T17:50:40-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"913-334-8053";s:7:"user_id";s:5:"14598";}
+2015-11-11T17:55:09-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:7:"Kiardra";s:7:"user_id";s:5:"14598";}
+2015-11-11T17:55:15-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Kiardra Hamilton";s:7:"user_id";s:5:"14598";}
+2015-11-11T17:55:18-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Kiardra Hamilton";s:7:"user_id";s:5:"14598";}
+2015-11-11T17:55:21-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14598";}
+2015-11-11T22:10:06-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:8:"Dr. Chew";s:7:"user_id";s:5:"14584";}
+2015-11-11T22:10:52-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"Dr. Chew";s:7:"user_id";s:5:"14584";}
+2015-11-11T22:10:54-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Dr. Chew";s:7:"user_id";s:5:"14584";}
+2015-11-11T22:12:24-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14584";}

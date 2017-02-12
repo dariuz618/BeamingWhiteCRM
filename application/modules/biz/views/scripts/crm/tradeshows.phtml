@@ -1,0 +1,64 @@
+
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Sales CRM</h2>
+        <ol class="breadcrumb">               
+            <li><a href="/crm/prospect">Leads</a></li> 
+            <li><a href="/crm/prospect">Prospects</a></li>             
+            <li><a href="/crm/accounts">Accounts</a></li> 
+            <li><a href="/crm/activity">Activities</a></li>
+			<li class="active">Tradeshows</li>
+        </ol>
+    </div>    
+</div>
+
+<h3>Tradeshows</h3>
+
+<pre>
+<?php // print_r($this->tsname); ?>
+</pre>
+
+<h2>City, State, and Country:</h2>
+<select>
+	<?php
+		$tscity = $this->tscity;
+
+		foreach($tscity as $ts) {
+			echo "<option>";	
+			echo $ts["city"] . ", " . $ts["state"] . ", " . $ts["country"];
+			echo "</option>";
+		}
+	
+	?>
+</select>
+
+<h2>Tradeshow Name</h2>
+<select>
+	<?php
+		$tsname = $this->tsname;
+
+		foreach($tsname as $ts) {
+			echo "<option>";
+			echo $ts["name"];
+			echo "</option>";
+		}
+	?>
+</select>
+
+<h2>Year</h2>
+<select>
+	<?php
+		$tsyear = $this->tsyear;
+	
+		foreach($tsyear as $ts) {
+			echo "<option>";
+			echo $ts["year"];
+			echo "</option>";
+		}
+	?>
+</select>
+
+
+
+<link href='/public/css/crm.css' rel='stylesheet' />
+

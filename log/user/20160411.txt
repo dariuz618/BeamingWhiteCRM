@@ -1,0 +1,119 @@
+2016-04-11T08:24:43-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Caroline K";s:7:"user_id";s:5:"15749";}
+2016-04-11T08:24:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:5:"Chris";s:7:"user_id";s:5:"15749";}
+2016-04-11T08:24:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:7:"Johnson";s:7:"user_id";s:5:"15749";}
+2016-04-11T08:25:00-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:21:"carolinek@valuemed.ca";s:7:"user_id";s:5:"15749";}
+2016-04-11T08:25:05-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:24:"chrisjohnson@valuemed.ca";s:7:"user_id";s:5:"15749";}
+2016-04-11T08:25:10-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:21:"carolinek@valuemed.ca";s:7:"user_id";s:5:"15749";}
+2016-04-11T08:25:13-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"15749";}
+2016-04-11T08:58:05-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16034";}
+2016-04-11T08:59:25-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:30:"bronzeanytimetanning@yahoo.com";s:7:"user_id";s:5:"12809";}
+2016-04-11T08:59:46-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:60:"bronzeanytimetanning@yahoo.combronzeanytimetanning@yahoo.com";s:7:"user_id";s:5:"12809";}
+2016-04-11T09:01:11-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"12809";}
+2016-04-11T09:01:24-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:31:"bronzeanytimetanning@yahoo.com2";s:7:"user_id";s:5:"12809";}
+2016-04-11T09:30:17-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:21:"Shala fitness and spa";s:7:"user_id";s:5:"16034";}
+2016-04-11T09:30:25-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:21:"Shala Fitness and Spa";s:7:"user_id";s:5:"16034";}
+2016-04-11T09:30:35-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"631-357-4281";s:7:"user_id";s:5:"16071";}
+2016-04-11T09:38:03-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"757-329-5363";s:7:"user_id";s:5:"16073";}
+2016-04-11T09:41:34-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"469-338-9066";s:7:"user_id";s:5:"16065";}
+2016-04-11T09:43:28-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"832-245-8632";s:7:"user_id";s:5:"16062";}
+2016-04-11T09:47:46-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16073";}
+2016-04-11T09:47:48-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16073";}
+2016-04-11T09:47:49-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"16073";}
+2016-04-11T09:47:51-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16073";}
+2016-04-11T09:47:57-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16073";}
+2016-04-11T10:02:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Kenya Rodgers";s:7:"user_id";s:5:"16073";}
+2016-04-11T10:03:32-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16072";}
+2016-04-11T10:03:46-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Kenya Rodgers";s:7:"user_id";s:5:"16072";}
+2016-04-11T10:04:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16072";}
+2016-04-11T10:05:02-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"16072";}
+2016-04-11T10:05:06-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"16072";}
+2016-04-11T10:05:12-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"757-329-5363";s:7:"user_id";s:5:"16072";}
+2016-04-11T10:06:17-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"985-413-3472";s:7:"user_id";s:5:"16068";}
+2016-04-11T10:06:27-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Savannah";s:7:"user_id";s:5:"16068";}
+2016-04-11T10:06:32-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Savannah Johnson";s:7:"user_id";s:5:"16068";}
+2016-04-11T10:06:35-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Savannah Johnson";s:7:"user_id";s:5:"16068";}
+2016-04-11T10:08:19-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"727-314-4610";s:7:"user_id";s:5:"15949";}
+2016-04-11T10:08:22-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"985-413-3472";s:7:"user_id";s:5:"16068";}
+2016-04-11T10:11:03-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16068";}
+2016-04-11T10:19:17-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16065";}
+2016-04-11T10:19:32-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:26:"Follow up in a couple days";s:7:"user_id";s:5:"16068";}
+2016-04-11T10:24:27-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16065";}
+2016-04-11T10:35:19-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:14:"+1780-756-3828";s:7:"user_id";s:5:"16075";}
+2016-04-11T10:37:28-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16075";}
+2016-04-11T10:41:01-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:20:"4212 Gateway Blvd NW";s:7:"user_id";s:5:"16075";}
+2016-04-11T10:41:15-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:7:"T6J 7K1";s:7:"user_id";s:5:"16075";}
+2016-04-11T10:45:12-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16075";}
+2016-04-11T10:50:44-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:4:"#203";s:7:"user_id";s:5:"16075";}
+2016-04-11T11:02:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16068";}
+2016-04-11T11:03:27-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:10:"Individual";s:7:"user_id";s:5:"16068";}
+2016-04-11T11:03:29-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"16068";}
+2016-04-11T11:03:32-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:6:"Mobile";s:7:"user_id";s:5:"16068";}
+2016-04-11T11:04:13-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Amy Santana";s:7:"user_id";s:5:"16066";}
+2016-04-11T11:04:22-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"951-454-8621";s:7:"user_id";s:5:"16066";}
+2016-04-11T11:04:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16066";}
+2016-04-11T11:08:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"604-346-9839";s:7:"user_id";s:5:"16063";}
+2016-04-11T11:08:28-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16063";}
+2016-04-11T11:10:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Amy Santana";s:7:"user_id";s:5:"16066";}
+2016-04-11T11:11:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16063";}
+2016-04-11T11:34:09-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:20:"info@cocoatanning.ca";s:7:"user_id";s:5:"16063";}
+2016-04-11T11:55:06-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"705-345-1341";s:7:"user_id";s:5:"14469";}
+2016-04-11T11:56:03-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"210 Memorial Ave";s:7:"user_id";s:5:"14469";}
+2016-04-11T11:56:08-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 111";s:7:"user_id";s:5:"14469";}
+2016-04-11T11:56:23-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:7:"L3V 7V1";s:7:"user_id";s:5:"14469";}
+2016-04-11T12:19:44-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:214:"2016:
+DW Fusion $3.5
+Min pens $3.25 no box
+16% 2ml pen $3.00
+Pre Loaded Trays $3.00
+FW Pens $3.5
+LCR's $1
+Sonic FX $20
+Pre kits- $10.50
+Deluxe Home Kits $15.50
+1 Year Maint Kit $17.25
+
+Evoke $150
+Futura Face $2,500";s:7:"user_id";s:3:"538";}
+2016-04-11T12:19:56-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16066";}
+2016-04-11T12:21:36-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:231:"2016:
+DW Fusion $3.5
+Min pens $3.25 no box
+16% 2ml pen $3.00
+Pre Loaded Trays $3.00
+FW Pens $3.5
+LCR's $1
+Sonic FX $20
+Pre kits- $10.50
+Deluxe Home Kits $15.50
+1 Year Maint Kit $17.25
+Lg red goggle $5
+
+Evoke $150
+Futura Face $2,500";s:7:"user_id";s:3:"538";}
+2016-04-11T12:26:39-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16075";}
+2016-04-11T12:27:46-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:135:"Was using a paint on kit from Orawhite in Vancouver BC but Roxanne has not been able to reach them in 4 weeks and needs product asap.  ";s:7:"user_id";s:5:"16075";}
+2016-04-11T12:31:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Raymond Koehler";s:7:"user_id";s:5:"15136";}
+2016-04-11T12:37:51-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16063";}
+2016-04-11T12:40:24-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:4:"2010";}
+2016-04-11T13:02:27-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"469-345-4942";s:7:"user_id";s:5:"16074";}
+2016-04-11T13:29:56-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16074";}
+2016-04-11T13:30:03-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16074";}
+2016-04-11T13:30:18-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"contactphone";s:12:"832-949-5461";s:7:"user_id";s:3:"606";}
+2016-04-11T13:30:21-07:00 INFO (6): Stephanie Brown--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:3:"606";}
+2016-04-11T13:33:06-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:113:"Interested in a mobile package with retail products and private label. Would like to open a salon in the future. ";s:7:"user_id";s:5:"16074";}
+2016-04-11T13:47:10-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"1165 Pacific Blvd";s:7:"user_id";s:4:"2010";}
+2016-04-11T13:47:18-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:7:"V6Z 2R8";s:7:"user_id";s:4:"2010";}
+2016-04-11T13:47:23-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"AB";s:7:"user_id";s:4:"2010";}
+2016-04-11T13:47:34-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:21:"kerri@cocoatanning.ca";s:7:"user_id";s:4:"2010";}
+2016-04-11T13:47:44-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"604-346-9839";s:7:"user_id";s:5:"16063";}
+2016-04-11T13:47:48-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"604-346-9839";s:7:"user_id";s:4:"2010";}
+2016-04-11T14:30:08-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Safra Day Spa";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:8:"Victoria";s:5:"state";s:2:"BC";s:3:"zip";s:7:"V9A 7N6";s:7:"country";s:2:"CA";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:4:"Myra";s:8:"lastname";s:4:"Myra";s:12:"contactphone";s:12:"250-388-7388";s:5:"email";s:19:"safradayspa@shaw.ca";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1fc6ee30588a206c9c81debbc0700b971bcbee97";s:8:"username";s:13:"Safra Day Spa";s:12:"created_time";s:19:"2016-04-11 14:30:08";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"1a563b899c614e092521fc44552138c9";}
+2016-04-11T14:30:21-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16077";}
+2016-04-11T15:26:18-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Guesly Dervil";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:24:"2020 Wells Road Apt 20-G";s:8:"address2";s:0:"";s:4:"city";s:11:"Orange Park";s:5:"state";s:2:"FL";s:3:"zip";s:5:"32073";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"904-434-5374";s:6:"source";N;s:9:"firstname";s:6:"Guesly";s:8:"lastname";s:6:"Dervil";s:12:"contactphone";s:12:"904-434-5374";s:5:"email";s:17:"drvil19@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"10be0dae8b1d99c7a860274ca44ec08f81919d53";s:8:"username";s:13:"Guesly Dervil";s:12:"created_time";s:19:"2016-04-11 15:26:18";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"3c49043a8edc3e1eeb46fd4679297266";}
+2016-04-11T15:26:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16078";}
+2016-04-11T16:30:04-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:12:"217-864-6518";s:7:"user_id";s:3:"169";}
+2016-04-11T16:30:09-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"217-521-6849";s:7:"user_id";s:3:"169";}
+2016-04-11T16:30:17-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"217-864-6518";s:7:"user_id";s:3:"169";}
+2016-04-11T16:30:23-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:3:"169";}
+2016-04-11T17:07:39-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Cheryl Pannozzo";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"RI";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"401-440-4375";s:6:"source";N;s:9:"firstname";s:6:"Cheryl";s:8:"lastname";s:8:"Pannozzo";s:12:"contactphone";s:12:"401-440-4375";s:5:"email";s:19:"cpannozzo@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"640a700e92c06c619cfe7e4394142356ae11a1b2";s:8:"username";s:15:"Cheryl Pannozzo";s:12:"created_time";s:19:"2016-04-11 17:07:39";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"de3759c9e42d8d50de1a3cd8cdddecb4";}
+2016-04-11T17:07:48-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16079";}

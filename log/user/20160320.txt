@@ -1,0 +1,2 @@
+2016-03-20T09:06:49-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15231";}
+2016-03-20T09:07:40-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15838";}

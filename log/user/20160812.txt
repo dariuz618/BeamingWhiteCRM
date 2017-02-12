@@ -1,0 +1,32 @@
+2016-08-12T08:50:27-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17184";}
+2016-08-12T09:18:43-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15554";}
+2016-08-12T09:55:40-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:541:"White Light Smile 22% CP Kit. 
+Contents: 1 x Mini-LED Light
+1 x Set of Thermoforming Trays
+1 x Case for Thermoforming Tray 
+4 x 3mL Lined Syringes with 22% CP. 
+The Thermoforming Trays come Inside of the Tray Cases, the Lot Number & Expiration Sticker on the bottom of the boxes & the customer Provides his own boxes.
+
+Shipping Company: Michael Widjaja
+Domestic Operations Manager
+SEKO Logistics, 7345 Mission Gorge Rd
+Suite J, San Diego CA, 92120
+Main: 619-229-2222
+Fax:619-229-2229
+Michael.Widjaja@sekologistics.com. www.sekologistics.com ";s:7:"user_id";s:5:"16715";}
+2016-08-12T11:17:55-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15961";}
+2016-08-12T13:27:42-07:00 INFO (6): Cory Nielsen--a:2:{s:11:"description";s:296:"*Daily White Fusion = $4.75,  *Sug. Retail $10-20
+*Tan White Kit = $9, $8  if you order 500 at a time    *Sug. Retail $30-50
+*Deluxe Take Home Kit = $12, *Sug. Retail $30-75
+*Forever White Touch Up Pen = $5.25,   *Sug. Retail $15-25
+*Forever White Touch Up Pen XL = $10,       *Sug. Retail $25-35";s:7:"user_id";s:5:"11968";}
+2016-08-12T16:46:13-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:11:"Rugged West";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MT";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:20:"Home: (701) 565-2253";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Theresa";s:8:"lastname";s:4:"Voll";s:12:"contactphone";s:17:"Cell 406-480-1777";s:5:"email";s:21:"mtvoll@ruggedwest.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"e1879bc2bb83e65ea7faab5b6c3e4a5b0f7d314f";s:8:"username";s:11:"Rugged West";s:12:"created_time";s:19:"2016-08-12 16:46:13";s:2:"ip";s:13:"67.171.252.46";s:4:"salt";s:32:"eacc8007ec53f44e610e8e92e60f0be9";}
+2016-08-12T17:18:30-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"10010";}
+2016-08-12T17:50:11-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17193";}
+2016-08-12T22:20:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:21:"PT UTAMA KARYA TINGGI";s:7:"user_id";s:5:"16344";}
+2016-08-12T22:20:41-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:37:"Allamanda office building , 5th floor";s:7:"user_id";s:5:"16344";}
+2016-08-12T22:20:54-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:24:"Jl. Bypass Ngurah Rai 67";s:7:"user_id";s:5:"16344";}
+2016-08-12T22:21:41-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:36:"Jl. Bypass Ngurah Rai 67 Kedonganan ";s:7:"user_id";s:5:"16344";}
+2016-08-12T22:21:59-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"80361";s:7:"user_id";s:5:"16344";}
+2016-08-12T22:39:11-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16344";}
+2016-08-12T22:59:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16652";}

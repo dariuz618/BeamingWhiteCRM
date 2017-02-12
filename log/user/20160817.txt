@@ -1,0 +1,103 @@
+2016-08-17T08:41:10-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"505-261-8156";s:7:"user_id";s:5:"17220";}
+2016-08-17T08:51:19-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17220";}
+2016-08-17T09:20:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"10010";}
+2016-08-17T09:47:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"917-728-7002";s:7:"user_id";s:5:"17057";}
+2016-08-17T10:19:09-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16392";}
+2016-08-17T10:19:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16392";}
+2016-08-17T10:35:05-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:37:49-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:72:"SHIPPING:
+WittCosmetics / Att: Inger Skødeberg Nielsen
+Gødstrupvej 60
+";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:37:56-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:85:"SHIPPING:
+WittCosmetics / Att: Inger Skødeberg Nielsen
+Gødstrupvej 60
+7400 Herning
+";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:38:01-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:110:"SHIPPING:
+WittCosmetics / Att: Inger Skødeberg Nielsen
+Gødstrupvej 60
+7400 Herning
+Denmark CVR: DK 20981075
+";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:38:05-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:126:"SHIPPING:
+WittCosmetics / Att: Inger Skødeberg Nielsen
+Gødstrupvej 60
+7400 Herning
+Denmark CVR: DK 20981075
++45 51 15 66 80
+";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:38:13-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:134:"SHIPPING ADDRESS:
+WittCosmetics / Att: Inger Skødeberg Nielsen
+Gødstrupvej 60
+7400 Herning
+Denmark CVR: DK 20981075
++45 51 15 66 80
+";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:38:33-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"Gødstrupvej 60";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:38:39-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:12:"7400 Herning";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:38:53-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:24:"Denmark CVR: DK 20981075";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:38:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:29:"Gødstrupvej 60 7400 Herning ";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:39:01-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:31:"Gødstrupvej 60   7400 Herning ";s:7:"user_id";s:5:"16948";}
+2016-08-17T10:40:49-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:24:"whitesmilesinc@gmail.com";s:7:"user_id";s:5:"17085";}
+2016-08-17T11:06:30-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:17:"11636 Weingartz W";s:7:"user_id";s:5:"13137";}
+2016-08-17T11:06:37-07:00 INFO (6): Stephanie Brown--a:2:{s:4:"city";s:5:"Utica";s:7:"user_id";s:5:"13137";}
+2016-08-17T11:06:42-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"48135";s:7:"user_id";s:5:"13137";}
+2016-08-17T11:28:14-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"17220";}
+2016-08-17T11:31:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Navjot";s:7:"user_id";s:5:"17225";}
+2016-08-17T11:31:22-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Navjot Sidhu";s:7:"user_id";s:5:"17225";}
+2016-08-17T11:31:24-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Navjot Sidhu";s:7:"user_id";s:5:"17225";}
+2016-08-17T11:31:38-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:26:"imperialluxellc@gmail.com ";s:7:"user_id";s:5:"17223";}
+2016-08-17T11:31:59-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17223";}
+2016-08-17T11:32:49-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"905-405-0110";s:7:"user_id";s:5:"17225";}
+2016-08-17T11:33:51-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:20:"Demarkus and Shanice";s:7:"user_id";s:5:"17223";}
+2016-08-17T11:42:26-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"KH";s:7:"user_id";s:5:"17225";}
+2016-08-17T11:42:33-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"CA";s:7:"user_id";s:5:"17225";}
+2016-08-17T11:42:36-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"ON";s:7:"user_id";s:5:"17225";}
+2016-08-17T12:15:41-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17225";}
+2016-08-17T12:16:27-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:14:"Angie (Angela)";s:7:"user_id";s:3:"565";}
+2016-08-17T12:24:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17225";}
+2016-08-17T12:40:43-07:00 INFO (6): Alison Duff--a:2:{s:11:"description";s:52:"Advanced Kit: 
+1-29: $13.50 each 
+30+: $12.50 each 
+";s:7:"user_id";s:3:"565";}
+2016-08-17T12:51:03-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:168:"Traditional Kit and Preloaded Tray Kit: 
+1-9 units: $14.00 each 
+10-24 units: $13.00 each 
+25-49 units: $12.00 each 
+50-99 units: $11.00 each 
+100 + units: $10.00 each ";s:7:"user_id";s:5:"17223";}
+2016-08-17T13:03:13-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:93:"RE-ORDER PRICES: 1 - 9 @ $15
+10 - 24 @ $13.50
+25 - 49 @ $12.50
+50 - 99 @ $11.50
+100+ @ $10.50";s:7:"user_id";s:5:"16954";}
+2016-08-17T13:03:19-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:94:"RE-ORDER PRICES: 
+1 - 9 @ $15
+10 - 24 @ $13.50
+25 - 49 @ $12.50
+50 - 99 @ $11.50
+100+ @ $10.50";s:7:"user_id";s:5:"16954";}
+2016-08-17T13:13:52-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:0:"";s:7:"user_id";s:5:"16954";}
+2016-08-17T13:36:59-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Peter Francis";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MN";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:5:"Peter";s:8:"lastname";s:7:"Francis";s:12:"contactphone";s:12:"651 414 1974";s:5:"email";s:14:"pete@droxr.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"3cbe78abc54acd5a30633587458aacdc04251d40";s:8:"username";s:13:"Peter Francis";s:12:"created_time";s:19:"2016-08-17 13:36:59";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"dedf846c78d9864c67904880099626f8";}
+2016-08-17T13:37:11-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"651-414-1974";s:7:"user_id";s:5:"17226";}
+2016-08-17T13:59:25-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"347-312-4328";s:7:"user_id";s:5:"17224";}
+2016-08-17T14:04:04-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17224";}
+2016-08-17T14:04:05-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17224";}
+2016-08-17T14:04:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Anna";s:7:"user_id";s:5:"17224";}
+2016-08-17T14:04:10-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:9:"Anna Teyf";s:7:"user_id";s:5:"17224";}
+2016-08-17T14:04:13-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:9:"Anna Teyf";s:7:"user_id";s:5:"17224";}
+2016-08-17T15:33:43-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:11:"Ela Saxsena";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:17:"950 Parker Square";s:8:"address2";s:0:"";s:4:"city";s:12:"Flower Mound";s:5:"state";s:2:"AL";s:3:"zip";s:5:"75028";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"469-834-5326";s:6:"source";s:8:"Referred";s:9:"firstname";s:3:"Ela";s:8:"lastname";s:7:"Saxsena";s:12:"contactphone";s:0:"";s:5:"email";s:19:"needthisfor@ela.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"748144baf20a47aa80adb9f3e0df0ab00b8c6381";s:8:"username";s:11:"Ela Saxsena";s:12:"created_time";s:19:"2016-08-17 15:33:43";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"50daa7dead0234e0d8944b85373770ae";}
+2016-08-17T15:33:49-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17227";}
+2016-08-17T15:54:07-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17224";}
+2016-08-17T15:57:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:14:"166 Norfolk St";s:7:"user_id";s:5:"17224";}
+2016-08-17T15:57:37-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"11235";s:7:"user_id";s:5:"17224";}
+2016-08-17T16:39:17-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:69:"Deluxe Home Kit Prices: 
+1 - 9 @ $22
+10 - 24 @ $18.50
+25- 99 @ $17.50";s:7:"user_id";s:5:"17130";}
+2016-08-17T16:51:46-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:20:"https://trysnow.com/";s:7:"user_id";s:5:"17226";}
+2016-08-17T17:04:57-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17226";}
+2016-08-17T17:04:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17226";}
+2016-08-17T18:06:48-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:13:"Glamour Brows";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Stacy";s:8:"lastname";s:14:"Thompson-silva";s:12:"contactphone";s:12:"786-512-7141";s:5:"email";s:21:"stacyasilva@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"46c6df5abe62ef7d0b22352fac9996efb7f3647f";s:8:"username";s:13:"Glamour Brows";s:12:"created_time";s:19:"2016-08-17 18:06:48";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"32ab0a85ba84f1bb8e8e8718c18cdf93";}
+2016-08-17T18:06:55-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:14:"Thompson-Silva";s:7:"user_id";s:5:"17228";}

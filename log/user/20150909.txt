@@ -1,0 +1,44 @@
+2015-09-09T08:22:34-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13213";}
+2015-09-09T08:22:36-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"13213";}
+2015-09-09T11:14:09-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"13137";}
+2015-09-09T11:15:11-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"12541";}
+2015-09-09T11:15:36-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"12704";}
+2015-09-09T11:15:38-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:22:"Concierge Dental Group";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:8:"Benjamin";s:8:"lastname";s:18:"Oppenheimer, D.d.s";s:12:"contactphone";s:0:"";s:5:"email";s:18:"drbenopp@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"6d4f7a38d47b311337313efd39518518f24864cb";s:8:"username";s:22:"Concierge Dental Group";s:12:"created_time";s:19:"2015-09-09 11:15:38";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a3a497227259801cb2fa0d6f35c122a3";}
+2015-09-09T11:15:44-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:36:"http://www.conciergedentalgroup.com/";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:15:46-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:16:37-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:201:"Hours
+Monday - 9:00 a.m. - 4:00 p.m.
+Tuesday - 9:00 a.m. - 4:00 p.m.
+Wednesday - 9:00 a.m. - 6:00 p.m.
+Thursday - 8:00 a.m. - 4:00 p.m.
+Friday - 9:00 a.m. - 2:00 p.m.
+Saturday - closed
+Sunday - closed
+";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:16:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"33 Melrose Road";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:17:04-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:13:"Williamsville";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:17:06-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"14221";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:17:13-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:17:21-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:14:"(716) 418-7272";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:17:29-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:19:"Fax: (716) 418-7272";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:17:39-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"716-435-9225";s:7:"user_id";s:5:"14073";}
+2015-09-09T11:18:27-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:19:"Oppenheimer, D.D.S.";s:7:"user_id";s:5:"14073";}
+2015-09-09T12:09:12-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"12747";}
+2015-09-09T13:36:16-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:10:"Dana Smith";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MS";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"662-587-2132";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Dana";s:8:"lastname";s:5:"Smith";s:12:"contactphone";s:12:"662-587-2132";s:5:"email";s:22:"celsmith@bellsouth.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"480dc3641a46486a78380247ea064e75fefe13b3";s:8:"username";s:10:"Dana Smith";s:12:"created_time";s:19:"2015-09-09 13:36:15";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"4c1cfdc72d2892418a94f29c804dccdd";}
+2015-09-09T13:38:41-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:322:"Dana has a salon in ripley MS offering spray tan ($25), facials, pedicure ($50), and hair. They also go to festivals to sell hand made products, t shirts, etc. There is no one else in Ripley offering teeth whitening so she is unsure of how it would do. She does have a chair she would use. Needs to talk over with husband.";s:7:"user_id";s:5:"14075";}
+2015-09-09T13:38:56-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:6:"Ripley";s:7:"user_id";s:5:"14075";}
+2015-09-09T13:39:03-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:55:"AS OF 9/8/2015 WE NO LONGER SELL ANYTHING TO ALEX DENT.";s:7:"user_id";s:4:"3249";}
+2015-09-09T13:46:57-07:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"12997";}
+2015-09-09T14:02:34-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13248";}
+2015-09-09T14:08:12-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:11:"Fast money!";s:7:"user_id";s:5:"13248";}
+2015-09-09T14:09:41-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:219:"Geena has hopes and dreams of opening her own spa. She is just now starting to think about what services to offer, where to open, and everything else. She has a friend with a futura 2400 and aluminum case she could buy.";s:7:"user_id";s:5:"13248";}
+2015-09-09T14:13:15-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:14:"Shari Campbell";s:7:"user_id";s:5:"13030";}
+2015-09-09T14:18:04-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:14:"5717 Taylor St";s:7:"user_id";s:5:"13030";}
+2015-09-09T14:18:13-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"Apt. Midd";s:7:"user_id";s:5:"13030";}
+2015-09-09T14:18:20-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"33021";s:7:"user_id";s:5:"13030";}
+2015-09-09T14:45:26-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13262";}
+2015-09-09T14:51:46-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14069";}
+2015-09-09T15:15:05-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14074";}
+2015-09-09T15:52:16-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:284:"Raven works out of wo salons performing hair extensions, make up, lashes, etc. Wants to add teeth whitening but was told in NJ this can not be performed in a salon offering hair services. She also does mobile service and wants to add teeth whitening. She already has clients asking.  ";s:7:"user_id";s:5:"14074";}
+2015-09-09T15:52:21-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14074";}
+2015-09-09T15:52:24-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14074";}

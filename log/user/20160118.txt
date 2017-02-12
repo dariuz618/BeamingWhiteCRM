@@ -1,0 +1,76 @@
+2016-01-18T09:37:15-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"432-631-5987";s:7:"user_id";s:5:"15187";}
+2016-01-18T09:38:36-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"404-207-5834";s:7:"user_id";s:5:"15192";}
+2016-01-18T09:39:59-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"256-577-8361";s:7:"user_id";s:5:"15194";}
+2016-01-18T09:40:50-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15194";}
+2016-01-18T09:58:56-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:247:"Krystal and her husband Rob have really been talking teeth whitening up but they are in AL. They are not far from the TN border so they will look at options for selling TW in TN. Interested in the mobile options with a recliner. Maybe even the FF.";s:7:"user_id";s:5:"15194";}
+2016-01-18T09:59:12-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"702-379-9595";s:7:"user_id";s:5:"15196";}
+2016-01-18T10:06:38-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"941-735-3479";s:7:"user_id";s:5:"15190";}
+2016-01-18T10:06:45-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15190";}
+2016-01-18T10:06:49-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Profira";s:7:"user_id";s:5:"15190";}
+2016-01-18T10:06:53-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Profira Wolf";s:7:"user_id";s:5:"15190";}
+2016-01-18T10:07:14-08:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:8:"Belinda ";s:7:"user_id";s:5:"12008";}
+2016-01-18T10:07:22-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:7:"Stewart";s:7:"user_id";s:5:"12008";}
+2016-01-18T10:08:04-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15190";}
+2016-01-18T10:22:57-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15190";}
+2016-01-18T10:23:32-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15193";}
+2016-01-18T10:23:42-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Jeremy";s:7:"user_id";s:5:"15193";}
+2016-01-18T10:23:47-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Jeremy Troutman";s:7:"user_id";s:5:"15193";}
+2016-01-18T10:23:51-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Jeremy Troutman";s:7:"user_id";s:5:"15193";}
+2016-01-18T10:23:54-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15187";}
+2016-01-18T10:23:58-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Profira Wolf";s:7:"user_id";s:5:"15190";}
+2016-01-18T10:24:54-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"707-921-9191";s:7:"user_id";s:5:"15197";}
+2016-01-18T10:25:03-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15197";}
+2016-01-18T10:26:07-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15198";}
+2016-01-18T10:26:11-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15198";}
+2016-01-18T10:26:35-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"345-926-3693";s:7:"user_id";s:5:"15200";}
+2016-01-18T10:29:38-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:201:"Noooo personality. At all. Not even a little! Interested in mobile options but she doesn't know why She hasn't been on the website but found us online??? Wants to start this but she doesn't know when. ";s:7:"user_id";s:5:"15187";}
+2016-01-18T10:29:50-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15187";}
+2016-01-18T10:32:25-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15192";}
+2016-01-18T10:35:01-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Carlene";s:7:"user_id";s:5:"15200";}
+2016-01-18T10:35:05-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Carlene Rhoden";s:7:"user_id";s:5:"15200";}
+2016-01-18T10:35:07-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Carlene Rhoden";s:7:"user_id";s:5:"15200";}
+2016-01-18T10:35:11-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15200";}
+2016-01-18T10:46:03-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:288:"Nyesha is a dental assistant/ oral surgeon assistant. She is presently on maternity leave but starts back to work soon. She is looking for something to do on the side. Wants to start in February 2016 if she can do it for $1,500. I told her I could do a light and 10 kits for that price.  ";s:7:"user_id";s:5:"15192";}
+2016-01-18T10:46:07-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15192";}
+2016-01-18T11:01:12-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15194";}
+2016-01-18T11:20:18-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:269:"Mandi was talking with someone about taking a class and buying equipment. She was told it was a BW package but she was charging $4,000. Mandi will definitely buy with us but wants to get her taxes back first. She would like a follow up call the first week of February. ";s:7:"user_id";s:5:"15202";}
+2016-01-18T11:56:49-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Denise";s:7:"user_id";s:5:"15197";}
+2016-01-18T11:56:53-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Denise Floyd";s:7:"user_id";s:5:"15197";}
+2016-01-18T11:56:55-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Denise Floyd";s:7:"user_id";s:5:"15197";}
+2016-01-18T12:14:41-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15197";}
+2016-01-18T12:19:26-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15197";}
+2016-01-18T12:28:12-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15193";}
+2016-01-18T13:25:05-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"904-322-3133";s:7:"user_id";s:5:"15201";}
+2016-01-18T13:26:30-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15201";}
+2016-01-18T13:30:51-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15201";}
+2016-01-18T13:32:20-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:325:"Bajena has worked for the Elements Spa (Rick Fromme) for the past year and is opening her own office in a medical building in March. She has used the Futura Face and wants to include that service. She will also be doing micro needling and permanent make up. She has a permanent make up machine but is interested in pigments. ";s:7:"user_id";s:5:"15201";}
+2016-01-18T13:32:49-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15202";}
+2016-01-18T13:47:02-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"425-442-2305";s:7:"user_id";s:5:"15109";}
+2016-01-18T13:47:08-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"425-443-2305";s:7:"user_id";s:5:"15109";}
+2016-01-18T14:10:16-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"219-796-7745";s:7:"user_id";s:5:"15203";}
+2016-01-18T14:10:29-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"219-796-7745";s:7:"user_id";s:5:"15203";}
+2016-01-18T14:10:47-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Dj Lang";s:7:"user_id";s:5:"15203";}
+2016-01-18T14:10:51-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:7:"Dj Lang";s:7:"user_id";s:5:"15203";}
+2016-01-18T14:14:34-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15203";}
+2016-01-18T15:05:27-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15193";}
+2016-01-18T15:05:51-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15181";}
+2016-01-18T15:05:55-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15181";}
+2016-01-18T15:13:56-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:22:"Sun City Tanning Salon";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"OK";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:5:"Jason";s:8:"lastname";s:5:"Price";s:12:"contactphone";s:12:"918-429-5350";s:5:"email";s:19:"delta122580@msn.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"c353bcd4218c017d8a4267908e8d83bd3e4a0dda";s:8:"username";s:22:"Sun City Tanning Salon";s:12:"created_time";s:19:"2016-01-18 15:13:56";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a62f28c4318b1324750b058e9962f835";}
+2016-01-18T15:15:43-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15206";}
+2016-01-18T15:15:46-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15206";}
+2016-01-18T15:15:50-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15206";}
+2016-01-18T15:26:50-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15186";}
+2016-01-18T15:27:26-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"LA";s:7:"user_id";s:5:"15186";}
+2016-01-18T15:31:24-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"918-426-6100";s:7:"user_id";s:5:"15206";}
+2016-01-18T15:35:26-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"918-426-6100";s:7:"user_id";s:5:"15206";}
+2016-01-18T15:41:59-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15205";}
+2016-01-18T15:46:02-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:11:"Hote Ransom";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Hote";s:8:"lastname";s:6:"Ransom";s:12:"contactphone";s:12:"254-371-4582";s:5:"email";s:20:"hoperansom@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"e0f9d0dee0c8d22786a7598e76461c117f2eb536";s:8:"username";s:11:"Hote Ransom";s:12:"created_time";s:19:"2016-01-18 15:46:02";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"fbef5c2d2e90e28b49b438ef6cf2647f";}
+2016-01-18T15:46:10-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15207";}
+2016-01-18T15:46:13-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15207";}
+2016-01-18T15:46:15-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15207";}
+2016-01-18T15:53:24-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:4:"Hope";s:7:"user_id";s:5:"15207";}
+2016-01-18T15:53:34-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Hope Ransom";s:7:"user_id";s:5:"15207";}
+2016-01-18T15:53:37-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Hope Ransom";s:7:"user_id";s:5:"15207";}
+2016-01-18T16:10:45-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"76548";s:7:"user_id";s:5:"15207";}
+2016-01-18T16:17:21-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15196";}
+2016-01-18T16:33:02-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:191:"Has 2 Tattoo parlors. One is on LV Blvd and has 5 stations with 1 to 2 empty all of the time. She is looking for a service to add to generate $$$ rather than using the space as a lunch room. ";s:7:"user_id";s:5:"15196";}

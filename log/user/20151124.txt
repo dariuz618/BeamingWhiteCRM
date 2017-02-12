@@ -1,0 +1,54 @@
+2015-11-24T08:31:55-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"304-415-1402";s:7:"user_id";s:5:"12270";}
+2015-11-24T08:44:26-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:18:"ksuitor@cogeco.net";s:7:"user_id";s:2:"70";}
+2015-11-24T08:58:45-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14328";}
+2015-11-24T08:58:55-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:13:"Executive Tan";s:7:"user_id";s:5:"14328";}
+2015-11-24T09:26:54-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"lastname";s:8:"Blumling";s:7:"user_id";s:4:"1253";}
+2015-11-24T09:28:04-08:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"47906";s:7:"user_id";s:4:"1253";}
+2015-11-24T09:35:14-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:13:"1876-893-5559";s:7:"user_id";s:5:"14714";}
+2015-11-24T09:40:28-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:13:"Dawn Edgerton";s:7:"user_id";s:5:"12270";}
+2015-11-24T09:58:28-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14714";}
+2015-11-24T09:58:29-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14714";}
+2015-11-24T10:46:08-08:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:7:"Matawan";s:7:"user_id";s:5:"11643";}
+2015-11-24T11:26:51-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"449 Amherest St";s:7:"user_id";s:5:"14328";}
+2015-11-24T11:26:55-08:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:6:"unit 8";s:7:"user_id";s:5:"14328";}
+2015-11-24T11:32:44-08:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:23:"rochelle14321@yahoo.com";s:7:"user_id";s:5:"14328";}
+2015-11-24T12:25:38-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12266";}
+2015-11-24T12:28:27-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14328";}
+2015-11-24T12:32:00-08:00 INFO (6): Windy Jenkins--a:2:{s:9:"firstname";s:8:"Dr. Lisa";s:7:"user_id";s:4:"3029";}
+2015-11-24T12:32:07-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"lastname";s:7:"Gulcher";s:7:"user_id";s:4:"3029";}
+2015-11-24T12:38:26-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14696";}
+2015-11-24T13:16:49-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:36:"$36 Credit on Account as of 11/24-WJ";s:7:"user_id";s:4:"1865";}
+2015-11-24T13:16:51-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12148";}
+2015-11-24T13:20:08-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:11:"Les Cheveux";s:7:"user_id";s:5:"12991";}
+2015-11-24T13:20:19-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:11:"Les Cheveux";s:7:"user_id";s:5:"12148";}
+2015-11-24T13:24:10-08:00 INFO (6): Windy Jenkins--a:2:{s:9:"firstname";s:7:"Kathryn";s:7:"user_id";s:2:"70";}
+2015-11-24T13:24:16-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"lastname";s:6:"Suitor";s:7:"user_id";s:2:"70";}
+2015-11-24T13:42:07-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"876-893-5559";s:7:"user_id";s:5:"14714";}
+2015-11-24T13:56:33-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:29:"16116 NW 81st Ct, Miami Lakes";s:7:"user_id";s:5:"14528";}
+2015-11-24T13:56:35-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"33016";s:7:"user_id";s:5:"14528";}
+2015-11-24T13:56:42-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:"Miami Lakes";s:7:"user_id";s:5:"14528";}
+2015-11-24T13:56:45-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:16:"16116 NW 81st Ct";s:7:"user_id";s:5:"14528";}
+2015-11-24T14:44:42-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"416-671-8969";s:7:"user_id";s:5:"14712";}
+2015-11-24T14:46:48-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14712";}
+2015-11-24T15:01:50-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:23:"105 Sand Stone Creek Dr";s:7:"user_id";s:3:"582";}
+2015-11-24T15:01:54-08:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:2:"#7";s:7:"user_id";s:3:"582";}
+2015-11-24T15:02:08-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"48837";s:7:"user_id";s:3:"582";}
+2015-11-24T15:02:10-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:12:"Grand Lodge ";s:7:"user_id";s:3:"582";}
+2015-11-24T15:04:03-08:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:5:"Cowan";s:7:"user_id";s:3:"582";}
+2015-11-24T15:19:50-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14684";}
+2015-11-24T15:34:42-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14684";}
+2015-11-24T15:58:26-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14684";}
+2015-11-24T15:58:30-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14684";}
+2015-11-24T16:06:46-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14588";}
+2015-11-24T16:07:46-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:19:"k_swaby@hotmail.com";s:7:"user_id";s:5:"14588";}
+2015-11-24T16:08:28-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:4:"2200";s:7:"user_id";s:4:"2824";}
+2015-11-24T16:14:27-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"347-272-6860";s:7:"user_id";s:5:"14717";}
+2015-11-24T16:35:49-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:26:"daniellenjeffrey@gmail.com";s:7:"user_id";s:5:"14714";}
+2015-11-24T16:36:00-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:13:"876-894-5366.";s:7:"user_id";s:5:"14714";}
+2015-11-24T16:36:02-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"876-894-5366";s:7:"user_id";s:5:"14714";}
+2015-11-24T16:36:07-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"876-894-5366";s:7:"user_id";s:5:"14714";}
+2015-11-24T16:37:04-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:22:"876-893-5559 - Kameika";s:7:"user_id";s:5:"14588";}
+2015-11-24T16:59:48-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:18:"Antionette Pillier";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:10:"Antoinette";s:8:"lastname";s:7:"Pillier";s:12:"contactphone";s:12:"718-539-9636";s:5:"email";s:19:"tonitahis@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"9f7b2ee92e9b72edf906d5015d88125d8606189a";s:8:"username";s:18:"Antionette Pillier";s:12:"created_time";s:19:"2015-11-24 16:59:48";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"cbafbf23318b494b9b22944282ce8c82";}
+2015-11-24T17:42:01-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14618";}
+2015-11-24T17:51:19-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"407-401-0758";s:7:"user_id";s:5:"14719";}
+2015-11-24T17:51:56-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:26:"Pearlywhites2015@gmail.com";s:7:"user_id";s:5:"14484";}

@@ -1,0 +1,67 @@
+2015-11-03T09:12:44-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:59:"Scott is EXTREMELY PARTICULAR!!!! Verify everything twice!!";s:7:"user_id";s:4:"8828";}
+2015-11-03T09:14:44-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:103:"Pre Loaded Trays not kit $6 
+2ml 16% HP pen $6
+metalic tu pen $6
+S blue retractors $1
+Finger wipe $.15
+";s:7:"user_id";s:4:"8828";}
+2015-11-03T09:15:30-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"Verify Location";s:7:"user_id";s:4:"8828";}
+2015-11-03T09:28:43-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:5:"Addys";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Referred";s:9:"firstname";s:5:"Addys";s:8:"lastname";s:4:"Soto";s:12:"contactphone";s:0:"";s:5:"email";s:18:"addys095@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1a7b7769cd8bd927afd3468923d6f5cb7645063d";s:8:"username";s:5:"Addys";s:12:"created_time";s:19:"2015-11-03 09:28:43";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a645593aa2c03f4ac2f5cde38c02cae4";}
+2015-11-03T09:29:04-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"305-300-7618";s:7:"user_id";s:5:"14528";}
+2015-11-03T09:29:09-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"305-300-7618";s:7:"user_id";s:5:"14528";}
+2015-11-03T09:29:13-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"305-300-7618";s:7:"user_id";s:5:"14528";}
+2015-11-03T09:29:17-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14528";}
+2015-11-03T09:41:04-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:24:"http://fiallodental.com/";s:7:"user_id";s:5:"14528";}
+2015-11-03T09:41:19-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:24:"Carlos R. Fiallo, D.M.D.";s:7:"user_id";s:5:"14528";}
+2015-11-03T10:04:30-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Addys Soto";s:7:"user_id";s:5:"14528";}
+2015-11-03T10:05:29-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:18:"Glo Mobile Tanning";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"UT";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"435-760-5669";s:6:"source";s:5:"Other";s:9:"firstname";s:11:"Whitney Tae";s:8:"lastname";s:8:"Boudrero";s:12:"contactphone";s:12:"435-760-5669";s:5:"email";s:19:"twitnoy@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:20:"Mandy Bell's Partner";s:4:"type";s:7:"Account";s:8:"password";s:40:"cbf41ceb6cafcbda94a2ad69c01894ac591b914e";s:8:"username";s:18:"Glo Mobile Tanning";s:12:"created_time";s:19:"2015-11-03 10:05:29";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a6c63947d55391246139b5726ea8943e";}
+2015-11-03T10:05:50-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"2580 S. 3800 W.";s:7:"user_id";s:5:"14529";}
+2015-11-03T10:05:56-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"Wellsville";s:7:"user_id";s:5:"14529";}
+2015-11-03T10:06:03-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"84339";s:7:"user_id";s:5:"14529";}
+2015-11-03T10:32:25-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:4:"Mike";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Mike";s:8:"lastname";s:2:"Na";s:12:"contactphone";s:12:"309-230-9360";s:5:"email";s:20:"mikehc82@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"286d48ece004213f9d5bdb22f2954fa968aca69d";s:8:"username";s:4:"Mike";s:12:"created_time";s:19:"2015-11-03 10:32:25";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"735566415caca5a2d0bfb79d28d0ba21";}
+2015-11-03T10:33:19-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:154:"Mike owns a social media marketing co and his fiance owns a salon with 6 chairs and rooms for hair, massage, etc. He wants to put TW in one of her rooms. ";s:7:"user_id";s:5:"14531";}
+2015-11-03T10:42:11-08:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:7:"Donahue";s:7:"user_id";s:5:"14531";}
+2015-11-03T10:42:33-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"IL";s:7:"user_id";s:5:"14531";}
+2015-11-03T10:43:23-08:00 INFO (6): Windy Jenkins--a:28:{s:12:"businessname";s:21:"Brite Smiles by Nancy";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:19:"1646 Woodrow Avenue";s:8:"address2";s:0:"";s:4:"city";s:16:"Mayfield Heights";s:5:"state";s:2:"OH";s:3:"zip";s:5:"44124";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"440 442-9273";s:6:"source";s:8:"Referred";s:9:"firstname";s:5:"Nancy";s:8:"lastname";s:7:"Donahue";s:12:"contactphone";s:12:"440 442-9273";s:5:"email";s:19:"nd4bc@sbcglobal.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:6:"Active";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:17:"Jeff Wenzel (son)";s:4:"type";s:7:"Account";s:8:"password";s:40:"c830cc26be82fede9af25bed21f195e8e563e4fa";s:8:"username";s:21:"Brite Smiles by Nancy";s:12:"created_time";s:19:"2015-11-03 10:43:23";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"24382ff3a868460616fdda37b39b3a02";}
+2015-11-03T10:43:47-08:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:20:"mikehd82@hotmail.com";s:7:"user_id";s:5:"14531";}
+2015-11-03T10:44:58-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:172:"Mother of Jeff Wenzel White Link USA, associate of Jason Paluscak Saloncast, orders product under their pricing. Advanced Kits 16% @ $3.50, Take Home Kits 36% CP @ $16 each";s:7:"user_id";s:5:"14532";}
+2015-11-03T10:50:36-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Huge";s:7:"user_id";s:5:"10620";}
+2015-11-03T10:55:11-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:8:"Courtney";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"716-239-9409";s:6:"source";s:5:"Other";s:9:"firstname";s:8:"Courtney";s:8:"lastname";s:7:"Marazzo";s:12:"contactphone";s:12:"716-239-9409";s:5:"email";s:25:"marazzocourtney@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"fc501abfd0b7a9f6571799272f2fa9b01fc842a6";s:8:"username";s:8:"Courtney";s:12:"created_time";s:19:"2015-11-03 10:55:11";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"30920ea3eaf6ee1e9ca8f2eef7df44ee";}
+2015-11-03T10:56:10-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:160:"Courtney just opened a business as an esthetician. She is looking for options to expand her menu. She has a facial bed already. Said her Dad will finance this? ";s:7:"user_id";s:5:"14533";}
+2015-11-03T10:56:35-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14533";}
+2015-11-03T11:08:10-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"813-562-9029";s:7:"user_id";s:5:"14319";}
+2015-11-03T11:09:00-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:16:"Ruzanna Ayvazyan";s:7:"user_id";s:4:"2030";}
+2015-11-03T11:12:36-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14524";}
+2015-11-03T11:12:40-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14524";}
+2015-11-03T11:19:59-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:34:"Has been in business for 18 years.";s:7:"user_id";s:5:"14528";}
+2015-11-03T11:38:32-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"2421";}
+2015-11-03T11:40:51-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:18:"PB AZ0020 - AZ0066";s:7:"user_id";s:4:"2421";}
+2015-11-03T11:41:35-08:00 INFO (6): Brian Radke--a:2:{s:12:"businessname";s:13:"AZ0020 AZ0066";s:7:"user_id";s:4:"2421";}
+2015-11-03T11:41:54-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:14:"Verify Address";s:7:"user_id";s:4:"2421";}
+2015-11-03T11:59:58-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14460";}
+2015-11-03T12:01:36-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14452";}
+2015-11-03T12:02:54-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"813-695-5680";s:7:"user_id";s:5:"14450";}
+2015-11-03T12:09:40-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:201:"Denise is a social worker who was interested in getting out of that field. She has since been moved to another aspect of social work and enjoys it again. Says she is not interested in TW at this time. ";s:7:"user_id";s:5:"14450";}
+2015-11-03T12:10:24-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14450";}
+2015-11-03T12:18:36-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:180:"Mother of Jeff Wenzel White Link USA, associate of Jason Paluscak Saloncast, orders product under their pricing. Advanced Kits 16% 1.2 @ $3.50, Take Home Kits 36% CP 8.1 @ $16 each";s:7:"user_id";s:5:"14532";}
+2015-11-03T13:09:27-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"14523";}
+2015-11-03T13:49:35-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14506";}
+2015-11-03T14:10:55-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"O-De-Rose Med Spa";s:7:"user_id";s:5:"14506";}
+2015-11-03T14:12:35-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14506";}
+2015-11-03T14:46:20-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14450";}
+2015-11-03T14:49:58-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:11:"Alex Naini ";s:7:"user_id";s:5:"11423";}
+2015-11-03T14:55:26-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14418";}
+2015-11-03T15:00:43-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14430";}
+2015-11-03T15:04:08-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14423";}
+2015-11-03T15:04:26-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14422";}
+2015-11-03T15:16:57-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14523";}
+2015-11-03T15:17:02-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:7:"Pending";s:7:"user_id";s:5:"14523";}
+2015-11-03T15:30:06-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14304";}
+2015-11-03T16:05:51-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"125 Broadmore Dr";s:7:"user_id";s:4:"9753";}
+2015-11-03T16:05:55-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"TN";s:7:"user_id";s:4:"9753";}
+2015-11-03T16:06:00-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"77545";s:7:"user_id";s:4:"9753";}
+2015-11-03T16:06:04-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"TX";s:7:"user_id";s:4:"9753";}
+2015-11-03T16:48:50-08:00 INFO (6): Windy Jenkins--a:2:{s:9:"firstname";s:9:"Beverley ";s:7:"user_id";s:5:"10406";}
+2015-11-03T16:48:54-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"lastname";s:4:"Rose";s:7:"user_id";s:5:"10406";}
+2015-11-03T17:10:18-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:6:"Lauren";s:7:"user_id";s:5:"12571";}
+2015-11-03T17:54:27-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"9753";}

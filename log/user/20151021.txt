@@ -1,0 +1,60 @@
+2015-10-21T09:02:20-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:418:"Jeff would like the following kits: Custom Home Whitening Kit #1:
+1 x Private label white bag with mint color zipper
+1 x 10cc syringe of 44% CP
+1 x 3cc syringe of remineralizing/desensitizing gel
+1 x Whitening Foam
+1 x Retainer Case
+2 x EVA Sheets
+
+Custom Home Whitening Kit #2:
+1 x Clear Pouch
+1 x Custom Insert for pouch
+1 x 10cc syringe of 16% CP
+1 x Set of Thermoforming Trays (boil-n-bite trays)
+1 x Retainer Case";s:7:"user_id";s:5:"12747";}
+2015-10-21T09:07:38-07:00 INFO (6): Windy Jenkins--a:2:{s:9:"firstname";s:8:"Margaret";s:7:"user_id";s:4:"2178";}
+2015-10-21T09:07:42-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:14:"Margaret Allen";s:7:"user_id";s:4:"2178";}
+2015-10-21T09:24:57-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:22:"103 N. Bay Hills Blvd.";s:7:"user_id";s:4:"2178";}
+2015-10-21T11:08:22-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14439";}
+2015-10-21T11:10:38-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:30:"matt.edentalproducts@gmail.com";s:7:"user_id";s:5:"12747";}
+2015-10-21T11:10:54-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:30:"matt.edentalproducts@gmail.com";s:7:"user_id";s:5:"12747";}
+2015-10-21T11:11:06-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:26:"423-426-3218 - Matt Banyas";s:7:"user_id";s:5:"12747";}
+2015-10-21T11:15:22-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:76:"Gets the LCR for $1.00
+Advanced Kits $3.50
+Case of FW Pens $72.00
+Goggles $6";s:7:"user_id";s:3:"469";}
+2015-10-21T11:48:55-07:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:323:"Minerals pens in boxes 3.25 BUILD # 60.6
+Deluxe kits generic in premium bags @$8
+Advanced kits with LCR in baggies @ $3.50
+FW pens case of 36 in BW boxes $72
+10ml syringe $2.50 ea
+Cheek Retractors .75ea
+Forever White Pens (seperate)- $2
+LRG Red Goggles $6 (per BR 10/21)
+Deluxe Kits are GENERIC, everything else is Branded.";s:7:"user_id";s:3:"101";}
+2015-10-21T11:49:26-07:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:18:"                  ";s:7:"user_id";s:4:"2178";}
+2015-10-21T11:49:50-07:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:13:"Safety Harbor";s:7:"user_id";s:4:"2178";}
+2015-10-21T11:57:29-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:10:"440 South ";s:7:"user_id";s:5:"14116";}
+2015-10-21T11:57:42-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"440 South tierce";s:7:"user_id";s:5:"14116";}
+2015-10-21T11:57:47-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"70119";s:7:"user_id";s:5:"14116";}
+2015-10-21T11:57:52-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"440 South Tierce";s:7:"user_id";s:5:"14116";}
+2015-10-21T11:59:02-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:22:"mimi.hayes@hotmail.com";s:7:"user_id";s:5:"14116";}
+2015-10-21T11:59:22-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:24:"mimi.edwards@outlook.com";s:7:"user_id";s:5:"14116";}
+2015-10-21T12:05:39-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13258";}
+2015-10-21T12:05:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"13258";}
+2015-10-21T12:06:06-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13258";}
+2015-10-21T12:09:22-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14116";}
+2015-10-21T13:39:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:33:"16626 E Ave of the Fountains #101";s:7:"user_id";s:5:"10021";}
+2015-10-21T15:50:33-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"10281";}
+2015-10-21T16:05:26-07:00 INFO (6): Windy Jenkins--a:2:{s:9:"firstname";s:3:"Dan";s:7:"user_id";s:3:"429";}
+2015-10-21T16:05:41-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"lastname";s:9:"Chudleigh";s:7:"user_id";s:3:"429";}
+2015-10-21T16:05:57-07:00 INFO (6): Windy Jenkins--a:2:{s:5:"email";s:23:"dan@simplywhite.usa.com";s:7:"user_id";s:3:"429";}
+2015-10-21T16:06:06-07:00 INFO (6): Windy Jenkins--a:2:{s:5:"email";s:22:"dan@simplywhiteusa.com";s:7:"user_id";s:3:"429";}
+2015-10-21T16:09:23-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:12:"949 877-9140";s:7:"user_id";s:3:"429";}
+2015-10-21T16:09:35-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:18:"359 Myrtle Street ";s:7:"user_id";s:3:"429";}
+2015-10-21T16:45:46-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"3483 NW 37th St";s:7:"user_id";s:5:"12538";}
+2015-10-21T16:45:55-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:15:"Lauderdale Lake";s:7:"user_id";s:5:"12538";}
+2015-10-21T16:46:00-07:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:5:"12538";}
+2015-10-21T16:46:04-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"33309";s:7:"user_id";s:5:"12538";}
+2015-10-21T17:42:42-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:12:"Vanity Nealy";s:7:"user_id";s:5:"12882";}
+2015-10-21T17:42:51-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:12:"Vanity Nealy";s:7:"user_id";s:5:"12882";}

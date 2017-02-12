@@ -1,0 +1,77 @@
+2016-09-26T08:37:15-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:34:"443-629-5307 / 443-453-4657 - CELL";s:7:"user_id";s:5:"11112";}
+2016-09-26T09:48:42-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:16:"Rosemarie Mattar";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:6:"Cliona";s:8:"address1";s:22:"17020 West Sunset Blvd";s:8:"address2";s:0:"";s:4:"city";s:17:"Pacific Palasades";s:5:"state";s:2:"CA";s:3:"zip";s:5:"90272";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"310-991-4075";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:9:"Rosemarie";s:8:"lastname";s:6:"Mattar";s:12:"contactphone";s:12:"310-991-4075";s:5:"email";s:17:"roemattar@mac.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:20:"IECS Long Beach 2016";s:4:"type";s:7:"Account";s:8:"password";s:40:"8cba50361c4922997a6bce843d03ab5b952f6307";s:8:"username";s:16:"Rosemarie Mattar";s:12:"created_time";s:19:"2016-09-26 09:48:42";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"47aae534c10830d69397f9bdc358e1d5";}
+2016-09-26T09:49:33-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17531";}
+2016-09-26T09:49:37-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17531";}
+2016-09-26T10:35:04-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:16:"Toppowell.co.ltd";s:7:"user_id";s:5:"17524";}
+2016-09-26T10:35:09-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:5:"Huang";s:7:"user_id";s:5:"17524";}
+2016-09-26T10:35:13-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:7:"Nicole ";s:7:"user_id";s:5:"17524";}
+2016-09-26T10:41:58-07:00 INFO (6): Taylor Grady--a:2:{s:8:"lastname";s:5:"Guide";s:7:"user_id";s:5:"17454";}
+2016-09-26T10:43:51-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17524";}
+2016-09-26T10:44:08-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17529";}
+2016-09-26T10:53:06-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address2";s:7:"Apt. 11";s:7:"user_id";s:5:"17551";}
+2016-09-26T10:54:15-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:105:"MOQ for PL: 200 @ $12 each 
+First purchase MOQ 5 units @ $700 each. Price goes down dependent on volume. ";s:7:"user_id";s:5:"17536";}
+2016-09-26T11:04:17-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17544";}
+2016-09-26T11:20:51-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"313-308-6746";s:7:"user_id";s:5:"17537";}
+2016-09-26T11:21:18-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Krista-simone";s:7:"user_id";s:5:"17537";}
+2016-09-26T11:21:22-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:19:"Krista-simone Clark";s:7:"user_id";s:5:"17537";}
+2016-09-26T11:21:25-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Krista-simone Clark";s:7:"user_id";s:5:"17537";}
+2016-09-26T11:26:21-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"248-875-9836";s:7:"user_id";s:5:"17540";}
+2016-09-26T11:26:31-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Laura";s:7:"user_id";s:5:"17540";}
+2016-09-26T11:26:36-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Laura Smith";s:7:"user_id";s:5:"17540";}
+2016-09-26T11:26:39-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Laura Smith";s:7:"user_id";s:5:"17540";}
+2016-09-26T11:29:44-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17540";}
+2016-09-26T11:30:22-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:16:"TEXING IS BETTER";s:7:"user_id";s:5:"17540";}
+2016-09-26T11:34:16-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17547";}
+2016-09-26T11:41:29-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17540";}
+2016-09-26T11:42:36-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17537";}
+2016-09-26T11:55:05-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17537";}
+2016-09-26T12:14:55-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"949-910-3773";s:7:"user_id";s:5:"17548";}
+2016-09-26T12:15:21-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Monique";s:7:"user_id";s:5:"17548";}
+2016-09-26T12:15:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Monique Salas";s:7:"user_id";s:5:"17548";}
+2016-09-26T12:15:31-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Monique Salas";s:7:"user_id";s:5:"17548";}
+2016-09-26T12:22:39-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Omar";s:7:"user_id";s:5:"17545";}
+2016-09-26T12:22:46-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Omar Al Ameed";s:7:"user_id";s:5:"17545";}
+2016-09-26T12:22:48-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Omar Al Ameed";s:7:"user_id";s:5:"17545";}
+2016-09-26T12:36:09-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17545";}
+2016-09-26T13:00:07-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"lastname";s:7:"William";s:7:"user_id";s:4:"2912";}
+2016-09-26T13:00:14-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"username";s:17:"Phyneidra William";s:7:"user_id";s:4:"2912";}
+2016-09-26T13:00:21-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"businessname";s:17:"Phyneidra William";s:7:"user_id";s:4:"2912";}
+2016-09-26T13:08:01-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:17:"475 Pinedurr Lane";s:7:"user_id";s:4:"2912";}
+2016-09-26T13:08:11-07:00 INFO (6): Stephanie Brown--a:2:{s:4:"city";s:13:"Stonemountain";s:7:"user_id";s:4:"2912";}
+2016-09-26T13:08:15-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"30087";s:7:"user_id";s:4:"2912";}
+2016-09-26T13:16:42-07:00 INFO (6): Felisha Monahan--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15899";}
+2016-09-26T13:21:40-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17548";}
+2016-09-26T13:24:13-07:00 INFO (6): Felisha Monahan--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15904";}
+2016-09-26T13:27:35-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:75:"2016 Pricing 
+$8.00 for Deluxe Kits
+$6.00 Advance Kits
+$7.50 Minerals Pens ";s:7:"user_id";s:5:"16028";}
+2016-09-26T13:32:04-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17539";}
+2016-09-26T14:51:19-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"931-624-8645";s:7:"user_id";s:5:"17553";}
+2016-09-26T15:33:32-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17431";}
+2016-09-26T15:39:48-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:128:"Custom Inserts: 
+5,000 - $338.00	+$50 Shipping	
+10,000 - $572.00	+$68 Shipping	
+25,000 - $920.00	+130 Shipping
+$0.10 per 4-pack.";s:7:"user_id";s:5:"15961";}
+2016-09-26T15:41:58-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:136:"Custom Inserts: 
+5,000 - $338.00	+$50 Shipping	
+10,000 - $572.00	+$68 Shipping	
+25,000 - $920.00	+130 Shipping
+$0.10 per 4-pack assembly";s:7:"user_id";s:5:"15961";}
+2016-09-26T16:18:17-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:180:"2016 Pricing:
+Pre-filled Tray 4.1@$6.00
+EU Complaint 2.6@$7.00
+Just Trays: $4.50
+LCR/SBR: $1.50
+16%HP 2ml pen: $3.00
+Fwtp: $3.50
+Minerals Pen: $3.25
+50 or more Finger wipes : $0.20";s:7:"user_id";s:3:"617";}
+2016-09-26T17:13:50-07:00 INFO (6): Felisha Monahan--a:28:{s:12:"businessname";s:13:"Adi Chaundhry";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"914-966-6666";s:6:"source";s:5:"Other";s:9:"firstname";s:3:"Adi";s:8:"lastname";s:9:"Chaundhry";s:12:"contactphone";s:0:"";s:5:"email";s:23:"adichaudhry33@gmail.com";s:13:"contactphone2";s:12:"914-966-6666";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"85c75489fe0773cc2e78538c40b88c61cc1947dc";s:8:"username";s:13:"Adi Chaundhry";s:12:"created_time";s:19:"2016-09-26 17:13:50";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"794ccde8df4ea3419f2c52290a7bf7c8";}
+2016-09-26T18:03:19-07:00 INFO (6): Felisha Monahan--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"15894";}
+2016-09-26T19:54:50-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17548";}
+2016-09-26T22:25:24-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15798";}
+2016-09-26T22:26:45-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:22:"http://www.evorin.com/";s:7:"user_id";s:5:"17383";}
+2016-09-26T22:59:01-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:26:"http://www.mawjalsama.com/";s:7:"user_id";s:5:"17400";}

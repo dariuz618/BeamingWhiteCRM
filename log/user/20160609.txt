@@ -1,0 +1,47 @@
+2016-06-09T08:37:33-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Valerie Newsome";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:7:"Valerie";s:8:"lastname";s:7:"Newsome";s:12:"contactphone";s:12:"770-539-6405";s:5:"email";s:21:"needemail28@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"339254af6d7295d6846c7776829b11a9b3bf7bf8";s:8:"username";s:15:"Valerie Newsome";s:12:"created_time";s:19:"2016-06-09 08:37:32";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"0fa82e665e17ae316504d42526c231bd";}
+2016-06-09T08:37:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16581";}
+2016-06-09T08:42:12-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:52:"Valerie is a license esthetician and makeup artist. ";s:7:"user_id";s:5:"16581";}
+2016-06-09T09:30:26-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:206:"Revuline Limited
+Merlin House
+Langstone Business Park
+Newport
+NP18 2HJ
+Gwent, UK
+Tel :  +44(0)1633 415 325
+Fax:  + 44(0)1633 415 324
+Mobile: +44(0)7500270183
+Skype: abid.revuline
+Email:  akasem@revuline.com";s:7:"user_id";s:5:"16564";}
+2016-06-09T10:00:50-07:00 INFO (6): Rachel Reiser--a:28:{s:12:"businessname";s:13:"Laurie Verost";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:15:"704 Arcadia Rd.";s:8:"address2";s:0:"";s:4:"city";s:6:"Venice";s:5:"state";s:2:"FL";s:3:"zip";s:5:"34293";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"941-716-3722";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:6:"Laurie";s:8:"lastname";s:6:"Verost";s:12:"contactphone";s:12:"941-716-3722";s:5:"email";s:17:"ber01@comcast.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:6:"Active";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:7:"Orlando";s:4:"type";s:7:"Account";s:8:"password";s:40:"e47f67fbe9e48a102a4a9cd2883d11270542b7f6";s:8:"username";s:13:"Laurie Verost";s:12:"created_time";s:19:"2016-06-09 10:00:50";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"61b3228fb69882d34c8b739ece901bd2";}
+2016-06-09T10:18:58-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:619:"From Luis: "We are partnering with Dr. Christian Yaste from North Carolina. He is the dentist who appears in the BleachBright videos, and he's coming on board with us. He will be helping us break into the dental market in a big way, and I'll be setting up a new company only for dental products and we'll have a special version packaged differently for the Advanced Kit and for the Pro Kit. He actually loves our Advanced Kit, but he loves the Pro Kit even more and calls it 'the Zoom killer'. He is going to get special pricing on everything."
+
+2016 Pricing
+Forever White Pens $4.50
+16% HP 2ml Pen $5.25
+Pro Kit $20.50";s:7:"user_id";s:3:"567";}
+2016-06-09T10:19:32-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"contactphone";s:12:"801-671-1339";s:7:"user_id";s:3:"624";}
+2016-06-09T10:21:52-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:10:"Island Tan";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:18:"777 East 700 South";s:8:"address2";s:0:"";s:4:"city";s:10:"St. George";s:5:"state";s:2:"UT";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Bill";s:8:"lastname";s:6:"Hansen";s:12:"contactphone";s:0:"";s:5:"email";s:24:"billhansen1970@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a776f7c535b114153948d8f77611f02756f2b362";s:8:"username";s:10:"Island Tan";s:12:"created_time";s:19:"2016-06-09 10:21:52";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"b8ec13cdc65a5c17aac640db2ad8ecc5";}
+2016-06-09T11:14:02-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11184";}
+2016-06-09T11:20:08-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:13:"3 hour ahead.";s:7:"user_id";s:5:"16557";}
+2016-06-09T11:34:48-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16557";}
+2016-06-09T11:39:18-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16572";}
+2016-06-09T11:40:26-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:5:"Novia";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:5:"Novia";s:8:"lastname";s:1:".";s:12:"contactphone";s:0:"";s:5:"email";s:22:"nailfactor@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:21:"Premiere Orlando 2016";s:4:"type";s:4:"Lead";s:8:"password";s:40:"0d8ad9b35a4249317e0506bb6ddd09588103e5e8";s:8:"username";s:5:"Novia";s:12:"created_time";s:19:"2016-06-09 11:40:26";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"9493e7502f6e98ca1b1d36da9d1ceb51";}
+2016-06-09T11:41:05-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16584";}
+2016-06-09T11:56:01-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Sorchell Spears";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"OH";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"330-255-9314";s:6:"source";N;s:9:"firstname";s:8:"Sorchell";s:8:"lastname";s:6:"Spears";s:12:"contactphone";s:12:"330-255-9314";s:5:"email";s:22:"norchelle53@icloud.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"ee583308edbac6e8247fbb8e70208013471b72bd";s:8:"username";s:15:"Sorchell Spears";s:12:"created_time";s:19:"2016-06-09 11:56:01";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"58eb5e8e338f1f6f1d88b335c1c20fcb";}
+2016-06-09T11:56:22-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:8:"Norchell";s:7:"user_id";s:5:"16585";}
+2016-06-09T11:56:26-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Norchell Spears";s:7:"user_id";s:5:"16585";}
+2016-06-09T11:56:46-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:9:"Norchelle";s:7:"user_id";s:5:"16585";}
+2016-06-09T11:56:49-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Norchelle Spears";s:7:"user_id";s:5:"16585";}
+2016-06-09T11:58:57-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Norchelle Spears";s:7:"user_id";s:5:"16585";}
+2016-06-09T12:38:36-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:50:"https://www.facebook.com/envybarbershoptitusville/";s:7:"user_id";s:5:"16580";}
+2016-06-09T12:48:38-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"FM";s:7:"user_id";s:5:"16580";}
+2016-06-09T12:48:43-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:5:"16580";}
+2016-06-09T12:54:54-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16580";}
+2016-06-09T13:29:12-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16262";}
+2016-06-09T13:35:40-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16009";}
+2016-06-09T14:24:10-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16494";}
+2016-06-09T14:27:10-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16585";}
+2016-06-09T15:38:06-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:17:"newoo@hotmail.com";s:7:"user_id";s:5:"16533";}
+2016-06-09T15:38:29-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16533";}
+2016-06-09T16:35:26-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:13:"BodyBrite NYC";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:13:"New York City";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"561-312-3703";s:6:"source";s:8:"Referred";s:9:"firstname";s:5:"Amina";s:8:"lastname";s:8:"Kadyrova";s:12:"contactphone";s:12:"561-312-3703";s:5:"email";s:23:"aminakadyrova@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:16:"BodyBrite Athens";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a1f593973908b9a7b5b967ee4e0de267a01e59c4";s:8:"username";s:13:"BodyBrite NYC";s:12:"created_time";s:19:"2016-06-09 16:35:26";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"3b9d13aae6a00d0f3acb2ce3ad06ce6f";}
+2016-06-09T17:46:40-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16395";}

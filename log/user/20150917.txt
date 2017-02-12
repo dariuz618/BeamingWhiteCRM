@@ -1,0 +1,34 @@
+2015-09-17T10:21:58-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:5:"Aline";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"IL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Aline";s:8:"lastname";s:9:"Tayourane";s:12:"contactphone";s:12:"331-645-6757";s:5:"email";s:19:"aline807@icloud.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:18:"aline807@gmail.com";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"7573046ac0063e245590acb97e451f57add2e196";s:8:"username";s:5:"Aline";s:12:"created_time";s:19:"2015-09-17 10:21:58";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"57dc3e2e35670fcca3649d1405096358";}
+2015-09-17T10:24:17-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:249:"Aline recently moved to Chicago from Houston. She had her teeth whitened by someone who seemed "new". Says TW is popular in Houston but she doesn't really see it in Chicago. She  used to be in sales and thinks she could do this as a mobile business.";s:7:"user_id";s:5:"14133";}
+2015-09-17T10:24:41-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:41:"Training, future support, profit margins.";s:7:"user_id";s:5:"14133";}
+2015-09-17T10:28:41-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:7:"Giselle";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Giselle";s:8:"lastname";s:1:"R";s:12:"contactphone";s:12:"347-754-0333";s:5:"email";s:23:"iloveyamelie@icloud.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"829d1e1bca3f1978d8e37868c004755608aec1e4";s:8:"username";s:7:"Giselle";s:12:"created_time";s:19:"2015-09-17 10:28:40";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a10177c084f7f0afc1af3fb7c3997cea";}
+2015-09-17T10:29:17-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:113:"Giselle is a dental assistant on 5th ave. Has friends who want their teeth whitened but cant afford her dentist. ";s:7:"user_id";s:5:"14134";}
+2015-09-17T10:30:33-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14134";}
+2015-09-17T10:43:24-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14127";}
+2015-09-17T11:10:05-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:16:"Gutierrez Molina";s:7:"user_id";s:5:"14132";}
+2015-09-17T11:13:18-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:13:"+526865654194";s:7:"user_id";s:5:"14132";}
+2015-09-17T11:59:05-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14132";}
+2015-09-17T14:19:47-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"404-772-0857";s:7:"user_id";s:5:"11603";}
+2015-09-17T14:20:48-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:8:"A New Me";s:7:"user_id";s:5:"13218";}
+2015-09-17T14:20:59-07:00 INFO (6): Brian Radke--a:2:{s:13:"contactphone2";s:12:"412-877-4607";s:7:"user_id";s:5:"13218";}
+2015-09-17T14:36:00-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"13218";}
+2015-09-17T14:37:50-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"3500 Burnett Dr";s:7:"user_id";s:5:"13218";}
+2015-09-17T14:37:59-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"15668";s:7:"user_id";s:5:"13218";}
+2015-09-17T14:42:48-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"404-772-0857";s:7:"user_id";s:5:"11603";}
+2015-09-17T14:43:01-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"313-878-1434";s:7:"user_id";s:5:"11603";}
+2015-09-17T14:43:04-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"404-772-0857";s:7:"user_id";s:5:"11603";}
+2015-09-17T14:59:20-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:266:"ORDERED THE PREMIUM SALON AND SPA STARTER.
+
+OWNS A SALON AND BOUTIQUE BUT WANTS TO REPLACE THE BOUTIQUE WITH TANNING AND TEETH WHITENING
+
+Studio 1 Salon
+When You Want To Get Noticed.
+
+1051 Bryant Way ( Across from the mall, behind Wendy's)
+843-8737
+www.studio1bg.com";s:7:"user_id";s:5:"10931";}
+2015-09-17T15:23:41-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:24:"http://www.mtcmedic.com/";s:7:"user_id";s:5:"13258";}
+2015-09-17T15:25:43-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14132";}
+2015-09-17T16:46:06-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:59:"Interested in selling take home products through her salon.";s:7:"user_id";s:5:"14137";}
+2015-09-17T16:51:29-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14137";}
+2015-09-17T16:51:32-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14137";}

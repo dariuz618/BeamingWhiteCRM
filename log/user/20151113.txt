@@ -1,0 +1,23 @@
+2015-11-13T09:30:27-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:26:"bellanuovamedspa@gmail.com";s:7:"user_id";s:5:"12200";}
+2015-11-13T09:33:45-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"12200";}
+2015-11-13T09:34:04-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:25:"info@bellanuovemedspa.com";s:7:"user_id";s:5:"12200";}
+2015-11-13T09:40:12-08:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:17:"North Miami Beach";s:7:"user_id";s:5:"12200";}
+2015-11-13T10:21:16-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:15:"Carolyn Holaway";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"PA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Referred";s:9:"firstname";s:7:"Carolyn";s:8:"lastname";s:7:"Holaway";s:12:"contactphone";s:0:"";s:5:"email";s:26:"mcarolynhollaway@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d4d735fe79f4b0464a50ee67e5db57b041dc99a1";s:8:"username";s:15:"Carolyn Holaway";s:12:"created_time";s:19:"2015-11-13 10:21:16";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"2f57eadf99ba899330f5d8766f367e8b";}
+2015-11-13T10:21:41-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:26:"mcarolynholloway@yahoo.com";s:7:"user_id";s:5:"14615";}
+2015-11-13T10:22:07-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"215-275-6683";s:7:"user_id";s:5:"14615";}
+2015-11-13T10:23:19-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"7044 Paschall Ave";s:7:"user_id";s:5:"14615";}
+2015-11-13T10:23:26-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:12:"Philadelphia";s:7:"user_id";s:5:"14615";}
+2015-11-13T10:23:29-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"19142";s:7:"user_id";s:5:"14615";}
+2015-11-13T11:07:32-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14615";}
+2015-11-13T11:07:52-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14614";}
+2015-11-13T11:08:32-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Renacer Spa";s:7:"user_id";s:5:"14614";}
+2015-11-13T11:08:57-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:12:"Maria Isabel";s:7:"user_id";s:5:"14614";}
+2015-11-13T11:11:09-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14614";}
+2015-11-13T12:38:36-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:104:"PER CANADA HEALTH REG   16% 2ML PENS MUST BE SENT IN KITS (NOT SEPERATE) NO MINERAL PENS DUE TO FLOURIDE";s:7:"user_id";s:4:"3244";}
+2015-11-13T14:19:45-08:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:25:"imliveinthehive@gmail.com";s:7:"user_id";s:5:"14593";}
+2015-11-13T14:21:12-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:287:"John runs a barber shop with a partner but wants to keep this separate. He will work from home at least in the beginning. He has a barber chair at home so he won't need a chair initially. We talked about mobile options so that he would have the flexibility to take the lamp to the shop. ";s:7:"user_id";s:5:"14593";}
+2015-11-13T14:55:23-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:44:"Buying gel syringes
+SMALL RETRACTORS ONLY!!!";s:7:"user_id";s:5:"14373";}
+2015-11-13T15:18:53-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:30:"renacerspaestetica@hotmail.com";s:7:"user_id";s:5:"14614";}
+2015-11-13T15:30:59-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address2";s:9:"Suite 160";s:7:"user_id";s:5:"11423";}
+2015-11-13T17:04:41-08:00 INFO (6): Windy Jenkins--a:2:{s:9:"firstname";s:28:"Gentle Dental Vancouver Mall";s:7:"user_id";s:5:"13940";}

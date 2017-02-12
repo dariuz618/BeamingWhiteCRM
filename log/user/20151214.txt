@@ -1,0 +1,66 @@
+2015-12-14T08:40:24-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:16:"773-362-5477  ??";s:7:"user_id";s:5:"14550";}
+2015-12-14T09:14:44-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:6:"UT0009";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"UT";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"801-915-6006";s:6:"source";s:5:"Other";s:9:"firstname";s:3:"Rob";s:8:"lastname";s:9:"Brenchley";s:12:"contactphone";s:12:"801-915-6006";s:5:"email";s:29:"rob.brenchley@planetbeach.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:12:"Planet Beach";s:4:"type";s:7:"Account";s:8:"password";s:40:"d89cdb62835a7ddfbafdbe28ed60d2f08af3c0a9";s:8:"username";s:6:"UT0009";s:12:"created_time";s:19:"2015-12-14 09:14:44";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"561fe19ce258d83b02145b29bc0f9c52";}
+2015-12-14T09:15:18-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:14:"1917 W, 1800 N";s:7:"user_id";s:5:"15025";}
+2015-12-14T09:15:23-08:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:2:"D7";s:7:"user_id";s:5:"15025";}
+2015-12-14T09:15:37-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"Clearfield";s:7:"user_id";s:5:"15025";}
+2015-12-14T09:15:44-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"84015";s:7:"user_id";s:5:"15025";}
+2015-12-14T09:38:43-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:15:"Robyn Rodriguez";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:11:"Los Angeles";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"626-392-1165";s:6:"source";s:5:"Other";s:9:"firstname";s:5:"Robyn";s:8:"lastname";s:9:"Rodriguez";s:12:"contactphone";s:12:"626-392-1165";s:5:"email";s:19:"robynarod@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"d72f1c8b514eb2ce344ecb335c491adc9374ec9d";s:8:"username";s:15:"Robyn Rodriguez";s:12:"created_time";s:19:"2015-12-14 09:38:43";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"08027b23ea8ddafe02d17a2ebe3fdd37";}
+2015-12-14T09:38:53-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15026";}
+2015-12-14T09:38:55-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15026";}
+2015-12-14T09:52:34-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:16:"12755 sw Hwy 484";s:7:"user_id";s:5:"15024";}
+2015-12-14T09:52:39-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"34432";s:7:"user_id";s:5:"15024";}
+2015-12-14T09:57:46-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"352-489-3004";s:7:"user_id";s:5:"15024";}
+2015-12-14T10:16:45-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:12:"Skin Harmony";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"VA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"540-772-7200";s:6:"source";s:5:"Other";s:9:"firstname";s:9:"Catherine";s:8:"lastname";s:5:"Craig";s:12:"contactphone";s:12:"540-772-7200";s:5:"email";s:26:"catherine_thegr8@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:16:"Former Bodybrite";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"7ca10f058cafb36a759985319903d49c609cbb88";s:8:"username";s:12:"Skin Harmony";s:12:"created_time";s:19:"2015-12-14 10:16:45";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"9bf2fb3523392deabe7e4720ad043147";}
+2015-12-14T10:17:24-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"3214 Electric Rd SW";s:7:"user_id";s:5:"15027";}
+2015-12-14T10:17:28-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Roanoke";s:7:"user_id";s:5:"15027";}
+2015-12-14T10:17:35-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"24018";s:7:"user_id";s:5:"15027";}
+2015-12-14T10:47:15-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12618";}
+2015-12-14T10:47:20-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14886";}
+2015-12-14T10:55:28-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"225-819-6533";s:7:"user_id";s:5:"15022";}
+2015-12-14T10:58:22-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"618-691-2713";s:7:"user_id";s:5:"14708";}
+2015-12-14T11:01:29-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15011";}
+2015-12-14T11:12:09-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"321-362-2687";s:7:"user_id";s:5:"15023";}
+2015-12-14T11:14:59-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15023";}
+2015-12-14T11:22:05-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:15:"mispr@yahoo.com";s:7:"user_id";s:5:"11457";}
+2015-12-14T11:34:48-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"George B";s:7:"user_id";s:5:"15021";}
+2015-12-14T11:34:54-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"George B";s:7:"user_id";s:5:"15021";}
+2015-12-14T11:38:47-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15021";}
+2015-12-14T12:09:38-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:116:"Offered new pricing of $3 ea for the bags printed in china (MOQ 1,000) and $7.25 ea for his kits (MOQ 500) per Cory.";s:7:"user_id";s:4:"8482";}
+2015-12-14T12:23:31-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:13:"Shana Johnson";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"LA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:5:"Shana";s:8:"lastname";s:7:"Johnson";s:12:"contactphone";s:12:"225-819-6533";s:5:"email";s:26:"revivewellnessbr@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"5d8f4aa7b23651c5015f544719d1c6be7a67b1c7";s:8:"username";s:13:"Shana Johnson";s:12:"created_time";s:19:"2015-12-14 12:23:31";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"8d311ebd4165283c454208dcd7f97dd1";}
+2015-12-14T12:23:38-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15029";}
+2015-12-14T12:23:41-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15029";}
+2015-12-14T12:24:03-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"245-819-6533";s:7:"user_id";s:5:"15029";}
+2015-12-14T12:41:51-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"706-590-3383";s:7:"user_id";s:5:"13205";}
+2015-12-14T12:52:16-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:4:"4212";s:7:"user_id";s:5:"14558";}
+2015-12-14T13:20:05-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15021";}
+2015-12-14T13:20:06-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15021";}
+2015-12-14T13:21:43-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Bishay";s:7:"user_id";s:5:"15021";}
+2015-12-14T13:21:46-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:18:"George Bishay, RDH";s:7:"user_id";s:5:"15021";}
+2015-12-14T13:21:50-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:18:"George Bishay, RDH";s:7:"user_id";s:5:"15021";}
+2015-12-14T13:43:01-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:16:"833 nw 113th st.";s:7:"user_id";s:4:"3353";}
+2015-12-14T13:43:11-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:13:"oklahoma city";s:7:"user_id";s:4:"3353";}
+2015-12-14T13:43:15-08:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"OK";s:7:"user_id";s:4:"3353";}
+2015-12-14T13:43:22-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"73114";s:7:"user_id";s:4:"3353";}
+2015-12-14T13:46:04-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:12:"The Best Spa";s:7:"user_id";s:3:"548";}
+2015-12-14T13:51:51-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:7:"Amberly";s:7:"user_id";s:5:"12408";}
+2015-12-14T13:51:57-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Amberly Ramirez";s:7:"user_id";s:5:"12408";}
+2015-12-14T13:51:59-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Amberly Ramirez";s:7:"user_id";s:5:"12408";}
+2015-12-14T13:59:24-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"860-367-6089";s:7:"user_id";s:5:"12408";}
+2015-12-14T14:48:53-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"225.298.4922";s:7:"user_id";s:5:"15029";}
+2015-12-14T14:48:57-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"225-298-4922";s:7:"user_id";s:5:"15029";}
+2015-12-14T14:49:06-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:23:"Revive Wellness Day Spa";s:7:"user_id";s:5:"15029";}
+2015-12-14T14:49:07-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:23:"Revive Wellness Day Spa";s:7:"user_id";s:5:"15029";}
+2015-12-14T15:20:01-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:17:"Jennifer Williams";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:8:"Jennifer";s:8:"lastname";s:8:"Williams";s:12:"contactphone";s:12:"407-574-8383";s:5:"email";s:26:"aboutface@aboutsafeink.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"06a828b44a51f8d583b5551a55c8e8c92a84384a";s:8:"username";s:17:"Jennifer Williams";s:12:"created_time";s:19:"2015-12-14 15:20:01";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"c3883931771756c9eb290216846620a4";}
+2015-12-14T15:20:08-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15032";}
+2015-12-14T15:20:10-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15032";}
+2015-12-14T15:21:14-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"308 E Hillcrest St";s:7:"user_id";s:5:"15032";}
+2015-12-14T15:21:19-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:17:"Altamonte Springs";s:7:"user_id";s:5:"15032";}
+2015-12-14T15:21:21-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"32701";s:7:"user_id";s:5:"15032";}
+2015-12-14T15:59:36-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:24:"http://aboutfaceink.com/";s:7:"user_id";s:5:"15032";}
+2015-12-14T16:00:47-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"About Face Ink";s:7:"user_id";s:5:"15032";}
+2015-12-14T16:00:56-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"About Face Ink";s:7:"user_id";s:5:"15032";}
+2015-12-14T16:01:35-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"407-574-8383";s:7:"user_id";s:5:"15032";}
+2015-12-14T16:07:04-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:10:"Urban Edge";s:7:"user_id";s:4:"9749";}
+2015-12-14T16:07:13-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:10:"Urban Edge";s:7:"user_id";s:4:"9749";}
+2015-12-14T16:23:54-08:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:26:"	alison.egan12@hotmail.com";s:7:"user_id";s:5:"14645";}
+2015-12-14T16:56:59-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:30:"Need to follow up on the 21st.";s:7:"user_id";s:5:"15032";}

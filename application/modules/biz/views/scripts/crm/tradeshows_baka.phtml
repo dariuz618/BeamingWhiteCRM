@@ -1,0 +1,125 @@
+<?php require_once('config.php'); ?>
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Sales CRM</h2>
+        <ol class="breadcrumb">               
+            <li><a href="/crm/prospect">Leads</a></li> 
+            <li><a href="/crm/prospect">Prospects</a></li>             
+            <li><a href="/crm/accounts">Accounts</a></li> 
+            <li><a href="/crm/activity">Activities</a></li>
+			<li class="active">Tradeshows</li>
+        </ol>
+    </div>    
+</div>
+
+<h3>Tradeshows</h3>
+
+
+
+<script>
+var name = "";
+var city = "";
+var year = "";
+
+// Gets the list of cities to populate the second drop down.
+function tradeshowOptions(tsname) {
+		name = tsname;
+    if (tsname == "") {
+        document.getElementById("txtHint").innerHTML = "";
+        return;
+    } else { 
+        if (window.XMLHttpRequest) {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        } else {
+            // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                document.getElementById("txtHint").innerHTML = xmlhttp.responseText;
+            }
+        };
+
+        xmlhttp.open("GET","getcities.php?name="+name,true);
+        xmlhttp.send();
+				
+				name = tsname;
+				console.log(name);
+    }
+}
+
+// Get the list of cities to populate the third drop down.
+function yearOptions(tscity) {
+		city = tscity;
+    if (tscity == "") {
+        document.getElementById("txtHint2").innerHTML = "";
+        return;
+    } else { 
+        if (window.XMLHttpRequest) {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        } else {
+            // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                document.getElementById("txtHint2").innerHTML = xmlhttp.responseText;
+            }
+        };
+        xmlhttp.open("GET","get_year.php?name="+name+"&city="+city,true);
+        xmlhttp.send();
+				city = tscity;
+				console.log(name + " " + city);
+    }
+}
+
+// Get the data list.
+function dataSet(tsyear) {
+		year = tsyear;
+    if (tsyear == "") {
+        document.getElementById("txtHint3").innerHTML = "";
+        return;
+    } else { 
+        if (window.XMLHttpRequest) {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        } else {
+            // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                document.getElementById("txtHint3").innerHTML = xmlhttp.responseText;
+            }
+        };
+        xmlhttp.open("GET","get_data.php?name="+name+"&city="+city+"&year="+year,true);
+        xmlhttp.send();
+				console.log(name + " " + city + " " + year);
+    }
+}
+</script>
+
+<form>	
+	Select Tradeshow:
+	<select name="shows" onchange="tradeshowOptions(this.value)">
+		  <option value="">Select a Tradeshow:</option>
+			<?php
+			  $sql = 'SELECT * FROM tradeshows GROUP BY name ORDER BY name asc;';
+			  $i = 0;
+				foreach ($conn->query($sql) as $row) {
+					echo "<option value='$row[name]'>$row[name]</option>";					
+					$i++;
+			  }
+			?>
+	</select>
+</form>
+
+<br>
+<div id="txtHint">&nbsp;</div>
+<div id="txtHint2">&nbsp;</div>
+<div id="txtHint3">&nbsp;</div>
+
+<link href='/public/css/crm.css' rel='stylesheet' />
+

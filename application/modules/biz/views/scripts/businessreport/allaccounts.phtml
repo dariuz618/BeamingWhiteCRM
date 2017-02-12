@@ -1,0 +1,263 @@
+<?=$this->action('index', 'businessreport');?>          
+<div class="row">
+	<!-- Dariuz Rubin -->
+    <h3 class="page-header"><!--Account Information Report-->Contact Attempts</h3> 
+    <!------------------>
+    <div class="col-lg-12 space">
+    <form method="POST" name="verify" class="form-horizontal">
+    	<div class="row">
+    		<div class="col-md-4">
+    			<div class="form-group">
+	                <label for="from" class="col-sm-3 control-label required">From:</label>   
+	                <div class="col-sm-6">
+	                <input name="from" class="form-control" type="text" id="from" maxlength="10" value="<?php if (isset($_POST['from'])) {
+	                echo $_POST['from'];} ?>" />
+	                </div>
+	            </div>          
+    		</div>
+    		<div class="col-md-4">
+    			<div class="form-group">
+	                <label for="to" class="col-sm-3 control-label required">To:</label>   
+	                <div class="col-sm-6">
+	                <input name="to" class="form-control" type="text" id="to" maxlength="10" value="<?php if (isset($_POST['to'])) {
+	                echo $_POST['to'];} ?>" />
+	                </div>
+	            </div>       
+    		</div>
+    		<div class="col-md-4">
+    			<div class="form-group">                
+	                <label for="sales" class="col-sm-3 control-label">Rep</label>
+	                  <div class="col-sm-6">
+	                  
+	                  	<!--Dariuz Rubin-->	                  
+	                  	<select id="rep" name="rep[]" multiple="multiple" class="form-control">
+	                  		
+	                        <? foreach ($this->reps as $rep): ?>
+	                            <option value= "<?php 
+	                            	echo $rep['id'].','.$rep['name']; 
+	                            	?>"  <? 
+	                            			$check_rep = $rep['id'].','.$rep['name'];
+	                            			foreach ($_POST['rep'] as $post_rep)
+	                            			{
+												if ($check_rep == $post_rep)
+													echo 'selected';
+											}	                            		
+	                            		?>><?= $rep['name'] ?></option>                          
+	                        <? endforeach; ?>					       
+					    </select>     				  
+					    <!----------------->			    
+					
+	                  </div>
+	            </div>  
+    		</div>
+    	</div>
+    	<div class="row">
+    		<div class="col-md-4">
+    			<div class="form-group">
+	            	<label for="type" class="col-sm-3 control-label">Type: </label> 
+	                <div class="col-sm-6">
+		                <select name="type" class="form-control">    
+		                	<option value="Email" <? if (isset($_POST['type']) && $_POST['type']=='Email') echo 'selected' ?>>Email</option>
+		                	<option value="Phone" <? if (isset($_POST['type']) && $_POST['type']=='Phone') echo 'selected' ?>>Phone</option>
+		                	<option value="Both" <? if (isset($_POST['type']) && $_POST['type']=='Both') echo 'selected' ?>>Both</option>
+		                </select>
+	                </div>
+	            </div>  
+    		</div>
+    		<div class="col-md-4">
+    			<div class="form-group">
+	            	<label for="type" class="col-sm-3 control-label">By: </label> 
+	                <div class="col-sm-6">
+		                <select name="by" class="form-control">    
+		                	<option value="By Customer Status" <? if (isset($_POST['by']) && $_POST['by']=='By Customer Status') echo 'selected' ?>>By Customer Status</option>
+		                	<option value="By Type of Contact" <? if (isset($_POST['by']) && $_POST['by']=='By Type of Contact') echo 'selected' ?>>By Type of Contact</option>
+		                	
+		                </select>
+	                </div>
+	            </div>  
+    		</div>
+    	</div>
+    	<div class="row">
+    		<div class="col-md-12">
+    			<center>
+    				<button type="submit" class="btn btn-default">Submit</button>
+    			</center>
+    		</div>
+    	</div>     
+    </form>    
+    </div>
+   
+</div>
+
+
+<?if (!empty($this->accounts)):?>
+<div class="row">
+<div class="col-lg-4">
+<div class="panel panel-default">
+   <div class="panel-heading">Contacts</div>
+   <div class="panel-body">
+     <!-- Dariuz Rubin -->  
+	 <table class="table table-bordered table-striped table-hover" id="all-contacts">
+	    <thead>
+	    	
+    	<?php
+		if ($this->groupBy=='By Customer Status')
+		{
+		?>
+			 <th>Rep</th>
+			 <th>Accounts</th>
+			 <th>Prospects</th>
+			 <th>Leads</th>
+			 <th>Total</th>
+		<?php				
+		}else
+		{
+		?>
+			 <th>Rep</th>
+			 <th>Calls</th>
+			 <th>Emails</th>
+			 <th>Total</th>				 
+		<?php				
+		}
+		?>        
+	    </thead>
+	    <tbody>
+		<?php
+		if ($this->groupBy=='By Customer Status')
+		{
+			foreach ($this->accounts as $key => $account)
+			{
+			?>
+				<tr>
+					<td>
+					<?php
+						
+						echo $account[0]['parent_user'];
+						
+					?>
+					</td>
+					<td>
+					<?php
+						foreach ($account as $type_ind => $type_val)
+						{
+							if ($type_val['type']=='Account')
+							{	
+								echo $type_val['count'];
+							
+							}
+						}
+					?>
+					</td>
+					<td>
+					<?php
+						foreach ($account as $type_ind => $type_val)
+						{
+							if ($type_val['type']=='Prospect')
+							{	
+								echo $type_val['count'];
+							
+							}
+						}
+					?>	
+					</td>
+					<td>
+					<?php
+						$total = 0;
+						foreach ($account as $type_ind => $type_val)
+						{
+							$total += $type_val['count'];
+							if ($type_val['type']=='Lead')
+							{	
+								echo $type_val['count'];
+								
+							}
+						}
+					?>	
+					</td>
+					<td> <?php echo $total;?> </td>
+					
+				</tr>
+			<?php
+			}
+		}else if ($this->groupBy=='By Type of Contact')
+		{
+			foreach ($this->accounts as $key => $account)
+			{
+			?>
+				<tr>
+					<td>
+					<?php		
+								
+						echo $account[0]['parent_user'];						
+					?>
+					</td>
+					<td>
+					<?php
+						foreach ($account as $type_ind => $type_val)
+						{
+							if ($type_val['type']=='email')
+							{	
+								echo $type_val['count'];
+							
+							}
+						}
+					?>
+					</td>
+					<td>
+					<?php
+						$total =0 ;		
+						foreach ($account as $type_ind => $type_val)
+						{
+							$total += $type_val['count'];
+							if ($type_val['type']=='phone')
+							{	
+								echo $type_val['count'];
+							}
+						}
+					?>	
+					</td>
+					
+					<td> <?php echo $total;?> </td>
+					
+				</tr>
+			<?php
+			}
+		}
+		?>		
+	    </tbody>  
+	</table>
+	 <!------------------>
+
+<? elseif(isset($this->isPost)) :?>
+    No contacts found.
+<?endif;?>
+   </div>
+</div>
+</div>
+</div>
+
+<!-- Dariuz Rubin -->    
+<link rel="stylesheet" href="/public/css/bootstrap-multiselect.css" type="text/css">
+<script type="text/javascript" src="/public/js/bootstrap-multiselect.js"></script>
+<!------------------>
+<script src="/public/js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script>
+  $(function() {     	
+    $("#from").datepicker({dateFormat: 'yy-mm-dd'});
+    $("#to").datepicker({dateFormat: 'yy-mm-dd'});
+    $('#all_contacts').dataTable( {
+        
+    });    
+    
+    /* Dariuz Rubin */
+    /* Multiselect for Rep */    
+	
+	 $('#rep').multiselect({
+	   includeSelectAllOption: true,
+	   buttonWidth: '100%',
+	   numberDisplayed: 2	   
+	});
+   });
+   /*=======================*/
+</script>

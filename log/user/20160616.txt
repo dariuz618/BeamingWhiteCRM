@@ -1,0 +1,51 @@
+2016-06-16T08:11:02-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16637";}
+2016-06-16T08:11:07-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16637";}
+2016-06-16T08:34:12-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:47:"$10.50 per kit Adv, Traditional, or Pre Loaded.";s:7:"user_id";s:5:"12629";}
+2016-06-16T08:54:20-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:9:"PB TX0111";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:29:"824 South Crowley RD Suite 20";s:8:"address2";s:0:"";s:4:"city";s:7:"Crowley";s:5:"state";s:2:"TX";s:3:"zip";s:5:"76036";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Referred";s:9:"firstname";s:5:"Scott";s:8:"lastname";s:5:"Fugua";s:12:"contactphone";s:0:"";s:5:"email";s:27:"scott.fugua@planetbeach.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:12:"Planet Beach";s:4:"type";s:7:"Account";s:8:"password";s:40:"0f71b23f39658089e22ff8291420c363dac4e7eb";s:8:"username";s:9:"PB TX0111";s:12:"created_time";s:19:"2016-06-16 08:54:20";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"5917cd34851b89140e1cb836c6f7272d";}
+2016-06-16T09:13:13-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:13:"Cathy Sparkes";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:11:"Mount Pearl";s:5:"state";s:2:"NL";s:3:"zip";s:0:"";s:7:"country";s:2:"CA";s:13:"businessphone";s:12:"709-364-6239";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Cathy";s:8:"lastname";s:7:"Sparkes";s:12:"contactphone";s:12:"709-364-6239";s:5:"email";s:31:"catherinelovesbarbies@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"94350c04f673b7c8f0de18781e8184e6499797be";s:8:"username";s:13:"Cathy Sparkes";s:12:"created_time";s:19:"2016-06-16 09:13:12";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6231afb26e9c209adbe2e380880f9e41";}
+2016-06-16T09:35:36-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Josh Newson";s:7:"user_id";s:5:"16639";}
+2016-06-16T09:35:39-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Josh Newson";s:7:"user_id";s:5:"16639";}
+2016-06-16T09:36:35-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16586";}
+2016-06-16T09:41:07-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16586";}
+2016-06-16T09:48:02-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16639";}
+2016-06-16T10:01:45-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16631";}
+2016-06-16T10:01:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16631";}
+2016-06-16T10:48:14-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:18:"757-878-1000 PHONE";s:7:"user_id";s:5:"15037";}
+2016-06-16T10:53:59-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:13:"Smiling Great";s:7:"user_id";s:5:"15554";}
+2016-06-16T10:54:02-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:22:"smilinggreat@yahoo.com";s:7:"user_id";s:5:"15554";}
+2016-06-16T11:08:12-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"10824";}
+2016-06-16T11:32:00-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:17:"hendrat@gmail.com";s:7:"user_id";s:5:"15975";}
+2016-06-16T11:47:49-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16511";}
+2016-06-16T11:56:32-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16638";}
+2016-06-16T11:57:34-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16606";}
+2016-06-16T11:58:39-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16316";}
+2016-06-16T12:22:18-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"509-969-2499";s:7:"user_id";s:5:"16310";}
+2016-06-16T12:23:37-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16310";}
+2016-06-16T12:58:59-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:19:"Platinum Hair Salon";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"ID";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"208-585-4210";s:6:"source";s:8:"Referred";s:9:"firstname";s:7:"Melissa";s:8:"lastname";s:6:"Lovett";s:12:"contactphone";s:12:"208-585-4210";s:5:"email";s:24:"love.platinum@icloud.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:11:"BW Customer";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"6f0ce4e8ca383b64bc68a49283e91f907131c373";s:8:"username";s:19:"Platinum Hair Salon";s:12:"created_time";s:19:"2016-06-16 12:58:59";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c7000dc3b09458139a459dc74bc76ebb";}
+2016-06-16T13:28:24-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16612";}
+2016-06-16T14:05:37-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:30:"Dr. Pamela Gore - Chiropractor";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:27:"10109 S Ranchwood Manor Dr.";s:8:"address2";s:0:"";s:4:"city";s:13:"Oklahoma City";s:5:"state";s:2:"OK";s:3:"zip";s:10:"73139-8923";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"816-803-4268";s:6:"source";N;s:9:"firstname";s:10:"Dr. Pamela";s:8:"lastname";s:4:"Gore";s:12:"contactphone";s:12:"816-803-4268";s:5:"email";s:21:"drpmgoremot@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"9810e639ea28f5cd9c94da0b2cdba8e8f6321042";s:8:"username";s:30:"Dr. Pamela Gore - Chiropractor";s:12:"created_time";s:19:"2016-06-16 14:05:36";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"9aa73b383246096f1f9b36c614860030";}
+2016-06-16T14:39:42-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16644";}
+2016-06-16T14:39:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16644";}
+2016-06-16T15:31:57-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:11:"Julie Ayala";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"646-670-8244";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Julie";s:8:"lastname";s:5:"Ayala";s:12:"contactphone";s:12:"646-670-8244";s:5:"email";s:22:"julieayala82@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"3b2baaea42974766250175eba21db3609f6b9b14";s:8:"username";s:11:"Julie Ayala";s:12:"created_time";s:19:"2016-06-16 15:31:57";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"84830259051995710d2a32f2376a3da0";}
+2016-06-16T16:16:12-07:00 INFO (6): Kory Osborne--a:2:{s:5:"email";s:23:"jamesanddez@comcast.net";s:7:"user_id";s:5:"10315";}
+2016-06-16T16:21:02-07:00 INFO (6): Kory Osborne--a:2:{s:8:"username";s:16:"Desiree Houghton";s:7:"user_id";s:5:"10315";}
+2016-06-16T16:21:14-07:00 INFO (6): Kory Osborne--a:2:{s:9:"firstname";s:8:"Desiree ";s:7:"user_id";s:5:"10315";}
+2016-06-16T16:21:19-07:00 INFO (6): Kory Osborne--a:2:{s:8:"lastname";s:8:"Houghton";s:7:"user_id";s:5:"10315";}
+2016-06-16T16:21:38-07:00 INFO (6): Kory Osborne--a:2:{s:12:"contactphone";s:12:"206-920-1677";s:7:"user_id";s:5:"10315";}
+2016-06-16T16:22:09-07:00 INFO (6): Kory Osborne--a:2:{s:8:"address1";s:19:"23907 SE 249th St. ";s:7:"user_id";s:5:"10315";}
+2016-06-16T16:30:21-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"345-945-5919";s:7:"user_id";s:5:"15200";}
+2016-06-16T16:37:16-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:18:"info@spadesoul.com";s:7:"user_id";s:5:"15200";}
+2016-06-16T16:39:56-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"16597";}
+2016-06-16T16:39:59-07:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"16597";}
+2016-06-16T16:40:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:25:"Spa De Soul International";s:7:"user_id";s:5:"15200";}
+2016-06-16T16:40:20-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:30:"Governor's Square, 2-101,2-102";s:7:"user_id";s:5:"15200";}
+2016-06-16T16:40:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:12:"PO Box 11217";s:7:"user_id";s:5:"15200";}
+2016-06-16T16:40:31-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:12:"Grand Cayman";s:7:"user_id";s:5:"15200";}
+2016-06-16T16:40:36-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:8:"KY1-1008";s:7:"user_id";s:5:"15200";}
+2016-06-16T16:40:41-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"ML";s:7:"user_id";s:5:"15200";}
+2016-06-16T16:48:46-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16585";}
+2016-06-16T16:54:39-07:00 INFO (6): Kory Osborne--a:2:{s:6:"email2";s:20:"mikedrelax@gmail.com";s:7:"user_id";s:5:"16636";}
+2016-06-16T17:05:36-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16575";}
+2016-06-16T17:22:53-07:00 INFO (6): Kory Osborne--a:2:{s:6:"email2";s:21:"eve_delgago@gmail.com";s:7:"user_id";s:2:"20";}
+2016-06-16T17:23:03-07:00 INFO (6): Kory Osborne--a:2:{s:6:"email2";s:21:"eve_delgado@gmail.com";s:7:"user_id";s:2:"20";}
+2016-06-16T17:36:24-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"435-229-1335";s:7:"user_id";s:5:"16583";}

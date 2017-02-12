@@ -1,0 +1,1405 @@
+<?php
+	 function DisplayPhone($phone_str)  
+	 {
+	 	$phone_str = preg_replace("/[^0-9]*/s", "",$phone_str);
+	 	if (strlen($phone_str)>0)
+	 	{
+			$phone1 = substr($phone_str,0,3);
+	 		$phone2 = substr($phone_str,3,3);
+	 		$phone3 = substr($phone_str,6);
+	 		$phone = '('.$phone1.')'.' '.$phone2.'-'.$phone3;	
+	 		return $phone;
+	 		/*echo $phone;*/
+		}
+	 }
+?>
+<head>    
+    <!--link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">    
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script--> 
+    <link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/css/jqueryui-editable.css" rel="stylesheet"/>
+    <link href="/public/css/jquery.datetimepicker.css" rel="stylesheet" />
+	<script src="/public/js/jquery/jquery.datetimepicker.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/js/jqueryui-editable.min.js"></script> 
+    <script src="/public/js/jquery/jquery-editable-poshytip.js"></script>    
+   	
+</head>
+
+<div class="row" style="margin-left: -25px;margin-right:-25px">
+	<form name="customer_info_form" id="customer_info_form" method="post" enctype="multipart/form-data">
+		<div class="col-sm-3 customer-detail-col">		
+			<input type='hidden' id="userId" name="userId" value="<?= $this->user['id'] ?>">
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Account Information</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>
+						 	<tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Sales Rep</td>
+						        <td colspan="2">					        	
+						        	<select class="customer-detail-field customer-detail-font" name="parentAccountID" id="parentAccountID">      		
+						        		<? foreach ($this->reps as $rep): ?>
+						                    <option value= "<?= $rep['id']?>"  <? if ($this->user['parent_user'] == $rep['id']) echo 'selected';?>><?= $rep['name'] ?></option>                          
+						                <? endforeach; ?>			    
+									</select>     
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Potential</td>
+						        <td colspan="2">					        						        	
+						        	<select class="customer-detail-field customer-detail-font" name="potential" id="potential">    
+						        		<option value= ""></option>                            		
+						        		<? foreach ($this->potentials as $key => $accountPotential ): ?>
+						                    <option value= "<?= $key?>"  <? if ($this->user['potential'] == $key) echo 'selected';?>><?= $accountPotential?></option>                          
+						                <? endforeach; ?>			    
+									</select>     
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Opportunity</td>
+						        <td colspan="2">					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="opportunity" id="opportunity" value="<?php 
+			        					if (isset($this->user['opportunity'])) 
+			        						{echo '$'.$this->user['opportunity'];} 
+			        					else
+			        						echo '$'.'0.00';
+			        					?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Lead Source</td>
+						        <td colspan="2">					        						        	
+						        	<select class="customer-detail-field customer-detail-font" name="source" id="source">    						        
+						        		<? foreach ($this->sources as $key => $Source ): ?>
+						                    <option value= "<?= $key?>"  <? if ($this->user['source'] == $key) echo 'selected';?>><?= $Source?></option>
+						                <? endforeach; ?>							                
+									</select>     
+						        </td>						     	        
+						    </tr>
+						    <tr>
+						     	<td colspan="2" style="width:74%;padding-right: 1px">				  	
+						           <select class="customer-detail-field customer-detail-font" name="tradeshows" id="tradeshows" <?php if($this->user['source'] != 'Tradeshow') echo 'disabled';?> >     	 	
+						           		  <option value= ""></option>
+						           		<? foreach ($this->tradeshows as $tradeshows): ?>
+						                    <option value= "<?= $tradeshows['id']?>"  <? if ($this->user['tradeshows'] == $tradeshows['id']) echo 'selected';?>><?= $tradeshows['name'].' : '.$tradeshows['location'].' : '.$tradeshows['date'] ?></option>                          
+						                <? endforeach; ?>			    
+							        </select>
+							    </td>		
+						        <td style="padding-left: 1px">
+							        <select class="customer-detail-field customer-detail-font" name="tradeshow_year" id="tradeshow_year"  <?php if($this->user['source'] != 'Tradeshow') echo 'disabled';?> >
+							        	 <option value= ""></option>
+							        	<? for ($year=2010;$year<=2050;$year++): ?>
+						                    <option value= "<?= $year?>"   <? if ($this->user['tradeshow_year'] == $year) echo 'selected';?>>
+						                    	<?= $year ?>                    	
+						                    </option>                          
+						                <? endfor; ?>			    
+						        	</select>	        							            
+							    </td>
+						    </tr>
+		    				<tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Lead Source Link</td>						        
+						        <td colspan="2">	
+						           <textarea cols="22" rows="<?php  if (isset($this->user['source_text']) and strlen($this->user['source_text'])>0) echo ceil(strlen($this->user['source_text'])/23); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="source_text" name="source_text" onkeyup="javascript:do_resize(this,23);" style="resize: none"> <?php 
+			        					if (isset($this->user['source_text'])) 
+			        						{echo $this->user['source_text'];} 		        					
+			        					?></textarea>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Initial Contact Via</td>
+						        <td colspan="2">					        						        	
+						        	<select class="customer-detail-field customer-detail-font" name="imported" id="imported">    
+						        		<option value= ""></option>                         
+						        		<? foreach ($this->leadsources as $key => $LeadSource ): ?>
+						                    <option value= "<?= $key?>"  <? if ($this->user['imported'] == $key) echo 'selected';?>><?= $LeadSource?></option>                          
+						                <? endforeach; ?>		
+									</select>     
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Account Type</td>
+						        <td colspan="2">					        						        	
+						        	<select class="customer-detail-field customer-detail-font" name="type" id="type">    					        		                    
+						        		<? foreach ($this->accounttypes as $key => $accountType ): ?>
+						                    <option value= "<?= $key?>"  <? if ($this->user['type'] == $key) echo 'selected';?>><?= $accountType?></option>                          
+						                <? endforeach; ?>		
+									</select>     
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Customer Type</td>
+						        <td colspan="2">					        						        	
+						        	<select class="customer-detail-field customer-detail-font" name="customertype" id="customertype">    					        		                    
+						        		<? foreach ($this->customertypes as $key => $customerType ): ?>
+						                    <option value= "<?= $key?>"  <? if ($this->user['customertype'] == $key) echo 'selected';?>><?= $customerType?></option>                          
+						                <? endforeach; ?>		
+									</select>     
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Training Complete</td>
+						        <td colspan="2">	
+						        	
+			                		<input type="text" class="datetimePicker1 customer-detail-image-field customer-detail-field customer-detail-font"  name="training_complete" id="training_complete" size="20" value="<? echo $this->user['training_complete']?date('m/d/Y', strtotime($this->user['training_complete'])):''?>" <? if ($this->user['training_complete']) echo 'disabled';?> style="color: grey">									
+						        </td>					       		        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Certificate Issued</td>
+						         <td colspan="2">	
+						        	
+			                		<input type="text" class="datetimePicker1 customer-detail-image-field customer-detail-field customer-detail-font"  name="certificate_issued" id="certificate_issued" size="20" value="<? echo $this->user['certificate_issued']?date('m/d/Y', strtotime($this->user['certificate_issued'])):''?>"  <? if ($this->user['certificate_issued']) echo 'disabled';?> style="color: grey">									
+						        </td>					       		        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Lead Created</td>
+						        <td colspan="2">					        	
+			                		<input type="text" class="datetimePicker customer-detail-image-field customer-detail-field "  name="created_time" id="created_time" size="20" value="<? echo $this->user['created_time']?date('m/d/Y g:i A', strtotime($this->user['created_time'])):''?>" disabled style="color: grey">																		
+						        </td>					       		        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Time left in Queue</td>
+						        <td >					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="time_left" id="time_left" value="<?php 
+			        					if (isset($this->time_left)) 
+			        						{echo $this->time_left.' days';} 		        					
+			        					?>" disabled style="color: grey"/>
+						        </td>					        
+						    </tr>
+						     <tr>
+						        <td class = "customer-detail-left-field customer-detail-font"></td>
+						        <td colspan="2" style="vertical-align: middle">					  
+						        	<input type="checkbox" class="customer-detail-activity-checkbox" name="removal_days" id="removal_days" value="yes" <?php if ($this->user['removal_days'] > 60) { echo 'checked disabled'; }?>>&nbsp;&nbsp;<font class="customer-detail-font" >Additional 60 days</font>	        						        	
+						        </td>					        
+						    </tr>
+						 </tbody>
+					</table>
+				</div>
+			</div>
+			
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Follow up</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>			 	
+						    <tr>
+						        <td class = "customer-detail-followup-left-field customer-detail-font">
+						        	<input type="text" name="followup" id="followup" size="20" class="datetimePicker customer-detail-image-field  customer-detail-field"  value="<? echo $this->followup['start']?date('m/d/y g:i A', strtotime($this->followup['start'])):''?>">
+						        </td>
+						        <td style="padding: 0px !important; padding-right:2px !important;padding-top: 3px !important;">
+						        	<button type="button" class="btn btn-sm btn-primary  customer-detail-button customer-detail-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="submitFollowup" name="submitFollowup" style="padding: 3px">Set</button>			           		
+						        </td>					       		    
+						        <td style="padding: 0px !important; padding-right:8px !important;padding-top: 3px !important;">
+						        	<button type="button" class="btn btn-sm btn-primary  customer-detail-button customer-detail-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="submitClearFollowup" name="submitClearFollowup"  style="padding: 3px">Clear</button>					                		
+						        </td>				    		          
+						    </tr>
+						    <tr>
+						    	<td colspan='3' class = "customer-detail-followup-left-field customer-detail-font">
+						    		Reason for Follow up<br>
+						        	 <textarea rows="12" id="reason_followup" name="reason_followup"  class="customer-detail-field customer-detail-black-font" style="resize: none"><? if (isset($this->user['reason_followup'])) echo $this->user['reason_followup'];?></textarea>
+
+						        </td>
+						    </tr>
+						    <tr style="height: 40px">
+						        <td colspan='3' align="right">	
+						        	<button type="button"  class="btn btn-primary  customer-detail-button customer-detail-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="submitClearReason" name="submitClearReason" style="width:auto" >Clear</button>		
+						        	<button type="button"  class="btn btn-primary  customer-detail-button customer-detail-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="submitSaveReason" name="submitSaveReason" style="width:auto" >Save</button>						        				                		
+						        </td>					       		        
+						    </tr>
+						 </tbody>
+					</table>
+				</div>
+			</div>
+			
+		
+		
+		</div>
+		<div class="col-sm-3 customer-detail-col">
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Contact & Company Information</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>					 	
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Business Name</td>
+						        <td colspan="2">
+						        	<?php
+						        		if (isset($this->user['businessname']) and strlen($this->user['businessname'])>0) 
+						        			$buss_name1 = $this->user['businessname'];
+						        		else
+						        			$buss_name1 = $this->user['firstname'].' '.$this->user['lastname'];
+						        		
+						        	?>						        	
+						        	 <textarea cols="20" rows="<?php  if (isset($buss_name1) and strlen($buss_name1)>0) echo ceil(strlen($buss_name1)/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="businessname" name="businessname" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $buss_name1; ?></textarea>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Company Website</td>
+						        <td colspan="2">
+						        	 <textarea cols="20" rows="<?php  if (isset($this->user['website']) and strlen($this->user['website'])>0) echo ceil(strlen($this->user['website'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="website" name="website" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['website']; ?></textarea>
+						        </td>					        
+						    </tr>
+							<tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Business Type</td>
+						        <td colspan="2">	
+						        	 <textarea cols="20" rows="<?php  if (isset($this->user['businesstype']) and strlen($this->user['businesstype'])>0) echo ceil(strlen($this->user['businesstype'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="businesstype" name="businesstype" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['businesstype']; ?></textarea>
+						        
+						        </td>					        
+						    </tr>
+						  
+						    
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Business Phone</td>
+						        <td colspan="2">				        						        	
+						        	<div class="row input-group " style="width: 100%">
+							        	<div>
+							        		<?php 
+							        			$buss_ph = DisplayPhone($this->user['businessphone']);
+							        		?>
+							        		 <textarea cols="15" rows="<?php  if (isset($buss_ph) and strlen($buss_ph)>0) echo ceil(strlen($buss_ph)/16); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="businessphone" name="businessphone" onkeyup="javascript:do_resize(this,16);" style="resize: none"><?php echo DisplayPhone($this->user['businessphone']); ?></textarea>
+							        	<!--	 
+							        		<input  type="text" class="customer-detail-field customer-detail-font" name="businessphone" id="businessphone" value="<?= DisplayPhone($this->user['businessphone']);?>"/>-->
+									    </div>
+									 	<span class="input-group-btn">					                      
+					                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="javascript:onClicktoCall('<?= DisplayPhone($this->user['businessphone']);?>');" >
+					                        	<span class="glyphicon glyphicon-earphone"></span>
+					                        </button>
+					                    </span>										
+		                            </div>
+						        	
+						        </td>					        
+						    </tr>
+						    
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Fax</td>
+						        <td colspan="2">	
+						        	 <textarea cols="20" rows="<?php  if (isset($this->user['fax']) and strlen($this->user['fax'])>0) echo ceil(strlen($this->user['fax'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="fax" name="fax" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['fax']; ?></textarea>
+						        
+						        </td>					        
+						    </tr>
+						    
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">First Name</td>
+						        <td colspan="2">					     
+						        	 <textarea cols="20" rows="<?php  if (isset($this->user['firstname']) and strlen($this->user['firstname'])>0) echo ceil(strlen($this->user['firstname'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="firstname" name="firstname" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['firstname']; ?></textarea>						        
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Last Name</td>
+						        <td colspan="2">			
+						        	<textarea cols="20" rows="<?php  if (isset($this->user['lastname']) and strlen($this->user['lastname'])>0) echo ceil(strlen($this->user['lastname'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="lastname" name="lastname" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['lastname']; ?></textarea>	        						        	
+						        	
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font" colspan="3">Phone</td>
+						    </tr>
+						    <tr>
+						    	<td colspan="3">
+						    		<div class="row">
+						    			<table class="table my-table-font" cellspacing="0" cellpadding="0" style="background-color: #f2f0f1;">				
+										    <?php
+							        		if (isset($this->user['contactphone_all']))
+							        			$contactphones_ary = explode(',',$this->user['contactphone_all']);
+							        		if (isset($this->user['contactphone_type_all']))
+							        			$contactphones_type_ary = explode(',',$this->user['contactphone_type_all']);
+							        		for ($i=0;$i<5;$i++)
+							        		{
+							        			$id = "contact_phone_". $i;
+							        			$contact_phone_id = "contact_phonenumber_". $i;
+							        			$contactphone_type_id = "contact_phone_type_". $i;
+							        			if (isset($contactphones_type_ary[$i]))
+							        				$contactphones_type_ary[$i] = trim($contactphones_type_ary[$i]);
+							        			if (isset($contactphones_ary[$i]))
+							        				$contactphones_ary[$i] = trim($contactphones_ary[$i]);
+											?>
+						    
+											<tr>
+												<td width="65px" style="padding: 1px">
+													<div id= '<?= $contactphone_type_id?>' style="<?php 
+														if (!isset($contactphones_ary[$i]) and $i)  
+															echo 'display:none;width:100%;';
+														else
+															echo 'width:100%;';
+														?>">				    		        						        	
+											        	<select class="customer-detail-field customer-detail-font" name="contactphones_type[]" id="contactphones_type[]" style="padding-left: 0px;padding-right: 0px">               
+											        		<option value= ''  <?php if ($contactphones_type_ary[$i] == '') echo 'selected';?>></option>
+											                <option value= "Cell"  <?php if ($contactphones_type_ary[$i] == "Cell") echo 'selected';?>>Cell</option>
+											                <option value= "Work"  <?php if ($contactphones_type_ary[$i] == "Work") echo 'selected';?>>Work</option>
+											                <option value= "Home"  <?php if ($contactphones_type_ary[$i] == "Home") echo 'selected';?>>Home</option>
+											                <option value= "Other"  <?php if ($contactphones_type_ary[$i] == "Other") echo 'selected';?>>Other</option>
+														</select>   
+													</div>  
+												</td>
+												<td style="padding: 1px">
+														
+										      		<div  class="input-group "  id = "<?= $id?>" style="<?php 
+														if (!isset($contactphones_ary[$i]) and $i)  
+															echo 'display:none;width:100%;';
+														else
+															echo 'width:100%;';
+														?>">
+											        	<div>
+											        		<input class="customer-detail-field customer-detail-font customer-detail-added" name="contactphones[]" id="<?= $contact_phone_id?>" type="text" value="<?php echo DisplayPhone($contactphones_ary[$i]);?>"/>	
+													    </div>
+													   
+									                 
+													 	<span class="input-group-btn">
+													 	    <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="javascript:onClicktoCall(document.getElementById('<?= $contact_phone_id?>').value);" >
+									                        	<span class="glyphicon glyphicon-earphone"></span>
+									                        </button>
+									                               
+									                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="addInputFirstContactPhone('<?=$i?>');" >
+									                        	<span class="glyphicon glyphicon-plus"></span>
+									                        </button>
+									                    </span>										
+						                            </div> 
+						    		
+												</td>
+											</tr>
+											<?php	
+											}
+										    ?>
+						    			</table>
+						    		</div>    
+						    	</td>
+						    </tr>
+					   
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font" colspan="3">Email</td>
+						    </tr>
+					   
+						    <tr>
+						        <td colspan="3">		
+						        	<?php
+						        		if (isset($this->user['email_all']))
+						        			$email_ary = explode(',',$this->user['email_all']);
+						        		for ($i=0;$i<5;$i++)
+						        		{
+						        			$id = "contact_email_". $i;
+										?>
+										<div class="row input-group "  id = "<?= $id?>" style="<?php if (!isset($email_ary[$i]) and $i)  echo 'display:none;width: 100%'; else echo 'width: 100%';?>">
+								        	<div>
+								        		<textarea cols="37" rows="<?php  if (isset($email_ary[$i]) and strlen($email_ary[$i])>0) echo ceil(strlen($email_ary[$i])/38); else echo 1;?>" class="customer-detail-field customer-detail-black-font" name="contactemails[]" onkeyup="javascript:do_resize(this,38);" style="resize: none"><?php if (isset($email_ary[$i])) echo trim($email_ary[$i]);?></textarea>								        		
+										    </div>
+										 	<span class="input-group-btn">
+						                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="addInputFirstContactEmail('<?=$i?>');" >
+						                        	<span class="glyphicon glyphicon-plus"></span>
+						                        </button>
+						                    </span>										
+			                            </div>
+										<?php	
+										}
+						        	?>						        	 
+		                                        
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td colspan="3" class= "customer-detail-left-field customer-detail-font" style=" <?php if ($this->secondaryContact == true) echo 'display:none'; else echo 'display:grid'; ?>">
+							        <button class="btn btn-success <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button"  onClick="addNewContact();" id = "btnAddScondaryContact">
+					                    <span class="glyphicon glyphicon-plus"></span>&nbsp;Add New Contact
+					                </button>
+				                </td>
+				               
+						    </tr>
+						 </tbody>
+					</table>
+					<table class="table my-table-font" cellspacing="0" cellpadding="0" style=" <?php if ($this->secondaryContact == true) echo 'display:block'; else echo 'display:none'; ?>" id="secondaryContactTable" >
+						 <tbody>		
+						 	<tr style="height: 30px">
+						        <td class = "customer-detail-left-field customer-detail-font" colspan="3" align="center" style="color:black;font-size:19px">Secondary Contact & Company Information</td>					        
+						    </tr>			 	
+						   	<!--<tr style="height:15px">&nbsp;</tr>-->
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Business Name</td>
+						         <td colspan="2">					        						        	
+						        	
+						        	<textarea cols="20" rows="<?php  if (isset($this->user['secondary_businessname']) and strlen($this->user['secondary_businessname'])>0) echo ceil(strlen($this->user['secondary_businessname'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="secondary_businessname" name="secondary_businessname" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['secondary_businessname']; ?></textarea>	        	
+						        	
+						        </td>					        
+						    </tr>
+						     <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Company Website</td>
+						        <td colspan="2">
+						        	 <textarea cols="20" rows="<?php  if (isset($this->user['secondary_website']) and strlen($this->user['secondary_website'])>0) echo ceil(strlen($this->user['secondary_website'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="secondary_website" name="secondary_website" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['secondary_website']; ?></textarea>
+						        </td>					        
+						    </tr>
+							<tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Business Type</td>
+						         <td colspan="2">			
+						         	<textarea cols="20" rows="<?php  if (isset($this->user['secondary_businesstype']) and strlen($this->user['secondary_businesstype'])>0) echo ceil(strlen($this->user['secondary_businesstype'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="secondary_businesstype" name="secondary_businesstype" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['secondary_businesstype']; ?></textarea>	        			        						        	
+						        	
+						        </td>					        
+						    </tr>
+						     <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Business Phone</td>
+						        <td colspan="2">				        						        	
+						        	<div class="row input-group " style="width: 100%;">
+							        	<div>
+							        		<input  type="text" class="customer-detail-field customer-detail-font" name="secondary_businessphone" id="secondary_businessphone" value="<?php echo DisplayPhone($this->user['secondary_businessphone']);?>"/>
+									    </div>
+									 	<span class="input-group-btn">					                      
+					                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="javascript:onClicktoCall('<?= DisplayPhone($this->user['secondary_businessphone']);?>');" >
+					                        	<span class="glyphicon glyphicon-earphone"></span>
+					                        </button>
+					                    </span>										
+		                            </div>
+						        </td>	
+						    
+						    </tr>
+						     <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Fax</td>
+						        <td colspan="2">	
+						        	 <textarea cols="20" rows="<?php  if (isset($this->user['secondary_fax']) and strlen($this->user['secondary_fax'])>0) echo ceil(strlen($this->user['secondary_fax'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="secondary_fax" name="secondary_fax" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['secondary_fax']; ?></textarea>
+						        
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">First Name</td>
+						        <td colspan="2">		
+						        	<textarea cols="20" rows="<?php  if (isset($this->user['secondary_firstname']) and strlen($this->user['secondary_firstname'])>0) echo ceil(strlen($this->user['secondary_firstname'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="secondary_firstname" name="secondary_firstname" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['secondary_firstname']; ?></textarea>	        			   
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Last Name</td>
+						        <td colspan="2">					        						        	
+						        	<textarea cols="20" rows="<?php  if (isset($this->user['secondary_lastname']) and strlen($this->user['secondary_lastname'])>0) echo ceil(strlen($this->user['secondary_lastname'])/22); else echo 1;?>" class="customer-detail-field customer-detail-black-font" id="secondary_lastname" name="secondary_lastname" onkeyup="javascript:do_resize(this,22);" style="resize: none"><?php echo $this->user['secondary_lastname']; ?></textarea>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font" colspan="2">Phone</td>
+						    </tr>
+						    <tr>
+						    	<td colspan="3">
+						    		<div class="row">
+						    			<table class="table my-table-font" cellspacing="0" cellpadding="0" style="background-color: #f2f0f1;">	
+										<?php
+							        		if (isset($this->user['contactphone2_all']))
+							        			$contactphones2_ary = explode(',',$this->user['contactphone2_all']);
+							        		
+							        		if (isset($this->user['contactphone2_type_all']))
+							        			$contactphones2_type_ary = explode(',',$this->user['contactphone2_type_all']);
+							        			
+							        		for ($i=0;$i<5;$i++)
+							        		{
+							        			$id = "secondary_contact_phone_". $i;
+							        			$contactphone_type_id = "secondary_contact_phone_type_". $i;
+							        			$contact_phone_id = "secondary_contact_phonenumber_". $i;
+							        			if (isset($contactphones2_type_ary[$i]))
+							        				$contactphones2_type_ary[$i] = trim($contactphones2_type_ary[$i]);
+							        			if (isset($contactphones2_ary[$i]))
+							        				$contactphones2_ary[$i] = trim($contactphones2_ary[$i]);
+											?>
+											    <tr>
+											        <td width="65px" style="padding: 1px">
+										         		<div class="row"  id = '<?= $contactphone_type_id?>' style="<?php 
+															if (!isset($contactphones2_ary[$i]) and $i)  
+																echo 'display:none;width:100%';
+															else
+																echo 'width:100%';
+															?>">				        						        	
+												        	<select class="customer-detail-field customer-detail-font" name="secondary_contactphones_type[]" id="secondary_contactphones_type[]" style="padding-left: 0px;padding-right:0px">    					        		                    
+												        		<option value= ''  <?php if ($contactphones2_type_ary[$i] == '') echo 'selected';?>></option>
+												                <option value= "Cell"  <?php if ($contactphones2_type_ary[$i] == "Cell") echo 'selected';?>>Cell</option>
+												                <option value= "Work"  <?php if ($contactphones2_type_ary[$i] == "Work") echo 'selected';?>>Work</option>
+												                <option value= "Home"  <?php if ($contactphones2_type_ary[$i] == "Home") echo 'selected';?>>Home</option>
+												                <option value= "Other"  <?php if ($contactphones2_type_ary[$i] == "Other") echo 'selected';?>>Other</option>
+															</select>  
+														</div>   
+											        </td>			
+											        <td style="padding: 1px">
+														<div class="row input-group "  id = '<?= $id?>' style="<?php 
+															if (!isset($contactphones2_ary[$i]) and $i)  
+																echo 'display:none;width: 100%';
+															else
+																echo 'width: 100%';
+															?>">
+												        	<div>
+												        		<input class="customer-detail-field customer-detail-font customer-detail-added" name="secondary_contactphones[]" id="<?= $contact_phone_id?>" type="text" value="<?php echo DisplayPhone($contactphones2_ary[$i]);?>"/>	
+														    </div>
+														 	<span class="input-group-btn">
+														 		<button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="javascript:onClicktoCall(document.getElementById('<?= $contact_phone_id?>').value);" >
+										                        	<span class="glyphicon glyphicon-earphone"></span>
+										                        </button>
+										                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  type="button" onClick="addInputSecondaryContactPhone('<?=$i?>');" >
+										                        	<span class="glyphicon glyphicon-plus"></span>
+										                        </button>
+										                    </span>										
+							                            </div>
+																	        	
+										        	</td>	
+												</tr>	
+											<?php	
+											}
+							        	?>						        
+							        	</table>
+							        </div>
+							    </td>
+						    </tr>
+							<tr>
+						    	<td class = "customer-detail-left-field customer-detail-font" colspan="3">Email</td>
+						    
+						    </tr>
+						    <tr>
+						        <td colspan="3">
+						        	<?php
+						        		if (isset($this->user['email2_all']))
+						        			$email2_ary = explode(',',$this->user['email2_all']);
+						        		for ($i=0;$i<5;$i++)
+						        		{
+						        			$id = "secondary_contact_email_". $i;
+										?>
+										<div class="row input-group "  id = "<?= $id?>" style="<?php 
+											if (!isset($email2_ary[$i]) and $i) 
+												echo 'display:none;width: 100%;';
+											else
+												echo 'width: 100%;';
+											?>">
+								        	<div>								        		
+								        		<textarea cols="37" rows="<?php if (isset($email2_ary[$i]) and strlen($email2_ary[$i])>0) echo ceil(strlen($email2_ary[$i])/38); else echo 1;?>" class="customer-detail-field customer-detail-black-font" name="secondary_contactemails[]" onkeyup="javascript:do_resize(this,38);" style="resize: none"><?php if (isset($email2_ary[$i])) echo trim($email2_ary[$i]);?></textarea>
+								        		
+										    </div>
+										 	<span class="input-group-btn">
+						                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="addInputSecondaryContactEmail('<?=$i?>');" >
+						                        	<span class="glyphicon glyphicon-plus"></span>
+						                        </button>
+						                    </span>										
+			                            </div>
+										<?php	
+										}
+						        	?>		                                        
+						        </td>					        
+						    </tr>
+						 </tbody>
+					</table>
+				</div>
+			</div>
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Billing Address</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>					 	
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Address 1</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="billing_address1" id="billing_address1" value="<?= $this->user_billing['address1']?>"/>
+						        </td>					        
+						    </tr>
+							<tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Address 2</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="billing_address2" id="billing_address2" value="<?= $this->user_billing['address2']?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">City</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="billing_city" id="billing_city" value="<?= $this->user_billing['city']?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">State</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="billing_state" id="billing_state" value="<?= $this->user_billing['state']?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Zip</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="billing_zip" id="billing_zip" value="<?= $this->user_billing['zipcode']?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Country</td>
+						        <td>					        						        	
+						        
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="billing_country" id="billing_country" value="<?= $this->user_billing['country']?>"/>
+						        </td>					        
+						    </tr>
+						 </tbody>
+					</table>
+				</div>
+			</div>
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Shipping Address</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>					 	
+						   <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Address 1</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="address1" id="address1" value="<?= $this->user['address1']?>"/>
+						        </td>					        
+						    </tr>
+							<tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Address 2</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="address2" id="address2" value="<?= $this->user['address2']?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">City</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="city" id="city" value="<?= $this->user['city']?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">State</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="state" id="state" value="<?= $this->user['state']?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Zip</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="zip" id="zip" value="<?= $this->user['zip']?>"/>
+						        </td>					        
+						    </tr>
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font">Country</td>
+						        <td>					        						        	
+						        	<input  type="text" class="customer-detail-field customer-detail-font" name="country" id="country" value="<?= $this->user['country']?>"/>
+						        </td>					        
+						    </tr>
+						 </tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-3 customer-detail-col">		
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Product & Sale Information</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>
+						 	<tr>
+						        <td class = "customer-detail-left-field customer-detail-font" colspan="2">Sold By
+						        	<select class="customer-detail-field customer-detail-black-font" name="soldby" id="soldby">
+						        		<? foreach ($this->soldby as $key => $soldby ): ?>
+						                    <option value= "<?= $key?>"  <? if ($this->user['soldby'] == $key) echo 'selected';?>><?= $soldby?></option>					                <? endforeach; ?>				    
+									</select>     
+						        </td>
+						    </tr>
+						    <tr>
+						    	<td class = "customer-detail-left-field customer-detail-font" align="center" style="vertical-align: middle;width: 90%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interested In
+						        </td>
+						        <td class = "customer-detail-field customer-detail-font" align="right">
+		                            <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button"  id="btnAddInterestedIn">
+		                                <span class="glyphicon glyphicon-plus"></span>
+		                            </button>		                      
+						        </td>
+						    </tr>						  	
+						 </tbody>
+					</table>
+					<div style="padding: 15px">
+						<span id="product_interstedIn">
+							<?php if ($this->user_product): ?>
+			                    <?php foreach ($this->user_product as $product): ?>
+			                       <?= $product?><br>				                            
+			                    <?php endforeach; ?>
+			                <?php endif; ?>
+			           	</span>   
+					</div>
+				</div>
+			</div>
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Activity Log</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>		
+						 	<tr>
+						        <td class = "customer-detail-left-field customer-detail-font" colspan="3">Contact Made</td>					        
+						    </tr>			 	
+						    <tr>
+						    	
+				                
+				                <td class = "customer-detail-left-activity-field customer-detail-font"  colspan="2"> <input type="text" name="contact_made" id="contact_made" size="20" class="datetimePicker1 customer-detail-image-field  customer-detail-field"  value="<?php  
+				                		if (isset($this->user['contact_made']) and strlen($this->user['contact_made'])>0 and ($this->user['contact_made'] != '0000-00-00'))
+				                			echo date('m/d/y', strtotime($this->user['contact_made']));
+				                		else echo ''?>"> </td>
+				                <td  colspan="2">	
+				                	<button type="button"  class="btn btn-primary  customer-detail-button customer-detail-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="submitContactMade" name="submitContactMade" <?php if (isset($this->user['contact_made']) and strlen($this->user['contact_made'])>0 and ($this->user['contact_made'] != '0000-00-00')) echo 'disabled';?>>Submit</button>			                	
+						        </td>
+					            
+						    </tr>
+						
+						    <tr>
+								<td class = "customer-detail-left-field customer-detail-font" colspan="1">Sales Total</td>	
+								<td colspan="3">			
+						        	<?php 
+			                		if ($this->sales)
+			                		{
+			                			$total_sale = 0;
+										foreach ($this->sales as $sale)
+										{
+											 $total_sale += $sale['enter_sale_amount'];
+										}
+									}
+					                
+					                ?>
+					                <input type="text" name="enter_total_sale" id="enter_total_sale" size="20"  class="customer-detail-field customer-detail-font" style="width:100%" disabled value="<?php if ($total_sale != 0) echo '$'.$total_sale; ?>">      				                
+						        </td>					        				        
+							</tr>	
+						 
+						    <tr>
+								<td class = "customer-detail-left-field customer-detail-font" colspan="1" style="width: 50%">Order Frequency</td>	
+								 <td colspan="3">			
+						        	<select name="order_frequency" id="order_frequency"  class="customer-detail-field customer-detail-font">        
+			                		 	<option value="30" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 30) echo 'selected';?>>Every 1 Month</option>
+										<option value="60" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 60) echo 'selected';?>>Every 2 Months</option>
+										<option value="90" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 90) echo 'selected';?>>Every 3 Months</option>
+										<option value="120" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 120) echo 'selected';?>>Every 4 Months</option>
+										<option value="150" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 120) echo 'selected';?>>Every 5 Months</option>
+										<option value="180" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 180) echo 'selected';?>>Every 6 Months</option>							
+							        </select>            		
+					              		                
+						        </td>					  				        
+							</tr>	
+						    
+						    
+						    <tr>
+						        <td class = "customer-detail-left-field customer-detail-font" colspan="1">Date of Sale</td>		
+						         <td class = "customer-detail-left-activity-field customer-detail-font" colspan="3"> <input type="text" name="enter_sale_time" id="enter_sale_time" size="20" class="datetimePicker1 customer-detail-image-field  customer-detail-field"  value="<? echo $this->user['enter_sale_time']?date('m/d/Y', strtotime($this->user['enter_sale_time'])):''?>"> </td>					        
+						    </tr>			 	
+						 
+						    
+						    <tr>
+								<td class = "customer-detail-left-field customer-detail-font" colspan="4">New Sale Amount</td>					        
+							</tr>	
+						    <tr>					        
+						        
+						        <td class = "customer-detail-left-activity-field customer-detail-font" colspan="2"><input type='text' id="enter_sale_amount"  class="customer-detail-field customer-detail-black-font" name="enter_sale_amount"  style="width:100%"></td>   
+					            <td width="5%">
+					            	<input type="checkbox" class="customer-detail-activity-checkbox" name="sample_order" id="sample_order" <?php if ($this->user['sample_order']=='yes') { echo 'checked'; }?>>				            	
+					            </td>
+					            <td style="vertical-align: middle"><font class="customer-detail-font" >Sample Order</font></td>
+						    </tr>
+						    <tr>
+						    		    		        
+						        
+								<td class = "customer-detail-left-field customer-detail-font" colspan="2">
+									
+								</td>
+								<td align="right"  colspan="2">
+									<button type="button"  class="btn btn-primary  customer-detail-button customer-detail-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="submitSaleEnter" name="submitSaleEnter">Submit</button>
+								</td>					        
+							</tr>	
+						
+						
+						    
+						 </tbody>
+					</table>
+					<div style="padding-left: 20px">
+						<span id="saleNotes">
+		                <?php
+		                if ($this->sales)
+		                {
+							foreach ($this->sales as $sale)
+		                    {
+								if ($sale['attempt_type'] == 'sample')	
+								{
+								?>
+									<br>
+		                            Sample Sale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<?php echo date('m/d/y', strtotime($sale['enter_time'])); ?>&nbsp;&nbsp;&nbsp;&nbsp;$<?php echo $sale['enter_sale_amount']; ?>&nbsp;<br>        
+								<?php	
+								}else
+								{
+								?>
+									<br>
+		                            New Sale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<?php echo date('m/d/y', strtotime($sale['enter_time'])); ?>&nbsp;&nbsp;&nbsp;&nbsp;$<?php echo $sale['enter_sale_amount']; ?>&nbsp;<br>        
+								<?php		
+								}
+							}
+						}
+						?>
+		           		</span>      	
+					</div>
+					
+				</div>
+			</div>
+			
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Customer Comments</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+						 <tbody>			 	
+						    <tr>
+						    	<td colspan='2' class = "customer-detail-followup-left-field customer-detail-font">
+						    		<textarea rows="11" id="customer_comment" name="customer_comment" class="customer-detail-field customer-detail-black-font" style="resize: none"><?php 
+		                                if ($this->customer_comments)
+		                                {
+											foreach ($this->customer_comments as $customer_comment)
+											{
+											?><?php echo date('m/d/y &\nb\sp;&\nb\sp; g:i A', strtotime($customer_comment['enter_time'])); ?> &nbsp;&nbsp;&nbsp;<?php echo $customer_comment['author']; ?>
+											<?php echo $customer_comment['notes']; ?>
+											<?php	
+											}
+										}
+				                       ?>
+						    		</textarea>
+
+						        </td>
+						    </tr>						    
+						 </tbody>
+					</table>
+				</div>
+			</div>
+			<br>
+			<div class="row" align="center">
+				<span class="btn btn-success btn-md saveButton <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="<?= $this->customerId; ?>" >Save</span>
+			</div>
+	
+		</div>
+		<div class="col-sm-3 customer-detail-col">		
+			<div class="panel panel-primary customer-detail-panel">
+				<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Notes</div>
+				<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+					
+						<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+							 <tbody>
+							 	<tr>
+							        <td class = "customer-detail-left-field customer-detail-font" colspan="3">New Note<br>
+							        	<textarea rows="8" cols="36" class="customer-detail-field customer-detail-black-font" id="new_note" name="new_note" style="resize:none"></textarea>
+							        </td>
+							    </tr>
+							    <tr>
+							    	<td class = "customer-detail-left-field customer-detail-font"  style="width: 35%">
+							    		Contact Attempt
+							    	</td>
+							        <td class = "customer-detail-field customer-detail-font"  style="width: 45%">
+			                            <select id="contact_attempt" name="contact_attempt"  class="customer-detail-field customer-detail-black-font">
+						                     <option value=""></option>
+						                     <option value="email">Email</option>
+						                     <option value="phone">Phone</option>
+						                </select>
+						              					               
+							        </td>
+							         <td class = "customer-detail-field customer-detail-font">
+							         	<button type="button"  class="btn btn-primary  customer-detail-button customer-detail-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="submitNote" name="submitNote" >Submit</button>	
+							         	<!--<div id="submitComment" name="submitComment"  class="button customer-detail-button customer-detail-font" style="height: 30px">Submit</div>  		-->
+							         </td>
+							    </tr>
+							    <tr style="height: 44px">
+							        <td class = "customer-detail-left-field customer-detail-font" colspan="3">
+							        	<div class="btn-group" role="group" aria-label="Basic example">
+							        	<?php
+							        		$cur_year =  date("Y");
+							        		for ($i=$cur_year;$i>$cur_year-4;$i--)
+							        		{
+											?>
+											 
+											 <button type="button" class="btn btn-primary <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" onclick="javascript:ClickContactYear('<?=$i?>','<?= $this->user['id'] ?>')"><?=$i?></button>
+											<?php
+											}
+							        	?>									 
+										</div>  
+							        </td>
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font" colspan="3">Sales Reps Comments<br>
+							        	
+										
+				                      <textarea rows="29" cols="10" class="customer-detail-field customer-detail-black-font" id="notes" name="notes" style="resize:none" disabled="true"><?php 			                     
+		                                $result_notes = '';
+				                      	if (isset($this->user['description']) and strlen($this->user['description'])>0)
+		                                {
+		                                	$result_notes .= 'Customer Description : '.$this->user['description'].'<br />'.'<br />'; 
+										}
+										if (isset($this->user['interest']) and strlen($this->user['interest'])>0)
+		                                {		
+		                                	$result_notes .= 'Customer Description : '.$this->user['interest'].'<br />'.'<br />'; 
+										}										
+		                                $result_notes = str_replace("<br />", "\n", $result_notes);
+		                                
+		                                echo $result_notes;
+										if ($this->current_notes)
+		                                {											
+											foreach ($this->current_notes as $current_note)
+											{
+											?><?php echo date('m/d/y &\nb\sp;&\nb\sp; g:i A', strtotime($current_note['enter_time'])); ?> &nbsp;&nbsp;&nbsp;<?php echo $current_note['author']; ?>&nbsp;&nbsp;&nbsp;<?php echo $current_note['attempt_type']; ?>
+											<?php echo $current_note['notes']; ?>
+											
+											<?php	
+											}
+										}
+				                       ?>
+						                </textarea>				       
+							        </td>
+							    </tr>
+							 </tbody>
+						</table>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>
+<div id="dialog_products" class="modal fade" style="z-index:1000000003;display:none;">
+	<div class="modal-dialog modal-md">
+		<div class="modal-content">		
+	      	<div class="modal-body">	      		
+	      		<div class="row mobile-row" align="center">		 
+	      			<form name="ProductForAccountForm" id="ProductForAccountForm" method="post" enctype="multipart/form-data">     			
+						<table class="account able-striped table-bordered table-hover" style="    border: 1px solid #ddd !important;">
+						    <thead>
+						    	<tr>
+						    		<th>Products</th>						    		
+						    	</tr>
+						    </thead>
+						     
+							<!--<tbody>  
+							    <? foreach ($this->products as $product):?>   
+							    <? $check = '';?>
+							    <? if( !empty($this->userProduct) && in_array($product['product_id'], $this->userProduct)) {$check = 'checked';} ?>
+							        <tr>
+							        	<td><input type="checkbox" name="selectedProduct[]" value="<?= $product['product_id'] ?>" <?= $check?>>
+							            <?= $product['name']?></td>							        
+							        </tr>
+							    <? endforeach; ?>   
+							</tbody>-->
+							<tbody>  
+							    <? foreach ($this->user_products as $product):?>   
+							    <? $check = '';?>
+							    <? if( !empty($this->user_product) && in_array($product, $this->user_product)) {$check = 'checked';} ?>
+							        <tr>
+							        	<td><input type="checkbox" name="selectedProduct[]" value="<?= $product ?>" <?= $check?>>
+							            <?= $product?></td>							        
+							        </tr>
+							    <? endforeach; ?>   
+							</tbody>
+						</table>						
+						<br>
+						<input type='hidden' id="userId" name="userId" value="<?= $this->user['id'] ?>">
+						<button class="btn btn-success" type="Submit"  id="btnAddInterested">Add</button>					    
+					</form>
+				</div>					
+	      	</div>			     
+		</div>
+	</div>
+</div>	
+<script>    
+	function ClickContactYear(year,id)
+	{
+		var data = {"user_id": id,
+            		"year":year};    	
+     	$.ajax({
+            type: "POST",
+            url: "/biz/crm/get-year-notes",
+            data: data,
+            dataType: 'html',
+            success: function(data) {
+				console.log(data);
+				$('#notes').text('');
+                $('#notes').prepend(data);
+                $('#new_note').text('');
+            }
+        });
+	}
+	function addInputFirstContactPhone(ind){
+		ind++;
+		var divName = 'contact_phone_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+		
+		divName = 'contact_phone_type_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+		document.getElementById(divName).style.width="100%";
+		/*document.getElementById(divName)
+		var newdiv = document.createElement('div');
+	    newdiv.innerHTML ="<input class='customer-detail-field customer-detail-font customer-detail-added'  type='text' name='contactphones[]'>";
+	    document.getElementById(divName).appendChild(newdiv);*/
+	}
+	function addInputFirstContactEmail(ind){
+		
+		ind++;
+		var divName = 'contact_email_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+		
+	}
+	function addInputSecondaryContactPhone(ind){
+		ind++;
+		var divName = 'secondary_contact_phone_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+		
+		divName = 'secondary_contact_phone_type_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+		document.getElementById(divName).style.width="100%";
+	
+	}
+	function addInputSecondaryContactEmail(ind){
+		ind++;
+		var divName = 'secondary_contact_email_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+	}
+	function addNewContact()
+	{
+		document.getElementById("secondaryContactTable").style.display="block";
+		document.getElementById("btnAddScondaryContact").style.display="none";
+	}
+	function textAreaAdjust(o) {
+	  o.style.height = "1px";
+	  o.style.height = (25+o.scrollHeight)+"px";
+	}
+	function do_resize(textbox,cols) {
+
+		var maxrows=6; 
+	  	var txt=textbox.value;
+	  	var txtlength = txt.length;
+	  	//var cols=textbox.cols;
+	  	//alert(cols);
+	  	//var cols=25;
+		
+		console.log(txtlength);
+		console.log(cols);
+	 	
+	  	rows = Math.ceil(txtlength/cols);
+		
+		console.log(rows);
+	 	if (rows>maxrows) 
+	 		textbox.rows=maxrows;
+	  	else
+	  		textbox.rows=rows;
+	}
+	$(document).ready(function() {   
+	   $(function() {
+	        $("#tabs").tabs(							
+	        {
+	            beforeLoad: function(event, ui) 
+	            {
+	                ui.jqXHR.error(function() {
+	                    ui.panel.html(
+	                            "Please Wait...");
+	                });
+	            }
+	        });
+		    $("#tabs").tabs().css(			
+		        {
+	            'min-height': '400px',
+	            'overflow': 'auto'
+	        });
+		    $('.datetimePicker1').datetimepicker(							
+		    {
+	            dayOfWeekStart: 0,
+	            format: 'm/d/Y',
+	            hour: '7:00 AM',
+	            step: 30,
+	            formatTime: 'g:i A',
+	            allowTimes: ['7:00 AM', '7:30 AM', '8:00 AM', '8:30 AM', '9:00 AM', '9:30 AM', '10:00 AM', '10:30 AM', '11:00 AM', '11:30 AM', '12:00 PM', '12:30 PM', '1:00 PM', '1:30 PM', '2:00 PM', '2:30 PM', '3:00 PM', '3:30 PM', '4:00 PM', '4:30 PM', '5:00 PM', '5:30 PM', '6:00 PM', '6:30 PM', '7:00 PM'],
+	        });
+		    $('.datetimePicker').datetimepicker(							
+		        {
+	            dayOfWeekStart: 0,
+	            format: 'm/d/Y g:i A',
+	            hour: '7:00 AM',
+	            step: 30,
+	            formatTime: 'g:i A',
+	            allowTimes: ['7:00 AM', '7:30 AM', '8:00 AM', '8:30 AM', '9:00 AM', '9:30 AM', '10:00 AM', '10:30 AM', '11:00 AM', '11:30 AM', '12:00 PM', '12:30 PM', '1:00 PM', '1:30 PM', '2:00 PM', '2:30 PM', '3:00 PM', '3:30 PM', '4:00 PM', '4:30 PM', '5:00 PM', '5:30 PM', '6:00 PM', '6:30 PM', '7:00 PM'],
+	        });
+	        
+	        $("#submitFollowup").click(function() {
+	            $.post('/biz/crm/followup', {
+	                    'followup': $('#followup').val(),
+	                    'userId': <?= $this->user['id'] ?>
+	                },
+	                function(data) {
+	                	if (data != 'success')
+	                		alert(data);
+	                   /*$('#followupMessage').html('').removeClass("error");
+	                    $('#followupMessage').html('').removeClass("success");
+	                    if (data == 'success') {
+	                        $('#followupMessage').html('Follow-up scheduled').addClass("success");;
+	                    }
+	                    if (data != 'success') {
+	                        $('#followupMessage').html(data).addClass("error");
+	                    }*/
+	                });
+	        });
+			
+			 $("#submitClearFollowup").click(function() {
+	            $.post('/biz/crm/clear-followup', {
+	                    'followup': $('#followup').val(),
+	                    'userId': <?= $this->user['id'] ?>
+	                },
+	                function(data) {
+	                	if (data == 'Follow-up cleared')
+	                		alert(data);
+	                		$('#followup').val('');	                  
+	                });
+	        });
+			
+	        /* Dariuz Rubin */
+	        
+	        /**
+			* Save the reason for follow up
+			*/
+	        $("#submitSaveReason").click(function() {
+	            $.post('/biz/crm/save-reasonfollowup', {
+	                    'reason_followup': $('#reason_followup').val(),
+	                    'userId': <?= $this->user['id'] ?>
+	                },
+	                function(data) {	                  
+	                });
+	        });
+	        
+	        /**
+			* Clear the reason for follow up
+			*/
+	        $("#submitClearReason").click(function() {
+	            $.post('/biz/crm/clear-reasonfollowup', {
+	                    'reason_followup': $('#reason_followup').val(),
+	                    'userId': <?= $this->user['id'] ?>
+	                },
+	                function(data) {	
+	                     $('#reason_followup').val('');
+	                });
+	        });
+	        
+	        
+	        
+	        /**
+			* First submit event for contact made
+			*/
+	        $("#submitContactMade").click(function() {
+	        	var data = {"userId": <?= $this->user['id'] ?>,
+            			"contact_made":$('#contact_made').val(),
+            			"parent_user":$('#parentAccountID').val(),
+            			"created_time":$('#created_time').val(),
+            			"source":$('#source').val(),
+            			"parent_user":$('#parentAccountID').val()
+            			};
+            	console.log(data);
+	            $.ajax({	                                    
+					type: "POST",
+					url: "/biz/crm/contactmade",
+					data: data,
+					dataType: 'html',
+					success: function(data) 
+					{
+						$("#submitContactMade").attr('disabled','disabled');
+						location.reload();
+	                }
+				});
+	        });
+	        
+	        /**
+			* Submit Contact attempt for new note
+			*/			
+			 $("#submitNote").click(function() {
+			 	if ($.trim($('#new_note').val()) == '')
+			 	{
+				    alert('Please enter a note');
+	                return false;
+	            }
+	        	var data = {"user_id": <?= $this->user['id'] ?>,
+            			"type":$('#contact_attempt').val(),
+            			"notes":$('#new_note').val()            			
+            			};            	
+            			
+	            $.ajax({
+	                type: "POST",
+	                url: "/biz/crm/contact-attempt-note",
+	                data: data,
+	                dataType: 'html',
+	                success: function(data) {
+						console.log(data);
+						$('#notes').text('');
+	                    $('#notes').prepend(data);
+	                    $('#new_note').val('');
+	                }
+	            });
+	        });
+	         /**
+			* New Sale Amount
+			*/
+	        $("#submitSaleEnter").click(function() {
+	        	
+	        	if ($.trim($('#enter_sale_time').val()) == '' || $('#enter_sale_amount').val() == '') {
+	                alert('Please enter all information about Sale.');
+	                return false;
+	            }
+	            
+	            check = $("#sample_order").prop("checked");
+			    
+
+	        	var data = {"userId": <?= $this->user['id'] ?>,
+	        			"parent_user":$('#parentAccountID').val(),
+            			"enter_sale_time":$('#enter_sale_time').val(),            			
+            			"enter_sale_amount":$('#enter_sale_amount').val(),
+            			"created_time":$('#created_time').val(),
+            			"type":$('#type').val(),
+            			"sample_order":check,            			
+            			"source":$('#source').val()       			
+            			};
+            	console.log(data);
+	            $.ajax({	                                    
+					type: "POST",
+					url: "/biz/crm/enter-sale",
+					
+					data: data,
+					dataType: 'json',
+					success: function(res) 
+					{
+						console.log(res);
+						console.log(res.type);
+						console.log(res.enter_sale_time);
+						console.log(res.enter_sale_amount);
+						
+						location.reload();
+					/*	salesnotes = '<br>New Sale:&nbsp;&nbsp;&nbsp;&nbsp;'+res.enter_sale_time+'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$'+res.enter_sale_amount+'<br>';
+						console.log(salesnotes);
+	                    $('#saleNotes').prepend(salesnotes);
+	                    document.getElementById("enter_total_sale").value = '$'+res.total_sale;
+	                    
+	                    $("#type").val(res.type);	          */          
+	                }
+				});
+	        });
+	        
+	        
+	        
+	        /**
+	         * Check box event for automated removal date by an additional 60 days
+	         */
+	        $("#removal_days").change(function() {
+				var data = {"userId": <?= $this->user['id'] ?>,
+	        			"removal_days":$('#removal_days').val()};
+	            console.log(data);
+	            
+	            $.ajax({
+	                type: "POST",
+	                url: "/biz/crm/removaladdition",
+	              	data: data,
+					dataType: 'json',	                
+	                success: function(res) {
+	                	var time_left = res.time_left;
+	                	var time_left_val = time_left + ' days';
+	            		$("#time_left").val(time_left_val);    	
+	                }
+	            });
+				
+	            $("#removal_days").attr('disabled', 'disabled');
+
+	        });
+	        
+	        /**
+	         * save order frequency field
+	         */
+	        $("#order_frequency").change(function() {
+				console.log('change');
+	            dataString = $("#saleEnterForm").serialize();
+	            $.ajax({
+	                type: "POST",
+	                url: "/biz/crm/setorderfrequency",
+	                data: dataString,
+	                dataType: 'html',
+	                success: function(data) {}
+	            });
+	        });
+	        
+	       
+			
+			$("#btnAddInterestedIn").click(function() {
+	           console.log("addInterestedIn");
+		       $("#dialog_products").modal();	
+	        });
+			
+		
+	        $("#ProductForAccountForm").submit(function(e){
+				e.preventDefault();
+				formData = $("#ProductForAccountForm").serialize();
+	                        
+				$.ajax({	                                    
+					type: "POST",
+					url: "/biz/crm/save-user-product",
+					data: formData,
+					dataType: 'json',
+					success: function(data) 
+					{
+	                	$("#dialog_products").modal('hide');
+	                		                	
+	                	$('#product_interstedIn').text('');
+	                	for(var i=data.userproductnames.length-1; i>=0; i--)
+	                	{						    
+						    interestIns = data.userproductnames[i]+'<br>';
+						    $('#product_interstedIn').prepend(interestIns);						    
+						}
+	                	
+	                }
+				});
+			});
+			
+			$("#source").change(function() {
+		   		var source = $("#source").val();
+		   		if (source == 'Tradeshow')
+		   		{
+		   			$("#tradeshows").prop( "disabled", false );
+					$("#tradeshow_year").prop( "disabled", false );			
+				}else
+				{
+					$("#tradeshows").val('');
+					$("#tradeshow_year").val('');
+					$("#tradeshows").prop( "disabled", true );
+					$("#tradeshow_year").prop( "disabled", true );			
+				}
+		   		console.log(source);
+		  	});
+			
+			$('#source_text').keyup(function(){
+				var txt = $(this).val();
+				var cols = $(this).cols;
+				
+				
+				/*$('<span id="width">').append($(this).val()).appendTo('body');
+				$(this).width($('#width').width()+2);
+				$('#width').remove();*/
+			})
+	     
+	        $("#leadAttemptForm").submit(function(e) {
+
+	            //check if there is a lead attempt       
+	            if ($.trim($('#leadAttempt').val()) == '') {
+	                alert('Please select a lead attempt.');
+	                return false;
+	            }
+
+	            e.preventDefault();
+	            formData = $("#leadAttemptForm").serialize();
+	            //alert (formData);
+	            $.ajax({
+
+	                type: "POST",
+	                url: "/biz/crm/lead-attempt",
+	                data: formData,
+	                dataType: 'html',
+	                success: function(data) {
+
+	                    $('#attemptNotes').prepend(data);
+
+	                }
+	            });
+	        });	  
+	        
+	        /* Dariuz Rubin */
+   			$(".saveButton").click(function() {
+                    
+                
+				formData = $("#customer_info_form").serialize();
+	                        //alert (formData);
+				$.ajax({                                    
+					type: "POST",
+					url: "/crm/save-account-info",
+					data: formData,
+					dataType: 'html',
+					success: function(data) 
+					{
+	                	location.reload();
+	                }
+				});
+            });
+	          /*==============*/   		      
+	    });    
+	    
+	});	
+</script>

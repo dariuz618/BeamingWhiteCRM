@@ -1,0 +1,38 @@
+2015-12-22T08:34:15-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15048";}
+2015-12-22T08:34:41-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:6:"Ermias";s:7:"user_id";s:5:"15048";}
+2015-12-22T08:34:45-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Ermias Girma";s:7:"user_id";s:5:"15048";}
+2015-12-22T08:34:47-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Ermias Girma";s:7:"user_id";s:5:"15048";}
+2015-12-22T09:30:06-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:20:"315 East 70th Street";s:7:"user_id";s:5:"13058";}
+2015-12-22T09:30:11-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:29:"315 East 70th Street Suite 1A";s:7:"user_id";s:5:"13058";}
+2015-12-22T09:30:16-08:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:19:"New York, NY  10021";s:7:"user_id";s:5:"13058";}
+2015-12-22T09:30:21-08:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:8:"New York";s:7:"user_id";s:5:"13058";}
+2015-12-22T09:30:23-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"10021";s:7:"user_id";s:5:"13058";}
+2015-12-22T09:30:25-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NE";s:7:"user_id";s:5:"13058";}
+2015-12-22T09:30:28-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"13058";}
+2015-12-22T09:32:20-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:73:"Rober Novison 732-866-9900 rob@kingswaypaper.com
+FedEx Account: 130667899";s:7:"user_id";s:5:"13058";}
+2015-12-22T10:04:50-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15054";}
+2015-12-22T10:34:13-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:8:"Kim Ryan";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NC";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Kim";s:8:"lastname";s:4:"Ryan";s:12:"contactphone";s:0:"";s:5:"email";s:20:"needemail9@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"6b1d00e98ded7a3216880949652f3e49162bf1a1";s:8:"username";s:8:"Kim Ryan";s:12:"created_time";s:19:"2015-12-22 10:34:13";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"dd1ce54be8b8664d859fa47b5d5422f5";}
+2015-12-22T10:34:20-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15059";}
+2015-12-22T10:34:23-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15059";}
+2015-12-22T10:34:41-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"919-854-1070";s:7:"user_id";s:5:"15059";}
+2015-12-22T10:36:05-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:17:"krgs222@yahoo.com";s:7:"user_id";s:5:"15059";}
+2015-12-22T11:16:21-08:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:24:"bio2skinstudio@gmail.com";s:7:"user_id";s:5:"14755";}
+2015-12-22T11:21:14-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12008";}
+2015-12-22T11:31:09-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"682-202-3241";s:7:"user_id";s:5:"15057";}
+2015-12-22T13:00:03-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"GA";s:7:"user_id";s:5:"14686";}
+2015-12-22T14:30:09-08:00 INFO (6): Cory Nielsen--a:2:{s:12:"contactphone";s:10:"0275358788";s:7:"user_id";s:4:"6284";}
+2015-12-22T14:30:57-08:00 INFO (6): Cory Nielsen--a:2:{s:9:"firstname";s:4:"Alan";s:7:"user_id";s:4:"6284";}
+2015-12-22T14:31:03-08:00 INFO (6): Cory Nielsen--a:2:{s:8:"lastname";s:8:"Jennings";s:7:"user_id";s:4:"6284";}
+2015-12-22T14:55:36-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"484-818-2176";s:7:"user_id";s:5:"12143";}
+2015-12-22T14:55:41-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:5:"Ruthy";s:7:"user_id";s:5:"12143";}
+2015-12-22T14:55:47-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Ruthy Morales";s:7:"user_id";s:5:"12143";}
+2015-12-22T14:55:48-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Ruthy Morales";s:7:"user_id";s:5:"12143";}
+2015-12-22T15:02:32-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"12143";}
+2015-12-22T15:15:19-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"812-650-6795";s:7:"user_id";s:5:"15060";}
+2015-12-22T15:15:58-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15060";}
+2015-12-22T15:22:15-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"IN";s:7:"user_id";s:5:"15060";}
+2015-12-22T15:28:03-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15060";}
+2015-12-22T15:28:24-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:45:"Wants to invest her tax refund in something. ";s:7:"user_id";s:5:"15060";}
+2015-12-22T15:30:52-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:243:"Saw TW on Instagram and has friends who would like to have their teeth whitened. She is 27 with a 7 year old and tired of working dead end jobs. Likes the idea of a flexible schedule, doesn't want to blow her tax refund, expects about $3,000. ";s:7:"user_id";s:5:"15060";}
+2015-12-22T15:47:14-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:3:"874";}

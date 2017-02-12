@@ -1,0 +1,55 @@
+2015-10-15T05:34:50-07:00 INFO (6): Sara Lager--a:27:{s:12:"businessname";s:14:"MultiWay Sales";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"KP";s:3:"zip";s:0:"";s:7:"country";s:2:"PL";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Michal";s:8:"lastname";s:9:"Piekarski";s:12:"contactphone";s:11:"503-039-989";s:5:"email";s:20:"multiway.sales@vp.pl";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"2903de9f006e345def384eb2243074c34416ee02";s:8:"username";s:14:"MultiWay Sales";s:12:"created_time";s:19:"2015-10-15 05:34:50";s:2:"ip";s:12:"88.12.52.231";s:4:"salt";s:32:"f00b8714e5b6fa32e5a26cca732d410d";}
+2015-10-15T09:45:25-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:26:"james@proteethwhitening.co";s:7:"user_id";s:5:"10620";}
+2015-10-15T11:11:11-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:5:"Anjal";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MI";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Anjal";s:8:"lastname";s:6:"Gracie";s:12:"contactphone";s:7:"248-208";s:5:"email";s:23:"lashesbyanjal@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"84ef26c92fa94d74a58bc774cc514b65944b6d1a";s:8:"username";s:5:"Anjal";s:12:"created_time";s:19:"2015-10-15 11:11:11";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"8e34dc0c3a675dde3df4800e697c19f2";}
+2015-10-15T11:13:07-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"248-208-2568";s:7:"user_id";s:5:"14405";}
+2015-10-15T11:14:58-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:9:"Cassandra";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"OH";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:9:"Cassandra";s:8:"lastname";s:8:"Fletcher";s:12:"contactphone";s:12:"419-810-3089";s:5:"email";s:26:"cfletcher123@sbcglobal.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"13292ef59ae4850732f6b43d9f6c2fb189898922";s:8:"username";s:9:"Cassandra";s:12:"created_time";s:19:"2015-10-15 11:14:57";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"103013662b0e5d945d168bb630464605";}
+2015-10-15T11:38:15-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"13130";}
+2015-10-15T11:42:03-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:13:"13 Blevens Dr";s:7:"user_id";s:5:"13130";}
+2015-10-15T11:42:09-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Concord";s:7:"user_id";s:5:"13130";}
+2015-10-15T11:42:14-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"03301";s:7:"user_id";s:5:"13130";}
+2015-10-15T11:42:24-07:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"NH";s:7:"user_id";s:5:"13130";}
+2015-10-15T12:12:20-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:23:"ricardostuart@yahoo.com";s:7:"user_id";s:5:"14372";}
+2015-10-15T12:12:28-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:0:"";s:7:"user_id";s:5:"14372";}
+2015-10-15T12:41:40-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:20:"2701 suite J, Sw Ave";s:7:"user_id";s:5:"14243";}
+2015-10-15T12:41:48-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:9:"Rice Lake";s:7:"user_id";s:5:"14243";}
+2015-10-15T12:41:54-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"54868";s:7:"user_id";s:5:"14243";}
+2015-10-15T12:45:36-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:514:"43.0         Dr Brody-Deluxe Take Home Kits-Generic
+
+#1756                   Custom Printed White Bag
+#17090                10 ml Logo Syringe + cap 36% CP
+#17040                3mL Lined syringe + cap, blue remineralizing gel, 
+#15040                2mL pen, 36% CP – generic clear with Custom Label
+#16060           Retainer Case - white, standard 
+#13010                Thermoforming Tray
+#12570                White Mini LED Light (CE and WEEE mark)
+#1790                  Generic Take Home Kit Instructions
+";s:7:"user_id";s:4:"8482";}
+2015-10-15T13:30:09-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:20:"5632 Wilson Creek Rd";s:7:"user_id";s:5:"10268";}
+2015-10-15T14:04:45-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:137:"Carla works in a plant and is looking for something to do on the side. She doesn't have the $$$ right now but should in a month or two.  ";s:7:"user_id";s:5:"14397";}
+2015-10-15T14:05:05-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14397";}
+2015-10-15T14:06:00-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14397";}
+2015-10-15T14:38:43-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:15:"Kristen Spencer";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:6:"Cliona";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:7:"Kristen";s:8:"lastname";s:7:"Spencer";s:12:"contactphone";s:0:"";s:5:"email";s:26:"kristenspencer02@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:26:"Vegas aesthetic convention";s:4:"type";s:4:"Lead";s:8:"password";s:40:"d6482714ecc9488497c1ec560f4e7e6a4d6a6c73";s:8:"username";s:15:"Kristen Spencer";s:12:"created_time";s:19:"2015-10-15 14:38:43";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"374726bd7396fa2140d15070a8d56538";}
+2015-10-15T14:40:44-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"109-15 107th Street";s:7:"user_id";s:5:"12618";}
+2015-10-15T14:40:58-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"Ozone Park";s:7:"user_id";s:5:"12618";}
+2015-10-15T14:41:04-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"11417";s:7:"user_id";s:5:"12618";}
+2015-10-15T14:46:34-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"12618";}
+2015-10-15T14:49:55-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:59:"http://www.trianglefamilydentistry.com/morrisville-doctors/";s:7:"user_id";s:5:"14407";}
+2015-10-15T14:49:58-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:0:"";s:7:"user_id";s:5:"14407";}
+2015-10-15T14:50:05-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:59:"http://www.trianglefamilydentistry.com/morrisville-doctors/";s:7:"user_id";s:5:"14354";}
+2015-10-15T15:06:38-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:110:"Dania is a dental assistant looking for work on the side. Wants to eventually make TW her full time business. ";s:7:"user_id";s:5:"14402";}
+2015-10-15T16:10:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14407";}
+2015-10-15T16:16:56-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14401";}
+2015-10-15T16:18:13-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:43:"Competitor: http://www.eclipsemicropen.com/";s:7:"user_id";s:5:"14407";}
+2015-10-15T16:18:42-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:11:"Smile Bones";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"972-598-7457";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Amanda";s:8:"lastname";s:7:"Simpson";s:12:"contactphone";s:12:"972-598-7457";s:5:"email";s:22:"smilebonesco@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5f41bdfb914f44e043f351ae3c1606bbdf30d842";s:8:"username";s:11:"Smile Bones";s:12:"created_time";s:19:"2015-10-15 16:18:41";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"e2ca3a8f6c7b9e65a2c70e3b28edeb3c";}
+2015-10-15T16:22:12-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:591:"Has a mobile business opening in Nov 2015 with a second location set to open in April 2016. Using Express Smiles ATL now. Says she gets good results but that they are secretive about what is in their gel and she doesn't like their application. They use a mouth tray with no supports and a cheek re-tractor which is uncomfortable. Also they make her use their name in any promotional material. (powered by Express Smiles ATL) Interested in kits, will order 100 at a time for $8 ea, and take home kits without the blue bag. They have their own bag. Quoted $16, $14, and $13 for 1, 50, and 100.";s:7:"user_id";s:5:"14408";}
+2015-10-15T16:39:10-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14408";}
+2015-10-15T16:53:00-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:181:"Would like to launch this by December.
+
+Donald Ryan
+Project Manager
+IdeaBox Ventures, LLC
+3214 Charles B Root Wynd
+Suite 155
+Raleigh, NC 27612
+dryan@ideaboxventures.com
+919-589-3222";s:7:"user_id";s:5:"14354";}

@@ -1,0 +1,2 @@
+2016-09-10T13:25:51-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17427";}
+2016-09-10T13:26:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17427";}

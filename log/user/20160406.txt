@@ -1,0 +1,56 @@
+2016-04-06T08:27:46-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:6:"Bourke";s:7:"user_id";s:4:"9749";}
+2016-04-06T08:33:22-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16026";}
+2016-04-06T08:41:53-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:18:"Saraffia@gmail.com";s:7:"user_id";s:5:"15992";}
+2016-04-06T09:12:15-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:11:"Gill (Jill)";s:7:"user_id";s:5:"15928";}
+2016-04-06T09:21:34-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:4:"9125";}
+2016-04-06T09:21:36-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:4:"9125";}
+2016-04-06T10:28:17-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16036";}
+2016-04-06T10:34:00-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16036";}
+2016-04-06T10:34:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Julie";s:7:"user_id";s:5:"16036";}
+2016-04-06T10:34:10-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Julie Gentile";s:7:"user_id";s:5:"16036";}
+2016-04-06T10:34:13-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Julie Gentile";s:7:"user_id";s:5:"16036";}
+2016-04-06T10:38:48-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"832-488-9150";s:7:"user_id";s:5:"15902";}
+2016-04-06T10:43:06-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"15923";}
+2016-04-06T10:47:25-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"850-603-1256";s:7:"user_id";s:5:"15938";}
+2016-04-06T11:02:45-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:18:"Stellar Skin Care ";s:7:"user_id";s:5:"16037";}
+2016-04-06T11:08:01-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16036";}
+2016-04-06T11:08:59-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"847-436-3638";s:7:"user_id";s:5:"16034";}
+2016-04-06T11:09:08-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Victoria";s:7:"user_id";s:5:"16034";}
+2016-04-06T11:09:13-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Victoria Nee";s:7:"user_id";s:5:"16034";}
+2016-04-06T11:09:16-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Victoria Nee";s:7:"user_id";s:5:"16034";}
+2016-04-06T11:09:19-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16034";}
+2016-04-06T11:11:45-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:19:"islavor92@gmail.com";s:7:"user_id";s:5:"11724";}
+2016-04-06T11:14:01-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11724";}
+2016-04-06T11:17:01-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:2:",,";s:7:"user_id";s:5:"11724";}
+2016-04-06T11:20:33-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:11:"Smile Style";s:7:"user_id";s:5:"11724";}
+2016-04-06T11:29:18-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:19:"iflavor92@gmail.com";s:7:"user_id";s:5:"11724";}
+2016-04-06T11:39:18-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"39130";s:7:"user_id";s:5:"14684";}
+2016-04-06T11:52:32-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16018";}
+2016-04-06T11:52:37-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16018";}
+2016-04-06T11:57:37-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15898";}
+2016-04-06T11:57:42-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"4810 Woodside Drive";s:7:"user_id";s:5:"15898";}
+2016-04-06T11:57:53-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"47374";s:7:"user_id";s:5:"15898";}
+2016-04-06T13:07:54-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:13:"The Hawt Spot";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"512-968-1907";s:6:"source";s:8:"Referred";s:9:"firstname";s:6:"Amanda";s:8:"lastname";s:9:"Bertelson";s:12:"contactphone";s:0:"";s:5:"email";s:23:"amandab1315@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"11b06bf236aec8450574450a252dd6bfa43e333a";s:8:"username";s:13:"The Hawt Spot";s:12:"created_time";s:19:"2016-04-06 13:07:54";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c2cb0355253d7113764e84136de1ae7b";}
+2016-04-06T13:09:34-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"105 West 5th St";s:7:"user_id";s:5:"16039";}
+2016-04-06T13:09:41-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:6:"Taylor";s:7:"user_id";s:5:"16039";}
+2016-04-06T13:09:53-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"76574";s:7:"user_id";s:5:"16039";}
+2016-04-06T13:30:22-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:58:"TAN WHITE:
+$144 per case
+3+ cases $120 ea
+8+ cases $108 ea";s:7:"user_id";s:4:"9535";}
+2016-04-06T13:38:34-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16039";}
+2016-04-06T13:40:07-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:132:"Is opening a laser treatment/ tanning salon the week of 4/18/16. Bought a used 2 chair BW TW system but needs kits and bib holders. ";s:7:"user_id";s:5:"16039";}
+2016-04-06T13:40:27-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:149:"Is opening a laser treatment/ tanning/ teeth whitening salon the week of 4/18/16. Bought a used 2 chair BW TW system but needs kits and bib holders. ";s:7:"user_id";s:5:"16039";}
+2016-04-06T13:58:19-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"803-818-8214";s:7:"user_id";s:5:"16038";}
+2016-04-06T14:06:40-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16038";}
+2016-04-06T14:06:44-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16038";}
+2016-04-06T14:11:48-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"resale_number";s:13:"Dan Livernois";s:7:"user_id";s:4:"9535";}
+2016-04-06T15:59:41-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"520-271-6893";s:7:"user_id";s:5:"16041";}
+2016-04-06T17:01:23-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16041";}
+2016-04-06T17:04:59-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"15868";}
+2016-04-06T17:13:31-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15465";}
+2016-04-06T17:22:42-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:159:"Uses 3ml syringes of Rev 14% HP which is mixed at the chair for in office and send a 5ml syringe of Kor 16% CP home for maintenance. Gets really good results. ";s:7:"user_id";s:5:"16041";}
+2016-04-06T17:24:44-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:243:"Uses 3ml syringes of Rev 14% HP which is mixed at the chair for in office and send a 5ml syringe of Kor 16% CP home for maintenance. Gets really good results. He is interested in an private label home products and creating an online presence. ";s:7:"user_id";s:5:"16041";}
+2016-04-06T17:25:01-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16041";}
+2016-04-06T17:25:49-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:316:"Uses 3ml syringes of Rev 14% HP which is mixed at the chair for in office and send a 5ml syringe of Kor 16% CP home for maintenance. Gets really good results. He is interested in an private label home products and creating an online presence. I quoted private label prices and 3ml HP at $7 ea, 5ml CP at $6.50 each. ";s:7:"user_id";s:5:"16041";}
+2016-04-06T18:23:42-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16011";}

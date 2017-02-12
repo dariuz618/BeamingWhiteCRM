@@ -1,0 +1,67 @@
+2016-03-04T09:15:33-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"701-252-1599";s:7:"user_id";s:5:"15739";}
+2016-03-04T09:37:11-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Tony Matsuoka";s:12:"businesstype";s:6:"Retail";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"954-245-9291";s:6:"source";N;s:9:"firstname";s:4:"Tony";s:8:"lastname";s:8:"Matsuoka";s:12:"contactphone";s:12:"954-245-9291";s:5:"email";s:23:"sales@exportpcstore.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"f008f7c3270806506b5d4fced577c3542fa422f8";s:8:"username";s:13:"Tony Matsuoka";s:12:"created_time";s:19:"2016-03-04 09:37:10";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"b80737ee3f35f17d7f36f7cba561648a";}
+2016-03-04T09:37:21-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15745";}
+2016-03-04T09:37:23-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15745";}
+2016-03-04T10:29:40-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"757-839-1211";s:7:"user_id";s:5:"15734";}
+2016-03-04T11:12:45-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"518-772-9103";s:7:"user_id";s:5:"15744";}
+2016-03-04T11:14:46-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:36:"http://www.embraceyourbeautytws.com/";s:7:"user_id";s:5:"15734";}
+2016-03-04T11:23:07-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"15734";}
+2016-03-04T11:23:09-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:6:"Mobile";s:7:"user_id";s:5:"15734";}
+2016-03-04T11:24:23-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Vincent";s:7:"user_id";s:5:"15744";}
+2016-03-04T11:24:33-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:18:"Vincent Crisafulli";s:7:"user_id";s:5:"15744";}
+2016-03-04T11:24:35-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:18:"Vincent Crisafulli";s:7:"user_id";s:5:"15744";}
+2016-03-04T11:35:51-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15486";}
+2016-03-04T11:37:09-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15744";}
+2016-03-04T11:52:39-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15745";}
+2016-03-04T12:00:25-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:00:26-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:02:50-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15187";}
+2016-03-04T12:14:04-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15001";}
+2016-03-04T12:32:25-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:32:41-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"266 Delaware Ave ";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:32:51-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"UG";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:32:53-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:32:54-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"12054";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:33:08-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NE";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:33:12-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"15744";}
+2016-03-04T12:33:31-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15744";}
+2016-03-04T13:21:31-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"2509";}
+2016-03-04T13:55:39-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"10795";}
+2016-03-04T14:13:45-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15587";}
+2016-03-04T14:45:43-08:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:26:"familymedicalone@gmail.com";s:7:"user_id";s:4:"3159";}
+2016-03-04T14:57:56-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:25:"1150 North University Dr.";s:7:"user_id";s:4:"3159";}
+2016-03-04T14:58:08-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:14:"Pembroke Pines";s:7:"user_id";s:4:"3159";}
+2016-03-04T14:58:16-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"33024";s:7:"user_id";s:4:"3159";}
+2016-03-04T15:14:36-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Sabian Taghdiri";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"310-490-7907";s:6:"source";N;s:9:"firstname";s:6:"Fabian";s:8:"lastname";s:8:"Taghdiri";s:12:"contactphone";s:12:"310-490-7907";s:5:"email";s:24:"fabiantaghdiri@gmail.com";s:13:"contactphone2";s:12:"310-490-7907";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d4e6155dc1bd572f73331acb7007551ba4a6691d";s:8:"username";s:15:"Sabian Taghdiri";s:12:"created_time";s:19:"2016-03-04 15:14:36";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"513109c4414ec3ba2afa8f3cd9ca6f45";}
+2016-03-04T15:14:49-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15746";}
+2016-03-04T15:15:04-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:24:"sabiantaghdiri@gmail.com";s:7:"user_id";s:5:"15746";}
+2016-03-04T15:17:35-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"15746";}
+2016-03-04T15:20:13-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15746";}
+2016-03-04T15:31:16-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"818-261-0079";s:7:"user_id";s:4:"6332";}
+2016-03-04T15:44:07-08:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"760-412-0821";s:6:"source";s:8:"Referred";s:9:"firstname";s:6:"Keyana";s:8:"lastname";s:3:"Ray";s:12:"contactphone";s:12:"760-412-0821";s:5:"email";s:23:"keyananana.kb@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"64f0ce30d2c67b524fafb7290c9113de27167a70";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-03-04 15:44:07";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6c40f9ccc97d701d840f1204a9708eaa";}
+2016-03-04T16:25:01-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:14:"Raquel Fortune";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:10:"Roodepoort";s:5:"state";s:2:"EC";s:3:"zip";s:0:"";s:7:"country";s:2:"ZA";s:13:"businessphone";s:10:"0829999906";s:6:"source";N;s:9:"firstname";s:6:"Raquel";s:8:"lastname";s:7:"Fortune";s:12:"contactphone";s:10:"0829999906";s:5:"email";s:26:"vcpromotional@telkomsa.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"d44fa5bb905a0222f22b31101710c9579f43bf23";s:8:"username";s:14:"Raquel Fortune";s:12:"created_time";s:19:"2016-03-04 16:25:01";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"ba22de4cb9fe9b996e8ac181764b3696";}
+2016-03-04T16:25:10-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15748";}
+2016-03-04T16:54:07-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15581";}
+2016-03-04T16:59:42-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15503";}
+2016-03-04T17:01:07-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15493";}
+2016-03-04T17:06:45-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15454";}
+2016-03-04T17:10:24-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15449";}
+2016-03-04T17:12:09-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15443";}
+2016-03-04T17:15:27-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15388";}
+2016-03-04T17:16:49-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"15388";}
+2016-03-04T17:17:16-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"213-618-1221";s:7:"user_id";s:5:"15388";}
+2016-03-04T17:17:19-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:0:"";s:7:"user_id";s:5:"15388";}
+2016-03-04T17:19:26-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15503";}
+2016-03-04T17:19:29-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15503";}
+2016-03-04T17:25:58-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Fabian Taghdiri";s:7:"user_id";s:5:"15746";}
+2016-03-04T17:26:00-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Fabian Taghdiri";s:7:"user_id";s:5:"15746";}
+2016-03-04T18:08:28-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15744";}
+2016-03-04T18:09:28-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:26:"http://www.stcroixtan.com/";s:7:"user_id";s:5:"15744";}
+2016-03-04T18:09:37-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"St. Croix Tan";s:7:"user_id";s:5:"15744";}
+2016-03-04T18:13:21-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"15744";}
+2016-03-04T18:13:24-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"15744";}
+2016-03-04T18:15:10-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:9:"Value Med";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AB";s:3:"zip";s:0:"";s:7:"country";s:2:"CA";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:8:"Caroline";s:8:"lastname";s:1:"K";s:12:"contactphone";s:12:"780-982-9734";s:5:"email";s:21:"carolinek@valuemed.ca";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"2e4666a947db22c88f77aec2cef1f4d45d9d844c";s:8:"username";s:9:"Value Med";s:12:"created_time";s:19:"2016-03-04 18:15:10";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"07058fd518833c44bdb6e2605a0335c6";}
+2016-03-04T18:15:20-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15749";}
+2016-03-04T18:15:23-08:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"15749";}
+2016-03-04T18:15:38-08:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:26:"CDS Midwinter Meeting 2016";s:7:"user_id";s:5:"15749";}
+2016-03-04T18:21:24-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:23:"http://www.valuemed.ca/";s:7:"user_id";s:5:"15749";}

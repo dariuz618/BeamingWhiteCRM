@@ -1,0 +1,137 @@
+<head>
+     <!--link rel="stylesheet" type="text/css" href="/public/css/crm.css"-->	
+     <style>
+         #left {
+             float:left;
+             margin-left: 0.15em;
+             width:325px;
+         }
+        /* #right {
+             margin-top: 10px;
+             margin-left: 23em;
+         }*/
+         table {
+            border-collapse: collapse; 
+         }
+        
+         .account {        
+             margin-top: 20px;
+             margin-bottom: 20px;                     
+             border-right: 1px solid black;             
+         }
+
+         .account th {             
+             width: 20%;
+             border-top: 1px solid black;
+             font-weight: bold;
+             text-align: center;
+         }         
+        
+         .account th, .account td {
+             border-left: 1px solid black;
+             border-bottom: 1px solid black;
+             padding: 5px;
+             vertical-align:middle;             
+         }
+         body {
+             background: #FFFFFF;             
+         }
+
+         body, td, th, input, select, textarea, option, optgroup {
+             float: none !important; 
+             font-family: Verdana, Arial, Helvetica, sans-serif;
+             font-size: 11pt;
+             color: #000000;   
+             margin-left: 5%;
+             margin-right: 5%;
+
+         }
+         
+         
+     </style>
+</head>
+
+
+<table width="700px">
+    <tr>
+        <td><?if($this->shipment['entity'] == 1):?><img src="http://beamingwhite.mx/public/image/spectrum.png"><?endif;?></td>
+        <td></td><td align="center"><h2>COMMERCIAL INVOICE</h2></td>
+    </tr>
+</table>
+<table width="700px">
+    <tr><td colspan="4"></td></tr>
+    <tr>
+        <td><?= $this->entity['name']?></td><td></td>
+        <td align="left"><b>Date:</b></td>
+        <td align="left"><?= date("Y-m-d")?></td>
+    </tr>
+    <tr><td rowspan="2"><?= $this->entity['address']?></td><td></td>
+        <td><b>Invoice #: </b></td>
+        <td align="left"><?= $this->shipment['inventory_shipment_id']?></td>        
+    </tr>    
+    <tr><td></td><td align="left"><b>Container:</b></td><td><?= $this->shipment['container']?></td></tr>    
+    
+</table>
+
+<table width="750px" style="margin-top: 20px;">
+    <tr><td colspan="3"></td></tr>
+    <tr><td width="60%"><b>Bill To:</b></td><td></td><td><b>Ship To:</b></td></tr>
+    <tr><td><?= $this->billTo['name']?></td><td></td><td><?= $this->shipTo['name']?></td></tr>
+    <tr><td>Tax ID #: <?= $this->billTo['taxId']?>
+            <br><?= $this->billTo['address']?>
+            <br><?= $this->billTo['phone']?>
+            <br>Attn: <?= $this->shipment['billContact']?>
+        </td>
+        <td></td>
+        <td style="vertical-align:top;"><?= $this->shipTo['address']?>
+        <br><?= $this->shipTo['phone']?>
+        <br>Attn: <?= $this->shipment['shipContact']?>
+        </td>        
+    </tr>
+    <tr><td></td></tr>    
+</table>
+
+
+<table class="account" width="750px">
+    <tr>
+        <th>SALESPERSON</th>
+        <th>CUSTOMER #</th>
+        <th>CUSTOMER TAX ID</th>
+        <th>SHIP VIA</th>
+        <th>SHIP DATE</th>
+        <th>TERMS</th>    
+    </tr>
+     <tr>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"><?= $this->shipment['shipvia']?></td>
+         <td align="center"><?= $this->shipment['shipDate']?></td>
+         <td align="center"><?= $this->shipment['terms']?></td>
+    </tr>    
+</table> 
+<table><tr><td colspan="3" rowspan="2"></td></tr></table>
+
+<table class="account" width="750px">
+    <tr>
+        <th>QUANTITY</th>
+        <th>ITEM NUMBER</th>
+        <th>DESCRIPTION</th>
+        <? if(stristr($this->shipTo['address'], 'USA')):?>
+        <th>FDA NUMBER</th>
+        <?endif;?>
+        <th>UNIT PRICE</th>
+        <th>AMOUNT</th>
+    </tr>
+    <?foreach($this->shipmentItems as $shipmentItem):?>
+    <tr><td align="center"><?= $shipmentItem['quantity']?></td>
+        <td align="center"><?= $shipmentItem['itemNumber']?></td>
+        <td align="left"><?= ucwords($shipmentItem['invoice_name'])?></td>
+        <? if(stristr($this->shipTo['address'], 'USA')):?>
+            <td align="center"><?= $shipmentItem['fdaNumber']?></td>
+        <?endif;?>
+        <td align="right">US$<?= $shipmentItem['invoicePrice']?></td>
+        <td align="right">US$<?=  number_format($shipmentItem['invoicePrice'] * $shipmentItem['quantity'], 2, '.', ','); ?></td>
+    </tr>
+    <?endforeach;?>
+</table>

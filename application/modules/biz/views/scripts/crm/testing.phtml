@@ -1,0 +1,20 @@
+<h1>Tradeshows</h1>
+<form>	
+	Select Tradeshow:
+	<select name="shows" onchange="tradeshowOptions(this.value)">
+		  <option value="">Select a Tradeshow:</option>
+			<?php
+			  $sql = 'SELECT * FROM tradeshows GROUP BY name ORDER BY name asc;';
+			  $i = 0;
+				foreach ($conn->query($sql) as $row) {
+					echo "<option value='$row[name]'>$row[name]</option>";					
+					$i++;
+			  }
+			?>
+	</select>
+</form>
+<br>
+<div id="txtHint">&nbsp;</div>
+<div id="txtHint2">&nbsp;</div>
+<div id="txtHint3">&nbsp;</div>
+

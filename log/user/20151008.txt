@@ -1,0 +1,38 @@
+2015-10-08T09:27:05-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:17:"Wasatch Whitening";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"UT";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Gene";s:8:"lastname";s:11:"Francisconi";s:12:"contactphone";s:12:"801-558-4774";s:5:"email";s:23:"gene@firstequityfin.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"ab43319bc8e25576d984b501b02132f6d443663f";s:8:"username";s:17:"Wasatch Whitening";s:12:"created_time";s:19:"2015-10-08 09:27:05";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"bf6d61e5b6c3966d2b271c7e5db4a150";}
+2015-10-08T09:27:30-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:20:"9844 South 1300 East";s:7:"user_id";s:5:"14358";}
+2015-10-08T09:27:36-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 350";s:7:"user_id";s:5:"14358";}
+2015-10-08T09:27:41-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:5:"Sandy";s:7:"user_id";s:5:"14358";}
+2015-10-08T09:27:48-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"84094";s:7:"user_id";s:5:"14358";}
+2015-10-08T09:42:25-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:26:"1912 Heritage Grove Circle";s:7:"user_id";s:5:"11167";}
+2015-10-08T09:42:33-07:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:11:"Tallahassee";s:7:"user_id";s:5:"11167";}
+2015-10-08T09:42:37-07:00 INFO (6): Windy Jenkins--a:2:{s:5:"state";s:2:"FM";s:7:"user_id";s:5:"11167";}
+2015-10-08T09:42:40-07:00 INFO (6): Windy Jenkins--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:5:"11167";}
+2015-10-08T09:42:49-07:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"32304";s:7:"user_id";s:5:"11167";}
+2015-10-08T09:51:14-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14346";}
+2015-10-08T09:54:31-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"919 623-0111";s:7:"user_id";s:5:"14354";}
+2015-10-08T09:54:34-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:31:"blancheteethwhitening@yahoo.com";s:7:"user_id";s:5:"12029";}
+2015-10-08T10:27:10-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14344";}
+2015-10-08T10:43:13-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:7:"Bernice";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Bernice";s:8:"lastname";s:6:"Madden";s:12:"contactphone";s:0:"";s:5:"email";s:22:"bcmadden2011@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8ae4118c5a5107ca189d7ad946a80119b25c0d58";s:8:"username";s:7:"Bernice";s:12:"created_time";s:19:"2015-10-08 10:43:13";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"4553c815f66ca8687a4a956bd37ee90b";}
+2015-10-08T10:48:29-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:278:"Uses Zoom with 16% HP in her tanning salon but says she has to replace the "guides" on her Zoom light every other client to keep the LED's from overheating??? These cost almost $200 so she is looking for another light that is less expensive to operate. She has UV beds as well. ";s:7:"user_id";s:5:"14359";}
+2015-10-08T10:48:38-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14359";}
+2015-10-08T11:08:40-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:88:"PURCHASED STATIONARY OPTION #2
+Carlee Butler - Office Manager
+Phone number: 443-825-2277";s:7:"user_id";s:5:"11004";}
+2015-10-08T11:08:47-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:18:"443-825-2277 Phone";s:7:"user_id";s:5:"11004";}
+2015-10-08T11:23:08-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:20:"6534 WEst Tonopah Dr";s:7:"user_id";s:5:"14346";}
+2015-10-08T11:23:24-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"85308";s:7:"user_id";s:5:"14346";}
+2015-10-08T11:33:20-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14346";}
+2015-10-08T12:08:30-07:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:5:"Laura";s:7:"user_id";s:3:"110";}
+2015-10-08T12:08:37-07:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:8:"Everhart";s:7:"user_id";s:3:"110";}
+2015-10-08T13:00:42-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:17:"5401 Leary Ave NW";s:7:"user_id";s:5:"14333";}
+2015-10-08T13:00:48-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"98107";s:7:"user_id";s:5:"14333";}
+2015-10-08T13:00:53-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Seattle";s:7:"user_id";s:5:"14333";}
+2015-10-08T13:01:19-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:14:"(323) 935-3692";s:7:"user_id";s:5:"12451";}
+2015-10-08T13:24:29-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14346";}
+2015-10-08T13:28:37-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14333";}
+2015-10-08T14:56:49-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:123:"Tina works at a medi spa, they do laser hair removal, skin something, microderm, chem peals, facials, etc. Want to add TW> ";s:7:"user_id";s:5:"12909";}
+2015-10-08T14:58:02-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:4:"Lisa";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TN";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Lisa";s:8:"lastname";s:7:"Mccloud";s:12:"contactphone";s:0:"";s:5:"email";s:18:"ssmccloud@live.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8eeeadf0004c247a8b03fd453fa3cdcd9e4f0f62";s:8:"username";s:4:"Lisa";s:12:"created_time";s:19:"2015-10-08 14:58:01";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a13101ed5f72ce98594747c803408236";}
+2015-10-08T14:58:15-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:33:"Works in a salon with a partner. ";s:7:"user_id";s:5:"14360";}
+2015-10-08T14:58:45-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:146:"Works in a salon with a partner. Concerned about the laws regarding TW but it sounds like her research has led her to believe this is fine in TN. ";s:7:"user_id";s:5:"14360";}
+2015-10-08T15:14:57-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14356";}
+2015-10-08T16:51:54-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14355";}

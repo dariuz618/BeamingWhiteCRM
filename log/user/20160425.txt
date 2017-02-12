@@ -1,0 +1,225 @@
+2016-04-25T08:27:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"11673";}
+2016-04-25T08:27:28-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"11673";}
+2016-04-25T09:12:34-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:434:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E 
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:12:45-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:451:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203
+
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:12:53-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:450:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:13:12-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:461:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203 ((CC#3133)
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:13:17-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:461:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203 (
+CC#3133)
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:13:24-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:460:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203 (CC#3133)
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:21:33-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:470:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203 (CC#3133)
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575. (CC#7033)
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:22:07-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"425-387-7014";s:7:"user_id";s:5:"16189";}
+2016-04-25T09:22:07-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:12:"Lanenia Kind";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"IL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"773-993-9906";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Lanenia";s:8:"lastname";s:4:"Kind";s:12:"contactphone";s:12:"773-993-9906";s:5:"email";s:17:"lkind01@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d27537082fefb0e49cdb48d15619b9384877c100";s:8:"username";s:12:"Lanenia Kind";s:12:"created_time";s:19:"2016-04-25 09:22:07";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"ae9142864060739eb9a2faf89cce5a9c";}
+2016-04-25T09:23:11-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:115:"Lanenia is planning to open a Medispa before the end of May. Says she has chairs but would like to incorporate TW. ";s:7:"user_id";s:5:"16197";}
+2016-04-25T09:23:13-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:471:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203 (CC#3133)
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575. (CC#-6207)
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:23:38-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:481:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203 (CC#3133)
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575. (CC#-6207)
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460 (CC#7033)
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-25T09:25:49-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"919-623-7100";s:7:"user_id";s:5:"16188";}
+2016-04-25T09:29:50-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"302-898-9689";s:7:"user_id";s:5:"16193";}
+2016-04-25T09:32:46-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:31:"http://devcosinternational.com/";s:7:"user_id";s:5:"16195";}
+2016-04-25T09:36:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"516-993-5566";s:7:"user_id";s:5:"16191";}
+2016-04-25T09:36:31-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"520-837-9862";s:7:"user_id";s:5:"16194";}
+2016-04-25T09:43:29-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16191";}
+2016-04-25T09:44:23-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Dusty Thompson";s:7:"user_id";s:5:"16194";}
+2016-04-25T09:44:29-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Dusty Thompson";s:7:"user_id";s:5:"16194";}
+2016-04-25T09:44:34-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16194";}
+2016-04-25T10:09:27-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15826";}
+2016-04-25T10:18:41-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16188";}
+2016-04-25T10:18:45-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16188";}
+2016-04-25T10:21:28-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:436:"Says she worked for someone in NC using Wow Smile a few years ago. She says they were very successful and she enjoyed doing it. She is in property management now and is looking for other opportunities. She wants to get into the local mall in Johnson City, TN but has not contacted them yet and does not know if there is anything available, or what it might cost. If she can get in she would like to start with two stations with chairs. ";s:7:"user_id";s:5:"16188";}
+2016-04-25T10:22:08-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"239-671-8971";s:7:"user_id";s:5:"16166";}
+2016-04-25T10:48:22-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"/";s:7:"user_id";s:5:"16135";}
+2016-04-25T10:53:44-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"9491";}
+2016-04-25T11:44:58-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Gregory Simms";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"413-397-9104";s:6:"source";N;s:9:"firstname";s:7:"Gregory";s:8:"lastname";s:5:"Simms";s:12:"contactphone";s:12:"413-397-9104";s:5:"email";s:24:"sims.gregory12@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"f0375e6a60da14005ee2d5eb6a10f167221651ef";s:8:"username";s:13:"Gregory Simms";s:12:"created_time";s:19:"2016-04-25 11:44:58";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"ac36416835054765173231199fd2005b";}
+2016-04-25T11:45:30-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:4:"Sims";s:7:"user_id";s:5:"16198";}
+2016-04-25T11:45:34-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Gregory Sims";s:7:"user_id";s:5:"16198";}
+2016-04-25T11:45:38-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Gregory Sims";s:7:"user_id";s:5:"16198";}
+2016-04-25T11:46:24-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Houston";s:7:"user_id";s:5:"16198";}
+2016-04-25T11:49:10-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"77396";s:7:"user_id";s:5:"16198";}
+2016-04-25T11:50:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"713-397-9104";s:7:"user_id";s:5:"16198";}
+2016-04-25T11:50:12-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"713-397-9104";s:7:"user_id";s:5:"16198";}
+2016-04-25T12:13:09-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16140";}
+2016-04-25T12:23:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16198";}
+2016-04-25T12:51:10-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16193";}
+2016-04-25T12:51:15-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16193";}
+2016-04-25T12:53:27-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:136:"Asha has worked in the dental field and has a friend who does well whitening teeth. She wants a mobile package to offer TW on the side. ";s:7:"user_id";s:5:"16193";}
+2016-04-25T13:32:05-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:21:"e_parsons05@yahoo.com";s:7:"user_id";s:4:"1754";}
+2016-04-25T13:38:16-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MD";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"443-691-9541";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Kristen";s:8:"lastname";s:5:"Allen";s:12:"contactphone";s:0:"";s:5:"email";s:24:"kristen.allen3@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a2dde2189155271c5c49c1e0d4424e9b8972ce33";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-04-25 13:38:16";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"93e13fcd522f9fcaf51577c05b5083cd";}
+2016-04-25T13:56:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"862-596-3646";s:7:"user_id";s:5:"16199";}
+2016-04-25T14:33:33-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16199";}
+2016-04-25T14:35:27-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"16191";}
+2016-04-25T14:35:33-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:0:"";s:7:"user_id";s:5:"16191";}
+2016-04-25T14:40:21-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16190";}
+2016-04-25T15:11:55-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:5:"Diana";s:7:"user_id";s:5:"16191";}
+2016-04-25T15:12:32-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16191";}
+2016-04-25T15:13:14-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16191";}
+2016-04-25T15:13:21-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Diana Cianciotta";s:7:"user_id";s:5:"16191";}
+2016-04-25T15:13:26-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Diana Cianciotta";s:7:"user_id";s:5:"16191";}
+2016-04-25T15:42:35-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"516-993-6905";s:7:"user_id";s:5:"16191";}
+2016-04-25T15:48:24-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"PW";s:7:"user_id";s:5:"16111";}
+2016-04-25T15:48:29-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"PA";s:7:"user_id";s:5:"16111";}
+2016-04-25T15:48:33-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:2:"PA";s:7:"user_id";s:5:"16111";}
+2016-04-25T15:48:38-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:12:"Philadelphia";s:7:"user_id";s:5:"16111";}
+2016-04-25T15:48:56-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:16:"163 W Girard Ave";s:7:"user_id";s:5:"16111";}
+2016-04-25T15:49:06-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"19123";s:7:"user_id";s:5:"16111";}
+2016-04-25T16:03:46-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"10305";s:7:"user_id";s:5:"16191";}
+2016-04-25T16:35:15-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:42:"send editable format for the Instruction.
+";s:7:"user_id";s:5:"16191";}
+2016-04-25T17:22:22-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"847-477-8761";s:7:"user_id";s:5:"16196";}
+2016-04-25T17:22:35-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:16:"Charm Beauty Bar";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:8:"Shantina";s:8:"lastname";s:5:"Evans";s:12:"contactphone";s:12:"850-361-6522";s:5:"email";s:13:"a.b.e@non.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"915835ee27f208a9b5f939d1ac4df0a16df76df5";s:8:"username";s:16:"Charm Beauty Bar";s:12:"created_time";s:19:"2016-04-25 17:22:35";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"1a68ec0103009a08085fbbfe247ea411";}
+2016-04-25T17:22:44-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"[";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:22:55-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:9:"Pensacola";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:22:57-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:23:15-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16196";}
+2016-04-25T17:25:13-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"FM";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:25:18-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:26:03-07:00 INFO (6): Alison Duff--a:2:{s:13:"businessphone";s:14:"(850) 549-3871";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:26:16-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:16:"744 E Burgess Rd";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:26:25-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"32504";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:26:42-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:26:"http://charmbeautybar.com/";s:7:"user_id";s:5:"16201";}
+2016-04-25T17:29:45-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Jorge And Maria";s:7:"user_id";s:5:"16183";}
+2016-04-25T17:29:49-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:21:"Jorge And Maria Lopez";s:7:"user_id";s:5:"16183";}
+2016-04-25T17:29:52-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"16183";}
+2016-04-25T17:29:54-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:10:"Individual";s:7:"user_id";s:5:"16183";}
+2016-04-25T17:36:40-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16191";}
+2016-04-25T17:44:02-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"201 Crestwyck Cl";s:7:"user_id";s:5:"16196";}
+2016-04-25T17:44:12-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"17552";s:7:"user_id";s:5:"16196";}
+2016-04-25T17:44:19-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:9:"Mount Joy";s:7:"user_id";s:5:"16196";}
+2016-04-25T17:53:34-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:226:"Has sold Bright White, Ultradent, and other, wants to create her own line to sell. She was a featured lecturer at the mid winter meeting in Chicago. Would like samples of 17%, 22%, 36%, and 44% CP. Also interested in strips.  ";s:7:"user_id";s:5:"16196";}
+2016-04-25T17:54:14-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16066";}
+2016-04-25T17:58:48-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16183";}
+2016-04-25T18:40:49-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:14:"Cynthia Graney";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:7:"Cynthia";s:8:"lastname";s:6:"Graney";s:12:"contactphone";s:12:"631-289-7879";s:5:"email";s:18:"lunasmom19@aol.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"6fec0b02152b923a656e59a0a4940516c32a24c0";s:8:"username";s:14:"Cynthia Graney";s:12:"created_time";s:19:"2016-04-25 18:40:49";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"7c0ad9d2d0fd9b00947167bcab6887f7";}
+2016-04-25T18:41:39-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"631-278-0126";s:7:"user_id";s:5:"16202";}
+2016-04-25T18:41:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16202";}
+2016-04-25T18:43:46-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:14:"48 Travis Road";s:7:"user_id";s:5:"16202";}
+2016-04-25T18:43:50-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:19:"Patchogue, NY 11772";s:7:"user_id";s:5:"16202";}
+2016-04-25T18:43:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:9:"Patchogue";s:7:"user_id";s:5:"16202";}
+2016-04-25T18:43:57-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"11772";s:7:"user_id";s:5:"16202";}
+2016-04-25T18:44:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:0:"";s:7:"user_id";s:5:"16202";}
+2016-04-25T18:44:03-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Patchogue";s:7:"user_id";s:5:"16202";}

@@ -1,0 +1,90 @@
+2016-03-07T10:26:41-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:15:"34303 24th ave ";s:7:"user_id";s:5:"15508";}
+2016-03-07T10:26:53-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:14:"3403 24th ave ";s:7:"user_id";s:5:"15508";}
+2016-03-07T10:27:03-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15755";}
+2016-03-07T10:27:06-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:12:"Temple Hills";s:7:"user_id";s:5:"15508";}
+2016-03-07T10:27:08-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Romance";s:7:"user_id";s:5:"15755";}
+2016-03-07T10:27:12-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Romance Davis";s:7:"user_id";s:5:"15755";}
+2016-03-07T10:27:13-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"20748";s:7:"user_id";s:5:"15508";}
+2016-03-07T10:27:17-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Romance Davis";s:7:"user_id";s:5:"15755";}
+2016-03-07T10:36:42-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"21234";s:7:"user_id";s:5:"15628";}
+2016-03-07T10:45:50-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15628";}
+2016-03-07T10:49:05-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:9:"Francisco";s:7:"user_id";s:5:"15757";}
+2016-03-07T10:49:08-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:19:"Francisco Hernandez";s:7:"user_id";s:5:"15757";}
+2016-03-07T10:49:12-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Francisco Hernandez";s:7:"user_id";s:5:"15757";}
+2016-03-07T10:49:15-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15757";}
+2016-03-07T10:50:06-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15759";}
+2016-03-07T10:50:09-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Guinapauline";s:7:"user_id";s:5:"15759";}
+2016-03-07T10:50:14-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:19:"Guinapauline Santos";s:7:"user_id";s:5:"15759";}
+2016-03-07T10:50:17-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Guinapauline Santos";s:7:"user_id";s:5:"15759";}
+2016-03-07T10:51:44-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"732-710-1213";s:7:"user_id";s:5:"15760";}
+2016-03-07T10:51:53-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Dorota";s:7:"user_id";s:5:"15760";}
+2016-03-07T10:51:58-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Dorota Wisla";s:7:"user_id";s:5:"15760";}
+2016-03-07T10:52:01-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Dorota Wisla";s:7:"user_id";s:5:"15760";}
+2016-03-07T10:52:05-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15760";}
+2016-03-07T10:53:11-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15766";}
+2016-03-07T10:58:49-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Sarah";s:7:"user_id";s:5:"15764";}
+2016-03-07T10:58:53-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Sarah Black";s:7:"user_id";s:5:"15764";}
+2016-03-07T10:58:55-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Sarah Black";s:7:"user_id";s:5:"15764";}
+2016-03-07T10:58:59-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15764";}
+2016-03-07T11:09:48-08:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:7:"K0K 2X0";s:7:"user_id";s:5:"15758";}
+2016-03-07T11:18:43-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Donna";s:7:"user_id";s:5:"15753";}
+2016-03-07T11:18:47-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Donna Toller";s:7:"user_id";s:5:"15753";}
+2016-03-07T11:19:39-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Donna Toller";s:7:"user_id";s:5:"15753";}
+2016-03-07T11:19:59-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15753";}
+2016-03-07T11:59:43-08:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:12:"Huma-neticis";s:7:"user_id";s:5:"15728";}
+2016-03-07T14:20:50-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15766";}
+2016-03-07T14:24:19-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Ronnie Horne";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:24:24-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"202-257-8328";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:24:37-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"202-750-7593";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:24:51-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:21:"202-750-7593 - Ronnie";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:24:57-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:21:"202-257-8328 - Ronnie";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:25:19-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:27:"dmvteethwhitening@gmail.com";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:25:53-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:45:"E-mails for Ronnie: mauiwhiteningdc@gmail.com";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:26:20-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:76:"E-mails for Ronnie: dmvteethwhitening@gmail.com // mauiwhiteningdc@gmail.com";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:26:32-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Ronnie Horne";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:26:56-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"DMV Teeth Whitening";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:31:22-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:37:"202-257-8328 / (202) 219-0199- Ronnie";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:31:25-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:38:"202-257-8328 / (202) 219-0199 - Ronnie";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:36:37-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:91:"E-mails for Ronnie: dmvteethwhitening@gmail.com // mauiwhiteningdc@gmail.com
+
+Ronnie Horne
+";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:36:45-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:117:"E-mails for Ronnie: dmvteethwhitening@gmail.com // mauiwhiteningdc@gmail.com
+
+Ronnie Horne
+1410 North Capital St. NW
+";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:36:53-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:131:"E-mails for Ronnie: dmvteethwhitening@gmail.com // mauiwhiteningdc@gmail.com
+
+Ronnie Horne
+1410 North Capital St. NW
+Washington, DC";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:36:59-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:137:"E-mails for Ronnie: dmvteethwhitening@gmail.com // mauiwhiteningdc@gmail.com
+
+Ronnie Horne
+1410 North Capital St. NW
+Washington, DC 20002";s:7:"user_id";s:5:"15508";}
+2016-03-07T14:39:52-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15767";}
+2016-03-07T14:39:56-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Megan";s:7:"user_id";s:5:"15767";}
+2016-03-07T14:39:59-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Megan Gorgulho";s:7:"user_id";s:5:"15767";}
+2016-03-07T14:42:00-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Megan Gorgulho";s:7:"user_id";s:5:"15767";}
+2016-03-07T14:44:57-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Krystele";s:7:"user_id";s:5:"15769";}
+2016-03-07T14:45:01-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:17:"Krystele Carvonis";s:7:"user_id";s:5:"15769";}
+2016-03-07T14:45:06-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15769";}
+2016-03-07T14:45:08-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Krystele Carvonis";s:7:"user_id";s:5:"15769";}
+2016-03-07T14:45:28-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"15769";}
+2016-03-07T14:45:31-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"15769";}
+2016-03-07T15:25:54-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15630";}
+2016-03-07T15:40:15-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15765";}
+2016-03-07T15:40:23-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15761";}
+2016-03-07T16:00:04-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15760";}
+2016-03-07T16:14:56-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Felipe";s:7:"user_id";s:5:"15770";}
+2016-03-07T16:15:00-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Felipe Zambrano";s:7:"user_id";s:5:"15770";}
+2016-03-07T16:15:03-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Felipe Zambrano";s:7:"user_id";s:5:"15770";}
+2016-03-07T16:15:07-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15770";}
+2016-03-07T16:21:10-08:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:26:"christie@australiantan.com";s:7:"user_id";s:5:"15063";}
+2016-03-07T16:21:18-08:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:",";s:7:"user_id";s:5:"15063";}
+2016-03-07T16:24:38-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15771";}
+2016-03-07T16:44:15-08:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:15:"Brighter Smiles";s:7:"user_id";s:5:"10795";}
+2016-03-07T17:14:07-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15758";}
+2016-03-07T17:14:30-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15731";}

@@ -1,0 +1,137 @@
+<head>	
+    <link rel="stylesheet" type="text/css" href="/public/js/plugins/combobox/bootstrap-combobox.css">
+    <script src="/public/js/plugins/combobox/bootstrap-combobox.js"></script>   
+</head>
+
+
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Create Inventory Order</h2>
+        <ol class="breadcrumb">            
+            <li><a href="/inventory/company">companies</a></li>
+            <li><a href="/inventory/create-shipment">Create Shipment</a></li>
+            <li><a href="/inventory/stock">Current Inventory</a></li>  
+            <li><a href="/inventory/quantity">Inventory Adjustment</a></li>             
+            <li><a href="/inventory/find-item">Item History</a></li>             
+            <li><a href="/inventory/shipments">Shipments</a></li>                        
+            <li><a href="/inventory/view">Orders</a></li>
+            <li class="active">Create Inventory Order</li>
+        </ol>
+    </div>    
+</div>
+
+<div class="col-lg-8">   
+         <div class="panel panel-info">           
+            <div class="panel-heading">Create Inventory Order</div>
+            <div class="panel-body">
+        <?if (isset($this->error)):?>           
+             <div class="alert alert-danger alert-dismissable">
+                     <a class="close" data-dismiss="alert" href="#">×</a>
+                 <?= $this->error;?>                             
+            </div>
+        <?endif;?>
+        
+        <form class="form-horizontal" method="POST">
+        
+         <div class="form-group">
+             <label for="orderBy" class="col-sm-3 control-label required">Ordered For</label>
+             <div class="col-sm-8">
+             <select name="ordered_by"  class="form-control">
+                 <option value=""></option>               
+                 <?foreach($this->orderBys as $orderBy):?>
+                 <option value="<?= $orderBy?>" <?if(isset($this->data['ordered_by']) && $this->data['ordered_by'] == $orderBy) echo 'selected';?>><?= $orderBy ?></option>               
+                 <?endforeach;?>
+             </select>      
+             </div>
+         </div>
+            
+                               
+         <div class="form-group">
+             <label for="buyers" class="col-sm-3 control-label required">Buyer</label>
+             <div class="col-sm-8">
+             <select name="buyer"  class="form-control">
+                 <option value=""></option>               
+                 <?foreach($this->buyers as $buyer):?>
+                 <option value="<?= $buyer?>" <?if(isset($this->data['buyer']) && $this->data['buyer'] == $buyer) echo 'selected';?>><?= $buyer ?></option>               
+                 <?endforeach;?>
+             </select>      
+             </div>
+         </div>
+                
+         <div class="form-group">
+               <label for="item" class="col-sm-3 control-label required">Item</label>
+                <div class="col-sm-8">                    
+                    <select name="item"  class="combobox form-control">
+                        <option value=""></option>
+                        <?foreach ($this->items as $item): ?> 
+                        <option value="<?= $item['itemNumber'] ?>|||<?= $item['name'] ?>" <?if(isset($this->data['itemNumber']) && $this->data['itemNumber'] == $item['itemNumber']) echo 'selected';?>><?= $item['itemNumber'] ?> -- <?= $item['name']?></option>
+                        <?endforeach;?>                        
+                    </select>
+                </div>
+       </div>
+            
+       <div class="form-group">
+                <label for="quantity" class="col-sm-3 control-label required">Quantity</label>
+                <div class="col-sm-8">
+                    <input type="text" id="quantity_ordered" name="quantity_ordered" value = "<?if(isset($this->data['quantity_ordered'])) echo $this->data['quantity_ordered'] ;?>" class="form-control" id="quantity" placeholder="Quantity">
+                </div>
+       </div>
+            
+       <div class="form-group">
+             <label for="orderFor" class="col-sm-3 control-label required">Destination Qty</label>
+             <div class="col-sm-4">
+                 <label for="USA" class="control-label">USA Qty</label>   
+                 <input type="text" name="usaQuantity" id="usaQuantity" value = "<?if(isset($this->data['usaQuantity'])) echo $this->data['usaQuantity'] ;?>" class="form-control" id="usaQuantity" placeholder="USA Quantity">
+             </div>
+             <div class="col-sm-4">
+                 <label for="USA" class="control-label">Spain Qty</label>   
+                 <input type="text" name="spainQuantity" id="spainQuantity" value = "<?if(isset($this->data['spainQuantity'])) echo $this->data['spainQuantity'] ;?>" class="form-control" id="spainQuantity" placeholder="Spain Quantity">
+             </div>
+      </div>
+            
+        <div class="form-group">
+             <label for="quantity" class="col-sm-3 control-label">Priority</label>
+             <div class="col-sm-8">
+             <select name="priority"  class="form-control">
+                 <option value="normal" <?if($this->data['priority'] == 'normal') echo 'selected';?>>Normal</option>
+                 <option value="high" <?if($this->data['priority'] == 'high') echo 'selected';?>>High</option>
+                 <option value="urgent" <?if($this->data['priority'] == 'urgent') echo 'selected';?>>Urgent</option>
+             </select>      
+             </div>
+        </div>
+            
+        <div class="form-group">
+                <label for="specification" class="col-sm-3 control-label">Specification</label>
+                <div class="col-sm-8">
+                    <textarea  name="specification" class="form-control" rows="3"><? if(isset($this->data['specification'])) echo $this->data['specification']?></textarea>
+                </div>
+        </div>
+            
+        <div class="form-group">
+                <label for="notes" class="col-sm-3 control-label">Notes</label>
+                <div class="col-sm-8">
+                    <textarea  name="notes" class="form-control" rows="3"><? if(isset($this->data['notes'])) echo $this->data['notes']?></textarea>
+                </div>
+        </div>    
+        
+            <p class="text-center"><input type="submit" class="btn btn-primary" value="Submit"></p>
+           
+      </form> 
+    </div>
+         </div>
+    </div>
+<script type="text/javascript">
+      //<![CDATA[
+        $(document).ready(function(){
+          $('.combobox').combobox();
+          //alert($("select[name='ordered_by']").val());
+           $("#quantity_ordered").change(function() {  
+               if( $("#quantity_ordered").val()>0  && $("#spainQuantity").val()=='' && $("#usaQuantity").val()==''  && ($("select[name='ordered_by']").val() == 'Loli R' || $("select[name='ordered_by']").val() == 'Jordi F' )){
+                   $("#spainQuantity").val($("#quantity_ordered").val());
+               } else if ($("#quantity_ordered").val()>0  && $("#spainQuantity").val()=='' && $("#usaQuantity").val()==''  && ($("select[name='ordered_by']").val() == 'Tom T' || $("select[name='ordered_by']").val() == 'Luis L' )) {
+                   $("#usaQuantity").val($("#quantity_ordered").val());
+               }
+           });
+        });
+      //]]>
+    </script>

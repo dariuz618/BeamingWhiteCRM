@@ -1,0 +1,22 @@
+<div id="update_message"></div><br>
+<table>
+    <form method="POST" action="update-event">
+    <tr>
+            <td>Event Title: </td>
+            <td><input type="text" name="update_title" id="update_title" value="<?= $this->event['title']?>"></td>
+    </tr>
+    <tr>
+        <td>From: </td><td><input type="text" name="update_start" id="update_start" value="<?= $this->event['start']?>"></td>    
+    </tr>    
+    <tr>
+        <td>To:</td><td><input type="text" name="update_end" id="update_end" value="<?= $this->event['end']?>"></td>
+    </tr>
+    <tr><td>Description: </td>
+        <td><textarea name="update_description" id="update_description" class="text ui-widget-content ui-corner-all" rows="4" cols="18"><?= $this->event['description']?></textarea>
+    </tr>
+    <tr><td>&nbsp;All day <input type="checkbox" id="update_allDay" <?php echo $this->event['all_day']==1?'checked':''?>></td> 
+        <td>&nbsp;Public <input type="checkbox" id="update_public" <?php echo $this->event['public']==1?'checked':''?>></td>
+    </tr>            
+    <input type="hidden" name="update_eventId" id="update_eventId" value="<?= $this->event['event_id']?>">
+    </form>
+</table>

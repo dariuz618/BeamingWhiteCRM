@@ -1,0 +1,58 @@
+2016-01-06T08:33:59-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"8029";}
+2016-01-06T08:36:39-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Rodrigo";s:7:"user_id";s:4:"8029";}
+2016-01-06T08:36:44-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Rodrigo Galdamez";s:7:"user_id";s:4:"8029";}
+2016-01-06T08:36:59-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Rodrigo Galdamez";s:7:"user_id";s:4:"8029";}
+2016-01-06T08:40:54-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"65 Avenida Sur #120";s:7:"user_id";s:4:"8029";}
+2016-01-06T08:41:29-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:29:"Colonia Escalon, San Salvador";s:7:"user_id";s:4:"8029";}
+2016-01-06T09:25:53-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15105";}
+2016-01-06T10:18:02-08:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:7:"Alicia ";s:7:"user_id";s:3:"773";}
+2016-01-06T10:18:08-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:4:"Long";s:7:"user_id";s:3:"773";}
+2016-01-06T10:18:31-08:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:24:"alicia@serenitycreek.com";s:7:"user_id";s:3:"773";}
+2016-01-06T10:37:07-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"513-371-0319";s:7:"user_id";s:5:"15102";}
+2016-01-06T10:45:14-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"443-760-0213";s:7:"user_id";s:5:"15100";}
+2016-01-06T10:47:49-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:18:"William Finkbeiner";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"PA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"William";s:8:"lastname";s:10:"Finkbeiner";s:12:"contactphone";s:12:"412-999-9708";s:5:"email";s:15:"wfink6@live.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"1bd994e68c7c5896ecd043c0ec298b5b5d5d52db";s:8:"username";s:18:"William Finkbeiner";s:12:"created_time";s:19:"2016-01-06 10:47:49";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"2b5050c529087635d43b1f2b0efdbcdc";}
+2016-01-06T10:47:57-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15126";}
+2016-01-06T10:48:02-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15126";}
+2016-01-06T10:48:04-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15126";}
+2016-01-06T10:57:24-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:13:"503-227-43541";s:7:"user_id";s:4:"8029";}
+2016-01-06T11:03:55-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"509-460-8368";s:7:"user_id";s:5:"15125";}
+2016-01-06T11:03:57-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14780";}
+2016-01-06T11:11:34-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"856-987-0023";s:7:"user_id";s:5:"15122";}
+2016-01-06T11:12:41-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"John";s:7:"user_id";s:5:"15122";}
+2016-01-06T11:12:45-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"John Walls";s:7:"user_id";s:5:"15122";}
+2016-01-06T11:12:47-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"John Walls";s:7:"user_id";s:5:"15122";}
+2016-01-06T11:14:53-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"UM";s:7:"user_id";s:5:"15122";}
+2016-01-06T11:15:07-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"GB";s:7:"user_id";s:5:"15122";}
+2016-01-06T11:27:53-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"929-371-5974";s:7:"user_id";s:5:"15012";}
+2016-01-06T11:29:35-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:31:"like, you know, like, you know.";s:7:"user_id";s:5:"15012";}
+2016-01-06T11:30:13-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:66:"like, you know, like, I mean, you know, I mean, you know, like...
+";s:7:"user_id";s:5:"15012";}
+2016-01-06T11:31:07-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14797";}
+2016-01-06T11:31:09-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14797";}
+2016-01-06T11:31:32-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:262:"like, you know, like, I mean, you know, I mean, you know, like...
+Needs people to help her. can she get a loan, what credentials does she need. Who does she speak to to make this happen, does she need an accountant, a publicist, who does she need to speak with. ";s:7:"user_id";s:5:"15012";}
+2016-01-06T11:33:54-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15122";}
+2016-01-06T11:34:38-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15012";}
+2016-01-06T11:56:47-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15099";}
+2016-01-06T11:57:55-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"15099";}
+2016-01-06T11:57:57-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"15099";}
+2016-01-06T11:59:42-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:12:"tasha morgan";s:7:"user_id";s:5:"15076";}
+2016-01-06T12:06:54-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:20:"randallrich77@me.com";s:7:"user_id";s:5:"10894";}
+2016-01-06T12:07:07-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:25:"info@gobrilliantwhite.com";s:7:"user_id";s:5:"10894";}
+2016-01-06T12:29:37-08:00 INFO (6): Erika Rose--a:2:{s:6:"soldby";s:13:"Beaming White";s:7:"user_id";s:5:"14780";}
+2016-01-06T12:57:59-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"602-339-0867";s:7:"user_id";s:5:"15127";}
+2016-01-06T12:58:37-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15127";}
+2016-01-06T13:17:08-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:13:"1508-237-8852";s:7:"user_id";s:5:"15112";}
+2016-01-06T13:50:04-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15122";}
+2016-01-06T14:09:21-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15110";}
+2016-01-06T14:30:26-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:8:"Z Clinic";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"OR";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Lauren";s:8:"lastname";s:6:"Lauren";s:12:"contactphone";s:12:"503-342-6410";s:5:"email";s:18:"info@lozclinic.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"b2137961523f04c4e59a81bc16363ad6343d4696";s:8:"username";s:8:"Z Clinic";s:12:"created_time";s:19:"2016-01-06 14:30:26";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"ed4e1807a3190208dd0c78df9e368871";}
+2016-01-06T14:30:38-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15128";}
+2016-01-06T14:30:54-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15128";}
+2016-01-06T14:35:40-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:"Lake Oswego";s:7:"user_id";s:5:"15128";}
+2016-01-06T15:45:54-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15129";}
+2016-01-06T15:45:58-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Kynston";s:7:"user_id";s:5:"15129";}
+2016-01-06T15:46:03-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Kynston Smiles";s:7:"user_id";s:5:"15129";}
+2016-01-06T15:46:07-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Kynston Smiles";s:7:"user_id";s:5:"15129";}
+2016-01-06T17:01:51-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15125";}
+2016-01-06T17:10:17-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:183:"The company they were using has quit responding. Looking for 10ml syringes of 22%CP and 36% CP. The DDS is big on trying products before recommending them so they would like samples. ";s:7:"user_id";s:5:"15125";}
+2016-01-06T17:12:48-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:354:"The company they were using has quit responding. Looking for 10ml syringes of 22%CP and 36% CP. The DDS is big on trying products before recommending them so they would like samples. They also do in office whitening but she is not sure what the product is. Maybe Pola. Says there is a powder that they mix with a liquid. They do 2 X 15 min applications. ";s:7:"user_id";s:5:"15125";}

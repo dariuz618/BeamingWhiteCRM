@@ -1,0 +1,100 @@
+2016-09-19T08:43:45-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address2";s:8:"Suite 3B";s:7:"user_id";s:5:"11157";}
+2016-09-19T08:50:23-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:26:"Hair Sculptors Salon & Spa";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:17:"1208 E. Evans Ave";s:8:"address2";s:0:"";s:4:"city";s:10:"Valparaiso";s:5:"state";s:2:"IN";s:3:"zip";s:5:"46385";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:6:"Marika";s:8:"lastname";s:15:"Coveris Pierson";s:12:"contactphone";s:0:"";s:5:"email";s:21:"needemail39@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:22:"IBS/ICES New York 2016";s:4:"type";s:4:"Lead";s:8:"password";s:40:"7e531b8833748cfcfd897c833564c93bff8589f8";s:8:"username";s:26:"Hair Sculptors Salon & Spa";s:12:"created_time";s:19:"2016-09-19 08:50:23";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"95abe3542aac92ae2b26b23a85724ffc";}
+2016-09-19T08:50:44-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"646-559-5126";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:50:47-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"646-559-5126";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:51:22-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:24:"Marika is an Esthetician";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:51:47-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"219-477-4455";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:52:03-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:46:"Open Tuesday - Friday
+Marika is an Esthetician";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:52:41-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:106:"Open Tuesday - Friday
+Marika is an Esthetician - Skincare Specialist. Offers Facials , waxing and make-up.";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:52:57-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:0:"";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:53:28-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"219-477-4455";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:53:31-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"219-477-4455";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:53:49-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:45:"http://www.hairsculptorssalon.com/contact-us/";s:7:"user_id";s:5:"17498";}
+2016-09-19T08:53:55-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17498";}
+2016-09-19T09:30:57-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Jared";s:7:"user_id";s:5:"17494";}
+2016-09-19T09:31:03-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Jared Orkin";s:7:"user_id";s:5:"17494";}
+2016-09-19T09:31:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17494";}
+2016-09-19T09:31:45-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17494";}
+2016-09-19T09:35:22-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"832-460-8784";s:7:"user_id";s:5:"17497";}
+2016-09-19T09:37:47-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17495";}
+2016-09-19T09:43:58-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17497";}
+2016-09-19T09:44:00-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17497";}
+2016-09-19T09:46:48-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17499";}
+2016-09-19T10:11:16-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"9639";}
+2016-09-19T10:51:26-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17223";}
+2016-09-19T11:04:04-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17431";}
+2016-09-19T11:11:32-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17484";}
+2016-09-19T11:12:27-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:16:"583 Boxwood Lane";s:7:"user_id";s:5:"17484";}
+2016-09-19T11:12:33-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:5:"Azusa";s:7:"user_id";s:5:"17484";}
+2016-09-19T11:12:35-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"91702";s:7:"user_id";s:5:"17484";}
+2016-09-19T11:16:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17481";}
+2016-09-19T11:21:40-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"757-329-6844";s:7:"user_id";s:5:"13109";}
+2016-09-19T11:21:58-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Shadawn";s:7:"user_id";s:5:"13109";}
+2016-09-19T11:22:03-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Shadawn Gatling";s:7:"user_id";s:5:"13109";}
+2016-09-19T11:22:06-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Shadawn Gatling";s:7:"user_id";s:5:"13109";}
+2016-09-19T12:06:10-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Laser Solutions";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:13:"307 Arena Ave";s:8:"address2";s:0:"";s:4:"city";s:6:"Trochu";s:5:"state";s:2:"AB";s:3:"zip";s:7:"T0M 2C0";s:7:"country";s:2:"CA";s:13:"businessphone";s:12:"403-588-6253";s:6:"source";N;s:9:"firstname";s:5:"Carol";s:8:"lastname";s:6:"Franke";s:12:"contactphone";s:12:"403-588-6253";s:5:"email";s:21:"cafranke@xplornet.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"27ba66472d5194b66b4891a0f71f765fa6a875db";s:8:"username";s:15:"Laser Solutions";s:12:"created_time";s:19:"2016-09-19 12:06:09";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"f83821e0db62cf46a5fe8b5c584646fd";}
+2016-09-19T12:10:36-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17503";}
+2016-09-19T12:19:56-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:7:"Unknown";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:6:"Cliona";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NJ";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:7:"Unknown";s:8:"lastname";s:7:"Unknown";s:12:"contactphone";s:12:"201-230-9550";s:5:"email";s:21:"needemail36@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Voice Mail";s:2:"id";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"93ed919e60a9cb9262cda84daa81ac625570af62";s:8:"username";s:7:"Unknown";s:12:"created_time";s:19:"2016-09-19 12:19:56";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"fcac935dd8506ca4bce2fe05bb99ccff";}
+2016-09-19T12:27:08-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"215-867-5309";s:7:"user_id";s:5:"17502";}
+2016-09-19T12:27:42-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Gina Stevens";s:7:"user_id";s:5:"17502";}
+2016-09-19T12:27:45-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Gina Stevens";s:7:"user_id";s:5:"17502";}
+2016-09-19T12:35:48-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"215-867-5309";s:7:"user_id";s:5:"17502";}
+2016-09-19T12:42:09-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"businessname";s:13:"White Factory";s:7:"user_id";s:5:"16239";}
+2016-09-19T12:44:50-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17503";}
+2016-09-19T12:50:57-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:13:"Robert Aviles";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Robert";s:8:"lastname";s:6:"Aviles";s:12:"contactphone";s:12:"909-518-5010";s:5:"email";s:27:"aviles.robert3712@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d83e9a0e75503f176f706105e46ddb1b928461ea";s:8:"username";s:13:"Robert Aviles";s:12:"created_time";s:19:"2016-09-19 12:50:57";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"d9ae34bdee93397b919e9a64ebddf3cf";}
+2016-09-19T13:55:16-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17184";}
+2016-09-19T14:32:09-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17502";}
+2016-09-19T14:32:49-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"215-867-5309";s:7:"user_id";s:5:"17502";}
+2016-09-19T14:33:02-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:21:"215-793-9999 ext 500.";s:7:"user_id";s:5:"17502";}
+2016-09-19T14:46:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17502";}
+2016-09-19T14:47:02-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:10:"7807199978";s:7:"user_id";s:4:"2730";}
+2016-09-19T14:50:02-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:15:"8 Fairfax Drive";s:7:"user_id";s:4:"2730";}
+2016-09-19T14:50:54-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:5:"Devon";s:7:"user_id";s:4:"2730";}
+2016-09-19T14:50:57-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"AB";s:7:"user_id";s:4:"2730";}
+2016-09-19T14:51:05-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:7:"T9G 1B1";s:7:"user_id";s:4:"2730";}
+2016-09-19T15:17:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16072";}
+2016-09-19T15:48:51-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:164:"10mL Carbamide Peroxide Gel: 
+1-49 units: $7.00 each 
+50-99 units: $6.00 each 
+
+Mini LED: 
+1-9 units: $5.50
+10-24 units: $5.00
+25-49 units: $4.50
+50-99 units: $4.00";s:7:"user_id";s:5:"17459";}
+2016-09-19T15:50:06-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:263:"Private Labeled Deluxe Kit Price: 
+250 units: $11 each 
+500 units: $10 each 
+1000 units: $8 each 
+
+10mL Carbamide Peroxide Gel: 
+1-49 units: $7.00 each 
+50-99 units: $6.00 each 
+
+Mini LED: 
+1-9 units: $5.50
+10-24 units: $5.00
+25-49 units: $4.50
+50-99 units: $4.00";s:7:"user_id";s:5:"17459";}
+2016-09-19T15:59:40-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:141:"Private Labeled Deluxe Take Home: 
+10-99 units: $14.00 each 
+100-499 units: $13.00 each 
+500-999 units: $10.00 each 
+1000+ units: $8.00 each ";s:7:"user_id";s:5:"17314";}
+2016-09-19T16:01:54-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:250:"Private Labeled Deluxe Take Home: 
+10-99 units: $14.00 each 
+100-499 units: $13.00 each 
+500-999 units: $10.00 each 
+1000+ units: $8.00 each
+
+Pricing for two Futura Face Light Therapy Masks: 
+Itemized Price: $2,900.00 each 
+Two units: $1,900.00 each ";s:7:"user_id";s:5:"17314";}
+2016-09-19T16:39:03-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:6:"Anctio";s:7:"user_id";s:5:"17466";}
+2016-09-19T17:20:55-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:11:"Carol Sassa";s:7:"user_id";s:5:"14254";}
+2016-09-19T17:21:10-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:12:"Gina Stevens";s:7:"user_id";s:5:"14254";}
+2016-09-19T17:21:14-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:20:"gina@ilmprograms.com";s:7:"user_id";s:5:"14254";}
+2016-09-19T17:21:27-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:12:"267-705-2224";s:7:"user_id";s:5:"14254";}
+2016-09-19T17:22:33-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17481";}

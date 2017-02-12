@@ -1,0 +1,87 @@
+2015-11-04T09:02:39-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:13:"00354-8943066";s:7:"user_id";s:5:"14512";}
+2015-11-04T09:08:53-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14516";}
+2015-11-04T09:22:18-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"11981 East Ford Dr";s:7:"user_id";s:5:"10307";}
+2015-11-04T09:43:37-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14523";}
+2015-11-04T09:48:15-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:20:"abeauty@iinet.com.au";s:7:"user_id";s:3:"577";}
+2015-11-04T09:48:21-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:10:"0892006230";s:7:"user_id";s:3:"577";}
+2015-11-04T09:48:28-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:10:"0892006230";s:7:"user_id";s:3:"577";}
+2015-11-04T09:49:22-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"00+354+8943066";s:7:"user_id";s:5:"14512";}
+2015-11-04T09:54:42-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"14537";}
+2015-11-04T09:57:33-08:00 INFO (6): Windy Jenkins--a:2:{s:13:"contactphone2";s:12:"914 489-7835";s:7:"user_id";s:3:"269";}
+2015-11-04T10:04:24-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:45:"CATHY IS CHARGED $10 EA FOR ADVANCED KITS 16%";s:7:"user_id";s:3:"269";}
+2015-11-04T10:12:06-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:65:"CATHY IS CHARGED $10 EA FOR ADVANCED KITS 16%. CELL: 914 489-7835";s:7:"user_id";s:3:"269";}
+2015-11-04T10:13:10-08:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:17:"fyllspa@gmail.com";s:7:"user_id";s:3:"796";}
+2015-11-04T10:34:11-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:6:"Sandra";s:7:"user_id";s:5:"11722";}
+2015-11-04T10:34:16-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Sandra Forno";s:7:"user_id";s:5:"11722";}
+2015-11-04T10:34:18-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Sandra Forno";s:7:"user_id";s:5:"11722";}
+2015-11-04T10:35:44-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"11722";}
+2015-11-04T10:40:52-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14402";}
+2015-11-04T10:41:24-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"919-435-6242";s:7:"user_id";s:5:"14536";}
+2015-11-04T10:55:44-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"O De Rose Med Spa";s:7:"user_id";s:5:"14506";}
+2015-11-04T10:55:48-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14506";}
+2015-11-04T11:09:01-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:340:"Joanna and her partner Vicky have two locations. One offers hair and wigs to cancer patients, the other is a full service salon. They have a facial bed and room where they are considering adding teeth whitening. Joanna has had her teeth whitened with Zoom in the past and wants to have her teeth whitened with our product before investing. ";s:7:"user_id";s:5:"14536";}
+2015-11-04T11:10:15-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:453:"Joanna and her partner Vicky have two locations. One offers hair and wigs to cancer patients, the other is a full service salon. They have a facial bed and room in the full service salon where they are considering adding teeth whitening. They have a ex-hygienist who would perform the treatments but they would like 2 certs. Joanna has had her teeth whitened with Zoom in the past and wants to have her teeth whitened with our product before investing. ";s:7:"user_id";s:5:"14536";}
+2015-11-04T11:19:42-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:468:"Joanna and her partner Vicky have two locations. One offers hair and wigs to cancer patients, the other is a full service salon. They have a facial bed and room in the full service salon where they are considering adding teeth whitening. They have a ex-dental assistant (Susan) who would perform the treatments but they would like 2 certs. Joanna has had her teeth whitened with Zoom in the past and wants to have her teeth whitened with our product before investing. ";s:7:"user_id";s:5:"14536";}
+2015-11-04T11:22:26-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14536";}
+2015-11-04T11:22:48-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:282:"ADV KITS 16% HP 1.2.2 @ $3.50
+PRE-FILLED TRAY 36% CP 4.1 @ $3.00
+DLX KITS/PREMIUM BAGS **GENERIC 36%    8.2.1 @ $8.00 
+MINERAL PEN 60.6 @ $3.25
+FW TOUCH UP PEN    60.1 @ $2.00    (CASE 61.1) @ $72.00
+10ML SYRINGE    70.5 @ $2.50
+LARGE RED GOGGLES    #12330 @ $6.00
+LCR #7030 @ $0.75";s:7:"user_id";s:3:"101";}
+2015-11-04T11:23:09-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:279:"ADV KITS 16% HP 1.2.2 @ $3.50
+PRE-FILLED TRAY 36% CP 4.1 @ $3.00
+DLX KITS/PREMIUM BAGS **GENERIC 36% 8.2.1 @ $8.00 
+MINERAL PEN 60.6 @ $3.25
+FW TOUCH UP PEN    60.1 @ $2.00    (CASE 61.1) @ $72.00
+10ML SYRINGE    70.5 @ $2.50
+LARGE RED GOGGLES    #12330 @ $6.00
+LCR #7030 @ $0.75";s:7:"user_id";s:3:"101";}
+2015-11-04T11:35:05-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:283:"ADV KITS 16% HP 1.2.2 @ $3.50
+PRE-FILLED TRAY KIT 36% CP 4.1 @ $3.00
+DLX KITS/PREMIUM BAGS **GENERIC 36% 8.2.1 @ $8.00 
+MINERAL PEN 60.6 @ $3.25
+FW TOUCH UP PEN    60.1 @ $2.00    (CASE 61.1) @ $72.00
+10ML SYRINGE    70.5 @ $2.50
+LARGE RED GOGGLES    #12330 @ $6.00
+LCR #7030 @ $0.75";s:7:"user_id";s:3:"101";}
+2015-11-04T11:44:28-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14518";}
+2015-11-04T11:44:44-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:418:"ADVANCED KITS 16% HP 1.2.2 @ $3.50 PRE-FILLED TRAY KIT 36% CP 4.1 @ $3.00 DLX KITS/PREMIUM BAGS **GENERIC 36% 8.2.1 @ $8.00 MINERAL PEN    60.6 @ $3.25 FW TOUCH UP PEN    60.1 @ $2.00 CASE 61.1 @ $72.00 10ML SYRINGE 70.5 @ $2.50 LARGE RED GOGGLES #12330 @ $6.00 LCR CHEEK RETRACTORS #7030 @ $0.75 FINGER WIPE #9030 @ $0.13
+VITAMIN E-SWAB #12560 @ $0.10
+BIB #12470 @ $0.13
+DLX KITS ARE GENERIC, EVERYTHING ELSE BRANDED ";s:7:"user_id";s:3:"101";}
+2015-11-04T11:49:04-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:412:"ADVANCED KITS 16% HP 1.2.2 @ $3.50 PRE-FILLED TRAY KIT 36% CP 4.1 @ $3.00 DLX KITS/PREMIUM BAGS **GENERIC 36% 8.2.1 @ $8.00 MINERAL PEN 60.6 @ $3.25 FW TOUCH UP PEN 60.1 @ $2.00 CASE 61.1 @ $72.00 10ML SYRINGE 70.5 @ $2.50 LARGE RED GOGGLES #12330 @ $6.00 LCR CHEEK RETRACTORS #7030 @ $0.75 FINGER WIPE #9030 @ $0.13
+VITAMIN E-SWAB #12560 @ $0.10
+BIB #12470 @ $0.13
+DLX KITS ARE GENERIC, EVERYTHING ELSE BRANDED ";s:7:"user_id";s:3:"101";}
+2015-11-04T11:56:42-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14381";}
+2015-11-04T11:58:41-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14377";}
+2015-11-04T11:59:04-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14365";}
+2015-11-04T12:43:23-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14464";}
+2015-11-04T12:57:52-08:00 INFO (6): Brian Radke--a:2:{s:12:"businessname";s:13:"Tawn Lundgren";s:7:"user_id";s:5:"14243";}
+2015-11-04T13:52:37-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:126:"ADVANCED GENERIC 1.1G
+Lamps $650 ea
+Kits $4.50 ea
+T/U pens $4 ea
+Min Pens $3.45 ea
+DW Fusion $3.15
+Goggles $7.50
+Bib Holder $4";s:7:"user_id";s:4:"2566";}
+2015-11-04T15:53:12-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:38:"DOES NOT LIKE THE CLEAR RETRACTORS!!!!";s:7:"user_id";s:3:"796";}
+2015-11-04T16:09:04-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:224:"Interested in the Face, says she has a hand held device that does the red and blue light. She has also used twilight teeth and was not impressed. I explained the difference between their hand held light and a Face for 2400. ";s:7:"user_id";s:5:"14067";}
+2015-11-04T16:57:57-08:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:6:"Smyrna";s:7:"user_id";s:5:"11617";}
+2015-11-04T16:58:04-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:18:"5003 Duxford Drive";s:7:"user_id";s:5:"11617";}
+2015-11-04T16:58:58-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14464";}
+2015-11-04T17:05:01-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:14:"Shaquilla Lane";s:7:"user_id";s:5:"11617";}
+2015-11-04T17:05:25-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14518";}
+2015-11-04T17:07:49-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:26:"1232 Cornerstone Blvd #261";s:7:"user_id";s:5:"14518";}
+2015-11-04T17:07:56-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"19335";s:7:"user_id";s:5:"14518";}
+2015-11-04T17:15:24-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:113:"Per Alicia cust has previously ordered 2ml 16% Syringe @ $7 each, always orders blue curved tips for the syringes";s:7:"user_id";s:4:"1996";}
+2015-11-04T17:21:39-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:9:"Rose Anne";s:7:"user_id";s:5:"14534";}
+2015-11-04T17:21:43-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Rose Anne Magat";s:7:"user_id";s:5:"14534";}
+2015-11-04T17:21:48-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Rose Anne Magat";s:7:"user_id";s:5:"14534";}
+2015-11-04T17:22:40-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14534";}
+2015-11-04T17:27:09-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:12:"Barbie Bidot";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:6:"Barbie";s:8:"lastname";s:5:"Bidot";s:12:"contactphone";s:12:"817-382-7979";s:5:"email";s:13:"bbidot@me.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"bcd21ba3f48a740bf9fa142ca63610cf00a951e4";s:8:"username";s:12:"Barbie Bidot";s:12:"created_time";s:19:"2015-11-04 17:27:06";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"e9e7d5979b64df60cf748a0040edf3af";}
+2015-11-04T17:28:12-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14542";}

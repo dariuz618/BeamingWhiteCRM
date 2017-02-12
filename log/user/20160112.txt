@@ -1,0 +1,61 @@
+2016-01-12T08:24:57-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15145";}
+2016-01-12T08:42:30-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:11:"Pat Pauline";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"DE";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:3:"Pat";s:8:"lastname";s:7:"Pauline";s:12:"contactphone";s:12:"786-371-4233";s:5:"email";s:22:"paulinketsia@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"3f13589a03d7d7e8e54772c5b11713b067ef0818";s:8:"username";s:11:"Pat Pauline";s:12:"created_time";s:19:"2016-01-12 08:42:30";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"c5c30109da93e372f7e88e384eb398fa";}
+2016-01-12T08:45:50-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15162";}
+2016-01-12T08:52:48-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15162";}
+2016-01-12T08:52:50-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15162";}
+2016-01-12T08:52:52-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15162";}
+2016-01-12T08:52:54-08:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:5:"15162";}
+2016-01-12T10:09:05-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:09:06-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:09:08-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:10:12-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:35:"11575 City Hall Promenade Apt# 332 ";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:10:20-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Miramar";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:10:22-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"FM";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:10:25-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:10:25-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"33025";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:11:27-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:11:33-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"14686";}
+2016-01-12T10:47:57-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"478-447-2518";s:7:"user_id";s:5:"14076";}
+2016-01-12T11:05:23-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:26:"2635 Govoner McDonald Lane";s:7:"user_id";s:5:"14076";}
+2016-01-12T11:05:31-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"31216";s:7:"user_id";s:5:"14076";}
+2016-01-12T12:00:32-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"15130";}
+2016-01-12T12:00:36-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"15130";}
+2016-01-12T12:27:34-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15150";}
+2016-01-12T13:01:29-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15150";}
+2016-01-12T13:04:07-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:376:"Eddie has a business promoting beauty pageants. Said he was at a pageant trade show and saw "Enlightened Expressions" offering teeth whitening affiliations. The cost to start was around $4,000 which got all of the equipment and a territory. He would have to pay a percentage of the profits back though. She was using CP offering 20 minute treatments and giving great results. ";s:7:"user_id";s:5:"15150";}
+2016-01-12T13:04:20-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:10:"reputation";s:7:"user_id";s:5:"15150";}
+2016-01-12T13:05:31-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:525:"Eddie has a business promoting beauty pageants. Said he was at a pageant trade show and saw "Enlightened Expressions" out of ATL offering teeth whitening affiliations. The cost to start was around $4,000 which got all of the equipment and a territory. He would have to pay a percentage of the profits back though. She was using CP offering 20 minute treatments and giving great results. Eddie is interested in mobile options with Adv Kits and Professional Facial beds. He has 3 nieces he could put to work at his pageants.   ";s:7:"user_id";s:5:"15150";}
+2016-01-12T13:16:47-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"774-297-9265";s:7:"user_id";s:5:"15164";}
+2016-01-12T13:16:52-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Andrea Voss";s:7:"user_id";s:5:"15164";}
+2016-01-12T13:16:55-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"954-849-6169";s:7:"user_id";s:5:"15161";}
+2016-01-12T13:16:56-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Andrea Voss";s:7:"user_id";s:5:"15164";}
+2016-01-12T13:18:43-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15164";}
+2016-01-12T13:26:23-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:193:"Cory mentioned that we can get a reduced price if we can give her the Clamp on light instead of the Futura 2400.
+She worked with Cory.Trina would like to order 3 lamps towards spring or summer.";s:7:"user_id";s:5:"14518";}
+2016-01-12T13:34:33-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:34:"confidentskinandwellness@gmail.com";s:7:"user_id";s:5:"15149";}
+2016-01-12T13:38:41-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:10:"Individual";s:7:"user_id";s:5:"15149";}
+2016-01-12T13:38:44-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:6:"Mobile";s:7:"user_id";s:5:"15149";}
+2016-01-12T13:48:10-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15159";}
+2016-01-12T14:01:02-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15164";}
+2016-01-12T14:32:50-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:18:"enovison@gmail.com";s:7:"user_id";s:5:"13058";}
+2016-01-12T14:57:51-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15164";}
+2016-01-12T15:42:15-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"3120 Paseo Vista";s:7:"user_id";s:5:"12974";}
+2016-01-12T15:42:26-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"95046";s:7:"user_id";s:5:"12974";}
+2016-01-12T15:45:52-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"San Martin";s:7:"user_id";s:5:"12974";}
+2016-01-12T15:46:16-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"408-832-5023";s:7:"user_id";s:5:"12974";}
+2016-01-12T15:57:15-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Cornesha";s:7:"user_id";s:5:"15166";}
+2016-01-12T15:57:20-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Cornesha Dunlap";s:7:"user_id";s:5:"15166";}
+2016-01-12T15:57:23-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Cornesha Dunlap";s:7:"user_id";s:5:"15166";}
+2016-01-12T15:57:48-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"314-560-6101";s:7:"user_id";s:5:"15166";}
+2016-01-12T15:58:03-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15166";}
+2016-01-12T17:18:01-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:8:"Dr. Amro";s:7:"user_id";s:4:"8929";}
+2016-01-12T17:18:04-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:10:"Almohamad ";s:7:"user_id";s:4:"8929";}
+2016-01-12T17:23:38-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:26:"38700 SE River St. Suite E";s:7:"user_id";s:5:"15109";}
+2016-01-12T17:23:52-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"UG";s:7:"user_id";s:5:"15109";}
+2016-01-12T17:24:10-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"15109";}
+2016-01-12T17:24:12-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"98065";s:7:"user_id";s:5:"15109";}
+2016-01-12T17:24:17-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"WA";s:7:"user_id";s:5:"15109";}
+2016-01-12T17:32:15-08:00 INFO (6): Erika Rose--a:2:{s:13:"resale_number";s:4:"8.6%";s:7:"user_id";s:5:"15109";}
+2016-01-12T17:35:22-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15109";}
+2016-01-12T17:35:25-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15109";}
+2016-01-12T17:45:15-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"571-789-9707";s:7:"user_id";s:5:"15168";}

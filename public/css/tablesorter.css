@@ -1,0 +1,30 @@
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+    /*background-color: #E6EEEE;*/
+    padding: 8px 0 8px 0;    
+}
+
+table.tablesorter thead tr .header {
+    background-image: url("/public/image/neutral_sort.gif");
+    background-position: right center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+table.tablesorter tbody td {
+    background-color: #FFFFFF;
+    color: #3D3D3D;
+    padding: 4px;
+    vertical-align: top;
+}
+table.tablesorter tbody tr.striped td {
+    background-color: #F0F0F6;
+}
+
+table.tablesorter thead tr .headerSortUp {
+    background-image: url("/biz/public/image/utility/asc.gif");
+}
+table.tablesorter thead tr .headerSortDown {
+    background-image: url("/biz/public/image/utility/desc.gif");
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+    background-color: #8DBDD8;
+}

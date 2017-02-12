@@ -1,0 +1,104 @@
+2016-08-01T08:22:04-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16757";}
+2016-08-01T09:13:21-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17057";}
+2016-08-01T09:52:42-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15961";}
+2016-08-01T10:10:14-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17064";}
+2016-08-01T10:13:07-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17052";}
+2016-08-01T11:53:32-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Pure Image Canada";s:7:"user_id";s:4:"3496";}
+2016-08-01T11:53:37-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Prostident";s:7:"user_id";s:4:"3496";}
+2016-08-01T11:53:57-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:17:"514-928-8905 CELL";s:7:"user_id";s:4:"3496";}
+2016-08-01T11:54:07-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:21:"514-331-5852 - OFFICE";s:7:"user_id";s:4:"3496";}
+2016-08-01T11:58:21-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:130:"Here is the pricing for our 16% hydrogen peroxide pens: 
+10-49 units: $9.50 each 
+50-99 units: $8.50 each 
+100+ units: $7.50 each ";s:7:"user_id";s:5:"16470";}
+2016-08-01T12:21:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"309-373-7949";s:7:"user_id";s:5:"17066";}
+2016-08-01T12:28:55-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17070";}
+2016-08-01T12:31:57-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"786-863-7774";s:7:"user_id";s:5:"17071";}
+2016-08-01T12:32:07-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Chauntae";s:7:"user_id";s:5:"17071";}
+2016-08-01T12:32:11-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:17:"Chauntae Hammonds";s:7:"user_id";s:5:"17071";}
+2016-08-01T12:38:33-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"3496";}
+2016-08-01T12:38:37-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:4:"3496";}
+2016-08-01T12:41:02-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"801-643-8103";s:7:"user_id";s:5:"17074";}
+2016-08-01T12:41:08-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Lori Allen";s:7:"user_id";s:5:"17074";}
+2016-08-01T12:41:11-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Lori Allen";s:7:"user_id";s:5:"17074";}
+2016-08-01T12:44:59-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"519-200-2165";s:7:"user_id";s:5:"17076";}
+2016-08-01T12:45:08-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:3:"Jeh";s:7:"user_id";s:5:"17076";}
+2016-08-01T12:45:12-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Jeh Al-khasawneh";s:7:"user_id";s:5:"17076";}
+2016-08-01T12:45:14-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Jeh Al-khasawneh";s:7:"user_id";s:5:"17076";}
+2016-08-01T12:45:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:10:"Jeh (Jeha)";s:7:"user_id";s:5:"17076";}
+2016-08-01T12:46:32-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17076";}
+2016-08-01T12:46:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17076";}
+2016-08-01T12:48:12-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17077";}
+2016-08-01T12:53:18-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Diana";s:7:"user_id";s:5:"17081";}
+2016-08-01T12:53:23-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Diana Tefft";s:7:"user_id";s:5:"17081";}
+2016-08-01T12:53:26-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Diana Tefft";s:7:"user_id";s:5:"17081";}
+2016-08-01T13:05:42-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17071";}
+2016-08-01T13:05:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17071";}
+2016-08-01T13:08:32-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"805-915-9429";s:7:"user_id";s:5:"17084";}
+2016-08-01T13:09:45-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"17084";}
+2016-08-01T13:09:50-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"805-915-9429";s:7:"user_id";s:5:"17084";}
+2016-08-01T13:10:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Erin";s:7:"user_id";s:5:"17084";}
+2016-08-01T13:10:22-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Erin Holcomb";s:7:"user_id";s:5:"17084";}
+2016-08-01T13:10:23-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Erin Holcomb";s:7:"user_id";s:5:"17084";}
+2016-08-01T13:12:50-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17084";}
+2016-08-01T13:12:58-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:0:"";s:7:"user_id";s:5:"17084";}
+2016-08-01T14:06:16-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17057";}
+2016-08-01T14:35:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17022";}
+2016-08-01T14:36:38-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:15:"Dawn and Robbie";s:7:"user_id";s:5:"17077";}
+2016-08-01T14:37:29-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16994";}
+2016-08-01T14:37:35-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16727";}
+2016-08-01T14:37:40-07:00 INFO (6): Cory Nielsen--a:28:{s:12:"businessname";s:15:"Steiner Leisure";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:23:"770 South Dixie Highway";s:8:"address2";s:0:"";s:4:"city";s:5:"Miami";s:5:"state";s:2:"FL";s:3:"zip";s:5:"33146";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"305-450-4553";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:7:"Jessica";s:8:"lastname";s:7:"Steiner";s:12:"contactphone";s:12:"305-450-4553";s:5:"email";s:24:"jessh@steinerleisure.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:17:"Cosmoprof - Vegas";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"6b57968be8c94b3026df63816cda7f60f7843cd4";s:8:"username";s:15:"Steiner Leisure";s:12:"created_time";s:19:"2016-08-01 14:37:40";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"59787df4476270493cfeaa2929a3069b";}
+2016-08-01T14:51:40-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16356";}
+2016-08-01T14:51:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16356";}
+2016-08-01T15:10:16-07:00 INFO (6): Alison Duff--a:2:{s:7:"country";s:2:"AL";s:7:"user_id";s:5:"17078";}
+2016-08-01T15:10:19-07:00 INFO (6): Alison Duff--a:2:{s:7:"country";s:2:"DZ";s:7:"user_id";s:5:"17078";}
+2016-08-01T15:10:27-07:00 INFO (6): Alison Duff--a:2:{s:7:"country";s:2:"AU";s:7:"user_id";s:5:"17078";}
+2016-08-01T15:11:33-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17066";}
+2016-08-01T15:13:12-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"DO NOT CALL";s:7:"user_id";s:5:"17066";}
+2016-08-01T15:36:22-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:14:"Bombshell Chic";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Ms.";s:8:"lastname";s:5:"Means";s:12:"contactphone";s:0:"";s:5:"email";s:27:"thebombshellchic@icloud.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"053e0c38bbdc9ccd47387d3c9dcbf85ead19548a";s:8:"username";s:14:"Bombshell Chic";s:12:"created_time";s:19:"2016-08-01 15:36:22";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"748d75eb553be90d0fbd2d4e66bf12d9";}
+2016-08-01T15:50:46-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17053";}
+2016-08-01T16:35:15-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:5:"Nikki";s:7:"user_id";s:5:"17088";}
+2016-08-01T16:39:39-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"407-298-2090";s:7:"user_id";s:5:"17088";}
+2016-08-01T16:39:51-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Eric Sorenson";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:4:"Eric";s:8:"lastname";s:8:"Sorenson";s:12:"contactphone";s:0:"";s:5:"email";s:22:"epsorenson76@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"0dbd6a0b8bb50c2360453fc95e5b2ce19294c3df";s:8:"username";s:13:"Eric Sorenson";s:12:"created_time";s:19:"2016-08-01 16:39:51";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"00e41381b492020a1e5c81875d32872c";}
+2016-08-01T16:46:04-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:14:"(714) 809-2862";s:7:"user_id";s:5:"17091";}
+2016-08-01T16:48:35-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:121:"Pricing for Generic Deluxe Take Home Kits:
+10-99 units: $18.50 each 
+100-199 units: $16.50 each 
+200+ units: $14.50 each ";s:7:"user_id";s:5:"17088";}
+2016-08-01T16:48:45-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:453:"Pricing for Generic Deluxe Take Home Kits:
+10-99 units: $18.50 each 
+100-199 units: $16.50 each 
+200+ units: $14.50 each 
+
+Here is the pricing on private labeling for Deluxe Take Home Kit:
+•    Private Label MOQ: 1000 units
+
+                        $3.00 per bag: $3000 total upfront investment. 
+
+•    Pricing for kit items after private label purchase: 
+
+o   10-99 units: $16.00 each 
+
+o   100-199 units: $14.00 each 
+
+    200+ units: $12.00 each ";s:7:"user_id";s:5:"17088";}
+2016-08-01T16:57:05-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"DO NOT CALL";s:7:"user_id";s:5:"17053";}
+2016-08-01T16:58:49-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:22:"1253 E. Valparaiso Dr.";s:7:"user_id";s:4:"9725";}
+2016-08-01T16:58:50-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"92870";s:7:"user_id";s:4:"9725";}
+2016-08-01T16:58:57-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Placentia";s:7:"user_id";s:4:"9725";}
+2016-08-01T16:59:45-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"17091";}
+2016-08-01T16:59:50-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:22:"1253 E. Valparaiso Dr.";s:7:"user_id";s:5:"17091";}
+2016-08-01T17:00:01-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Placentia";s:7:"user_id";s:5:"17091";}
+2016-08-01T17:00:05-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:0:"";s:7:"user_id";s:4:"9725";}
+2016-08-01T17:00:11-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:0:"";s:7:"user_id";s:4:"9725";}
+2016-08-01T17:00:13-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:0:"";s:7:"user_id";s:4:"9725";}
+2016-08-01T17:00:18-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"AL";s:7:"user_id";s:4:"9725";}
+2016-08-01T17:00:22-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"92870";s:7:"user_id";s:5:"17091";}
+2016-08-01T17:03:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:4:"9725";}
+2016-08-01T17:26:21-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17000";}
+2016-08-01T17:39:11-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Erik Sorenson";s:7:"user_id";s:5:"17091";}
+2016-08-01T17:39:12-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:4:"Erik";s:7:"user_id";s:5:"17091";}
+2016-08-01T17:41:28-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"573-569-3415";s:7:"user_id";s:5:"17087";}
+2016-08-01T17:48:38-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:117:"$12 per unit for 100. He asked about PL, told him it was $0.50 per unit, and the kit is $11 each if you purchase 1000";s:7:"user_id";s:5:"17040";}
+2016-08-01T17:50:33-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"573-569-3415";s:7:"user_id";s:5:"17087";}
+2016-08-01T17:51:05-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:9:"DUPLICATE";s:7:"user_id";s:5:"14576";}

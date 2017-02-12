@@ -1,0 +1,80 @@
+2016-05-11T08:07:41-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"207-219-1111";s:7:"user_id";s:5:"12546";}
+2016-05-11T08:07:51-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:22:"christina@lushglow.com";s:7:"user_id";s:5:"12546";}
+2016-05-11T08:09:37-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Christina Marcus";s:7:"user_id";s:5:"12546";}
+2016-05-11T09:16:48-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16318";}
+2016-05-11T09:24:56-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16318";}
+2016-05-11T09:29:46-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"502-742-4928";s:7:"user_id";s:5:"16284";}
+2016-05-11T09:47:00-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16259";}
+2016-05-11T09:47:55-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16257";}
+2016-05-11T09:53:28-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:17:"Definitions Salon";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"561-755-3317";s:6:"source";N;s:9:"firstname";s:8:"Angelica";s:8:"lastname";s:6:"Menjia";s:12:"contactphone";s:12:"561-755-3317";s:5:"email";s:19:"aleon5555@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8011bc68510911c8c8d7659350791f9b6ceba7c2";s:8:"username";s:17:"Definitions Salon";s:12:"created_time";s:19:"2016-05-11 09:53:28";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"f01761a9b63b45a13aea21560764066a";}
+2016-05-11T09:53:37-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16338";}
+2016-05-11T09:57:46-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:15:"Debbie Kirchner";s:7:"user_id";s:5:"16104";}
+2016-05-11T09:59:13-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:15:"Debbie Kirchner";s:7:"user_id";s:5:"16104";}
+2016-05-11T10:01:24-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:54:"http://www.yelp.com/biz/definitions-salon-forest-hills";s:7:"user_id";s:5:"16338";}
+2016-05-11T10:06:33-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:14:"Koya (Saqouya)";s:7:"user_id";s:5:"16254";}
+2016-05-11T10:15:03-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16242";}
+2016-05-11T10:29:58-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"1124 County Rd 455";s:7:"user_id";s:5:"13205";}
+2016-05-11T10:30:03-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:6:"lanett";s:7:"user_id";s:5:"13205";}
+2016-05-11T10:30:11-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"36863";s:7:"user_id";s:5:"13205";}
+2016-05-11T10:39:14-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:13:"Tashara Lewis";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:18:"1504 August Circle";s:8:"address2";s:0:"";s:4:"city";s:10:"Bermingham";s:5:"state";s:2:"AL";s:3:"zip";s:5:"35215";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"205-914-9972";s:6:"source";s:8:"Referred";s:9:"firstname";s:7:"Tashara";s:8:"lastname";s:5:"Lewis";s:12:"contactphone";s:12:"205-914-9972";s:5:"email";s:19:"tasharavl@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:6:"Active";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:16:"Yvette Jefferson";s:4:"type";s:7:"Account";s:8:"password";s:40:"613798e14929f724266e0c2383e83290c1545132";s:8:"username";s:13:"Tashara Lewis";s:12:"created_time";s:19:"2016-05-11 10:39:14";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"aafa38f5b69689a0ee6ee98bede80103";}
+2016-05-11T11:38:06-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"808-387-9867";s:7:"user_id";s:5:"16334";}
+2016-05-11T11:40:55-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16334";}
+2016-05-11T11:41:38-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"808-387-9867";s:7:"user_id";s:5:"16334";}
+2016-05-11T12:08:04-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Omar";s:7:"user_id";s:5:"16334";}
+2016-05-11T12:08:09-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Dr. Omar Khan";s:7:"user_id";s:5:"16334";}
+2016-05-11T12:08:13-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Dr. Omar Khan";s:7:"user_id";s:5:"16334";}
+2016-05-11T12:08:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16334";}
+2016-05-11T12:18:06-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:5:"Devin";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"WV";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"304-419-1112";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Devin";s:8:"lastname";s:7:"Edwards";s:12:"contactphone";s:12:"304-419-1112";s:5:"email";s:23:"devinaedwards@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"63e26a5b0130ee1b56822986769fc93ce67caefa";s:8:"username";s:5:"Devin";s:12:"created_time";s:19:"2016-05-11 12:18:06";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"05c892a5deb9ee8e7686d2e751fa4fdd";}
+2016-05-11T12:25:26-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:12:"The Elements";s:7:"user_id";s:5:"10545";}
+2016-05-11T12:30:03-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16171";}
+2016-05-11T12:35:04-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"12011";}
+2016-05-11T13:49:34-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"9608";}
+2016-05-11T14:20:11-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:4:"4130";s:7:"user_id";s:4:"3075";}
+2016-05-11T14:27:41-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16307";}
+2016-05-11T14:32:14-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"16307";}
+2016-05-11T14:36:00-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"businessphone";s:12:"267-342-2875";s:7:"user_id";s:5:"16104";}
+2016-05-11T14:38:49-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"267-342-2875";s:7:"user_id";s:5:"16104";}
+2016-05-11T14:41:14-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16307";}
+2016-05-11T14:45:40-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16340";}
+2016-05-11T14:53:52-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:11:"269-5998135";s:7:"user_id";s:4:"9564";}
+2016-05-11T14:53:56-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"269-599-8135";s:7:"user_id";s:4:"9564";}
+2016-05-11T15:01:36-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:137:"LOS ANGELES
+9601 Jefferson Blvd Ste. A, Culver City, CA 90232 310.558.1188
+
+NEW YORK
+175 Varick Street, 5th FL, New York, NY 646.564.3124";s:7:"user_id";s:5:"16296";}
+2016-05-11T15:03:39-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16102";}
+2016-05-11T15:03:57-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16101";}
+2016-05-11T15:12:03-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"contactphone";s:12:"717-233-3937";s:7:"user_id";s:4:"1164";}
+2016-05-11T15:33:19-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16031";}
+2016-05-11T15:59:54-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:16:"Jessica McDonald";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:3:"VIC";s:3:"zip";s:0:"";s:7:"country";s:2:"AU";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:7:"Jessica";s:8:"lastname";s:8:"Mcdonald";s:12:"contactphone";s:14:"61 430 512 130";s:5:"email";s:24:"mcdonald2011@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5740a74c8b1a2529ffbf66c58c077255f899f031";s:8:"username";s:16:"Jessica McDonald";s:12:"created_time";s:19:"2016-05-11 15:59:54";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c7dbe7f31e23e64a199fceae0516adca";}
+2016-05-11T16:01:26-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15945";}
+2016-05-11T16:02:02-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15938";}
+2016-05-11T16:10:35-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15902";}
+2016-05-11T16:10:39-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15902";}
+2016-05-11T16:13:27-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15896";}
+2016-05-11T16:13:31-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15896";}
+2016-05-11T16:15:38-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15896";}
+2016-05-11T16:17:30-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15895";}
+2016-05-11T16:22:19-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15886";}
+2016-05-11T16:24:05-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15882";}
+2016-05-11T16:24:50-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15875";}
+2016-05-11T16:27:30-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15873";}
+2016-05-11T16:30:11-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15864";}
+2016-05-11T16:30:22-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15861";}
+2016-05-11T16:33:55-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:63:"https://www.facebook.com/jessmcdonaldbeauty50/info?tab=overview";s:7:"user_id";s:5:"16341";}
+2016-05-11T16:34:10-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15861";}
+2016-05-11T16:35:33-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:35:"Jess' Beauty & Make Up Beauty Salon";s:7:"user_id";s:5:"16341";}
+2016-05-11T16:36:21-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15803";}
+2016-05-11T16:38:12-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"50 Forest Street ";s:7:"user_id";s:5:"16341";}
+2016-05-11T16:38:27-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Whittlesea";s:7:"user_id";s:5:"16341";}
+2016-05-11T16:38:29-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"3757 ";s:7:"user_id";s:5:"16341";}
+2016-05-11T16:40:10-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:24:"61 418 572 502 - Husband";s:7:"user_id";s:5:"16341";}
+2016-05-11T16:40:39-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16341";}
+2016-05-11T16:40:58-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15797";}
+2016-05-11T16:41:30-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15787";}
+2016-05-11T16:46:41-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15784";}
+2016-05-11T16:51:47-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15780";}
+2016-05-11T16:56:00-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15772";}
+2016-05-11T16:56:07-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15765";}
+2016-05-11T17:52:43-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:17:"L Touch Skin Care";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:11:"Los Angeles";s:5:"state";s:2:"AL";s:3:"zip";s:5:"90005";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"213-304-2525";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Hannah";s:8:"lastname";s:4:"Jung";s:12:"contactphone";s:0:"";s:5:"email";s:23:"hannahjung310@gmail.com";s:13:"contactphone2";s:12:"213-383-8998";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d89a93adbff35c6e136436a8ec56475ab888aa30";s:8:"username";s:17:"L Touch Skin Care";s:12:"created_time";s:19:"2016-05-11 17:52:43";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"7a63d699c9b6928974ff1d2131d28de8";}

@@ -1,0 +1,36 @@
+2015-10-22T08:41:19-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14442";}
+2015-10-22T08:41:40-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"508-317-8709";s:7:"user_id";s:5:"14442";}
+2015-10-22T09:25:02-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"10990 NE 80th St";s:7:"user_id";s:5:"14283";}
+2015-10-22T09:25:07-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Bronson";s:7:"user_id";s:5:"14283";}
+2015-10-22T09:25:15-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"32621";s:7:"user_id";s:5:"14283";}
+2015-10-22T09:49:47-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:17:"info@jeune.net.au";s:7:"user_id";s:5:"14443";}
+2015-10-22T09:50:10-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"14443";}
+2015-10-22T09:50:44-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:26:"mblandfort@optusnet.com.au";s:7:"user_id";s:4:"1987";}
+2015-10-22T09:51:17-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:12:"177 Union Rd";s:7:"user_id";s:4:"1987";}
+2015-10-22T09:52:23-07:00 INFO (6): Brian Radke--a:2:{s:13:"contactphone2";s:11:"61393701997";s:7:"user_id";s:4:"1987";}
+2015-10-22T10:05:16-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"9333 Research blvd";s:7:"user_id";s:5:"12098";}
+2015-10-22T10:05:25-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"ste 200.5";s:7:"user_id";s:5:"12098";}
+2015-10-22T10:05:29-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:6:"Austin";s:7:"user_id";s:5:"12098";}
+2015-10-22T10:05:39-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"78759";s:7:"user_id";s:5:"12098";}
+2015-10-22T10:05:44-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12098";}
+2015-10-22T10:16:20-07:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:5:"Fludd";s:7:"user_id";s:5:"12538";}
+2015-10-22T10:16:28-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:13:"Jasmine Fludd";s:7:"user_id";s:5:"12538";}
+2015-10-22T10:16:31-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12538";}
+2015-10-22T10:37:34-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14407";}
+2015-10-22T11:01:36-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14443";}
+2015-10-22T11:08:06-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:204:"This guy lives in Montreal for 6 months of the year and the rest of the time In Africa. He is looking for equipment to be shipped to Montreal but plans to do TW in Africa. He will be going back in 6 mos. ";s:7:"user_id";s:5:"14443";}
+2015-10-22T11:17:23-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:9:"Kim Gains";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"VA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Kim";s:8:"lastname";s:5:"Gains";s:12:"contactphone";s:12:"804-728-2319";s:5:"email";s:20:"kimgains68@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"7098cce81c89a8643dfe5c24c3b7d01dd37b93b5";s:8:"username";s:9:"Kim Gains";s:12:"created_time";s:19:"2015-10-22 11:17:23";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"4bdc422539835cf820f551e27f17c19e";}
+2015-10-22T11:18:11-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:123:"Kim runs a wellness center and is interested in offering teeth whitening in one of the back rooms. Seems very cost driven. ";s:7:"user_id";s:5:"14448";}
+2015-10-22T11:26:47-07:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:19:"crmclaser@gmail.com";s:7:"user_id";s:3:"307";}
+2015-10-22T11:39:53-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12747";}
+2015-10-22T12:45:06-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address2";s:8:"Apt 423A";s:7:"user_id";s:5:"11167";}
+2015-10-22T13:07:33-07:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:11:"Kansas City";s:7:"user_id";s:5:"14151";}
+2015-10-22T16:22:34-07:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:72:"TWT, PER CORY 25% HP PENS $8, GINGIVAL BARRIER $5 - NO FURTHER DISCOUNTS";s:7:"user_id";s:4:"2237";}
+2015-10-22T16:23:19-07:00 INFO (6): Windy Jenkins--a:2:{s:7:"country";s:2:"GI";s:7:"user_id";s:4:"9884";}
+2015-10-22T17:43:23-07:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:127:"CONTACT: LOYRA CORONEL. ALWAYS USE AMEX ENDING IN **2000 UNLESS CUSTOMER CHANGES!!! WE HAVE MESSED UP HER LAST 2 ORDERS RE:PYMT";s:7:"user_id";s:4:"1903";}
+2015-10-22T17:45:20-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:5:"Terri";s:7:"user_id";s:5:"14447";}
+2015-10-22T17:45:26-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Terri Ikerd";s:7:"user_id";s:5:"14447";}
+2015-10-22T17:45:29-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Terri Ikerd";s:7:"user_id";s:5:"14447";}
+2015-10-22T17:45:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"14447";}
+2015-10-22T17:45:36-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"14447";}
+2015-10-22T17:47:30-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14447";}

@@ -1,0 +1,27 @@
+2016-04-01T09:47:06-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:4:"7517";}
+2016-04-01T09:47:32-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"7517";}
+2016-04-01T09:57:49-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"905-832-9575";s:7:"user_id";s:5:"15441";}
+2016-04-01T11:20:47-07:00 INFO (6): Brian Radke--a:2:{s:13:"contactphone2";s:12:"315-681-7025";s:7:"user_id";s:5:"16000";}
+2016-04-01T11:34:51-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"321-295-9433";s:7:"user_id";s:5:"16005";}
+2016-04-01T11:35:21-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16005";}
+2016-04-01T11:41:23-07:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:16:"Keysha  (Kaysha)";s:7:"user_id";s:5:"16005";}
+2016-04-01T11:43:37-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:16:"8842 Fox Circle ";s:7:"user_id";s:4:"7517";}
+2016-04-01T11:43:42-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:327:"Has a salon offering waxing and ????? (got really muffled). Says she worked somewhere in the past that offered teeth whitening and knows there is demand. She has had a few customers ask about it. Interested in option 2, asked for a quote to share with her partner. Would like a call back on 4/5 if we don't hear from her first.";s:7:"user_id";s:5:"16005";}
+2016-04-01T11:43:47-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16005";}
+2016-04-01T11:44:11-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Perry Hall";s:7:"user_id";s:4:"7517";}
+2016-04-01T11:44:13-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"ME";s:7:"user_id";s:4:"7517";}
+2016-04-01T11:44:20-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"MD";s:7:"user_id";s:4:"7517";}
+2016-04-01T11:44:22-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"21128";s:7:"user_id";s:4:"7517";}
+2016-04-01T11:51:22-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15897";}
+2016-04-01T12:06:41-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:150:"Has a hair salon with an extra chair and a couple extra rooms in the back. She is interested in adding something in the next week. Will follow up 4/5.";s:7:"user_id";s:5:"16000";}
+2016-04-01T12:06:51-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16000";}
+2016-04-01T12:06:55-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16000";}
+2016-04-01T13:59:29-07:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:15:"Daniels - Guest";s:7:"user_id";s:5:"14708";}
+2016-04-01T14:23:20-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:17:"Chuck and Colleen";s:7:"user_id";s:5:"12583";}
+2016-04-01T15:00:57-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15962";}
+2016-04-01T15:31:07-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"604-615-6264";s:7:"user_id";s:4:"1076";}
+2016-04-01T15:38:02-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16000";}
+2016-04-01T15:38:09-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16000";}
+2016-04-01T17:09:22-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:25:"1445 Sun King Road Unit D";s:7:"user_id";s:5:"15962";}
+2016-04-01T17:09:33-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"92126";s:7:"user_id";s:5:"15962";}
+2016-04-01T17:21:54-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:34:"Maria Consuelo Castaneda Castaneda";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:5:"Miami";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:14:"Maria Consuelo";s:8:"lastname";s:19:"Castaneda Castaneda";s:12:"contactphone";s:12:"786-267-2963";s:5:"email";s:24:"mariamiamiC3@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"cbe502dd6c04c558d7a2a2770cb7d1279e590429";s:8:"username";s:34:"Maria Consuelo Castaneda Castaneda";s:12:"created_time";s:19:"2016-04-01 17:21:54";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"bdc2978c7e688cb6a6de490a55c640fa";}

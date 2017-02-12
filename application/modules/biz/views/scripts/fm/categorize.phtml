@@ -1,0 +1,108 @@
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Categorize Files</h1>
+    </div>
+</div>
+
+    
+ 
+<form action="/biz/fm/save-category" name="save_files" id="save_files" method="post">
+
+    <?foreach ($this->files as $i => $file) :?>
+  <div class="row">  
+    <!--div class="container"-->
+     <div class="col-sm-1">
+        <div class="span1">
+            <div class="file_number">
+                <p><?php echo $i + 1; ?></p>
+            </div>
+        </div>
+     </div>
+     <div class="col-lg-5">
+       
+                <div class="row-fluid">
+                    <div class="span6 file_data">
+                        <div class="row-fluid">
+                            <div class="span12">
+                                <h3>File information</h3>
+                                <p class="on_disc_name"> <?=$file['url']?> </p>
+                                <input type="hidden" value="<?=$file['id']?>" name="file[<?= $i?>][id]">
+                              
+                                 <?
+                                    $ext = strrpos($file['url'], '.');                                    
+                                    $fileTitle = substr($file['url'], 0, $ext);
+                                 ?>
+                                <label>Title</label>
+                                <input class="form-control" type="text" placeholder="Enter here the required file title." value="<?= $file['title']?>" name="file[<?= $i?>][title]">
+                                
+                                <label>Category</label>
+                                <select class="form-control" name="file[<?= $i?>][category]">
+                                    <option value=""></option>
+                                    <?foreach($this->categories as $category): ?>                       
+                            <option value="<?= $category['category_id']?>"   <? echo !empty($category['children'])?"disabled=''":'' ?>><?= $category['name']?></option>
+                            <?if(!empty($category['children'])):?>
+                                <?foreach($category['children'] as $children):?>
+                                    <option value="<?= $children['category_id']?>" >&nbsp;&nbsp;&nbsp;<?= $children['name'] ?></option>
+                                <?endforeach;?>
+                            <?endif;?>
+                        <?endforeach;?>
+                                    
+                                </select>
+                                
+                                <label>Description</label>
+                             
+                                <textarea class="form-control" placeholder="Optionally, enter here a description for the file." name="file[<?= $i?>][description]"></textarea>
+                            </div>
+                          </div>
+                    
+                     <!--div class="span6 file_data">
+                          <div class="row-fluid">
+                            <div class="span12">
+                                <h3>Category Information</h3>                                
+                                
+                                <label>Category</label>
+                                <select class="form-control">
+                                    <option value=""></option>
+                                <?foreach($this->categories as $category):?>
+                                    <option value="<?= $category['id'] ?>"><?= $category['name']?></option>
+                                <?endforeach;?>
+                                </select>
+                            </div>                            
+                        </div>
+                    </div-->
+                </div>
+            </div>
+                   
+            
+     </div>    
+    </div> <!-- container -->
+    <?endforeach;?>
+
+<div class="col-lg-5 text-center">
+    <input type="hidden" name="upload_failed" value="" />
+    <button type="submit" name="submit" class="btn btn-wide btn-primary" id="upload-continue">Continue</button>
+</form>
+</div>
+
+
+<script src="/public/js/jquery.validations.js"></script>   
+
+<script type="text/javascript">
+                        $(document).ready(function() {
+                                $("#save_files").submit(function() {
+                                        clean_form(this);
+                                      
+                                        $(this).find('input[name$="[title]"]').each(function() {	
+                                                is_complete($(this)[0],'Title is required');
+                                        });
+                                        
+                                         $(this).find('select[name$="[category]"]').each(function() {	
+                                                is_complete($(this)[0],'Category is required');
+                                        });
+
+                                        // show the errors or continue if everything is ok
+                                        if (show_form_errors() == false) { return false; }
+
+                                });
+                        });
+</script>

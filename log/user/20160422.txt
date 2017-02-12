@@ -1,0 +1,43 @@
+2016-04-22T08:26:42-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:25:"780-953-7007 - Chris Cell";s:7:"user_id";s:5:"15749";}
+2016-04-22T09:34:56-07:00 INFO (6): Stephanie Brown--a:2:{s:9:"firstname";s:7:"Krystal";s:7:"user_id";s:4:"2084";}
+2016-04-22T10:43:49-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"407-271-6496";s:7:"user_id";s:5:"16183";}
+2016-04-22T10:44:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"801-690-1335";s:7:"user_id";s:5:"16182";}
+2016-04-22T10:45:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Daniela";s:7:"user_id";s:5:"16182";}
+2016-04-22T10:45:10-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Daniela Salas";s:7:"user_id";s:5:"16182";}
+2016-04-22T10:45:12-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Daniela Salas";s:7:"user_id";s:5:"16182";}
+2016-04-22T11:04:37-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16183";}
+2016-04-22T11:16:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16182";}
+2016-04-22T11:28:59-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:24:"bodyglamourart@gmail.com";s:7:"user_id";s:5:"15417";}
+2016-04-22T11:41:19-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:22:"contact@contegospa.com";s:7:"user_id";s:5:"15423";}
+2016-04-22T11:49:37-07:00 INFO (6): Alison Duff--a:2:{s:13:"businessphone";s:12:"786-210-6470";s:7:"user_id";s:5:"15997";}
+2016-04-22T11:50:01-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"786-210-6470";s:7:"user_id";s:5:"15997";}
+2016-04-22T12:19:32-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16182";}
+2016-04-22T12:21:22-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:11:"Jorge Lopez";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:5:"Jorge";s:8:"lastname";s:5:"Lopez";s:12:"contactphone";s:12:"407-497-9205";s:5:"email";s:24:"lopezajorge.09@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1a2a4e3130a19ec484318ab3ab7a6af39e4b3a6d";s:8:"username";s:11:"Jorge Lopez";s:12:"created_time";s:19:"2016-04-22 12:21:21";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"bff3664f0a8008a56847218a3f77d237";}
+2016-04-22T12:24:34-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:16:"Stephanie Bowman";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"LA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:9:"Stephanie";s:8:"lastname";s:6:"Bowman";s:12:"contactphone";s:0:"";s:5:"email";s:23:"stephbowman33@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1d4b431bf0c2ac323c868b04bbdaf780cd0375b9";s:8:"username";s:16:"Stephanie Bowman";s:12:"created_time";s:19:"2016-04-22 12:24:34";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"b7995a8a71efcf9b23888cbbf1770f9e";}
+2016-04-22T12:25:14-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"7248 Perkins Rd";s:7:"user_id";s:5:"16186";}
+2016-04-22T12:25:20-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:7:"suite G";s:7:"user_id";s:5:"16186";}
+2016-04-22T12:25:32-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:11:"Baton Rouge";s:7:"user_id";s:5:"16186";}
+2016-04-22T12:26:14-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"70808";s:7:"user_id";s:5:"16186";}
+2016-04-22T12:26:36-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"32824";s:7:"user_id";s:5:"16185";}
+2016-04-22T12:42:31-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16185";}
+2016-04-22T12:47:39-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"225-769-0081";s:7:"user_id";s:5:"16186";}
+2016-04-22T12:47:53-07:00 INFO (6): Brian Radke--a:2:{s:13:"businessphone";s:12:"225-769-0081";s:7:"user_id";s:5:"16186";}
+2016-04-22T12:51:39-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:24:"Hussain Akbarali Pricing";s:7:"user_id";s:5:"16186";}
+2016-04-22T12:53:03-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16186";}
+2016-04-22T14:04:15-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:22:"702promoters@gmail.com";s:7:"user_id";s:4:"2651";}
+2016-04-22T14:34:24-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:15:"Jorge and Maria";s:7:"user_id";s:5:"16185";}
+2016-04-22T14:34:44-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:19:"Maria: 407-271-6496";s:7:"user_id";s:5:"16185";}
+2016-04-22T14:34:56-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:20:"maria.jj17@gmail.com";s:7:"user_id";s:5:"16185";}
+2016-04-22T14:35:18-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:7:"Orlando";s:7:"user_id";s:5:"16185";}
+2016-04-22T14:42:07-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:15:"Jorge and Maria";s:7:"user_id";s:5:"16183";}
+2016-04-22T14:42:24-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:18:"Jorge 407-497-9205";s:7:"user_id";s:5:"16183";}
+2016-04-22T14:42:33-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:24:"lopezajorge.09@gmail.com";s:7:"user_id";s:5:"16183";}
+2016-04-22T14:42:55-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"32824";s:7:"user_id";s:5:"16183";}
+2016-04-22T14:48:30-07:00 INFO (6): Alison Duff--a:2:{s:12:"businesstype";s:10:"Individual";s:7:"user_id";s:5:"16183";}
+2016-04-22T15:44:07-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16034";}
+2016-04-22T16:29:39-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14362";}
+2016-04-22T16:31:41-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14997";}
+2016-04-22T16:55:49-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14997";}
+2016-04-22T17:51:00-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16142";}
+2016-04-22T17:52:45-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"704-449-7340";s:7:"user_id";s:5:"16187";}
+2016-04-22T17:53:15-07:00 INFO (6): Brian Radke--a:2:{s:13:"contactphone2";s:12:"980-255-2952";s:7:"user_id";s:5:"16187";}

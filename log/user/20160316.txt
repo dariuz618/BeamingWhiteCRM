@@ -1,0 +1,47 @@
+2016-03-16T09:52:44-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:19:"Planet Beach TX0042";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"903-581-1099";s:6:"source";s:5:"Other";s:9:"firstname";s:2:"Ty";s:8:"lastname";s:9:"Rodebaugh";s:12:"contactphone";s:12:"903-581-1099";s:5:"email";s:21:"tyriffic419@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:12:"Planet Beach";s:4:"type";s:7:"Account";s:8:"password";s:40:"f9bd3397d447cdf4c3017e8cf42a82725d0085a7";s:8:"username";s:19:"Planet Beach TX0042";s:12:"created_time";s:19:"2016-03-16 09:52:44";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"e1439bd5185b8943f5ed0446c0234295";}
+2016-03-16T09:53:00-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"713 WSW Loop 373";s:7:"user_id";s:5:"15858";}
+2016-03-16T09:53:06-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:7:"suite D";s:7:"user_id";s:5:"15858";}
+2016-03-16T09:53:11-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:5:"Tyler";s:7:"user_id";s:5:"15858";}
+2016-03-16T09:53:17-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"75701";s:7:"user_id";s:5:"15858";}
+2016-03-16T10:12:49-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"6605 N. Navarro";s:7:"user_id";s:5:"14633";}
+2016-03-16T10:13:04-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:7:"suite C";s:7:"user_id";s:5:"14633";}
+2016-03-16T10:21:00-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:23:"endlesssuntan@yahoo.com";s:7:"user_id";s:5:"14633";}
+2016-03-16T10:22:00-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:20:"tyrific419@gmail.com";s:7:"user_id";s:5:"15858";}
+2016-03-16T10:24:28-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:21:"tyerific419@gmail.com";s:7:"user_id";s:5:"15858";}
+2016-03-16T10:37:57-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"79703";s:7:"user_id";s:5:"15778";}
+2016-03-16T10:43:26-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15822";}
+2016-03-16T10:43:27-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15822";}
+2016-03-16T10:43:32-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15822";}
+2016-03-16T10:43:48-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15822";}
+2016-03-16T10:44:42-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:15:"amf91@yahoo.com";s:7:"user_id";s:5:"15822";}
+2016-03-16T10:45:22-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15822";}
+2016-03-16T11:27:20-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:7:"Raykida";s:7:"user_id";s:5:"15777";}
+2016-03-16T11:27:33-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"15777";}
+2016-03-16T11:33:16-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:13:"Ron and Jakki";s:7:"user_id";s:5:"15806";}
+2016-03-16T11:47:05-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"516-627-0722";s:7:"user_id";s:5:"15855";}
+2016-03-16T11:49:05-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"916-223-5161";s:7:"user_id";s:5:"15859";}
+2016-03-16T14:33:55-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:17:"jakki@piersun.com";s:7:"user_id";s:5:"15806";}
+2016-03-16T14:41:58-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"1129 North Blvd";s:7:"user_id";s:5:"15855";}
+2016-03-16T14:42:04-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 301";s:7:"user_id";s:5:"15855";}
+2016-03-16T14:42:09-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"11030";s:7:"user_id";s:5:"15855";}
+2016-03-16T14:42:31-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:9:"Manhasset";s:7:"user_id";s:5:"15855";}
+2016-03-16T14:42:38-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"1129 Northern Blvd";s:7:"user_id";s:5:"15855";}
+2016-03-16T14:42:57-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15855";}
+2016-03-16T15:47:15-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:4:"6714";s:7:"user_id";s:5:"15752";}
+2016-03-16T16:25:04-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:12:"Kiang Dental";s:7:"user_id";s:5:"15856";}
+2016-03-16T16:28:35-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"215-487-2347";s:7:"user_id";s:5:"15863";}
+2016-03-16T16:41:49-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"407-960-4875";s:7:"user_id";s:5:"15865";}
+2016-03-16T16:57:14-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:8:"Kim Hill";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TN";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"901-496-6726";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Kim";s:8:"lastname";s:4:"Hill";s:12:"contactphone";s:12:"901-496-6726";s:5:"email";s:21:"kimhill2u@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"39fc2f8ed025e05f6360b9a51be8310972f5d20c";s:8:"username";s:8:"Kim Hill";s:12:"created_time";s:19:"2016-03-16 16:57:14";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"862486b90b9244f1873e7a23657159db";}
+2016-03-16T16:57:25-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:12:"Mink Lounge ";s:7:"user_id";s:5:"15866";}
+2016-03-16T16:57:50-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:14:"6-141-661-4047";s:7:"user_id";s:4:"2953";}
+2016-03-16T17:27:17-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"141 252 2220";s:7:"user_id";s:4:"2647";}
+2016-03-16T17:32:16-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:9:"Christian";s:7:"user_id";s:5:"13022";}
+2016-03-16T17:53:07-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:7:"Karnadi";s:7:"user_id";s:5:"12186";}
+2016-03-16T17:53:36-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:19:"kiangdent@gmail.com";s:7:"user_id";s:5:"12186";}
+2016-03-16T17:53:41-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:4:"kian";s:7:"user_id";s:5:"12186";}
+2016-03-16T17:56:05-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"15826";}
+2016-03-16T21:22:13-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15819";}
+2016-03-16T21:22:19-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15819";}
+2016-03-16T21:22:24-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Silvana";s:7:"user_id";s:5:"15819";}
+2016-03-16T21:22:29-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:17:"Silvana Rodriguez";s:7:"user_id";s:5:"15819";}
+2016-03-16T21:23:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Julio Rodriguez";s:7:"user_id";s:5:"15819";}

@@ -1,0 +1,102 @@
+2015-11-19T09:28:46-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:347:"EU kits with Sodium PerCarb, mouth trays, sponge sticks, and accelerator spray.
+
+EU Kits
+0 - 49 kits = $14 
+50 - 99 kits = $10 
+100 - 249 = $9 
+250 - 549 = $8
+550 + = $6
+Adv Kits = $5
+Adv Kit 25% $14
+
+XL Pens = $7
+Minerals Pens = $4 
+10ml syringe $3
+
+Lamps = $675
+Alm Case = $65
+
+Cheek Retractor = .75
+Perfectray = $1.50
+Sponge swab = $1
+Bib = .10";s:7:"user_id";s:4:"2953";}
+2015-11-19T09:28:56-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:348:"EU kits with Sodium PerCarb, mouth trays, sponge sticks, and accelerator spray.
+
+EU Kits
+0 - 49 kits = $14 
+50 - 99 kits = $10 
+100 - 249 = $9 
+250 - 549 = $8
+550 + = $6
+
+Adv Kits = $5
+Adv Kit 25% $14
+
+XL Pens = $7
+Minerals Pens = $4 
+10ml syringe $3
+
+Lamps = $675
+Alm Case = $65
+
+Cheek Retractor = .75
+Perfectray = $1.50
+Sponge swab = $1
+Bib = .10";s:7:"user_id";s:4:"2953";}
+2015-11-19T09:45:51-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14631";}
+2015-11-19T09:55:29-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"3190";}
+2015-11-19T10:01:29-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"910-813-7449";s:7:"user_id";s:5:"14679";}
+2015-11-19T10:02:06-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14679";}
+2015-11-19T10:09:45-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:13:"7111 Fm 2920 ";s:7:"user_id";s:5:"14679";}
+2015-11-19T10:09:50-08:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 125";s:7:"user_id";s:5:"14679";}
+2015-11-19T10:09:56-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"77379";s:7:"user_id";s:5:"14679";}
+2015-11-19T10:14:04-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:253:"Domonique has been in business on her own for 6 mos. Worked in a spa previously using Adv Kits. Has 10 people already asking to have their teeth whitened, says she will charge $90. Doesn't have the $$ right now but hopes to after her black friday sale. ";s:7:"user_id";s:5:"14679";}
+2015-11-19T10:19:18-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:17:"Bright Smiles 4 U";s:7:"user_id";s:5:"10273";}
+2015-11-19T10:19:58-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:18:"17270 Raintree Rd ";s:7:"user_id";s:5:"10273";}
+2015-11-19T10:20:11-08:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"33558";s:7:"user_id";s:5:"10273";}
+2015-11-19T10:20:27-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"10273";}
+2015-11-19T10:20:32-08:00 INFO (6): Windy Jenkins--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:5:"10273";}
+2015-11-19T10:20:40-08:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:4:"Lutz";s:7:"user_id";s:5:"10273";}
+2015-11-19T10:21:21-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:17:"Bright Smiles 4 U";s:7:"user_id";s:5:"10273";}
+2015-11-19T10:33:27-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14679";}
+2015-11-19T10:33:30-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14679";}
+2015-11-19T10:50:07-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:138:"Lives in AL but is less than a block from GA. Wants to start mobile and later open a salon in GA. Is interested in Mobile #2 with a chair.";s:7:"user_id";s:5:"13205";}
+2015-11-19T10:55:28-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"440-442-9273";s:7:"user_id";s:5:"14532";}
+2015-11-19T10:55:43-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"440-363-1195";s:7:"user_id";s:5:"14532";}
+2015-11-19T10:55:48-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:17:"440-363-1195 CELL";s:7:"user_id";s:5:"14532";}
+2015-11-19T13:22:11-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:29:"Prefers small blue retractors";s:7:"user_id";s:3:"622";}
+2015-11-19T13:52:11-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"210-328-7686";s:7:"user_id";s:4:"2137";}
+2015-11-19T14:05:03-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"504-495-3649";s:7:"user_id";s:5:"14677";}
+2015-11-19T14:06:07-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:21:"Micseanorna (Mishona)";s:7:"user_id";s:5:"14677";}
+2015-11-19T14:06:28-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Micseanorna";s:7:"user_id";s:5:"14677";}
+2015-11-19T14:06:34-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:20:"Micseanorna Kendrick";s:7:"user_id";s:5:"14677";}
+2015-11-19T14:06:37-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:20:"Micseanorna Kendrick";s:7:"user_id";s:5:"14677";}
+2015-11-19T14:18:16-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14677";}
+2015-11-19T14:18:19-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14677";}
+2015-11-19T14:18:46-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"404-992-8354";s:7:"user_id";s:5:"14681";}
+2015-11-19T14:31:55-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14681";}
+2015-11-19T14:31:58-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14681";}
+2015-11-19T14:32:00-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14681";}
+2015-11-19T14:32:03-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14681";}
+2015-11-19T14:48:14-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Brite Smiles 4 U";s:7:"user_id";s:5:"14532";}
+2015-11-19T14:50:59-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"803-718-4273";s:7:"user_id";s:5:"14684";}
+2015-11-19T14:54:53-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Cassandra ";s:7:"user_id";s:5:"14684";}
+2015-11-19T14:55:00-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Cassandra Brown";s:7:"user_id";s:5:"14684";}
+2015-11-19T14:55:02-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Cassandra Brown";s:7:"user_id";s:5:"14684";}
+2015-11-19T14:57:22-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14684";}
+2015-11-19T15:31:02-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:11:"Carol Jones";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:6:"Dallas";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Carol";s:8:"lastname";s:5:"Jones";s:12:"contactphone";s:0:"";s:5:"email";s:19:"elitecj@verizon.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"c845749f357d323e56c83b10cdf6b1764acb41bb";s:8:"username";s:11:"Carol Jones";s:12:"created_time";s:19:"2015-11-19 15:31:02";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"e50a6be817e588ed593f14f3567c037e";}
+2015-11-19T15:31:12-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14685";}
+2015-11-19T15:31:16-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14685";}
+2015-11-19T15:33:53-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:14:"(972) 781-8010";s:7:"user_id";s:5:"14685";}
+2015-11-19T15:33:56-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:14:"(972) 781-8010";s:7:"user_id";s:5:"14685";}
+2015-11-19T15:34:01-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"972-781-8010";s:7:"user_id";s:5:"14685";}
+2015-11-19T15:34:06-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"972-781-8010";s:7:"user_id";s:5:"14685";}
+2015-11-19T15:57:41-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"404-784-9858";s:7:"user_id";s:5:"14686";}
+2015-11-19T15:59:30-08:00 INFO (6): Erika Rose--a:2:{s:8:"interest";s:116:"I would like to offer teeth whitening at my spa salon.
+
+Does microneedling and inquired about private label as well.";s:7:"user_id";s:5:"14681";}
+2015-11-19T16:00:40-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14686";}
+2015-11-19T16:13:27-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:5:"Karen";s:7:"user_id";s:5:"14686";}
+2015-11-19T16:13:32-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Karen Barahona";s:7:"user_id";s:5:"14686";}
+2015-11-19T16:13:34-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Karen Barahona";s:7:"user_id";s:5:"14686";}
+2015-11-19T16:32:30-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14686";}

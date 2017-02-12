@@ -1,0 +1,55 @@
+.space {
+    margin-bottom: 10px;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 4px 6px;
+ }
+/* Dariuz Rubin */
+@media(min-width:1024px) {
+    .report-div{
+		width:12.5%;
+		float: left;
+	    padding: 10px;
+	    
+	}
+}
+@media(max-width:1023px) and (min-width:468px)  {
+    .report-div{
+		width:25%;
+		float: left;
+	    padding: 10px;
+	}
+}
+@media(max-width:467px) {
+    .report-div{
+		width:50%;
+		float: left;
+	    padding: 10px;
+	}
+}
+/*===============*/
+/*.selection{
+    border: none;
+}
+input {
+    width: 100px;
+}
+label {
+    font-weight: bold;
+    width: 100px;
+} 
+table.selection td {
+    border-left:none;
+    border-bottom: none;
+    padding: none;
+    vertical-align: middle;
+    text-align: left;
+}
+table.tablesorter tr >th, tr>td {
+    border-bottom: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    text-align: center;
+}
+table.tablesorter tfoot {
+    font-weight: bold;
+}*/

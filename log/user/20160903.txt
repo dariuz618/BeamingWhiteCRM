@@ -1,0 +1,159 @@
+2016-09-03T12:50:19-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17366";}
+2016-09-03T12:50:33-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"214-522-2802";s:7:"user_id";s:5:"17366";}
+2016-09-03T12:50:50-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:19:"214-769-9378 - CELL";s:7:"user_id";s:5:"17366";}
+2016-09-03T12:51:55-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17366";}
+2016-09-03T12:53:38-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17352";}
+2016-09-03T12:54:19-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17357";}
+2016-09-03T12:54:30-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17359";}
+2016-09-03T12:54:30-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17359";}
+2016-09-03T12:54:38-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17360";}
+2016-09-03T12:54:49-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17361";}
+2016-09-03T12:54:58-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17363";}
+2016-09-03T12:55:08-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17365";}
+2016-09-03T12:55:37-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17367";}
+2016-09-03T12:55:37-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17367";}
+2016-09-03T12:55:40-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17367";}
+2016-09-03T12:55:41-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17367";}
+2016-09-03T12:55:53-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17368";}
+2016-09-03T12:56:02-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17369";}
+2016-09-03T12:56:09-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17372";}
+2016-09-03T12:56:17-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17373";}
+2016-09-03T12:56:30-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17374";}
+2016-09-03T12:56:48-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17375";}
+2016-09-03T12:56:52-07:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"17375";}
+2016-09-03T12:56:53-07:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"17375";}
+2016-09-03T12:57:10-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17376";}
+2016-09-03T12:57:17-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17377";}
+2016-09-03T12:57:23-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17378";}
+2016-09-03T12:57:30-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17379";}
+2016-09-03T12:57:37-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17380";}
+2016-09-03T12:57:44-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17381";}
+2016-09-03T12:57:54-07:00 INFO (6): Erika Rose--a:2:{s:11:"source_text";s:22:"IBS/ICES New York 2016";s:7:"user_id";s:5:"17382";}
+2016-09-03T12:59:25-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"516-781-1111";s:7:"user_id";s:5:"17367";}
+2016-09-03T12:59:52-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:28:"http://www.bangzhairspa.com/";s:7:"user_id";s:5:"17367";}
+2016-09-03T13:02:09-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:23:"info@bangzhairspray.com";s:7:"user_id";s:5:"17367";}
+2016-09-03T13:02:21-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:21:"info@bangzhairspa.com";s:7:"user_id";s:5:"17367";}
+2016-09-03T13:04:31-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:18:"Richard & Danielle";s:7:"user_id";s:5:"17367";}
+2016-09-03T13:08:22-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17367";}
+2016-09-03T13:08:59-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"The Royal Hawiian";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:09:46-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:22:"http://www.khakra.com/";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:09:52-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:11:"808-6857600";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:09:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"808-685-7600";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:11:02-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:25:"Akiko is the spa manager
+";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:11:40-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:29:"2255 Kalakaua Ave., 4th Floor";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:12:07-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"96815";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:12:23-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"808-923-3775";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:12:37-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:19:"808-292-8883 - CELL";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:14:44-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:16:"akiko@abhasa.com";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:15:04-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:18:"http://abhasa.com/";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:16:26-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"17368";}
+2016-09-03T13:18:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17368";}
+2016-09-03T19:39:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15440";}
+2016-09-03T20:10:39-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"516-360-9748";s:7:"user_id";s:5:"17369";}
+2016-09-03T20:10:47-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"561-360-9748";s:7:"user_id";s:5:"17369";}
+2016-09-03T20:12:02-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:29:"http://phenixsalonsuites.com/";s:7:"user_id";s:5:"17369";}
+2016-09-03T20:16:30-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17369";}
+2016-09-03T20:18:19-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"956-536-1268";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:28:15-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:21:"2828 Greenbrair #1314";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:28:28-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Houston";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:28:45-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"77098";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:29:32-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"832-203-4714";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:30:27-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:24:"http://www.aoutlook.com/";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:31:14-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:15:"outaiba@163.com";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:31:42-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:11:"13926071378";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:34:03-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:119:"China Office: Guangzhou ST. YE Energy Saving Technology co., Ltd #69, Shui Yin Rd., Room 2902
+Guangzhou, 510000, China
+";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:36:57-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17372";}
+2016-09-03T21:37:32-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"787-899-6767";s:7:"user_id";s:5:"17373";}
+2016-09-03T21:38:20-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"Calle 65 Infanteria";s:7:"user_id";s:5:"17373";}
+2016-09-03T21:38:29-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:32:"Calle 65 Infanteria #43 Interior";s:7:"user_id";s:5:"17373";}
+2016-09-03T21:38:37-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:5:"Lejas";s:7:"user_id";s:5:"17373";}
+2016-09-03T21:44:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17373";}
+2016-09-03T21:44:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17373";}
+2016-09-03T21:45:43-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"604-306-9033";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:45:59-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:17:"604-306-9033 CELL";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:46:23-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"604-294-0003";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:46:27-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:18:"604-294-0003 Salon";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:46:31-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"604-294-0003";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:47:05-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:26:"Club Soleil Tanning Studio";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:48:32-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:27:"3701 E Hastings St, Burnaby";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:48:35-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"BC";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:48:36-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:7:"V5C 2H6";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:48:41-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"3701 E Hastings St";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:48:43-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Burnaby";s:7:"user_id";s:5:"17374";}
+2016-09-03T21:49:16-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:25:"http://www.clubsoleil.ca/";s:7:"user_id";s:5:"17374";}
+2016-09-03T22:28:29-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17374";}
+2016-09-03T22:28:37-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17374";}
+2016-09-03T22:33:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"804-325-3481";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:35:01-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:35:"http://www.glamnaturalbeauties.com/";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:38:54-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:41:"6010 West Broad Street, Ste 206A Richmond";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:39:01-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"VA";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:39:09-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:32:"6010 West Broad Street, Ste 206A";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:39:10-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:8:"Richmond";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:39:21-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"804-350-5824";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:42:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:42:36-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17375";}
+2016-09-03T22:43:03-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Tropical Beach";s:7:"user_id";s:5:"17376";}
+2016-09-03T22:43:08-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:28:"Tropical Beach Tanning Salon";s:7:"user_id";s:5:"17376";}
+2016-09-03T22:46:31-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:37:"266F Shoe Factory Rd, Blairsville, GA";s:7:"user_id";s:5:"17376";}
+2016-09-03T22:46:33-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"30512";s:7:"user_id";s:5:"17376";}
+2016-09-03T22:46:41-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:21:"266F Shoe Factory Rd.";s:7:"user_id";s:5:"17376";}
+2016-09-03T22:46:43-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:"Blairsville";s:7:"user_id";s:5:"17376";}
+2016-09-03T22:47:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"706-897-6347";s:7:"user_id";s:5:"17376";}
+2016-09-03T22:52:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17376";}
+2016-09-03T23:00:52-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:28:"Ashley is a master colorist.";s:7:"user_id";s:5:"17377";}
+2016-09-03T23:03:09-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:31:"http://www.kairoshairsalon.com/";s:7:"user_id";s:5:"17377";}
+2016-09-03T23:04:13-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"11618 N Kendall Dr";s:7:"user_id";s:5:"17377";}
+2016-09-03T23:04:19-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:5:"Miami";s:7:"user_id";s:5:"17377";}
+2016-09-03T23:04:24-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"33176";s:7:"user_id";s:5:"17377";}
+2016-09-03T23:05:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17377";}
+2016-09-03T23:08:54-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:21:"Timothy is the owner.";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:09:05-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"386-760-6299";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:09:28-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"386-760-4299";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:10:01-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:31:"http://remedyspapelicanbay.com/";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:11:24-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:17:"remedyspa@att.net";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:12:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:48:"Pelican Bay 1118 Pelican Bay Drive Daytona Beach";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:12:08-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"32119";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:12:19-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:35:"Pelican Bay 1118 Pelican Bay Drive ";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:12:21-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:13:"Daytona Beach";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:14:09-07:00 INFO (6): Erika Rose--a:2:{s:6:"soldby";s:6:"Cliona";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:14:40-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17378";}
+2016-09-03T23:16:37-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:32:"Brenda is the owner and stylist.";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:17:09-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:31:"http://www.brentallansalon.net/";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:17:59-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:58:" ​ Brent Allan Salon & Day Spa Cocoa Blvd Cocoa FL 32926";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:18:01-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:7:"3570 N ";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:18:13-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:33:" ​ Brent Allan Salon & Day Spa ";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:18:16-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:32:"3570 N Cocoa Blvd Cocoa FL 32926";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:18:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:27:"3570 N Cocoa Blvd Cocoa FL ";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:18:32-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"32926";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:18:39-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"3570 N Cocoa Blvd ";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:18:41-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:5:"Cocoa";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:18:58-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"321-639-7376";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:19:21-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:25:"brentallansalon@yahoo.com";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:22:06-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17379";}
+2016-09-03T23:25:20-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:16:"www.vegazest.com";s:7:"user_id";s:5:"17380";}
+2016-09-03T23:26:21-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"129 Old Evans Rd.";s:7:"user_id";s:5:"17380";}
+2016-09-03T23:26:34-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:8:"Martinez";s:7:"user_id";s:5:"17380";}
+2016-09-03T23:26:42-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"30907";s:7:"user_id";s:5:"17380";}
+2016-09-03T23:27:25-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:17:"706-284-8112 Cell";s:7:"user_id";s:5:"17380";}
+2016-09-03T23:27:32-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"706.364.6993";s:7:"user_id";s:5:"17380";}
+2016-09-03T23:28:17-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17380";}
+2016-09-03T23:30:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"The laser lady";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:30:53-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"The Laser Lady";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:31:22-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:39:"The Laser Lady at N Balance Spa & Salon";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:31:50-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:56:"Cheryl is a certified medical electrologist esthetician
+";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:32:20-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:26:"http://nbalancestudio.com/";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:33:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:35:"N Balance Holistic Wellness Day Spa";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:33:59-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:34:"949 D-5 Beville Road South Daytona";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:34:01-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"32119";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:34:05-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:27:"949 D-5 Beville Road South ";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:34:07-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Daytona";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:34:30-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:21:"949 D-5 Beville Road ";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:34:34-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:13:"South Daytona";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:35:05-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"386-882-4671";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:35:46-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"386-852-4247";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:36:03-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"386-882-4671";s:7:"user_id";s:5:"17381";}
+2016-09-03T23:37:22-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17381";}

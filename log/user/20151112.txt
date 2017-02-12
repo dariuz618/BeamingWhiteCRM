@@ -1,0 +1,46 @@
+2015-11-12T08:26:47-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Crazy Love Studio";s:7:"user_id";s:3:"290";}
+2015-11-12T08:34:01-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:31:"http://www.crazylovestudio.com/";s:7:"user_id";s:3:"290";}
+2015-11-12T08:35:26-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:43:"Senza Sole' Spray Tanning & Teeth Whitening";s:7:"user_id";s:5:"14599";}
+2015-11-12T08:38:13-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:24:"jmitchell007@comcast.net";s:7:"user_id";s:5:"14599";}
+2015-11-12T09:00:53-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:25:"http://www.senzasole.com/";s:7:"user_id";s:5:"14599";}
+2015-11-12T09:01:43-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14586";}
+2015-11-12T09:02:58-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:16:"28 Greenwood Ave";s:7:"user_id";s:5:"14599";}
+2015-11-12T09:03:12-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:8:"Weymouth";s:7:"user_id";s:5:"14599";}
+2015-11-12T09:03:14-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"02189";s:7:"user_id";s:5:"14599";}
+2015-11-12T09:03:20-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"MA";s:7:"user_id";s:5:"14599";}
+2015-11-12T09:17:05-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14594";}
+2015-11-12T09:21:42-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"3408 Martin Street";s:7:"user_id";s:5:"14484";}
+2015-11-12T09:22:13-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:4:"3286";s:7:"user_id";s:5:"14484";}
+2015-11-12T09:22:18-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"32806";s:7:"user_id";s:5:"14484";}
+2015-11-12T09:23:01-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14594";}
+2015-11-12T10:47:52-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14599";}
+2015-11-12T11:09:40-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:32:"First Equipment Order 11/11/15.
+";s:7:"user_id";s:4:"2137";}
+2015-11-12T11:27:20-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:18:"info@senzasole.com";s:7:"user_id";s:5:"14599";}
+2015-11-12T11:28:34-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"14603";}
+2015-11-12T11:36:04-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14599";}
+2015-11-12T11:36:08-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14599";}
+2015-11-12T11:50:18-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14601";}
+2015-11-12T11:50:33-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11944";}
+2015-11-12T11:53:53-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"Unit 12, 5 Crag Rd";s:7:"user_id";s:5:"11944";}
+2015-11-12T11:54:05-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:9:"Batehaven";s:7:"user_id";s:5:"11944";}
+2015-11-12T11:54:08-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:3:"NSW";s:7:"user_id";s:5:"11944";}
+2015-11-12T11:54:15-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:4:"2536";s:7:"user_id";s:5:"11944";}
+2015-11-12T11:55:21-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:12:"TWT account ";s:7:"user_id";s:5:"10227";}
+2015-11-12T12:09:08-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:14:"+6142-461-4063";s:7:"user_id";s:5:"11944";}
+2015-11-12T12:29:33-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14525";}
+2015-11-12T14:11:17-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:7:"Barrett";s:7:"user_id";s:5:"10459";}
+2015-11-12T14:15:57-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:74:"8.6 For Glam White and 8.6.1 Generic Polishing Kit
+9POLISHING KIT BUILD #)";s:7:"user_id";s:4:"2401";}
+2015-11-12T14:46:05-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Eric Mucheru";s:7:"user_id";s:5:"14601";}
+2015-11-12T14:46:07-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Eric Mucheru";s:7:"user_id";s:5:"14601";}
+2015-11-12T15:05:49-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:11:"George Nehm";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AB";s:3:"zip";s:0:"";s:7:"country";s:2:"CA";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"George";s:8:"lastname";s:4:"Nehm";s:12:"contactphone";s:12:"613-709-2999";s:5:"email";s:17:"g_n.2233@yahoo.ca";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"f55f51649ae81c9f6187b83f6457d597e53f8f76";s:8:"username";s:11:"George Nehm";s:12:"created_time";s:19:"2015-11-12 15:05:49";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"c33971ab7d29f92f3b6410041ec2385a";}
+2015-11-12T15:06:16-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:86:"George is looking for a light for his wife. Sent him info on our lights and packages. ";s:7:"user_id";s:5:"14605";}
+2015-11-12T16:04:37-08:00 INFO (6): Windy Jenkins--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:4:"3190";}
+2015-11-12T16:07:10-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14584";}
+2015-11-12T16:09:54-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14584";}
+2015-11-12T16:28:26-08:00 INFO (6): Windy Jenkins--a:2:{s:5:"email";s:19:"bbianca97@yahoo.com";s:7:"user_id";s:4:"3190";}
+2015-11-12T16:33:05-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:15:"Vernis Nail Bar";s:7:"user_id";s:4:"3190";}
+2015-11-12T16:33:24-08:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:38:"Updated business name: Vernis Nail Bar";s:7:"user_id";s:4:"3190";}
+2015-11-12T17:27:22-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:235:"Has a salon offering everything but hair. Says they do mani/pedicures, massage, and 20 minute mini facials for $30. He has a chair and an empty room to set this up in. Said he was interested in the Premium salon package with 2 lights. ";s:7:"user_id";s:5:"14608";}
+2015-11-12T17:31:54-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14608";}

@@ -1,0 +1,378 @@
+<head>	
+    <link rel="stylesheet" type="text/css" href="/public/js/plugins/combobox/bootstrap-combobox.css">
+    <link rel="stylesheet" type="text/css" href="/public/js/plugins/fileinput/fileinput.min.css">
+    <script src="/public/js/plugins/combobox/bootstrap-combobox.js"></script>   
+    <script src="/public/js/plugins/fileinput/fileinput.min.js"></script>   
+</head>
+
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Update Inventory Order</h2>
+        <ol class="breadcrumb">            
+            <li><a href="/inventory/create-shipment">Create Shipment</a></li>
+            <li><a href="/inventory/create-order">Create Inventory Order</a></li>
+            <li><a href="/inventory/view">Inventory Orders</a></li> 
+             <li><a href="/inventory/stock">Current Inventory</a></li>
+            <li><a href="/inventory/shipments">Shipments</a></li>             
+            <li class="active">Update Inventory Order</li>
+        </ol>
+    </div>    
+</div>
+
+
+<div class="row">
+    <form class="form-horizontal" method="POST">
+    <div class="col-lg-8">
+        <span class="btn btn-warning view_order_log" id="<?= $this->order['id'] ?>">Order Change Log</span>
+        <span class="btn btn-success shipment_history" id="<?= $this->order['id'] ?>">Shipment History</span>
+        <span class="btn btn-success transaction_history" id="<?= $this->order['id'] ?>">Transaction History</span>
+        
+        <span class="btn btn-success create_box" id="<?= $this->order['id'] ?>">Boxes Info</span>
+        
+        <? if (isset($this->error)): ?>           
+            <div class="alert alert-danger alert-dismissable">
+                <a class="close" data-dismiss="alert" href="#">×</a>
+                <?= $this->error; ?>                             
+            </div>
+        <? endif; ?>
+
+        <? if (isset($this->message)): ?>           
+            <div class="alert alert-success alert-dismissable">
+                <a class="close" data-dismiss="alert" href="#">×</a>
+                <?= $this->message; ?>                             
+            </div>
+        <? endif; ?>
+        <br><br>
+    </div>
+    <div class="col-lg-6">
+    <div class="form-group">
+        <label for="orderId" class="col-sm-4 control-label">Order Id</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['id'] ?>"  disabled>
+        </div>
+    </div>
+        
+    <div class="form-group">
+        <label for="createdBy" class="col-sm-4 control-label">Created By</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['created_by'] ?>"  disabled>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="createdBy" class="col-sm-4 control-label">Order Created Time</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['created_time'] ?>"  disabled>
+        </div>
+    </div>
+        
+    <div class="form-group">
+        <label for="createdBy" class="col-sm-4 control-label required">Ordered For</label> 
+         <div class="col-sm-6">   
+            <select name="ordered_by" class="form-control">
+                <option value=""></option>
+                <? foreach ($this->orderBys as $orderBy): ?>
+                    <option value="<?= $orderBy ?>" <? echo isset($this->order['ordered_by']) && $this->order['ordered_by'] == $orderBy ? "selected='selected'" : '' ?>><?= $orderBy ?></option>
+                <? endforeach; ?>                 
+            </select>  
+         </div>
+    </div>
+        
+     <div class="form-group">
+        <label for="createdBy" class="col-sm-4 control-label required">Buyer</label> 
+         <div class="col-sm-6">   
+            <select name="buyer" class="form-control">
+                <option value=""></option>
+                <? foreach ($this->buyers as $buyer): ?>
+                    <option value="<?= $buyer ?>" <? echo isset($this->order['buyer']) && $this->order['buyer'] == $buyer ? "selected='selected'" : '' ?>><?= $buyer ?></option>
+                <? endforeach; ?>                 
+            </select>  
+         </div>
+    </div>
+   
+    <div class="form-group">
+        <label for="item" class="col-sm-4 control-label required">Item</label>   
+        <div class="col-sm-6">            
+            <!--input type="text" class="form-control" name="item" value = "<?= $this->order['item']?>" -->
+            <select name="item"  class="combobox form-control">
+                <option value=""></option>
+                <? foreach ($this->items as $item): ?> 
+                    <option value="<?= $item['itemNumber'] ?>|||<?= $item['name'] ?>" <?if($this->order['itemNumber'] == $item['itemNumber']) echo 'selected';?> ><?= $item['itemNumber'] ?> -- <?= $item['name'] ?></option>
+                <? endforeach; ?>                        
+            </select>
+        </div>
+    </div>
+   
+     <div class="form-group">
+             <label for="priority" class="col-sm-4 control-label">Priority</label>
+             <div class="col-sm-6">
+             <select name="priority"  class="form-control"> 
+                <option value="normal" <?if($this->order['priority'] == 'normal') echo 'selected';?>>Normal</option>
+                <option value="high" <?if($this->order['priority'] == 'high') echo 'selected';?>>High</option>
+                <option value="urgent" <?if($this->order['priority'] == 'urgent') echo 'selected';?>>Urgent</option>
+             </select>      
+             </div>
+     </div>
+
+     <div class="form-group">
+                <label for="specification" class="col-sm-4 control-label">Specification</label>
+                <div class="col-sm-6">
+                    <textarea  name="specification" class="form-control" rows="3"><?=$this->order['specification']?></textarea>
+                </div>
+     </div>
+
+   
+    <div class="form-group">
+                <label for="orderNotes" class="col-sm-4 control-label">Order Notes</label>
+                <div class="col-sm-6">
+                    <?= $this->order['notes']?>
+                </div>
+                <? if(isset($this->notes)):?>
+                <div class="col-sm-6">
+                    <?foreach ($this->notes as $note):?>
+                    <?= $note['notes'] ?>
+                    <br><span style="margin-left: 10px;">-<?= $note['author'] ?> <?= $note['enter_time'] ?></span><br>
+                    <?endforeach;?>
+                </div>
+                <?endif;?>            
+     </div>
+
+      <div class="form-group">
+                <label for="notes" class="col-sm-4 control-label">New Notes</label>
+                <div class="col-sm-6">
+                    <textarea  name="notes" class="form-control" rows="3"></textarea>
+                </div>
+     </div>
+</div>
+        
+<div class="col-lg-6">
+       
+     <div class="form-group">
+        <label for="modifiedBy" class="col-sm-4 control-label">Last Modified By</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['modified_by']?>"  disabled>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="qoh" class="col-sm-4 control-label">Quantity On Hand</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['quantity_oh_china']?>"  disabled>
+        </div>
+    </div>
+     <div class="form-group">
+        <label for="totalShpped" class="col-sm-4 control-label">Total Shipped</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['total_shipped']?>" disabled>
+        </div>
+    </div>
+     <div class="form-group">
+        <label for="usaQuantity" class="col-sm-4 control-label required">USA Destination Qty</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['usaQuantity']?>" name="usaQuantity">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="spainQuantity" class="col-sm-4 control-label required">Spain Destination Qty</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['spainQuantity']?>" name="spainQuantity" >
+        </div>
+    </div>
+           
+    <div class="form-group">
+        <label for="quantity_ordered" class="col-sm-4 control-label required">Quantity Ordered</label>   
+        <div class="col-sm-6">
+            <input class="form-control" type="text" name="quantity_ordered" value = "<?= $this->order['quantity_ordered']?>">
+        </div>
+    </div>
+     
+    <div class="form-group">
+        <label for="quantity_received" class="col-sm-4 control-label">Total Quantity Received</label>   
+        <div class="col-sm-6">
+            <input class="form-control" value = "<?= $this->order['quantity_received']?>"  disabled>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="current_quantity" class="col-sm-4 control-label">Current Quantity Received</label>   
+        <div class="col-sm-6">
+            <input class="form-control" type="text" name="current_quantity" value = "">
+        </div>
+    </div>
+      
+     <div class="form-group">
+        <label for="supplier" class="col-sm-4 control-label">Supplier</label>   
+        <div class="col-sm-6">            
+            <input type="text" class="form-control" name="supplier" value = "<?= $this->order['supplier']?>" >
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="supplier-english" class="col-sm-4 control-label">Supplier (English)</label>   
+        <div class="col-sm-6">            
+            <input type="text" class="form-control" name="supplier_english" value = "<?= $this->order['supplier_english']?>" >
+        </div>
+    </div>
+  
+    <div class="form-group">
+        <label for="EDD" class="col-sm-4 control-label">Estimated Date of Delivery</label>   
+        <div class="col-sm-6">            
+            <input type="text" class="form-control datepicker" name="EDD" placeholder ="YYYY-MM-DD" value = "<?= $this->order['EDD']?>" >
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="ADD" class="col-sm-4 control-label">Actual Date of Delivery</label>   
+        <div class="col-sm-6">            
+            <input type="text" class="form-control datepicker" placeholder ="YYYY-MM-DD" name="ADD" value = "<?= $this->order['ADD']?>" >
+        </div>
+    </div>
+  
+
+</div>  
+</div>      
+<p class="text-center"><input type="submit" class="btn btn-primary" value="Submit"></p>
+</form>
+  <div class="col-lg-12">
+<input id="images" name="images" type="file" multiple class="file-loading">
+    </div>
+   
+
+   
+<div id="dialog_shipment_history">
+	<div id="shipment_history"></div>
+</div>
+<div id="dialog_view_order_log">
+	<div id="view_order_log"></div>
+</div>
+<div id="dialog_transaction_history">
+	<div id="transaction_history"></div>
+</div>
+<div id="dialog_create_box">
+	<div id="create_box"></div>
+</div>
+    
+<script>
+$(function() {    
+    $("#images").fileinput({
+        uploadUrl: "/inventory/upload-image", // server upload action
+        uploadAsync: true,
+        maxFileCount: 5,
+        maxFileSize: 100000,
+        allowedFileExtensions: ["jpg","gif", "png","tiff", "mov"],
+        uploadExtraData: {
+            order_id: "<?= $this->order['id'] ?>"        
+        },     
+        initialPreview: <? echo $this->filePreview?>,
+        initialPreviewConfig:<? echo $this->fileConfig?>      ,
+        showCaption: false,
+	showRemove: false
+        });
+     window.scrollTo(0,0);
+     $('.combobox').combobox();
+     $(".datepicker").datepicker({
+            changeYear: true,
+            dateFormat: 'yy-mm-dd'
+        });
+    
+    /***********Box Info***********/
+       $('.create_box').click(function() {                          
+            $('#create_box').html('');            
+            $('#create_box').load('/inventory/create-box/id/' + $(this).attr("id") );
+	    $('#dialog_create_box').dialog('open');
+	});    
+
+   $('#dialog_create_box').dialog({
+		title: 'Box Info',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+        
+    $('.shipment_history').click(function() {                          
+            $('#shipment_history').html('');            
+            $('#shipment_history').load('/inventory/shipment-history/id/' + $(this).attr("id"));
+	    $('#dialog_shipment_history').dialog('open');
+    });  
+    $('#dialog_shipment_history').dialog({
+		title: 'Shipment History',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+        
+  /***********Order change log***********/
+       $('.view_order_log').click(function() {                          
+            $('#view_order_log').html('');            
+            $('#view_order_log').load('/inventory/log/id/' + $(this).attr("id") + '/type/order');
+	    $('#dialog_view_order_log').dialog('open');
+	});    
+
+   $('#dialog_view_order_log').dialog({
+		title: 'Order Change log',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+        
+         
+        $('.transaction_history').click(function() {                          
+            $('#transaction_history').html('');            
+            $('#transaction_history').load('/inventory/transaction-history/id/' + $(this).attr("id"));
+	    $('#dialog_transaction_history').dialog('open');
+    });  
+    $('#dialog_transaction_history').dialog({
+		title: 'Transaction History',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+   //file upload
+    /*$("#image").fileinput({
+        uploadAsync: false,
+        uploadUrl: "/inventory/upload-image", 
+        uploadExtraData: function() {
+            return {
+                userid: $("#userid").val(),
+                username: $("#username").val()
+            };
+        }
+    });*/
+    
+});
+</script>
+ 

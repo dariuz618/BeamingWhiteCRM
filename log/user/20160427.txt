@@ -1,0 +1,64 @@
+2016-04-27T09:18:49-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15288";}
+2016-04-27T10:02:04-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"337-563-9836";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:03:37-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"LM";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:17:24-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:17:30-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:20:"Brazilian Sensations";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:17:42-07:00 INFO (6): Alison Duff--a:2:{s:12:"businessname";s:20:"Brazilian Sensations";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:20:01-07:00 INFO (6): Alison Duff--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:20:06-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"LA";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:20:22-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"70663";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:25:37-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:18:"Bodybrite Leesburg";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"VA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"703-232-7125";s:6:"source";s:5:"Other";s:9:"firstname";s:4:"Amal";s:8:"lastname";s:6:"Natour";s:12:"contactphone";s:12:"703-232-7125";s:5:"email";s:25:"anatour@bodybritenova.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"d34b82ed0fafe0dea0c4e0a4b6ea415430a0e1bf";s:8:"username";s:18:"Bodybrite Leesburg";s:12:"created_time";s:19:"2016-04-27 10:25:37";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"9ee021811ba6fc97f767fdc23002bf79";}
+2016-04-27T10:26:13-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:78:"https://www.facebook.com/Brazilian-sensations-tanning-896553590423755/timeline";s:7:"user_id";s:5:"16217";}
+2016-04-27T10:27:25-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:28:"1604 Village Market Blvd. SE";s:7:"user_id";s:5:"16219";}
+2016-04-27T10:27:29-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:8:"Leesburg";s:7:"user_id";s:5:"16219";}
+2016-04-27T10:27:35-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"20175";s:7:"user_id";s:5:"16219";}
+2016-04-27T10:31:57-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:6:"Torres";s:7:"user_id";s:5:"10172";}
+2016-04-27T11:00:03-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"443-845-0127";s:7:"user_id";s:5:"16215";}
+2016-04-27T11:00:11-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"916-363-0503";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Julie";s:8:"lastname";s:5:"Burke";s:12:"contactphone";s:12:"916-363-0503";s:5:"email";s:8:"a@as.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"878b00c5dcb067439dbad691f5d081cf206a1293";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-04-27 11:00:11";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"75365db2fb08eccf8713be617139df57";}
+2016-04-27T11:00:28-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"\";s:7:"user_id";s:5:"16220";}
+2016-04-27T11:03:08-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:4:"Ruiz";s:7:"user_id";s:5:"10172";}
+2016-04-27T11:19:31-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16145";}
+2016-04-27T11:30:32-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:34:"3020 Southeast Santa Barbara Place";s:7:"user_id";s:5:"16166";}
+2016-04-27T11:30:46-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"33904";s:7:"user_id";s:5:"16166";}
+2016-04-27T11:32:36-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16145";}
+2016-04-27T11:42:10-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:496:"Xavier is new in CA but was previously with Davinci in West Florida. He feels like they have changed their gel. Their kit contains a gel pen wth 17% HP, a bib, and cheek retractor. He says he is getting more sensitivity and the results aren't as good. He does 2 20 minute applications and gets 3 or 4 shades on the first app, and maybe 2 on the second using a IPM Portrait shade guide. I looked it up and it contains 24 shades. Xavier Says he normally orders 50 kits at a time and pays $13 each. ";s:7:"user_id";s:5:"16145";}
+2016-04-27T11:45:01-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"username";s:13:"Sara Barragan";s:7:"user_id";s:5:"15779";}
+2016-04-27T12:37:35-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:15:"38449 Venus Ave";s:7:"user_id";s:4:"2699";}
+2016-04-27T12:37:46-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:4:"2699";}
+2016-04-27T12:37:53-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"33542";s:7:"user_id";s:4:"2699";}
+2016-04-27T13:31:36-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Latasha";s:8:"lastname";s:5:"Clark";s:12:"contactphone";s:0:"";s:5:"email";s:21:"lnclark1992@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"f14dc05d01c7e1e1467a0cb5053cd30408a99792";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-04-27 13:31:36";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"bfce8f0630ca0236caaeb82a5efbf2b0";}
+2016-04-27T14:19:51-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16221";}
+2016-04-27T14:21:26-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"16222";}
+2016-04-27T14:29:13-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"2865 University Ave";s:7:"user_id";s:5:"16207";}
+2016-04-27T14:29:19-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"10468";s:7:"user_id";s:5:"16207";}
+2016-04-27T14:29:25-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:7:"apt. F4";s:7:"user_id";s:5:"16207";}
+2016-04-27T14:33:34-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16207";}
+2016-04-27T14:42:23-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Cathy";s:7:"user_id";s:5:"16221";}
+2016-04-27T14:42:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Cathy Boland";s:7:"user_id";s:5:"16221";}
+2016-04-27T14:42:30-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16221";}
+2016-04-27T14:42:31-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Cathy Boland";s:7:"user_id";s:5:"16221";}
+2016-04-27T14:42:41-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"16221";}
+2016-04-27T14:42:43-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:6:"Mobile";s:7:"user_id";s:5:"16221";}
+2016-04-27T15:00:00-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:18:"Bodybrite Metairie";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"LA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:4:"Andi";s:8:"lastname";s:5:"Jeane";s:12:"contactphone";s:0:"";s:5:"email";s:18:"andihj13@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"d57425ef33dd0f887c90e7874a1f0b32010900a8";s:8:"username";s:18:"Bodybrite Metairie";s:12:"created_time";s:19:"2016-04-27 14:59:59";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"ce979405b0ffc52e3a7f033f4701d43f";}
+2016-04-27T15:00:13-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"4241 Veterans Blvd";s:7:"user_id";s:5:"16225";}
+2016-04-27T15:00:25-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:7:"suite 7";s:7:"user_id";s:5:"16225";}
+2016-04-27T15:00:32-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:8:"Metairie";s:7:"user_id";s:5:"16225";}
+2016-04-27T15:00:40-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"70006";s:7:"user_id";s:5:"16225";}
+2016-04-27T15:06:07-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"252-756-0430";s:7:"user_id";s:5:"12876";}
+2016-04-27T15:13:39-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:11:"Justin Horn";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:20:"414 N Camden Dr #940";s:8:"address2";s:13:"Beverly Hills";s:4:"city";s:13:"Beverly Hills";s:5:"state";s:2:"CA";s:3:"zip";s:5:"90210";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"310-273-0111";s:6:"source";N;s:9:"firstname";s:6:"Justin";s:8:"lastname";s:4:"Horn";s:12:"contactphone";s:12:"310-273-0111";s:5:"email";s:18:"justin@drsands.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"172485df2baa5124fe368cd08aa6900933346859";s:8:"username";s:11:"Justin Horn";s:12:"created_time";s:19:"2016-04-27 15:13:39";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"562884f23799641c6c72eeb6c60d3de5";}
+2016-04-27T15:14:00-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:28:" Phone number (310) 273-0111";s:7:"user_id";s:5:"16226";}
+2016-04-27T15:14:04-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:14:"(310) 273-0111";s:7:"user_id";s:5:"16226";}
+2016-04-27T15:14:12-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16226";}
+2016-04-27T15:14:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16226";}
+2016-04-27T15:15:18-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:18:"Kevin B Sands, DDS";s:7:"user_id";s:5:"16226";}
+2016-04-27T15:15:44-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:0:"";s:7:"user_id";s:5:"16226";}
+2016-04-27T15:33:31-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:57:"http://www.yelp.com/biz/kevin-b-sands-dds-beverly-hills-5";s:7:"user_id";s:5:"16226";}
+2016-04-27T15:33:59-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:44:"https://www.beverlyhillscosmeticdentist.com/";s:7:"user_id";s:5:"16226";}
+2016-04-27T15:41:34-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16207";}
+2016-04-27T16:28:13-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16226";}
+2016-04-27T16:58:29-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16202";}
+2016-04-27T17:20:14-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16215";}
+2016-04-27T17:20:17-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16215";}
+2016-04-27T17:22:31-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:184:"Love is a licensed cosmetologist. She has a few customers but does not sound like she is supporting herself. She came across teeth whitening today and thought maybe she could do this. ";s:7:"user_id";s:5:"16215";}
+2016-04-27T17:34:51-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:21:"adinaskincare@aol.com";s:7:"user_id";s:5:"16224";}
+2016-04-27T17:57:00-07:00 INFO (6): Alison Duff--a:2:{s:11:"description";s:68:"Talks fast and asks LOTS of questions w/o pausing to take a breath. ";s:7:"user_id";s:5:"16224";}

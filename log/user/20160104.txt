@@ -1,0 +1,83 @@
+2016-01-04T08:07:32-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14988";}
+2016-01-04T08:11:27-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"IE";s:7:"user_id";s:5:"14988";}
+2016-01-04T08:12:01-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:7:"bt514ne";s:7:"user_id";s:5:"14988";}
+2016-01-04T08:16:51-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:14:"72 dunderg red";s:7:"user_id";s:5:"14988";}
+2016-01-04T08:17:09-08:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:23:"co Londonderry, bt514ne";s:7:"user_id";s:5:"14988";}
+2016-01-04T08:36:41-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14988";}
+2016-01-04T11:21:46-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"182-21 150th avenue";s:7:"user_id";s:5:"15092";}
+2016-01-04T11:22:16-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:19:"springfield gardens";s:7:"user_id";s:5:"15092";}
+2016-01-04T11:22:27-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"15092";}
+2016-01-04T11:22:32-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"15092";}
+2016-01-04T11:22:34-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"11413";s:7:"user_id";s:5:"15092";}
+2016-01-04T11:22:57-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:19:"Springfield Gardens";s:7:"user_id";s:5:"15092";}
+2016-01-04T11:42:19-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:13:"770-749-95491";s:7:"user_id";s:5:"15096";}
+2016-01-04T11:42:28-08:00 INFO (6): Brian Radke--a:2:{s:13:"businessphone";s:13:"770-749-95491";s:7:"user_id";s:5:"15096";}
+2016-01-04T11:44:37-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"707-499-5491";s:7:"user_id";s:5:"15096";}
+2016-01-04T11:46:21-08:00 INFO (6): Brian Radke--a:2:{s:13:"businessphone";s:12:"707-499-5491";s:7:"user_id";s:5:"15096";}
+2016-01-04T12:00:19-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15100";}
+2016-01-04T12:07:01-08:00 INFO (6): Brian Radke--a:2:{s:13:"businessphone";s:12:"513-371-0319";s:7:"user_id";s:5:"15102";}
+2016-01-04T12:44:34-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14461";}
+2016-01-04T12:44:37-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"14461";}
+2016-01-04T12:46:16-08:00 INFO (6): Cory Nielsen--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14752";}
+2016-01-04T13:45:51-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15096";}
+2016-01-04T14:49:46-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"TN";s:7:"user_id";s:5:"15097";}
+2016-01-04T15:06:19-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:367:"EU kits with Sodium PerCarb, mouth trays, sponge sticks, and accelerator spray.
+
+EU Kits
+0 - 49 kits = $14 
+50 - 99 kits = $10 
+100 - 249 = $9 
+250 - 549 = $8
+550 + = $6
+
+Adv Kits = $5
+Adv Kit 25% $14
+
+XL Pens = $7
+Minerals Pens = $4 
+10ml syringe $3
+
+Lamps = $675
+Alm Case = $65
+Bib Holder = $2.50
+
+Cheek Retractor = .75
+Perfectray = $1.50
+Sponge swab = $1
+Bib = .10";s:7:"user_id";s:4:"2953";}
+2016-01-04T15:10:12-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15097";}
+2016-01-04T15:10:15-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15097";}
+2016-01-04T15:25:29-08:00 INFO (6): Erika Rose--a:2:{s:8:"interest";s:0:"";s:7:"user_id";s:5:"15097";}
+2016-01-04T15:30:37-08:00 INFO (6): Erika Rose--a:2:{s:6:"soldby";s:26:"Teeth Whitening Technology";s:7:"user_id";s:5:"15099";}
+2016-01-04T15:35:11-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Luisayolanda";s:7:"user_id";s:5:"15099";}
+2016-01-04T15:35:18-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:24:"Luisayolanda Leivagalvez";s:7:"user_id";s:5:"15099";}
+2016-01-04T15:35:24-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:24:"Luisayolanda Leivagalvez";s:7:"user_id";s:5:"15099";}
+2016-01-04T15:37:35-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15099";}
+2016-01-04T15:40:20-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15101";}
+2016-01-04T15:40:26-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Tom Domande";s:7:"user_id";s:5:"15101";}
+2016-01-04T15:42:08-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15101";}
+2016-01-04T15:54:08-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15101";}
+2016-01-04T15:56:36-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"807-876-2720";s:7:"user_id";s:5:"15103";}
+2016-01-04T15:56:59-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Cindy";s:7:"user_id";s:5:"15103";}
+2016-01-04T15:57:05-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Cindy Wright";s:7:"user_id";s:5:"15103";}
+2016-01-04T15:57:10-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Cindy Wright";s:7:"user_id";s:5:"15103";}
+2016-01-04T17:04:04-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"718-553-8740";s:7:"user_id";s:5:"15092";}
+2016-01-04T17:08:50-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11233";}
+2016-01-04T17:14:28-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15092";}
+2016-01-04T17:20:23-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15103";}
+2016-01-04T17:32:31-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Kinman";s:7:"user_id";s:5:"15106";}
+2016-01-04T17:32:37-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Kristy Kinman";s:7:"user_id";s:5:"15106";}
+2016-01-04T17:32:38-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Kristy Kinman";s:7:"user_id";s:5:"15106";}
+2016-01-04T17:32:51-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15106";}
+2016-01-04T17:33:11-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"719-464-0322";s:7:"user_id";s:5:"15106";}
+2016-01-04T17:33:27-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"414-334-5220";s:7:"user_id";s:5:"15108";}
+2016-01-04T17:33:53-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Violette";s:7:"user_id";s:5:"15108";}
+2016-01-04T17:33:58-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Violette Golden";s:7:"user_id";s:5:"15108";}
+2016-01-04T17:34:01-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Violette Golden";s:7:"user_id";s:5:"15108";}
+2016-01-04T17:48:30-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15108";}
+2016-01-04T17:48:32-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15108";}
+2016-01-04T17:53:06-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15109";}
+2016-01-04T17:53:09-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Paula";s:7:"user_id";s:5:"15109";}
+2016-01-04T17:53:16-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Paula Strom";s:7:"user_id";s:5:"15109";}
+2016-01-04T17:53:19-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Paula Strom";s:7:"user_id";s:5:"15109";}
+2016-01-04T18:54:27-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15054";}

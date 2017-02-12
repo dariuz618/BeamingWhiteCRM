@@ -1,0 +1,73 @@
+2016-05-12T08:24:20-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"845-561-2592";s:7:"user_id";s:5:"14123";}
+2016-05-12T09:04:06-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"845-561-2495";s:7:"user_id";s:5:"14123";}
+2016-05-12T09:05:53-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"207-219-1111";s:7:"user_id";s:5:"12546";}
+2016-05-12T09:05:58-07:00 INFO (6): Brian Radke--a:2:{s:13:"contactphone2";s:12:"207-289-4699";s:7:"user_id";s:5:"12546";}
+2016-05-12T09:06:16-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:20:"caramela32@gmail.com";s:7:"user_id";s:5:"12546";}
+2016-05-12T09:06:22-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:22:"christina@lushglow.com";s:7:"user_id";s:5:"12546";}
+2016-05-12T09:16:26-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16122";}
+2016-05-12T09:24:54-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:21:"christina@lushglo.com";s:7:"user_id";s:5:"12546";}
+2016-05-12T09:29:14-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:60:"THIS IS A SMILE BAR FRANCHISEE!!! WE CAN NOT SELL TO THEM!!!";s:7:"user_id";s:5:"14558";}
+2016-05-12T09:29:23-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:60:"THIS IS A SMILE BAR FRANCHISEE!!! WE CAN NOT SELL TO THEM!!!";s:7:"user_id";s:5:"14558";}
+2016-05-12T10:01:42-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:18:"9 hours behind us
+";s:7:"user_id";s:5:"16347";}
+2016-05-12T10:02:35-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:3:"Zoe";s:7:"user_id";s:5:"16347";}
+2016-05-12T10:02:40-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Zoe Britton";s:7:"user_id";s:5:"16347";}
+2016-05-12T10:02:43-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Zoe Britton";s:7:"user_id";s:5:"16347";}
+2016-05-12T10:34:56-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:12:"302 252 6515";s:7:"user_id";s:5:"11681";}
+2016-05-12T10:39:54-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:26:"mailto:MendozaN2@AETNA.com";s:7:"user_id";s:5:"11681";}
+2016-05-12T10:40:01-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:19:"MendozaN2@AETNA.com";s:7:"user_id";s:5:"11681";}
+2016-05-12T10:40:16-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:7:"Melissa";s:7:"user_id";s:5:"11681";}
+2016-05-12T10:43:51-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:9:"Lisa Core";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:4:"Lisa";s:8:"lastname";s:4:"Core";s:12:"contactphone";s:12:"714-483-7860";s:5:"email";s:24:"lovemyeyecandy@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"Long Beach";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"382f7153b247f6541a06fd3362229cc3f6ccc02a";s:8:"username";s:9:"Lisa Core";s:12:"created_time";s:19:"2016-05-12 10:43:51";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"e3faeacc68a3ff037b4343a12988bb10";}
+2016-05-12T10:45:34-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:297:"Lisa purchased an Evoke mask in Long Beach and is now interested in adding teeth whitening to her eye lash business. She has a space in a Phoenix salon and says her clients are in her chair for an hour getting their lashes done. She is interested in another service she can offer simultaneously.  ";s:7:"user_id";s:5:"16349";}
+2016-05-12T10:46:40-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:172:"Name of the company :TW Global Company
+
+ located in: Kuwait-Merqab
+ omar ibn alkhatab street
+ Alshawafat area
+ area number 3
+ building number 4,
+4th floor office number 15
+";s:7:"user_id";s:5:"15246";}
+2016-05-12T10:46:43-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"TW Global Company";s:7:"user_id";s:5:"15246";}
+2016-05-12T10:47:01-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:56:"Kuwait-Merqab  omar ibn alkhatab street  Alshawafat area";s:7:"user_id";s:5:"15246";}
+2016-05-12T10:47:10-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:60:"area number 3  building number 4, 4th floor office number 15";s:7:"user_id";s:5:"15246";}
+2016-05-12T10:54:49-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:7:"Daniela";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Daniela";s:8:"lastname";s:7:"Damiani";s:12:"contactphone";s:12:"908-930-7415";s:5:"email";s:22:"danielad89@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"00f41716ce2e54603a43e2c6fbe30772fdbb3b17";s:8:"username";s:7:"Daniela";s:12:"created_time";s:19:"2016-05-12 10:54:49";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"b6d22ca72d44136aa3c8fd04c7a488f9";}
+2016-05-12T11:19:39-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15761";}
+2016-05-12T11:27:26-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15758";}
+2016-05-12T11:27:59-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15754";}
+2016-05-12T11:29:51-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15747";}
+2016-05-12T11:30:08-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"username";s:33:"Medical Aesthetics of New England";s:7:"user_id";s:3:"663";}
+2016-05-12T11:38:20-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:10:"Allen Liaw";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AB";s:3:"zip";s:0:"";s:7:"country";s:2:"CA";s:13:"businessphone";s:12:"780-710-8133";s:6:"source";N;s:9:"firstname";s:5:"Allen";s:8:"lastname";s:4:"Liaw";s:12:"contactphone";s:12:"780-710-8133";s:5:"email";s:22:"allenjvdeals@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"474660d51f304e012686e79f5741eafa01b4d8cd";s:8:"username";s:10:"Allen Liaw";s:12:"created_time";s:19:"2016-05-12 11:38:20";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"b262ed58e19a3d719c6854a0ff219ebb";}
+2016-05-12T12:16:21-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:11:"Tailor Made";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:15:"North Hollywood";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"818-652-3164";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Allen";s:8:"lastname";s:5:"Ardon";s:12:"contactphone";s:12:"818-652-3164";s:5:"email";s:17:"ardon23@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"2e950991cd385254f94f5f4b8e8402c205086c36";s:8:"username";s:11:"Tailor Made";s:12:"created_time";s:19:"2016-05-12 12:16:20";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"0e0a1a9bc4f17a4c71cfa802b060838d";}
+2016-05-12T12:27:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16351";}
+2016-05-12T12:39:56-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15741";}
+2016-05-12T12:46:38-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16350";}
+2016-05-12T13:06:12-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"813-619-6910";s:7:"user_id";s:5:"10394";}
+2016-05-12T13:06:17-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"10394";}
+2016-05-12T13:06:24-07:00 INFO (6): Alison Duff--a:2:{s:13:"resale_number";s:0:"";s:7:"user_id";s:5:"10394";}
+2016-05-12T13:06:26-07:00 INFO (6): Alison Duff--a:2:{s:13:"businessphone";s:0:"";s:7:"user_id";s:5:"10394";}
+2016-05-12T13:07:37-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:0:"";s:7:"user_id";s:5:"10394";}
+2016-05-12T13:20:52-07:00 INFO (6): Alison Duff--a:2:{s:12:"businessname";s:0:"";s:7:"user_id";s:5:"10394";}
+2016-05-12T13:21:34-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:0:"";s:7:"user_id";s:5:"10394";}
+2016-05-12T13:24:24-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:18:"newemail@email.com";s:7:"user_id";s:5:"10394";}
+2016-05-12T13:39:58-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16030";}
+2016-05-12T13:52:18-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16054";}
+2016-05-12T14:19:23-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:45:"39 Ave. Norte #109 pasaje 1 colonia San José";s:7:"user_id";s:5:"16162";}
+2016-05-12T14:20:00-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:26:"San Salvador, El Salvador.";s:7:"user_id";s:5:"16162";}
+2016-05-12T15:14:58-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:16:"Vonda Montenegro";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AZ";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:5:"Vonda";s:8:"lastname";s:10:"Montenegro";s:12:"contactphone";s:12:"602-526-0276";s:5:"email";s:16:"vmont550@aol.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"2752904149647dbd85de10cb629ac6c903ab5512";s:8:"username";s:16:"Vonda Montenegro";s:12:"created_time";s:19:"2016-05-12 15:14:58";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"3e461150cc47c68f1ce39f191cb846ae";}
+2016-05-12T15:16:13-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:103:"A friend of a friend does teeth whitening and Vonda thinks this is something she could do on the side. ";s:7:"user_id";s:5:"16354";}
+2016-05-12T15:16:20-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:17:"additional income";s:7:"user_id";s:5:"16354";}
+2016-05-12T15:49:54-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16276";}
+2016-05-12T16:12:54-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15731";}
+2016-05-12T16:12:56-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15731";}
+2016-05-12T16:14:20-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15727";}
+2016-05-12T16:15:57-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15634";}
+2016-05-12T16:19:55-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15611";}
+2016-05-12T16:24:05-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15605";}
+2016-05-12T16:26:35-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15596";}
+2016-05-12T16:43:34-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:16:"Smile Bright LTD";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:13:"6 Hayes Court";s:8:"address2";s:0:"";s:4:"city";s:9:"Banbridge";s:5:"state";s:2:"CA";s:3:"zip";s:7:"BT324HY";s:7:"country";s:2:"IE";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Donna";s:8:"lastname";s:9:"Greenberg";s:12:"contactphone";s:0:"";s:5:"email";s:20:"need@Donnasemail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"88c4773a808c8ee359755a5b9ee5237a01c84089";s:8:"username";s:16:"Smile Bright LTD";s:12:"created_time";s:19:"2016-05-12 16:43:34";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c44137a1fab7fba1c271807a11adea44";}
+2016-05-12T16:52:28-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16343";}
+2016-05-12T17:00:53-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16347";}
+2016-05-12T17:17:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16347";}
+2016-05-12T17:20:26-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:6:"Mobile";s:7:"user_id";s:5:"16347";}
+2016-05-12T17:21:02-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:4:"6155";s:7:"user_id";s:5:"16347";}

@@ -1,0 +1,29 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="/public/css/crm.css">	 
+</head> 
+<div style="margin-bottom: 5px;"><h2>Shipments</h2></div>    
+        <table class="account" border="0" cellspacing="0" cellpadding="0">
+            <thead>
+               <tr>
+                <th>Shipment Id</th> 
+                <th>Ship Date</th>                
+                <th>Destination</th>
+                <th>Quantity</th> 
+               </tr>
+           </thead>
+           <tbody>               
+               <? $totalShipped = 0;?>
+                 <? foreach($this->shipments as $shipment):?>    
+                       <tr>
+                       <td align="center"><?= $shipment['inventory_shipment_id']?></td>                         
+                       <td align="center"><?= $shipment['shipDate']?></td> 
+                       <td align="center"><?= $shipment['destination']?></td>
+                       <td align="right"><?= $shipment['quantity'] ?></td> 
+                       <? $totalShipped += $shipment['quantity'];?>
+                       </tr>
+                 <? endforeach; ?>
+           </tbody>
+           <tfoot>
+               <tr><td colspan="2"></td><td>Total Shipped</td><td align="right"><?= $totalShipped?></td></tr>
+           </tfoot>
+        </table>

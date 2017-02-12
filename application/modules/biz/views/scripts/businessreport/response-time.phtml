@@ -1,0 +1,299 @@
+<?=$this->action('index', 'businessreport');?> 
+<!-- Dariuz Rubin -->
+<div class="row">
+    <h3 class="page-header">Contact Response Time Report</h3>    
+	<form method="POST" name="verify" class="form-horizontal">
+		<div class="col-lg-12 space">
+	    
+	    	<div class="row">
+	    		<div class="col-md-3">
+	    			<div class="form-group">
+		                <label for="from" class="col-sm-3 control-label required">From:</label>   
+		                <div class="col-sm-6">
+		                <input name="from" class="form-control" type="text" id="from" maxlength="10" value="<?php if (isset($_POST['from'])) {
+		                echo $_POST['from'];} ?>" />
+		                </div>
+		            </div>          
+	    		</div>
+	    		<div class="col-md-3">
+	    			<div class="form-group">
+		                <label for="to" class="col-sm-3 control-label required">To:</label>   
+		                <div class="col-sm-6">
+		                <input name="to" class="form-control" type="text" id="to" maxlength="10" value="<?php if (isset($_POST['to'])) {
+		               		 echo $_POST['to'];} ?>" />
+		                </div>
+		            </div>       
+	    		</div>
+	    		
+	    		<div class="col-md-3">
+	    			<div class="form-group">		               
+		                <label for="y_hours" class="col-sm-6 control-label required">Y Hour:</label>   
+		                <div class="col-sm-6">		                	
+		                	<input name="y_hours" class="form-control" type="text" id="y_hours" maxlength="10" value="<?php 
+		                		if (isset($_POST['y_hours']) and ($_POST['y_hours']>0))
+		               		 		echo $_POST['y_hours'];
+		               		 	else
+		               		 		echo $this->y_hours;?>" />		                    
+		                </div>
+		            </div>       
+	    		</div>
+	    		<div class="col-md-3">
+	    			<div class="form-group">                
+		                <label for="sales" class="col-sm-3 control-label">Rep</label>
+		                  <div class="col-sm-6">             
+		                  	<select id="rep" name="rep[]" multiple="multiple" class="form-control">		                  		
+		                        <? foreach ($this->reps as $rep): ?>
+		                            <option value= "<?php 
+		                            	echo $rep['id'].','.$rep['name']; 
+		                            	?>"  <? 
+		                            			$check_rep = $rep['id'].','.$rep['name'];
+		                            			foreach ($_POST['rep'] as $post_rep)
+		                            			{
+													if ($check_rep == $post_rep)
+														echo 'selected';
+												}	                            		
+		                            		?>><?= $rep['name'] ?></option>                          
+		                        <? endforeach; ?>					       
+						    </select>     	
+		                  </div>
+		            </div>  
+	    		</div>
+	    	</div>
+	    	
+	    	<div class="row">
+	    		<div class="col-md-12">
+	    			<center>
+	    				<button type="submit" class="btn btn-default">Submit</button>
+	    			</center>
+	    		</div>
+	    	</div>     
+	    
+   		</div>
+   
+		<!--<div class="col-lg-12 alert alert-info">    
+		    Contact Status: Responded - have been assigned to a sales rep and have new notes after assignment.<br>
+		    Contact Status: Not Responded - have been assigned to a sales rep but NO new notes after assignment.    
+		</div>  -->
+<?if (!empty($this->contacts)):?>
+
+	 	<div class="col-lg-12">
+	        <div class="panel panel-default">
+	            <div class="panel-heading">
+	                Summary
+	            </div>
+	            <!-- /.panel-heading -->
+	            <div class="panel-body">
+	                <div class="table-responsive">
+	                    <table class="table table-bordered table-striped table-hover">
+	                        <thead>
+	                             <tr class="header">
+	                             	<th>Rep</th>
+		                            <!--<th>Total Contacts</th>-->
+		                            <th>Avg Time</th>
+		                            <th>Longest Time</th>
+		                           <!-- <th>Sales amounts</th>
+		                            <th>Sales leads</th>-->
+		                            <th>Total leads</th>
+		                            <th>In 60 mins</th>
+		                            <th>61~120</th>
+		                            <th>121~240</th>
+		                            <th>241~480</th>
+		                            <th>481~</th>
+		                            <th>In Y hours</th>
+		                            <th>First contact by phone</th>
+		                            <th>Not responded</th>
+		                          <!--  <th>Leads ASSIGNED</th>-->
+	                             </tr>                            
+	                        </thead>
+	                        <tbody>	  
+	                            <?php		
+								foreach ($this->response_summary as $key => $response_summary)
+								{								
+								?>
+									<tr>
+										<td><?= $response_summary['parent_user'] ?></td>
+										<td><?= $response_summary['avg_response'] ?></td>
+										<td><?= $response_summary['longest_response'] ?></td>
+										<!--<td><?= $response_summary['total_sales_amounts'] ?></td>
+										<td><?= $response_summary['total_sales_leads'] ?></td>-->
+										<td><?= $response_summary['total_leads'] ?></td>
+										<td><?= $response_summary['leads_60'] ?>%</td>
+										<td><?= $response_summary['leads_120'] ?>%</td>
+										<td><?= $response_summary['leads_240'] ?>%</td>
+										<td><?= $response_summary['leads_480'] ?>%</td>
+										<td><?= $response_summary['leads_over_480'] ?>%</td>
+										<td><?= $response_summary['leads_in_y_hours'] ?>%</td>
+										<td><?= $response_summary['firstconact_by_phone'] ?></td>
+										<td><?= $response_summary['not_responded'] ?></td>
+										<!--<td><?= $response_summary['total_leads_assigned'] ?></td>-->
+									</tr>
+								<?php
+								}				
+								?>		                
+								<!--<tr>
+									<td style="font-weight:bold"><?php echo 'Total';?></td>
+									<td style="font-weight:bold"><?= $totalContact ?></td>
+									<td style="font-weight:bold"><? if (($_POST['status'] == 'responded') and ($totalContact> 0))
+	       										 echo round($totalResponse/$totalContact, 0) ?></td>										
+								</tr>	-->
+								
+	                        </tbody>
+	                      <!--  <tbody>
+		                        <?php		
+								$totalResponse=0;
+								$totalContact=0;
+								foreach ($this->contacts as $key => $contacts)
+								{								
+									$totalContact += count($contacts);
+									foreach ($contacts as $ind => $contact)
+									{
+										$totalResponse += $contact["responseTime"];								
+									}
+								}
+								foreach ($this->avgContacts as $key => $avgContacts)
+								{								
+								?>
+									<tr>
+										<td><?= $avgContacts[0]['parent_user'] ?></td>
+										<td><?= $avgContacts[0]['total']?></td>   
+							       		<td><?if($_POST['status'] == 'responded') echo round($avgContacts[0]['avgResponseTime'], 0)?></td> 
+									</tr>
+								<?php
+								}				
+								?>		
+								<tr>
+									<td style="font-weight:bold"><?php echo 'Total';?></td>
+									<td style="font-weight:bold"><?= $totalContact ?></td>
+									<td style="font-weight:bold"><? if (($_POST['status'] == 'responded') and ($totalContact> 0))
+	       										 echo round($totalResponse/$totalContact, 0) ?></td>										
+								</tr>	
+								
+	                        </tbody>-->
+	                    </table>
+	                </div>
+	                <!-- /.table-responsive -->
+	            </div>
+	            <!-- /.panel-body -->
+	        </div>
+	        <!-- /.panel -->
+	    </div>
+		<div class="col-lg-12">
+    		<div class="col-md-3">
+    			<div class="form-group">
+	                <label for="from_month" class="col-sm-3 control-label required">From:</label>   
+	                <div class="col-sm-6">
+	                <input name="from_month" class="form-control" type="text" id="from_month" maxlength="10" value="<?php if (isset($_POST['from_month'])) {
+	                echo $_POST['from_month'];} ?>" />
+	                </div>
+	            </div>          
+    		</div>
+    		<div class="col-md-3">
+    			<div class="form-group">
+	                <label for="to_month" class="col-sm-3 control-label required">To:</label>   
+	                <div class="col-sm-6">
+	                <input name="to_month" class="form-control" type="text" id="to_month" maxlength="10" value="<?php if (isset($_POST['to_month'])) {
+	               		 echo $_POST['to_month'];} ?>" />
+	                </div>
+	            </div>       
+    		</div>			    		
+    		<div class="col-md-3">
+    			<div class="form-group">                
+	                <label for="sales" class="col-sm-3 control-label">Rep</label>
+	                  <div class="col-sm-6">             
+	                  	<select id="rep_month" name="rep_month" class="form-control">		                  		
+	                        <? foreach ($this->reps as $rep): ?>
+	                            <option value= "<?php 
+	                            	echo $rep['id'].','.$rep['name']; 
+	                            	?>"  <? 
+	                            			$check_rep = $rep['id'].','.$rep['name'];	                            			
+											if ($check_rep == $_POST['rep_month'])
+												echo 'selected';											
+	                            		?>><?= $rep['name'] ?></option>                          
+	                        <? endforeach; ?>					       
+					    </select>     	
+	                  </div>
+	            </div>  
+    		</div>
+    		<div class="col-md-3">
+    			<div class="form-group">
+	                <button type="submit" class="btn btn-default">Submit</button>
+	            </div>       
+    		</div>			
+    	</div>
+	 </form>
+	<div class="col-lg-12">
+	        <div class="panel panel-default">
+	          	<div class="panel-heading">Contacts</div>
+	           	<div class="panel-body"> 
+	            <table class="table table-bordered table-striped table-hover" id="response_contacts">
+	           		<thead>
+				    	<tr>
+				    		<th class="header">Rep</th>
+					    	<th class="header">Business Name</th>
+					        <!--<th class="header">Account Owner</th>-->
+					        <th class="header">Email</th>
+					        <th class="header">Contact Name</th>
+					        <th class="header">Contact Assigned</th>
+					        <th class="header">First Contacted</th>
+					        <th class="header">Response Time (Minutes)</th>
+					    </tr>
+				    </thead>
+				    <tbody>
+				    	<?php							
+						foreach ($this->contacts_sheet2 as $key => $contacts)
+						{
+							foreach ($contacts as $ind => $contact_ind)
+							{
+							?>
+							<tr>
+								<td><?= $contacts[$ind]['parent_user'] ?></td>
+								<td><a href="/biz/crm/customer/id/<?= $contacts[$ind]['id']?>" target="_blank"><?= $contacts[$ind]['businessname']?></a></td>      							<!--<td><?= $contacts[$ind]['rep']?></td>-->
+				                <td><?= $contacts[$ind]['email'] ?></td>      
+				                <td><?= $contacts[$ind]['name'] ?></td>			                
+				                <td><?= $contacts[$ind]['assignTime'] ?></td>      
+				                <td><?= $contacts[$ind]['firstContact'] ?></td>   
+				                <td><?= $contacts[$ind]['responseTime'] ?></td> 
+							</tr>
+							<?php
+							}
+						}				
+						?>
+						
+				    </tbody>
+				</table>
+<? elseif(isset($this->isPost)) :?>
+    No contacts found.
+<?endif;?>
+           </div>
+        </div>
+    </div>
+       
+</div>
+
+ 
+<link rel="stylesheet" href="/public/css/bootstrap-multiselect.css" type="text/css">
+<script type="text/javascript" src="/public/js/bootstrap-multiselect.js"></script>
+
+
+<script src="/public/js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script>
+  $(function() {   
+	    $("#from").datepicker({dateFormat: 'yy-mm-dd'});
+	    $("#to").datepicker({dateFormat: 'yy-mm-dd'});
+	    $("#from_month").datepicker({dateFormat: 'yy-mm'});
+	    $("#to_month").datepicker({dateFormat: 'yy-mm'});
+	    $('#response_contacts').dataTable( {
+	        "iDisplayLength": 100       
+	    });    
+ 		
+	    /* Multiselect for Rep */    		
+		 $('#rep').multiselect({
+		   includeSelectAllOption: true,
+		   buttonWidth: '100%',
+		   numberDisplayed: 2	   
+		});
+   });
+   
+</script>
+<!---------------------------->

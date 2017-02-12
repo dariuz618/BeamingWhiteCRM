@@ -1,0 +1,102 @@
+2016-04-20T09:14:54-07:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:7:"Theasha";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:19:07-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"954-439-2957";s:7:"user_id";s:5:"16161";}
+2016-04-20T09:19:10-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16161";}
+2016-04-20T09:19:46-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"443-961-4671";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:21:10-07:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:7:"Theresa";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:21:16-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:21:22-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:99:"Teasha is an esthetician, plans to open her spa 3/1 or 3/8. Quoted stationary package. 606-262-0032";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:21:42-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:22:"Always Love Your Smile";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:21:49-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:118:"Teasha is an esthetician, plans to open her spa 3/1 or 3/8. Quoted stationary package. 606-262-0032
+Flawless Skin Care";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:21:57-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Eunice Meyers";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"305-680-9575";s:6:"source";N;s:9:"firstname";s:6:"Eunice";s:8:"lastname";s:6:"Meyers";s:12:"contactphone";s:12:"305-680-9575";s:5:"email";s:18:"eamyers5@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"93cdf7fe60550193bc0cead9b05fbb67290e16e0";s:8:"username";s:13:"Eunice Meyers";s:12:"created_time";s:19:"2016-04-20 09:21:56";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"4e577e1d07ea733138d0939f3d913617";}
+2016-04-20T09:21:59-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:22:"Always Love Your Smile";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:22:07-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16164";}
+2016-04-20T09:22:09-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16164";}
+2016-04-20T09:22:12-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:137:"Teasha is an esthetician, plans to open her spa 3/1 or 3/8. Quoted stationary package. 606-262-0032
+Flawless Skin Care
+tg1977@comcast.net";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:22:23-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:33:"contactus@alwaysloveyoursmile.com";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:22:26-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:30:53-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"443-961-4671";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:30:55-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:4:"2992";}
+2016-04-20T09:32:25-07:00 INFO (6): Rachel Reiser--a:28:{s:12:"businessname";s:18:"Flawless Skin Care";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"KY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:6:"Teasha";s:8:"lastname";s:7:"Griffin";s:12:"contactphone";s:0:"";s:5:"email";s:18:"tg1977@comcast.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:6:"Active";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"bb68f5dfaf82f0af8e5ab9ead84ef7cf13b42888";s:8:"username";s:18:"Flawless Skin Care";s:12:"created_time";s:19:"2016-04-20 09:32:25";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"12c1476a37e1c8f44cd0ff9da5f02bde";}
+2016-04-20T09:33:31-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:13:" 606-262-0032";s:7:"user_id";s:5:"16167";}
+2016-04-20T09:33:59-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:137:"Teasha is an esthetician, plans to open her spa 3/1 or 3/8. Quoted stationary package. 606-262-0032
+Flawless Skin Care
+tg1977@comcast.net";s:7:"user_id";s:5:"16167";}
+2016-04-20T09:39:04-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:5:"Myers";s:7:"user_id";s:5:"16164";}
+2016-04-20T09:39:08-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Eunice Myers";s:7:"user_id";s:5:"16164";}
+2016-04-20T09:39:12-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Eunice Myesrs";s:7:"user_id";s:5:"16164";}
+2016-04-20T09:39:18-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Eunice Myers";s:7:"user_id";s:5:"16164";}
+2016-04-20T09:43:34-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:3:"28 ";s:7:"user_id";s:5:"16134";}
+2016-04-20T09:43:40-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"87123";s:7:"user_id";s:5:"16134";}
+2016-04-20T09:43:48-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:9:"Albequrki";s:7:"user_id";s:5:"16134";}
+2016-04-20T09:44:15-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:23:"28 Canada De Los Alamos";s:7:"user_id";s:5:"16134";}
+2016-04-20T09:48:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16162";}
+2016-04-20T09:48:39-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Xochil  Marisela";s:7:"user_id";s:5:"16162";}
+2016-04-20T09:48:41-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Xochil  Marisela";s:7:"user_id";s:5:"16162";}
+2016-04-20T09:48:51-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"16162";}
+2016-04-20T09:48:53-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"16162";}
+2016-04-20T09:49:40-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16162";}
+2016-04-20T09:50:30-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16166";}
+2016-04-20T10:13:25-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:12:"Julie Farrar";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:4:"Mesa";s:5:"state";s:2:"AZ";s:3:"zip";s:5:"85215";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"912-381-0035";s:6:"source";N;s:9:"firstname";s:5:"Julie";s:8:"lastname";s:6:"Farrar";s:12:"contactphone";s:12:"912-381-0035";s:5:"email";s:23:"juliefarrar67@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"614281eb1135999e762251e459e0f657d3f6d5e3";s:8:"username";s:12:"Julie Farrar";s:12:"created_time";s:19:"2016-04-20 10:13:25";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"429337787e3b02914b925e5e4ad6feeb";}
+2016-04-20T10:20:39-07:00 INFO (6): Brian Radke--a:2:{s:13:"contactphone2";s:12:"803-818-8214";s:7:"user_id";s:5:"16038";}
+2016-04-20T10:23:42-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:165:"Would like to buy our AK's to do treatments in Honduras. She would have us ship the AK's flat packed to an address in the US and take the kits in the plane with her.";s:7:"user_id";s:5:"16164";}
+2016-04-20T10:27:41-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:36:"Spoke to Julie about the Futura Face";s:7:"user_id";s:5:"16169";}
+2016-04-20T10:31:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16078";}
+2016-04-20T11:06:16-07:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:5:"Nikki";s:7:"user_id";s:4:"2157";}
+2016-04-20T11:06:25-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:16:"Phillips Bradley";s:7:"user_id";s:4:"2157";}
+2016-04-20T11:19:22-07:00 INFO (6): Alison Duff--a:27:{s:12:"businessname";s:3:"Dr.";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"410-413-6775";s:6:"source";N;s:9:"firstname";s:10:"Dr. Donald";s:8:"lastname";s:7:"Dalaban";s:12:"contactphone";s:12:"410-413-6775";s:5:"email";s:19:"dr.donald@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"bf6a326feb96b416da54d6ac29a9da3f014201cb";s:8:"username";s:3:"Dr.";s:12:"created_time";s:19:"2016-04-20 11:19:22";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c7eece01f64b2df28085570a554b8c25";}
+2016-04-20T11:19:31-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"z";s:7:"user_id";s:5:"16171";}
+2016-04-20T11:20:02-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16161";}
+2016-04-20T11:20:59-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:0:"";s:7:"user_id";s:5:"16171";}
+2016-04-20T11:22:05-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16078";}
+2016-04-20T12:15:40-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:33:"graciamfpaluchomartinez@gmail.com";s:7:"user_id";s:5:"16162";}
+2016-04-20T12:19:56-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:15:" (503) 22640909";s:7:"user_id";s:5:"16162";}
+2016-04-20T12:19:59-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"16162";}
+2016-04-20T12:20:37-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:21:" (503) 226-422-640909";s:7:"user_id";s:5:"16162";}
+2016-04-20T12:21:05-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:91:"https://www.facebook.com/Arte-y-Cosmetica-Dental-Oficial-186299718192008/info/?tab=overview";s:7:"user_id";s:5:"16162";}
+2016-04-20T12:21:48-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"SV";s:7:"user_id";s:5:"16162";}
+2016-04-20T12:21:52-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"SS";s:7:"user_id";s:5:"16162";}
+2016-04-20T12:22:28-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:23:"Corporacion Dental Rene";s:7:"user_id";s:5:"16162";}
+2016-04-20T12:23:41-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:82:"Gracia Palucho said she would be sending me back an e-mail with further questions.";s:7:"user_id";s:5:"16162";}
+2016-04-20T13:33:37-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:18:"3919 North #7 st. ";s:7:"user_id";s:5:"10460";}
+2016-04-20T13:33:49-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"53212";s:7:"user_id";s:5:"10460";}
+2016-04-20T13:39:51-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:31:"folashade.fajembola@outlook.com";s:7:"user_id";s:5:"10460";}
+2016-04-20T13:41:19-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"MD";s:7:"user_id";s:5:"16171";}
+2016-04-20T13:52:41-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"225-819-6533";s:7:"user_id";s:5:"11596";}
+2016-04-20T13:53:53-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"11596";}
+2016-04-20T13:54:11-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"LA";s:7:"user_id";s:5:"15022";}
+2016-04-20T14:07:01-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:26:"revivewellnessbr@yahoo.com";s:7:"user_id";s:5:"15022";}
+2016-04-20T14:07:08-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"t";s:7:"user_id";s:5:"15022";}
+2016-04-20T14:07:55-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:27:" revivewellnessbr@yahoo.com";s:7:"user_id";s:5:"11596";}
+2016-04-20T14:08:02-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"9";s:7:"user_id";s:5:"11596";}
+2016-04-20T14:08:48-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:21:"sheenajohnson7@me.com";s:7:"user_id";s:5:"11596";}
+2016-04-20T14:10:26-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:18:"Revive Wellness BR";s:7:"user_id";s:5:"15022";}
+2016-04-20T14:11:01-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:23:"Revive Wellness Day Spa";s:7:"user_id";s:5:"15022";}
+2016-04-20T14:11:08-07:00 INFO (6): Alison Duff--a:2:{s:12:"businessname";s:23:"Revive Wellness Day Spa";s:7:"user_id";s:5:"15022";}
+2016-04-20T14:16:00-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:17:"1007 Redhawk Dr. ";s:7:"user_id";s:3:"619";}
+2016-04-20T14:36:18-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:26:"admin@waltondentalcare.com";s:7:"user_id";s:5:"16114";}
+2016-04-20T14:59:55-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:5:"Shawn";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"WI";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"715-798-1737";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Shawn";s:8:"lastname";s:13:"Skwierzcynski";s:12:"contactphone";s:0:"";s:5:"email";s:18:"shawn718@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"563be96099a7dc1de969edfc80a6ebbe384bb3e0";s:8:"username";s:5:"Shawn";s:12:"created_time";s:19:"2016-04-20 14:59:55";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"e4ab3d9a2622be011e876662d4912ab0";}
+2016-04-20T15:00:06-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"Eau Claire";s:7:"user_id";s:5:"16172";}
+2016-04-20T15:10:06-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"559-300-6764";s:7:"user_id";s:5:"16138";}
+2016-04-20T15:10:47-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16155";}
+2016-04-20T15:22:08-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"708-527-9522";s:7:"user_id";s:5:"16032";}
+2016-04-20T15:26:50-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16155";}
+2016-04-20T15:44:28-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"716-948-3215";s:7:"user_id";s:5:"16014";}
+2016-04-20T15:46:00-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:23:"Hollywood Pearly Whites";s:7:"user_id";s:5:"16014";}
+2016-04-20T15:49:07-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"765-513-4763";s:7:"user_id";s:5:"16170";}
+2016-04-20T15:51:53-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:16:"6952 Kingston Ct";s:7:"user_id";s:4:"2825";}
+2016-04-20T15:52:00-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:6:"Tinley";s:7:"user_id";s:4:"2825";}
+2016-04-20T15:52:08-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:11:"Tinley Park";s:7:"user_id";s:4:"2825";}
+2016-04-20T15:52:12-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"ID";s:7:"user_id";s:4:"2825";}
+2016-04-20T15:52:15-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"IL";s:7:"user_id";s:4:"2825";}
+2016-04-20T15:52:19-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"60477";s:7:"user_id";s:4:"2825";}
+2016-04-20T16:03:37-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:24:"abovebeyondpud@gmail.com";s:7:"user_id";s:4:"2084";}
+2016-04-20T16:04:53-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16009";}
+2016-04-20T16:28:27-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"m";s:7:"user_id";s:5:"11596";}
+2016-04-20T16:28:46-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11596";}
+2016-04-20T16:29:22-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:16:"Revive Wellness ";s:7:"user_id";s:5:"11596";}
+2016-04-20T17:07:56-07:00 INFO (6): Alison Duff--a:27:{s:12:"businessname";s:16:"Dreams Laser Spa";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"BC";s:3:"zip";s:0:"";s:7:"country";s:2:"CA";s:13:"businessphone";s:12:"604-365-7705";s:6:"source";N;s:9:"firstname";s:6:"Sharon";s:8:"lastname";s:6:"Rattan";s:12:"contactphone";s:12:"604-365-7705";s:5:"email";s:25:"sharon_rattan@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"179cb7fb6d1449382d4da8d8013d47595cff1c8a";s:8:"username";s:16:"Dreams Laser Spa";s:12:"created_time";s:19:"2016-04-20 17:07:56";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"59d21457d2c4615ea91d834c9c2e8663";}
+2016-04-20T17:23:31-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Rocky Hernandez";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"806-544-2132";s:6:"source";N;s:9:"firstname";s:5:"Rocky";s:8:"lastname";s:9:"Hernandez";s:12:"contactphone";s:12:"806-544-2132";s:5:"email";s:23:"rockyroad2132@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a52484c472795c38ca0f647af88ece3c8d247ab2";s:8:"username";s:15:"Rocky Hernandez";s:12:"created_time";s:19:"2016-04-20 17:23:31";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"4b47a5b2489f68dde9ec0f3349725fde";}
+2016-04-20T17:25:04-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16174";}

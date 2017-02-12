@@ -1,0 +1,48 @@
+2016-02-02T09:07:05-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"12380";}
+2016-02-02T09:56:34-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"624 Woodland Dr";s:7:"user_id";s:3:"169";}
+2016-02-02T11:07:17-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:251:"Says Rachel doesn't know what the hell she is doing, does not want to deal with her again, she is losing money because Rachel didn't call her when her card was declined and then shipped her order 3 day instead of overnight when the card was approved. ";s:7:"user_id";s:4:"2165";}
+2016-02-02T11:12:32-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:266:"Asked to have a note put on her account that she does not want to deal with Rachel again. , she is losing money because Rachel didn't call her when her card was declined and then shipped her order 3 day instead of overnight as instructed when the card was approved. ";s:7:"user_id";s:4:"2165";}
+2016-02-02T11:12:45-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:269:"Asked to have a note put on her account that she does not want to deal with Rachel again. Says she is losing money because Rachel didn't call her when her card was declined and then shipped her order 3 day instead of overnight as instructed when the card was approved. ";s:7:"user_id";s:4:"2165";}
+2016-02-02T11:32:42-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12743";}
+2016-02-02T12:13:51-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"214-489-8992";s:7:"user_id";s:5:"15313";}
+2016-02-02T12:18:21-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"858-254-3901";s:7:"user_id";s:5:"15314";}
+2016-02-02T12:20:40-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"254-226-2655";s:7:"user_id";s:5:"15315";}
+2016-02-02T12:31:27-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"12903";}
+2016-02-02T12:38:17-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"12737";}
+2016-02-02T12:40:55-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14076";}
+2016-02-02T12:42:14-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:197:"Might as well mark this one as never. Gave the CC and returned the signature but is unwilling to send a photo of her card and ID because she has been a victim of CC fraud and feel too vulnerable.  ";s:7:"user_id";s:5:"14076";}
+2016-02-02T13:02:05-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15313";}
+2016-02-02T13:07:41-08:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:5:"Renee";s:7:"user_id";s:5:"13029";}
+2016-02-02T14:03:47-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:14:"46 Hillier Rd.";s:7:"user_id";s:4:"1709";}
+2016-02-02T14:03:51-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:4:"5162";s:7:"user_id";s:4:"1709";}
+2016-02-02T14:03:53-08:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"SA";s:7:"user_id";s:4:"1709";}
+2016-02-02T14:03:59-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:13:"Morphett Vale";s:7:"user_id";s:4:"1709";}
+2016-02-02T14:25:50-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"610-703-3468";s:7:"user_id";s:5:"15216";}
+2016-02-02T14:26:48-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"240-602-0846";s:7:"user_id";s:5:"15202";}
+2016-02-02T14:31:21-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14124";}
+2016-02-02T14:36:55-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15297";}
+2016-02-02T14:37:15-08:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:16:"Makyha - MAkeeah";s:7:"user_id";s:5:"15297";}
+2016-02-02T14:39:06-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:53:"interested in renting a space with "The Salon Loft". ";s:7:"user_id";s:5:"15297";}
+2016-02-02T14:46:01-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15291";}
+2016-02-02T15:04:25-08:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"LA";s:7:"user_id";s:5:"11663";}
+2016-02-02T15:04:33-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"70131";s:7:"user_id";s:5:"11663";}
+2016-02-02T15:09:29-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:11:"New Orleans";s:7:"user_id";s:5:"11663";}
+2016-02-02T15:12:50-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:19:"60 Syprus Grove Ct.";s:7:"user_id";s:5:"11663";}
+2016-02-02T15:14:37-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15284";}
+2016-02-02T15:16:49-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15284";}
+2016-02-02T15:18:19-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:267:"Jeremy owns a tanning salon in AL. Said he bought a TW light somewhere and is just now finding out this is not legal. He did get some Tan White kits as well and will use those. Said he's looking at a location in MS so he may move his light over there if he buys it.  ";s:7:"user_id";s:5:"15284";}
+2016-02-02T15:20:27-08:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:5:"waist";s:7:"user_id";s:5:"11663";}
+2016-02-02T15:33:27-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15242";}
+2016-02-02T15:56:05-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:11:"Angela Cary";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:9:"Arlington";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"817-845-7-64";s:6:"source";s:5:"Other";s:9:"firstname";s:6:"Angela";s:8:"lastname";s:4:"Cary";s:12:"contactphone";s:12:"817-845-7064";s:5:"email";s:21:"asbennett75@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"e7f347ef584feb914462b6ce3a763e4777f6b301";s:8:"username";s:11:"Angela Cary";s:12:"created_time";s:19:"2016-02-02 15:56:05";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"f3b9bcc6d22c206a436d92ad99d266d9";}
+2016-02-02T16:04:32-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:150:"Spent 20 years in the dental field and has tried every tw product under the sun except ours. Has friends who have used our gels and got good results. ";s:7:"user_id";s:5:"15319";}
+2016-02-02T16:13:33-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15319";}
+2016-02-02T16:14:23-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15318";}
+2016-02-02T16:58:00-08:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"PW";s:7:"user_id";s:5:"11256";}
+2016-02-02T16:58:04-08:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"PA";s:7:"user_id";s:5:"11256";}
+2016-02-02T17:38:46-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:13:"Bauer Medical";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"OR";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Matthew";s:8:"lastname";s:5:"Bauer";s:12:"contactphone";s:12:"971-998-4912";s:5:"email";s:24:"drmatthewbauer@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"de4b8a85d229d9a87067329f90d9dea6471894b5";s:8:"username";s:13:"Bauer Medical";s:12:"created_time";s:19:"2016-02-02 17:38:46";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"bddd71ef50aec6d1f7b58a50df364669";}
+2016-02-02T17:39:01-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"Milwaulkee";s:7:"user_id";s:5:"15320";}
+2016-02-02T17:39:14-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"6564 LAke Rd SE";s:7:"user_id";s:5:"15320";}
+2016-02-02T17:39:21-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"97222";s:7:"user_id";s:5:"15320";}
+2016-02-02T17:39:25-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"6564 Lake Rd SE";s:7:"user_id";s:5:"15320";}
+2016-02-02T17:47:01-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15320";}
+2016-02-02T17:48:45-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15320";}

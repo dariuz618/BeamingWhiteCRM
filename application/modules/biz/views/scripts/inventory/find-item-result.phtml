@@ -1,0 +1,118 @@
+<head>
+<link rel="stylesheet" type="text/css" href="/public/css/crm.css">	 
+</head> 
+<div style="margin-bottom: 5px;"><h4>Order History</h4></div>
+    
+        <table class="account" border="0" cellspacing="0" cellpadding="0">
+            <thead>
+               <tr>
+                <th style="width:10%;">Order Id</th>
+                <th style="width:10%;">QOH</th>
+                <th style="width:10%;">QTY Ordered</th> 
+                <th style="width:10%;">QTY Received</th>   
+                <th style="width:10%;">QTY Not Rcvd</th>
+                <th style="width:10%;">Estimated Date of Delivery</th>
+                <th style="width:10%;">QTY Shipped</th>
+                <th style="width:10%;">Ordered By</th>
+                <th style="width:20%;">Ordered Time</th>
+               </tr>
+           </thead>
+           <tbody>         
+                <? $qoh = $ordered = $received = $shipped = 0;?>
+                 <?foreach($this->orders as $order):?>    
+                       <tr>                          
+                       <td style="width:10%;" align="center"><a href="/inventory/update-order/id/<?= $order['id'] ?>" target="new"><?= $order['id']?></a></td>       
+                       <td style="width:10%;" align="right"><?= $order['quantity_oh_china']?></td>                         
+                       <td style="width:10%;" align="right"><?= $order['quantity_ordered']?></td> 
+                       <td style="width:10%;" align="right"><?= $order['quantity_received']?></td>
+                       <td style="width:10%;" align="right"><?= $order['quantity_ordered'] - $order['quantity_received']?></td>
+                       <td style="width:10%;" align="right"><?= $order['EDD']?></td>
+                       <td style="width:10%;" align="right"><?= $order['total_shipped']?></td>
+                       <td style="width:10%;" align="center"><?= $order['created_by']?></td>
+                       <td style="width:20%;" align="center"><?= $order['created_time']?></td>
+                       </tr>
+                       <? $qoh += $order['quantity_oh_china'];
+                          $ordered += $order['quantity_ordered'];                           
+                          $received += $order['quantity_received'];                          
+                          $shipped += $order['total_shipped'];
+                       ?>
+                 <? endforeach; ?>
+           </tbody>
+           <tfoot>
+               <tr style="font-weight: bold;"><td align='center'>Total</td><td align="right"><?= $qoh?></td><td align="right"><?= $ordered?></td>
+                   <td align="right"><?= $received?></td><td align="right"><?= $ordered - $received?></td><td></td><td  align="right"><?= $shipped?></td><td></td><td></td>    
+                   </tr>
+           </tfoot>
+        </table>
+<div style="margin-bottom: 5px;">
+        <? if(!empty($this->shipments)): ?>
+        <h4>Shipment History</h4></div>
+        <table class="account" border="0" cellspacing="0" cellpadding="0">
+            <thead>
+               <tr>
+                <th style="width:10%;">Order Id</th>
+                <th style="width:10%;">Shipment Id</th>
+                <th style="width:10%;">Destination</th>
+                <th style="width:10%;">Quantity</th>
+                <th style="width:20%;">Ship Date</th>                                
+                <th style="width:20%;">Ship Via</th>                
+               </tr>
+           </thead>
+           <tbody>         
+               <? $qty = 0;?>
+                 <? foreach($this->shipments as $shipment):?>    
+                       <tr>
+                       <td style="width:10%;" align="center"><?= $shipment['order_id']?></td>       
+                       <td style="width:10%;" align="center"><a href="/inventory/update-shipment/id/<?= $shipment['inventory_shipment_id']?>" target="new"><?= $shipment['inventory_shipment_id']?></a></td>                         
+                       <td style="width:10%;" align="center"><?= $shipment['destination']?></td> 
+                       <td style="width:10%;" align="right"><?= $shipment['quantity']?></td>
+                       <td style="width:20%;" align="center"><?= $shipment['shipDate']?></td>
+                       <td style="width:20%;" align="center"><?= $shipment['shipvia']?></td>                       
+                       </tr>
+                       <? $qty += $shipment['quantity'];?>
+                 <? endforeach; ?>
+           </tbody>
+            <tfoot>
+                <tr style="font-weight: bold;"><td colspan="2"></td><td align='center'>Total</td><td align="right"><?= $qty?></td>
+                   <td></td><td></td>
+                   </tr>
+           </tfoot>
+        </table>
+        <?else:?>
+            <h4>No Shipment History</h4>
+        <?endif;?>
+            
+<div style="margin-bottom: 5px;">
+        <? if(!empty($this->transactions) && !is_null($this->transactions[0]['order_id'])): ?>    
+        <h4>Transaction History</h4></div>
+        <table class="account" border="0" cellspacing="0" cellpadding="0">
+            <thead>
+               <tr>
+                <th style="width:5%;">Order Id</th>
+                <th style="width:10%;">quantity</th>
+                <th style="width:5%;">Who</th>
+                <th style="width:25%;">Notes</th>
+                <th style="width:10%;">Transaction Time</th>                                                             
+               </tr>
+           </thead>
+           <tbody>         
+               <? $qty = 0;?>
+                 <? foreach($this->transactions as $transaction):?>    
+                       <tr>
+                       <td style="width:5%;" align="center"><?= $transaction['order_id']?></td>       
+                       <td style="width:10%;" align="right"><?= $transaction['quantity']?></td>                         
+                       <td style="width:5%;" align="center"><?= $transaction['author']?></td> 
+                       <td style="width:25%;" align="left"><?= $transaction['notes']?></td>
+                       <td style="width:10%;" align="center"><?= $transaction['transaction_time']?></td>                                              
+                       </tr>
+                       <? $qty += $transaction['quantity'];?>
+                 <? endforeach; ?>
+           </tbody>
+            <tfoot>
+                <tr style="font-weight: bold;"><td align='center'>Balance</td><td align="right"><?= $qty?></td><td colspan="3"></td>                   
+                   </tr>
+           </tfoot>
+        </table>
+        <?else:?>
+            <h4>No Transaction History</h4>
+        <?endif;?>

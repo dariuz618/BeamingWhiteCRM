@@ -1,0 +1,108 @@
+2016-03-13T01:26:14-08:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/12/2016 15:26";s:8:"end_date";s:16:"03/14/2016 01:26";s:4:"page";s:1:"1";}
+2016-03-13T01:26:14-08:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 15:26:00' AND datetime <= '2016-03-14 01:26:00' ORDER BY datetime
+2016-03-13T01:26:16-08:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 15:26:00' AND datetime <= '2016-03-14 01:26:00' ORDER BY datetime
+2016-03-13T01:26:16-08:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 15:26:00' AND datetime <= '2016-03-14 01:26:00' ORDER BY datetime
+2016-03-13T01:26:17-08:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 15:26:00' AND datetime <= '2016-03-14 01:26:00' ORDER BY datetime
+2016-03-13T03:26:13-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/12/2016 17:26";s:8:"end_date";s:16:"03/14/2016 03:25";s:4:"page";s:1:"1";}
+2016-03-13T03:26:13-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 17:26:00' AND datetime <= '2016-03-14 03:25:00' ORDER BY datetime
+2016-03-13T03:26:14-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 17:26:00' AND datetime <= '2016-03-14 03:25:00' ORDER BY datetime
+2016-03-13T03:26:15-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 17:26:00' AND datetime <= '2016-03-14 03:25:00' ORDER BY datetime
+2016-03-13T03:26:15-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 17:26:00' AND datetime <= '2016-03-14 03:25:00' ORDER BY datetime
+2016-03-13T05:25:53-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/12/2016 19:25";s:8:"end_date";s:16:"03/14/2016 05:25";s:4:"page";s:1:"1";}
+2016-03-13T05:25:53-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 19:25:00' AND datetime <= '2016-03-14 05:25:00' ORDER BY datetime
+2016-03-13T05:25:55-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 19:25:00' AND datetime <= '2016-03-14 05:25:00' ORDER BY datetime
+2016-03-13T05:25:55-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 19:25:00' AND datetime <= '2016-03-14 05:25:00' ORDER BY datetime
+2016-03-13T05:25:55-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 19:25:00' AND datetime <= '2016-03-14 05:25:00' ORDER BY datetime
+2016-03-13T07:25:32-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/12/2016 21:25";s:8:"end_date";s:16:"03/14/2016 07:25";s:4:"page";s:1:"1";}
+2016-03-13T07:25:32-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 21:25:00' AND datetime <= '2016-03-14 07:25:00' ORDER BY datetime
+2016-03-13T07:25:34-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 21:25:00' AND datetime <= '2016-03-14 07:25:00' ORDER BY datetime
+2016-03-13T07:25:34-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 21:25:00' AND datetime <= '2016-03-14 07:25:00' ORDER BY datetime
+2016-03-13T07:25:35-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 21:25:00' AND datetime <= '2016-03-14 07:25:00' ORDER BY datetime
+2016-03-13T09:25:23-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/12/2016 23:25";s:8:"end_date";s:16:"03/14/2016 09:25";s:4:"page";s:1:"1";}
+2016-03-13T09:25:23-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 23:25:00' AND datetime <= '2016-03-14 09:25:00' ORDER BY datetime
+2016-03-13T09:25:24-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 23:25:00' AND datetime <= '2016-03-14 09:25:00' ORDER BY datetime
+2016-03-13T09:25:25-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 23:25:00' AND datetime <= '2016-03-14 09:25:00' ORDER BY datetime
+2016-03-13T09:25:25-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-12 23:25:00' AND datetime <= '2016-03-14 09:25:00' ORDER BY datetime
+2016-03-13T11:25:19-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/13/2016 01:25";s:8:"end_date";s:16:"03/14/2016 11:25";s:4:"page";s:1:"1";}
+2016-03-13T11:25:19-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 01:25:00' AND datetime <= '2016-03-14 11:25:00' ORDER BY datetime
+2016-03-13T11:25:20-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 01:25:00' AND datetime <= '2016-03-14 11:25:00' ORDER BY datetime
+2016-03-13T11:25:21-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 01:25:00' AND datetime <= '2016-03-14 11:25:00' ORDER BY datetime
+2016-03-13T11:25:22-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 01:25:00' AND datetime <= '2016-03-14 11:25:00' ORDER BY datetime
+2016-03-13T13:25:10-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/13/2016 03:25";s:8:"end_date";s:16:"03/14/2016 13:24";s:4:"page";s:1:"1";}
+2016-03-13T13:25:10-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 03:25:00' AND datetime <= '2016-03-14 13:24:00' ORDER BY datetime
+2016-03-13T13:25:12-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 03:25:00' AND datetime <= '2016-03-14 13:24:00' ORDER BY datetime
+2016-03-13T13:25:13-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 03:25:00' AND datetime <= '2016-03-14 13:24:00' ORDER BY datetime
+2016-03-13T13:25:13-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 03:25:00' AND datetime <= '2016-03-14 13:24:00' ORDER BY datetime
+2016-03-13T15:25:04-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/13/2016 05:25";s:8:"end_date";s:16:"03/14/2016 15:24";s:4:"page";s:1:"1";}
+2016-03-13T15:25:04-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 05:25:00' AND datetime <= '2016-03-14 15:24:00' ORDER BY datetime
+2016-03-13T15:25:06-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 05:25:00' AND datetime <= '2016-03-14 15:24:00' ORDER BY datetime
+2016-03-13T15:25:06-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 05:25:00' AND datetime <= '2016-03-14 15:24:00' ORDER BY datetime
+2016-03-13T15:25:07-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 05:25:00' AND datetime <= '2016-03-14 15:24:00' ORDER BY datetime
+2016-03-13T17:24:45-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/13/2016 07:24";s:8:"end_date";s:16:"03/14/2016 17:24";s:4:"page";s:1:"1";}
+2016-03-13T17:24:45-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 07:24:00' AND datetime <= '2016-03-14 17:24:00' ORDER BY datetime
+2016-03-13T17:24:47-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 07:24:00' AND datetime <= '2016-03-14 17:24:00' ORDER BY datetime
+2016-03-13T17:24:47-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 07:24:00' AND datetime <= '2016-03-14 17:24:00' ORDER BY datetime
+2016-03-13T17:24:48-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 07:24:00' AND datetime <= '2016-03-14 17:24:00' ORDER BY datetime
+2016-03-13T19:24:36-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/13/2016 09:24";s:8:"end_date";s:16:"03/14/2016 19:24";s:4:"page";s:1:"1";}
+2016-03-13T19:24:36-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 09:24:00' AND datetime <= '2016-03-14 19:24:00' ORDER BY datetime
+2016-03-13T19:24:38-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 09:24:00' AND datetime <= '2016-03-14 19:24:00' ORDER BY datetime
+2016-03-13T19:24:39-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 09:24:00' AND datetime <= '2016-03-14 19:24:00' ORDER BY datetime
+2016-03-13T19:24:40-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 09:24:00' AND datetime <= '2016-03-14 19:24:00' ORDER BY datetime
+2016-03-13T21:24:29-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/13/2016 11:24";s:8:"end_date";s:16:"03/14/2016 21:24";s:4:"page";s:1:"1";}
+2016-03-13T21:24:29-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 11:24:00' AND datetime <= '2016-03-14 21:24:00' ORDER BY datetime
+2016-03-13T21:24:30-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 11:24:00' AND datetime <= '2016-03-14 21:24:00' ORDER BY datetime
+2016-03-13T21:24:31-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 11:24:00' AND datetime <= '2016-03-14 21:24:00' ORDER BY datetime
+2016-03-13T21:24:32-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 11:24:00' AND datetime <= '2016-03-14 21:24:00' ORDER BY datetime
+2016-03-13T23:24:45-07:00 INFO (6): a:6:{s:11:"SS-UserName";s:10:"teethwhite";s:11:"SS-Password";s:8:"]dy=T9B>";s:6:"action";s:6:"export";s:10:"start_date";s:16:"03/13/2016 13:24";s:8:"end_date";s:16:"03/14/2016 23:24";s:4:"page";s:1:"1";}
+2016-03-13T23:24:45-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 13:24:00' AND datetime <= '2016-03-14 23:24:00' ORDER BY datetime
+2016-03-13T23:24:47-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 13:24:00' AND datetime <= '2016-03-14 23:24:00' ORDER BY datetime
+2016-03-13T23:24:48-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 13:24:00' AND datetime <= '2016-03-14 23:24:00' ORDER BY datetime
+2016-03-13T23:24:49-07:00 INFO (6): select code as order_id from customer WHERE customer.first_name IS NOT NULL 
+            AND (customer.order_status = 1 OR customer.order_status = 99) AND customer.shipped != 1 AND country = 'USA'  AND datetime >= '2016-03-13 13:24:00' AND datetime <= '2016-03-14 23:24:00' ORDER BY datetime

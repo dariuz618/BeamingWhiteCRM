@@ -1,0 +1,68 @@
+2016-05-23T08:29:41-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:18:"borodspa@gmail.com";s:7:"user_id";s:5:"16024";}
+2016-05-23T09:05:21-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:6:"Murphy";s:7:"user_id";s:5:"16106";}
+2016-05-23T09:05:33-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:26:"Murphy's Salon and Day Spa";s:7:"user_id";s:5:"16106";}
+2016-05-23T09:32:03-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"754-423-2274";s:7:"user_id";s:5:"16433";}
+2016-05-23T09:39:03-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16433";}
+2016-05-23T09:43:26-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"716-364-7546";s:7:"user_id";s:5:"16437";}
+2016-05-23T09:54:12-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"937-510-8163";s:7:"user_id";s:5:"16432";}
+2016-05-23T09:54:24-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Lisa";s:7:"user_id";s:5:"16432";}
+2016-05-23T09:54:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Lisa Hannah";s:7:"user_id";s:5:"16432";}
+2016-05-23T09:54:31-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Lisa Hannah";s:7:"user_id";s:5:"16432";}
+2016-05-23T10:01:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Segura";s:7:"user_id";s:5:"16024";}
+2016-05-23T10:02:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Diana Segura";s:7:"user_id";s:5:"16024";}
+2016-05-23T10:06:23-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:181:"Joe and his wife are transitioning into retirement. Looking for something to do that does not require a huge commitment for time or $$$ but that will give them something fun to do. ";s:7:"user_id";s:5:"16437";}
+2016-05-23T10:06:57-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:253:"Joe and his wife are transitioning into retirement. Looking for something to do that does not require a huge commitment for time or $$$ but that will give them something fun to do. Hi wife works for a law firm now but has always liked the Spa business. ";s:7:"user_id";s:5:"16437";}
+2016-05-23T10:20:16-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:253:"Mother of Jeff Wenzel White Link USA, associate of Jason Paluscak Saloncast, orders product under their pricing. 
+
+2016 PRICING:Advanced Kits 16% 1.2 @ $4.00, Take Home Kits 36% CP 8.1 @ $16.50 each, Daily White Fusion US @$7.50, Syringes 10ml CP @$6.50";s:7:"user_id";s:5:"14532";}
+2016-05-23T10:24:39-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16106";}
+2016-05-23T10:25:54-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:20:"info@famousco.com.au";s:7:"user_id";s:5:"10850";}
+2016-05-23T10:30:17-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16024";}
+2016-05-23T10:37:08-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:29:"221 Central Ave second floor ";s:7:"user_id";s:5:"16024";}
+2016-05-23T10:37:18-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:12:"White Plains";s:7:"user_id";s:5:"16024";}
+2016-05-23T10:37:20-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"10606";s:7:"user_id";s:5:"16024";}
+2016-05-23T10:37:47-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:29:"221 Central Ave Second Floor ";s:7:"user_id";s:5:"16024";}
+2016-05-23T10:40:07-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:9:"Beach Bum";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NH";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Niklaus";s:8:"lastname";s:7:"Dimarco";s:12:"contactphone";s:12:"603-812-9649";s:5:"email";s:18:"nick@bossproof.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"155c945c1298f73c6015cdb9f1b6423bf858dcd8";s:8:"username";s:9:"Beach Bum";s:12:"created_time";s:19:"2016-05-23 10:40:07";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"7d2d7679523dc519a1a46eac72a455e8";}
+2016-05-23T10:49:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16432";}
+2016-05-23T10:54:13-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:9:"Jt Clough";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"760-815-2278";s:6:"source";N;s:9:"firstname";s:2:"Jt";s:8:"lastname";s:6:"Clough";s:12:"contactphone";s:12:"760-815-2278";s:5:"email";s:17:"jt7clough@mac.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"9b5a460afcba3e8f0e6052bd550544b2e4edce00";s:8:"username";s:9:"Jt Clough";s:12:"created_time";s:19:"2016-05-23 10:54:13";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"5fecfbc3c896715a4f9f702f2fd97aa6";}
+2016-05-23T10:54:21-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16443";}
+2016-05-23T10:54:24-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16443";}
+2016-05-23T10:54:27-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:34:"http://happyhourlaserandbotox.com/";s:7:"user_id";s:5:"16443";}
+2016-05-23T10:57:27-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:24:"Happy Hour Laser & Botox";s:7:"user_id";s:5:"16443";}
+2016-05-23T11:05:40-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16443";}
+2016-05-23T11:05:57-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:12:"4 Fraxinella";s:7:"user_id";s:5:"16443";}
+2016-05-23T11:06:04-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Encinitas";s:7:"user_id";s:5:"16443";}
+2016-05-23T11:06:05-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"VT";s:7:"user_id";s:5:"16443";}
+2016-05-23T11:06:07-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"16443";}
+2016-05-23T11:06:08-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"92024";s:7:"user_id";s:5:"16443";}
+2016-05-23T11:11:03-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:12:"Kyle Canaday";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:8:"La Jolla";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"651-485-6552";s:6:"source";N;s:9:"firstname";s:4:"Kyle";s:8:"lastname";s:7:"Canaday";s:12:"contactphone";s:12:"651-485-6552";s:5:"email";s:17:"kyle@fivezero.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"06859e36a06f974841d3f0f367ad40d5bf537bfd";s:8:"username";s:12:"Kyle Canaday";s:12:"created_time";s:19:"2016-05-23 11:11:03";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c4dd4c415b19bc471e8d752bd8ac8ccd";}
+2016-05-23T11:13:56-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"16444";}
+2016-05-23T11:13:58-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16444";}
+2016-05-23T11:18:10-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16437";}
+2016-05-23T11:21:30-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16444";}
+2016-05-23T11:56:50-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"78728";s:7:"user_id";s:5:"16362";}
+2016-05-23T11:59:39-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16362";}
+2016-05-23T12:25:28-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Joshua Orcutt";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TN";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Joshua";s:8:"lastname";s:6:"Orcutt";s:12:"contactphone";s:12:"931-252-8953";s:5:"email";s:23:"josh.orcutt12@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"4e619dab8737b8a6d6394b4806adf2fe9db82fef";s:8:"username";s:13:"Joshua Orcutt";s:12:"created_time";s:19:"2016-05-23 12:25:27";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"7523048b81ca2cc982a8645afc1f8af7";}
+2016-05-23T12:25:40-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16445";}
+2016-05-23T13:17:53-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:18:"3321 Tierra Estada";s:7:"user_id";s:4:"2994";}
+2016-05-23T13:17:59-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"79935";s:7:"user_id";s:4:"2994";}
+2016-05-23T13:20:44-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"username";s:17:"Skin Deep Day Spa";s:7:"user_id";s:4:"2882";}
+2016-05-23T13:21:01-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"businessname";s:17:"Skin Deep Day Spa";s:7:"user_id";s:4:"2882";}
+2016-05-23T13:40:13-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16329";}
+2016-05-23T13:51:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:7:"Marilyn";s:7:"user_id";s:5:"16362";}
+2016-05-23T13:51:48-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Marilyn Landes";s:7:"user_id";s:5:"16362";}
+2016-05-23T13:52:13-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Landes Concepts LLC";s:7:"user_id";s:5:"16362";}
+2016-05-23T13:53:33-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"16304 Travesia Way";s:7:"user_id";s:5:"16362";}
+2016-05-23T13:53:43-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:6:"Austin";s:7:"user_id";s:5:"16362";}
+2016-05-23T14:14:26-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16362";}
+2016-05-23T15:26:09-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16379";}
+2016-05-23T15:26:47-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16328";}
+2016-05-23T15:30:21-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:17:"Styles Spot Salon";s:7:"user_id";s:5:"16293";}
+2016-05-23T15:52:03-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16259";}
+2016-05-23T15:52:08-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16259";}
+2016-05-23T16:05:30-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:22:"hairbystyles@gmail.com";s:7:"user_id";s:5:"16293";}
+2016-05-23T17:29:06-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16389";}
+2016-05-23T17:29:44-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:18:"Sunny Smile Dental";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:9:"San Diego";s:5:"state";s:2:"CA";s:3:"zip";s:5:"91950";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Jenny";s:8:"lastname";s:5:"Cacho";s:12:"contactphone";s:12:"619-475-5767";s:5:"email";s:30:"sunnysmiledental2016@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"2a328ca7964ec431e8aa2f41093f42f772ac437b";s:8:"username";s:18:"Sunny Smile Dental";s:12:"created_time";s:19:"2016-05-23 17:29:44";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"e91df7711740fd5c201624301d7b481e";}
+2016-05-23T17:31:29-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"16389";}
+2016-05-23T17:34:07-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16389";}
+2016-05-23T17:56:43-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15897";}

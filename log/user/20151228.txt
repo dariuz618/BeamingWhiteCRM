@@ -1,0 +1,52 @@
+2015-12-28T08:49:05-08:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:6:"Shelly";s:7:"user_id";s:4:"8836";}
+2015-12-28T08:49:15-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:6:"Leloup";s:7:"user_id";s:4:"8836";}
+2015-12-28T09:11:11-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"585-465-6662";s:7:"user_id";s:5:"15074";}
+2015-12-28T09:44:31-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15069";}
+2015-12-28T09:53:11-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"9608";}
+2015-12-28T10:07:47-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"210-687-5991";s:7:"user_id";s:5:"15070";}
+2015-12-28T10:09:44-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15070";}
+2015-12-28T10:13:59-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"678-207-8780";s:7:"user_id";s:5:"15076";}
+2015-12-28T10:14:08-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:152:"ADVANCED GENERIC 1.1.4G (SCR)**GENERIC $4.50 ea
+Lamps $650 ea
+Kits $4.50 ea
+T/U pens $4 ea
+Min Pens $3.45 ea
+DW Fusion $3.15
+Goggles $7.50
+Bib Holder $4";s:7:"user_id";s:4:"2566";}
+2015-12-28T10:14:52-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15076";}
+2015-12-28T10:16:53-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"904-210-8098";s:7:"user_id";s:5:"15079";}
+2015-12-28T10:28:51-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15074";}
+2015-12-28T10:28:55-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15074";}
+2015-12-28T10:29:38-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:12:"PO Box 64391";s:7:"user_id";s:5:"15074";}
+2015-12-28T10:44:40-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"208-757-9195";s:7:"user_id";s:5:"15078";}
+2015-12-28T10:44:45-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Shauntae";s:7:"user_id";s:5:"15078";}
+2015-12-28T10:44:51-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Shauntae Chase";s:7:"user_id";s:5:"15078";}
+2015-12-28T10:44:53-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Shauntae Chase";s:7:"user_id";s:5:"15078";}
+2015-12-28T10:57:01-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15078";}
+2015-12-28T11:01:26-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Rochester";s:7:"user_id";s:5:"15074";}
+2015-12-28T11:01:30-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:16:"47 Wright Street";s:7:"user_id";s:5:"15074";}
+2015-12-28T11:01:37-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"14611";s:7:"user_id";s:5:"15074";}
+2015-12-28T11:01:58-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:6:"Mobile";s:7:"user_id";s:5:"15074";}
+2015-12-28T11:02:00-08:00 INFO (6): Erika Rose--a:2:{s:6:"soldby";s:13:"Beaming White";s:7:"user_id";s:5:"15074";}
+2015-12-28T12:13:30-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"94114";s:7:"user_id";s:4:"9118";}
+2015-12-28T12:25:03-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"440-506-1827";s:7:"user_id";s:4:"1451";}
+2015-12-28T12:25:52-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14730";}
+2015-12-28T13:16:29-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:24:"latortuemarlie@gmail.com";s:7:"user_id";s:5:"15049";}
+2015-12-28T13:20:45-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15049";}
+2015-12-28T13:23:07-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:206:"Andres Segura
+Sales Director
+Prime Dental Manufacturing, Inc.
+4555 West Addison Street
+Chicago, Illinois 60641 USA
+Office: (773) 283-2914 x 304
+Fax: (773) 283-3085
+
+The item number for Eyads plate is 15027.";s:7:"user_id";s:5:"11919";}
+2015-12-28T13:46:06-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15059";}
+2015-12-28T13:57:16-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:27:"219-736-2273 & 219-769-9388";s:7:"user_id";s:4:"8836";}
+2015-12-28T15:09:51-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:27:"616 1/2 Cottage Meadows Ct.";s:7:"user_id";s:3:"760";}
+2015-12-28T15:33:19-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:14:"872 Canterbury";s:7:"user_id";s:3:"339";}
+2015-12-28T15:33:35-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:16:"St. Clair Shores";s:7:"user_id";s:3:"339";}
+2015-12-28T15:49:31-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15016";}
+2015-12-28T16:32:33-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:122:"Currently using zoom but wants to get away from kits that require gingival barriers. Interested in Private Label options. ";s:7:"user_id";s:5:"14730";}

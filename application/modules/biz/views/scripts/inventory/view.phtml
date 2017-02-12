@@ -1,0 +1,306 @@
+<head>    
+<link href="/public/css/plugins/dataTables/dataTables.fixedHeader.css" rel="stylesheet"> 
+<link href="/public/js/plugins/dataTables/media/css/dataTables.tableTools.css" rel="stylesheet"> 
+<!--style type="text/css" title="currentStyle">
+     @import "/public/js/plugins/dataTables/media/css/TableTools.css";
+</style-->
+<style>
+  
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {   
+    padding: 5px;   
+}
+.table > thead > tr > td.yellow, .table > tbody > tr > td.yellow, .table > tfoot > tr > td.yellow, .table > thead > tr > th.yellow, .table > tbody > tr > th.yellow, .table > tfoot > tr > th.yellow, .table > thead > tr.yellow > td, .table > tbody > tr.yellow > td, .table > tfoot > tr.yellow > td, .table > thead > tr.yellow > th, .table > tbody > tr.yellow > th, .table > tfoot > tr.yellow > th {
+    background-color:  #f0ad4e;
+    color: #fff;
+}
+.table > thead > tr > td.red, .table > tbody > tr > td.red, .table > tfoot > tr > td.red, .table > thead > tr > th.red, .table > tbody > tr > th.red, .table > tfoot > tr > th.red, .table > thead > tr.red > td, .table > tbody > tr.red > td, .table > tfoot > tr.red > td, .table > thead > tr.red > th, .table > tbody > tr.red > th, .table > tfoot > tr.red > th {
+    background-color: #d9534f;
+    color: #fff;
+}
+.table > thead > tr > td.green, .table > tbody > tr > td.green, .table > tfoot > tr > td.green, .table > thead > tr > th.green, .table > tbody > tr > th.green, .table > tfoot > tr > th.green, .table > thead > tr.green > td, .table > tbody > tr.green > td, .table > tfoot > tr.green > td, .table > thead > tr.green > th, .table > tbody > tr.green > th, .table > tfoot > tr.green > th {
+    background-color:  #5cb85c;
+    color: #fff;
+}
+</style>
+</head>
+
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Inventory Orders</h2>
+        <ol class="breadcrumb">          
+            <li><a href="/inventory/company">Companies</a></li>        
+            <li><a href="/inventory/create-order">Create Order</a></li>
+            <li><a href="/inventory/create-shipment">Create Shipment</a></li>
+            <li><a href="/inventory/stock">Current Inventory</a></li>  
+            <li><a href="/inventory/quantity">Inventory Adjustment</a></li>             
+            <li><a href="/inventory/find-item">Item History</a></li>             
+            <li><a href="/inventory/shipments">Shipments</a></li>                        
+            <li class="active">Inventory Orders</li>
+        </ol>
+    </div>    
+</div>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Inventory Orders
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="table-responsive">
+                 
+                    <label>In Stock US CBM: <? echo $this->usCbm?></label><br>
+                    <label>In Stock Spain CBM: <? echo $this->spainCbm?></label>
+                    <table class="table table-striped table-bordered table-hover table-fixed-header" cellspacing="0" width="100%" id="orderTable">
+                        <thead>
+                            <tr>
+                                <th>Order ID</th> 
+                                <th>Date</th> 
+                                <th>Ordered For</th> 
+                                <th>Buyer</th>                    
+                                <th>Item Number</th>
+                                <th>Item</th>
+                                <th>US CBM</th>
+                                <th>Spain CBM</th>
+                                <th>Qty Ordered</th>                                
+                                <th>Qty Rcvd</th>
+                                <th>Qty Not Rcvd</th>                                
+                                <th>Qty OH</th>
+                                <th>EDD</th>
+                                <th>Total Shipped</th>                                
+                                <th></th>
+								<th>Payee</th>
+                            </tr>
+                        </thead>
+                         
+                        <tbody>
+                            <? foreach ($this->orders as $order): ?>    
+                                <!-- assigns color based on priority -->
+                                <? $class=''; if($order['priority'] == 'urgent') $class='class="red"';
+                                        if($order['priority'] == 'high') $class='class="yellow"';
+                                        if($order['priority'] == 'normal') $class='class="green"';
+                                        ?>
+                                <tr <?= $class?>>                                                            
+                                   
+                                    <td><?php if($order['notes'] != '' || $order['updatedNotes'] != ''):?> <span title="<? echo $order['notes']. $order['updatedNotes']?>" style="cursor:pointer;" class="glyphicon glyphicon-info-sign"></span><?php endif;?><?= $order['id']?></td>
+                                    <td><?= $order['created_time'] ?></td> 
+                                    <td><?= $order['ordered_by'] ?></td>                                    
+                                    <td><?= $order['buyer'] ?></td>                               
+                                    <td><?= $order['itemNumber'] ?></td>
+                                    <td><?= $order['item'] ?></td>      
+                                    <td><span class='cbm' id="<?= $order['id']?>" style="cursor:pointer;"><?= round($order['usCbm'],3) ?></span></td>
+                                    <td><span class='cbm' id="<?= $order['id']?>" style="cursor:pointer;"><?= round($order['spainCbm'],3) ?></span></td>
+                                    <!--td><?= $order['notes'] ?></td>  
+                                    <td><?= $order['specification'] ?></td>  
+                                    <td><?= $order["supplier"]; ?></td-->                           
+                                    <td align="right"><?= $order['quantity_ordered'] ?></td> 
+                                    <td align="right"><?= $order['quantity_received'] ?></td> 
+                                    <td align="right"><?= $order['quantity_ordered'] - $order['quantity_received'] ?></td> 
+                                    <td align="right"><?= $order['quantity_oh_china'] ?></td> 
+                                    <td align="center"><?= $order['EDD'] ?></td> 
+                                    <td align="right"><?= $order['total_shipped'] ?></td>                                     
+                                    <td>                           
+                                    <a class="btn btn-primary btn-xs" href="/biz/inventory/update-order/id/<?= $order['id'] ?>">Detail</a> 
+                                    </td>                         
+                                    
+                                </tr>
+                            <? endforeach; ?>
+                        </tbody>
+                    </table>
+                </div>
+                <!-- /.table-responsive -->
+                
+<div id="dialog_create_box">
+    <div id="create_box"></div>
+</div>
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+        
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+
+<div id="dialog_shipment_history">
+	<div id="shipment_history"></div>
+</div>
+<div id="dialog_transaction_history">
+	<div id="transaction_history"></div>
+</div>
+<div id="dialog_view_log">
+    <div id="view_log"></div>
+</div>
+
+<!-- Page-Level Plugin Scripts - Tables -->
+
+<script src="/public/js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.fixedHeader.js"></script>
+<!--script src="/public/js/plugins/dataTables/media/ZeroClipboard/ZeroClipboard.js"></script-->
+<script src="/public/js/plugins/dataTables/media/js/dataTables.tableTools.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.colReorder.js"></script>
+
+<script>
+    $(document).ready(function() {
+        // var table =  $('#orderTable').dataTable( {  
+      $('.glyphicon').tooltip();
+      
+        
+      $('#orderTable').dataTable( {      
+          
+            "aoColumns": [
+      null,
+      null,
+      null,
+      null, 
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      { "bSortable": false }
+      
+      ],
+    
+     "order": [[ 0, "desc" ]],
+     "iDisplayLength": 100,
+     "aLengthMenu": [[10, 25, 50, 100, -1], [10, 25, 50, 100, "All"]],
+     "dom": 'T<"clear">lfrtipR', 
+        "tableTools": {
+            "sSwfPath": "/public/js/plugins/dataTables/media/swf/copy_csv_xls_pdf.swf"
+        },
+     
+     "oTableTools": {
+            "aButtons": [
+                "copy",
+                "print",
+                {
+                    "sExtends":    "collection",
+                    "sButtonText": "Save",
+                    "aButtons":    [ "csv", "xls", "pdf" ]
+                }
+            ]
+        },
+      //'Rlfrtip'
+     
+} );
+
+    
+    var fixedHeaders = [];
+$('.table-fixed-header').each(function () {
+    fixedHeaders.push(
+        new FixedHeader(this, {
+            'offsetTop': 51 // offset for my bootstrap .navbar-fixed-top
+        })
+    );
+});
+ 
+$(window).resize(function () {
+    for (var i = 0; i < fixedHeaders.length; i++) {
+        fixedHeaders[i]._fnUpdateClones(true); // force redraw
+        fixedHeaders[i]._fnUpdatePositions();
+    }
+});
+   
+    
+
+     //$('.shipment_history').click(function() {                          
+    $('tbody').delegate('.shipment_history', 'click', function() {
+            $('#shipment_history').html('');            
+            $('#shipment_history').load('/inventory/shipment-history/id/' + $(this).attr("id"));
+	    $('#dialog_shipment_history').dialog('open');
+    });  
+    $('#dialog_shipment_history').dialog({
+		title: 'Shipment History',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+        
+        $('tbody').delegate('.transaction_history', 'click', function() {
+            $('#transaction_history').html('');            
+            $('#transaction_history').load('/inventory/transaction-history/id/' + $(this).attr("id"));
+	    $('#dialog_transaction_history').dialog('open');
+    });  
+    $('#dialog_transaction_history').dialog({
+		title: 'Transaction History',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+        
+        // $('.view_log').click(function() {            
+         $('tbody').delegate('.view_log', 'click', function() {              
+            $('#view_log').html('');            
+            $('#view_log').load('/biz/inventory/log/id/' + $(this).attr("id") + '/type/order');
+	    $('#dialog_view_log').dialog('open');
+	});    
+
+   $('#dialog_view_log').dialog({
+		title: 'Order Changes',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+        
+       $( ".cbm" ).click(function() {
+            $('#create_box').html('');            
+            $('#create_box').load('/inventory/create-box/id/' + $(this).attr("id") );
+	    $('#dialog_create_box').dialog('open');
+       });
+       
+             
+        $('#dialog_create_box').dialog({
+		title: 'Box Info',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+        
+            
+    });
+  
+</script>            
+
+

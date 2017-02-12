@@ -1,0 +1,108 @@
+2016-04-19T08:14:12-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16149";}
+2016-04-19T08:36:04-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16149";}
+2016-04-19T09:08:12-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"954-540-7279";s:7:"user_id";s:5:"16154";}
+2016-04-19T09:09:25-07:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:14:"Debta (debbie)";s:7:"user_id";s:5:"16154";}
+2016-04-19T09:09:52-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:9:"Stephanie";s:7:"user_id";s:5:"16155";}
+2016-04-19T09:18:50-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16155";}
+2016-04-19T09:21:02-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"914-482-1777";s:7:"user_id";s:5:"15935";}
+2016-04-19T09:21:08-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15935";}
+2016-04-19T09:25:29-07:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"GA";s:7:"user_id";s:5:"15974";}
+2016-04-19T09:31:17-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"347-865-2231";s:7:"user_id";s:5:"12527";}
+2016-04-19T09:38:25-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16154";}
+2016-04-19T09:49:12-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:36:"http://universalhealthandbeauty.com/";s:7:"user_id";s:5:"16141";}
+2016-04-19T09:51:31-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"562-627-0862";s:7:"user_id";s:5:"16141";}
+2016-04-19T09:51:53-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:42:"17814 Woodruff Avenue, Suite 4 Bell Flower";s:7:"user_id";s:5:"16141";}
+2016-04-19T09:51:54-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"90706";s:7:"user_id";s:5:"16141";}
+2016-04-19T09:52:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:49:"Leilani Weight Loss (Universal Health and Beauty)";s:7:"user_id";s:5:"16141";}
+2016-04-19T09:52:33-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:42:"2nd Website: http://leilaniweightloss.com/";s:7:"user_id";s:5:"16141";}
+2016-04-19T09:52:55-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"562-920-0109";s:7:"user_id";s:5:"16141";}
+2016-04-19T09:53:23-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:21:"kalilaura73@gmail.com";s:7:"user_id";s:5:"16141";}
+2016-04-19T10:01:30-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16154";}
+2016-04-19T10:07:35-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:582:"Debbie has worked in teeth whitening in the past and is trying to get started again. Her plan is to do parties, gyms, health clubs. (1 day events) She has a light and equipment but is looking for product. She does not want anything with HP due to sensitivity, likes syringes and trays so that she can do something for the customer (filling the trays). She also wants to sell take home products but not want pens because everybody is selling pens online. She wants something that she can sell for $100 or more. She is interested in private label but will probably start with generic.";s:7:"user_id";s:5:"16154";}
+2016-04-19T10:15:09-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16110";}
+2016-04-19T10:16:05-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15433";}
+2016-04-19T10:24:43-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:0:"";s:7:"user_id";s:5:"16085";}
+2016-04-19T10:26:07-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:68:"AK's $9 ea
+Pre Loaded Kits $9 ea
+Minerals Pens $9 ea
+DW Fusion $5 ea";s:7:"user_id";s:5:"16085";}
+2016-04-19T10:26:48-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:159:"2016:
+AK's $9 ea
+Pre Loaded Kits $9 ea
+Minerals Pens $9 ea
+DW Fusion $5 ea
+
+Based on projected order volume of 300 of each per month between his 15 locations. ";s:7:"user_id";s:5:"16085";}
+2016-04-19T10:32:54-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:162:"2016:
+AK's $9 ea
+Pre Loaded Kits $9 ea
+Minerals Pens $8.50 ea
+DW Fusion $5 ea
+
+Based on projected order volume of 300 of each per month between his 15 locations. ";s:7:"user_id";s:5:"16085";}
+2016-04-19T10:49:14-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:83:"https://www.facebook.com/The-Smile-Bar-Express-Teeth-Whitening-Spa-189185848117792/";s:7:"user_id";s:5:"15619";}
+2016-04-19T11:12:26-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16153";}
+2016-04-19T11:27:26-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:176:"2016:
+AK's $9 ea
+Pre Loaded Kits $9 ea
+Minerals Pens $8.50 ea
+DW Fusion $5 ea
+FW Pens $8 ea
+
+Based on projected order volume of 300 of each per month between his 15 locations. ";s:7:"user_id";s:5:"16085";}
+2016-04-19T11:33:00-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"512-968-1907";s:7:"user_id";s:5:"16039";}
+2016-04-19T11:55:36-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"646-229-8208";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Ester";s:8:"lastname";s:6:"Tejeda";s:12:"contactphone";s:12:"646-229-8208";s:5:"email";s:14:"a.a.g@blah.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"3ef3aab32b286bb1ad7ac263299d721ab184026e";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-04-19 11:55:36";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"020bdb27800afe5765919451a1297842";}
+2016-04-19T12:04:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Mathew";s:7:"user_id";s:5:"16157";}
+2016-04-19T12:04:36-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Mathew Anderson";s:7:"user_id";s:5:"16157";}
+2016-04-19T12:04:38-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Mathew Anderson";s:7:"user_id";s:5:"16157";}
+2016-04-19T12:04:49-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16157";}
+2016-04-19T12:26:02-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:35:"http://www.clicktgi.net/tgi-nigeria";s:7:"user_id";s:5:"16157";}
+2016-04-19T12:59:37-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16085";}
+2016-04-19T13:00:23-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:19:"Touch Laser Med Spa";s:7:"user_id";s:5:"16158";}
+2016-04-19T13:01:02-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:23:"estrella_23ny@yahoo.com";s:7:"user_id";s:5:"16158";}
+2016-04-19T13:01:25-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:19:"1945 SW 123rd Court";s:7:"user_id";s:5:"16158";}
+2016-04-19T13:01:47-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"33175";s:7:"user_id";s:5:"16158";}
+2016-04-19T13:01:50-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:5:"Miami";s:7:"user_id";s:5:"16158";}
+2016-04-19T13:02:12-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:6:"Esther";s:7:"user_id";s:5:"16158";}
+2016-04-19T13:11:40-07:00 INFO (6): Alison Duff--a:2:{s:12:"businessname";s:19:"Touch Laser Med Spa";s:7:"user_id";s:5:"16158";}
+2016-04-19T13:39:07-07:00 INFO (6): Brian Radke--a:27:{s:12:"businessname";s:15:"Delia Dreifurst";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"IA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:5:"Delia";s:8:"lastname";s:9:"Dreifurst";s:12:"contactphone";s:12:"563-344-3333";s:5:"email";s:20:"deliad1624@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"14760798d6e0a13030c7cc95bdef91378c9a17a1";s:8:"username";s:15:"Delia Dreifurst";s:12:"created_time";s:19:"2016-04-19 13:39:06";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"ece8bd44a9ceb7a5bf1cce81f1caf8f9";}
+2016-04-19T13:39:52-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:26:"Hussain Akbarili pricing. ";s:7:"user_id";s:5:"16159";}
+2016-04-19T13:40:06-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"4866 Utica Ridge Rd";s:7:"user_id";s:5:"16159";}
+2016-04-19T13:40:12-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:9:"Davenport";s:7:"user_id";s:5:"16159";}
+2016-04-19T13:40:20-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"52807";s:7:"user_id";s:5:"16159";}
+2016-04-19T13:45:36-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15935";}
+2016-04-19T14:47:45-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14337";}
+2016-04-19T14:48:08-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14443";}
+2016-04-19T14:48:24-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14552";}
+2016-04-19T14:49:11-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15192";}
+2016-04-19T14:52:25-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15201";}
+2016-04-19T14:56:49-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16114";}
+2016-04-19T14:56:52-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:3:"Low";s:7:"user_id";s:5:"16114";}
+2016-04-19T15:03:15-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:65:"We need to send Tawna a mock up of her bags before we print them.";s:7:"user_id";s:5:"16114";}
+2016-04-19T15:07:07-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15319";}
+2016-04-19T15:18:25-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16158";}
+2016-04-19T15:27:09-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15333";}
+2016-04-19T15:28:33-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16131";}
+2016-04-19T15:37:11-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15403";}
+2016-04-19T15:43:37-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15505";}
+2016-04-19T15:45:16-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15541";}
+2016-04-19T15:50:09-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15587";}
+2016-04-19T16:07:30-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15588";}
+2016-04-19T16:31:55-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15607";}
+2016-04-19T16:36:26-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15732";}
+2016-04-19T16:49:30-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:30:"sydney.health.beauty@gmail.com";s:7:"user_id";s:5:"16131";}
+2016-04-19T16:49:33-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:26:"lovely_ivy100@yahoo.com.au";s:7:"user_id";s:5:"16131";}
+2016-04-19T16:49:39-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:30:"sydney.health.beauty@gmail.com";s:7:"user_id";s:5:"16131";}
+2016-04-19T16:49:43-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:0:"";s:7:"user_id";s:5:"16131";}
+2016-04-19T16:55:29-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:18:"3844 Sandy Hook Rd";s:7:"user_id";s:4:"2992";}
+2016-04-19T16:55:38-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:12:"Randallstown";s:7:"user_id";s:4:"2992";}
+2016-04-19T16:55:41-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"ME";s:7:"user_id";s:4:"2992";}
+2016-04-19T16:56:08-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"MD";s:7:"user_id";s:4:"2992";}
+2016-04-19T16:56:14-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"21133";s:7:"user_id";s:4:"2992";}
+2016-04-19T16:56:29-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:33:"contactus@alwaysloveyoursmile.com";s:7:"user_id";s:4:"2992";}
+2016-04-19T17:10:36-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:22:"securedental@gmail.com";s:7:"user_id";s:5:"11745";}
+2016-04-19T17:10:49-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:28:"saulgroene@secure-dental.com";s:7:"user_id";s:5:"11745";}
+2016-04-19T17:10:53-07:00 INFO (6): Cory Nielsen--a:2:{s:10:"profile_id";s:8:"40463391";s:7:"user_id";s:5:"15891";}
+2016-04-19T17:10:56-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:24:"peoria@secure-dental.com";s:7:"user_id";s:5:"11745";}
+2016-04-19T17:12:22-07:00 INFO (6): Erika Rose--a:2:{s:13:"resale_number";s:28:"saulgroene@secure-dental.com";s:7:"user_id";s:5:"11745";}
+2016-04-19T17:12:29-07:00 INFO (6): Erika Rose--a:2:{s:13:"resale_number";s:0:"";s:7:"user_id";s:5:"11745";}

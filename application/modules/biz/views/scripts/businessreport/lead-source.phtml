@@ -1,0 +1,641 @@
+<?=$this->action('index', 'businessreport');?> 
+<link rel="stylesheet" type="text/css" href="/public/css/report.css">
+<div class="row">
+    <!--<h3 class="page-header">Account Conversion Report</h3>    -->
+    <h3 class="page-header">Lead Source Report</h3>    
+    <!-- Dariuz Rubin -->
+	<div class="col-lg-12 space">
+	    <form method="POST" name="verify" class="form-horizontal">
+	    	<div class="row">
+	    		<div class="col-md-4">
+	    			<div class="form-group">
+		                <label for="from" class="col-sm-3 control-label required">From:</label>   
+		                <div class="col-sm-6">
+		                <input name="from" class="form-control" type="text" id="from" maxlength="10" value="<?php if (isset($_POST['from'])) {
+		                echo $_POST['from'];} ?>" />
+		                </div>
+		            </div>          
+	    		</div>
+	    		<div class="col-md-4">
+	    			<div class="form-group">
+		                <label for="to" class="col-sm-3 control-label required">To:</label>   
+		                <div class="col-sm-6">
+		                <input name="to" class="form-control" type="text" id="to" maxlength="10" value="<?php if (isset($_POST['to'])) {
+		                echo $_POST['to'];} ?>" />
+		                </div>
+		            </div>       
+	    		</div>
+	    		<div class="col-md-4">
+	    			<div class="form-group">                
+		                <label for="sales" class="col-sm-3 control-label">Rep</label>
+		                  <div class="col-sm-6">
+		                  
+		                  	<!--Dariuz Rubin-->	                  
+		                  	<select id="rep" name="rep[]" multiple="multiple" class="form-control">
+		                  		
+		                        <? foreach ($this->reps as $rep): ?>
+		                            <option value= "<?php 
+		                            	echo $rep['id'].','.$rep['name']; 
+		                            	?>"  <? 
+		                            			$check_rep = $rep['id'].','.$rep['name'];
+		                            			foreach ($_POST['rep'] as $post_rep)
+		                            			{
+													if ($check_rep == $post_rep)
+														echo 'selected';
+												}	                            		
+		                            		?>><?= $rep['name'] ?></option>                          
+		                        <? endforeach; ?>					       
+						    </select>     				  
+						    <!----------------->			    
+						
+		                  </div>
+		            </div>  
+	    		</div>
+	    	</div>
+	    	
+	    	<div class="row">
+	    		<div class="col-md-12">
+	    			<center>
+	    				<button type="submit" class="btn btn-default">Submit</button>
+	    			</center>
+	    		</div>
+	    	</div>     
+	    </form>    
+    </div>
+    <!------------------>
+<?php if (!empty($this->leads_by_source))
+{
+?>
+	<div class="row" style="margin-left: 0px;margin-right:0px;">
+		<div class="col-sm-10">
+	        <div class="panel panel-default">
+	            <div class="panel-heading">
+	                Lead Source Report
+	            </div>
+	      		<!-- panel-heading -->
+	           <div class="panel-body">           
+	           		<div class="alert alert-info" style="margin-bottom:10px">The report that allows us to see where each type of lead that is in the system comes from based on how it is labeled in the system</div>
+	            	<div class="table-responsive">
+	                    <table class="table">
+	                        <thead>
+	                            <tr>
+	                            	<th>Rep</th>
+	                                <th>Internet Search</th>
+	                                <th>Referred</th>
+	                                <th>Social Media</th>
+	                                <th>Trade Show</th>	                                
+	                                <th>Other</th>
+	                                <th>Total</th>
+	                            </tr>
+	                        </thead>
+
+	                        <tbody>
+	                        	<?php		
+								$totalLeads=0;
+								$total_internet = 0;
+								$total_referred = 0;
+								$total_social = 0;
+								$total_tradeshow = 0;
+								$total_other = 0;
+								
+								foreach ($this->leads_by_source as $key => $leads_by_sources)
+								{				
+									
+									$total_leads_rep = 0;						
+								?>
+									<tr>									
+										<td><?= $leads_by_sources[0]['parent_user'] ?></td>
+										<td><?php 
+											$cnt = 0;
+											$link = "/crm/leads?repid=".$leads_by_sources[0]['rep']."&from=".$leads_by_sources[0]['from_time']."&to=".$leads_by_sources[0]['to_time']."&source=";
+											foreach ($leads_by_sources as $ind => $leads_by_source)
+											{
+												if (strcasecmp($leads_by_source['source'],'Internet')==0)
+												{
+													$link .= 'Internet';
+													echo "<a target='_blank' href='",$link."'>".$leads_by_source['leads'].'</a>';
+													$total_internet+=$leads_by_source['leads'];
+													$total_leads_rep += $leads_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0;
+											$link = "/crm/leads?repid=".$leads_by_sources[0]['rep']."&from=".$leads_by_sources[0]['from_time']."&to=".$leads_by_sources[0]['to_time']."&source=";
+											foreach ($leads_by_sources as $ind => $leads_by_source)
+											{
+												if (strcasecmp($leads_by_source['source'],'Referred')==0)
+												{
+													$link .= 'Referred';
+													echo "<a target='_blank' href='",$link."'>".$leads_by_source['leads'].'</a>';
+													$total_referred+=$leads_by_source['leads'];
+													$total_leads_rep += $leads_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/leads?repid=".$leads_by_sources[0]['rep']."&from=".$leads_by_sources[0]['from_time']."&to=".$leads_by_sources[0]['to_time']."&source=";
+											foreach ($leads_by_sources as $ind => $leads_by_source)
+											{
+												if (strcasecmp($leads_by_source['source'],'Social Media')==0)
+												{
+													$link .= 'Social Media';
+													echo "<a target='_blank' href='",$link."'>".$leads_by_source['leads'].'</a>';
+													$total_social+=$leads_by_source['leads'];
+													$total_leads_rep += $leads_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/leads?repid=".$leads_by_sources[0]['rep']."&from=".$leads_by_sources[0]['from_time']."&to=".$leads_by_sources[0]['to_time']."&source=";
+											foreach ($leads_by_sources as $ind => $leads_by_source)
+											{
+												if (strcasecmp($leads_by_source['source'],'Tradeshow')==0)
+												{
+													$link .= 'Tradeshow';
+													echo "<a target='_blank' href='",$link."'>".$leads_by_source['leads'].'</a>';
+													$total_tradeshow+=$leads_by_source['leads'];
+													$total_leads_rep +=$leads_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/leads?repid=".$leads_by_sources[0]['rep']."&from=".$leads_by_sources[0]['from_time']."&to=".$leads_by_sources[0]['to_time']."&source=";
+											foreach ($leads_by_sources as $ind => $leads_by_source)
+											{
+												if (strcasecmp($leads_by_source['source'],'Other')==0)
+												{
+													$link .= 'Other';
+													echo "<a target='_blank' href='",$link."'>".$leads_by_source['leads'].'</a>';
+													$total_other+=$leads_by_source['leads'];
+													$total_leads_rep += $leads_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										
+										<td><?= $total_leads_rep ?></td>																			
+									</tr>
+								<?php
+									$totalLeads +=$total_leads_rep;	
+								}				
+								?>		
+								<tr>
+									<td style="font-weight:bold">All</td>									
+									<td style="font-weight:bold"><?= $total_internet ?></td>	
+									<td style="font-weight:bold"><?= $total_referred ?></td>	
+									<td style="font-weight:bold"><?= $total_social ?></td>	
+									<td style="font-weight:bold"><?= $total_tradeshow ?></td>	
+									<td style="font-weight:bold"><?= $total_other ?></td>	
+									<td style="font-weight:bold"><?= $totalLeads ?></td>	
+								</tr>
+	                        </tbody>
+	                    </table>
+	                </div>
+	           
+	                
+	            </div>
+	            <!-- /.panel-body -->
+	        </div>
+	        <!-- /.panel -->
+	    </div>
+	</div>
+<?php	
+}
+?>
+
+<?php if (!empty($this->prospects_by_source))
+{
+?>
+	<div class="row" style="margin-left: 0px;margin-right:0px;">
+		<div class="col-sm-10">
+	        <div class="panel panel-default">
+	            <div class="panel-heading">
+	                Prospect Source Report
+	            </div>
+	      		<!-- panel-heading -->
+	           <div class="panel-body">           
+	           		<div class="alert alert-info" style="margin-bottom:10px">The report that allows us to see where each type of prospect that is in the system comes from based on how it is labeled in the system</div>
+	            	<div class="table-responsive">
+	                    <table class="table">
+	                        <thead>
+	                            <tr>
+	                            	<th>Rep</th>
+	                                <th>Internet Search</th>
+	                                <th>Referred</th>
+	                                <th>Social Media</th>
+	                                <th>Trade Show</th>	                                
+	                                <th>Other</th>
+	                                <th>Total</th>
+	                            </tr>
+	                        </thead>
+
+	                        <tbody>
+	                        	<?php		
+								$totalLeads=0;
+								$total_internet = 0;
+								$total_referred = 0;
+								$total_social = 0;
+								$total_tradeshow = 0;
+								$total_other = 0;
+								
+								foreach ($this->prospects_by_source as $key => $prospects_by_sources)
+								{				
+									
+									$total_leads_rep = 0;						
+								?>
+									<tr>									
+										<td><?= $prospects_by_sources[0]['parent_user'] ?></td>
+										<td><?php 
+											$cnt = 0;
+											$link = "/crm/prospect?repid=".$prospects_by_sources[0]['rep']."&from=".$prospects_by_sources[0]['from_time']."&to=".$prospects_by_sources[0]['to_time']."&source=";
+											foreach ($prospects_by_sources as $ind => $prospects_by_source)
+											{
+												if (strcasecmp($prospects_by_source['source'],'Internet')==0)
+												{
+													$link .= 'Internet';
+													echo "<a target='_blank' href='",$link."'>".$prospects_by_source['leads'].'</a>';
+													$total_internet+=$prospects_by_source['leads'];
+													$total_leads_rep += $prospects_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0;
+											$link = "/crm/prospect?repid=".$prospects_by_sources[0]['rep']."&from=".$prospects_by_sources[0]['from_time']."&to=".$prospects_by_sources[0]['to_time']."&source=";
+											foreach ($prospects_by_sources as $ind => $prospects_by_source)
+											{
+												if (strcasecmp($prospects_by_source['source'],'Referred')==0)
+												{
+													$link .= 'Referred';
+													echo "<a target='_blank' href='",$link."'>".$prospects_by_source['leads'].'</a>';
+													$total_referred+=$prospects_by_source['leads'];
+													$total_leads_rep += $prospects_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/prospect?repid=".$prospects_by_sources[0]['rep']."&from=".$prospects_by_sources[0]['from_time']."&to=".$prospects_by_sources[0]['to_time']."&source=";
+											foreach ($prospects_by_sources as $ind => $prospects_by_source)
+											{
+												if (strcasecmp($prospects_by_source['source'],'Social Media')==0)
+												{
+													$link .= 'Social Media';
+													echo "<a target='_blank' href='",$link."'>".$prospects_by_source['leads'].'</a>';
+													$total_social+=$prospects_by_source['leads'];
+													$total_leads_rep += $prospects_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/prospect?repid=".$prospects_by_sources[0]['rep']."&from=".$prospects_by_sources[0]['from_time']."&to=".$prospects_by_sources[0]['to_time']."&source=";
+											foreach ($prospects_by_sources as $ind => $prospects_by_source)
+											{
+												if (strcasecmp($prospects_by_source['source'],'Tradeshow')==0)
+												{
+													$link .= 'Tradeshow';
+													echo "<a target='_blank' href='",$link."'>".$prospects_by_source['leads'].'</a>';
+													$total_tradeshow+=$prospects_by_source['leads'];
+													$total_leads_rep +=$prospects_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/prospect?repid=".$prospects_by_sources[0]['rep']."&from=".$prospects_by_sources[0]['from_time']."&to=".$prospects_by_sources[0]['to_time']."&source=";
+											foreach ($prospects_by_sources as $ind => $prospects_by_source)
+											{
+												if (strcasecmp($prospects_by_source['source'],'Other')==0)
+												{
+													$link .= 'Other';
+													echo "<a target='_blank' href='",$link."'>".$prospects_by_source['leads'].'</a>';
+													$total_other+=$prospects_by_source['leads'];
+													$total_leads_rep += $prospects_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										
+										<td><?= $total_leads_rep ?></td>																			
+									</tr>
+								<?php
+									$totalLeads +=$total_leads_rep;	
+								}				
+								?>		
+								<tr>
+									<td style="font-weight:bold">All</td>									
+									<td style="font-weight:bold"><?= $total_internet ?></td>	
+									<td style="font-weight:bold"><?= $total_referred ?></td>	
+									<td style="font-weight:bold"><?= $total_social ?></td>	
+									<td style="font-weight:bold"><?= $total_tradeshow ?></td>	
+									<td style="font-weight:bold"><?= $total_other ?></td>	
+									<td style="font-weight:bold"><?= $totalLeads ?></td>	
+								</tr>
+	                        </tbody>
+	                    </table>
+	                </div>
+	           
+	                
+	            </div>
+	            <!-- /.panel-body -->
+	        </div>
+	        <!-- /.panel -->
+	    </div>
+	</div>
+<?php	
+}
+?>
+
+<?php if (!empty($this->accouns_by_source))
+{
+?>
+	<div class="row" style="margin-left: 0px;margin-right:0px;">
+		<div class="col-sm-10">
+	        <div class="panel panel-default">
+	            <div class="panel-heading">
+	                Account Source Report
+	            </div>
+	      		<!-- panel-heading -->
+	           <div class="panel-body">           
+	           		<div class="alert alert-info" style="margin-bottom:10px">The report that allows us to see where each type of account that is in the system comes from based on how it is labeled in the system</div>
+	            	<div class="table-responsive">
+	                    <table class="table">
+	                        <thead>
+	                            <tr>
+	                            	<th>Rep</th>
+	                                <th>Internet Search</th>
+	                                <th>Referred</th>
+	                                <th>Social Media</th>
+	                                <th>Trade Show</th>	                                
+	                                <th>Other</th>
+	                                <th>Total</th>
+	                            </tr>
+	                        </thead>
+
+	                        <tbody>
+	                        	<?php		
+								$totalLeads=0;
+								$total_internet = 0;
+								$total_referred = 0;
+								$total_social = 0;
+								$total_tradeshow = 0;
+								$total_other = 0;
+								
+								foreach ($this->accouns_by_source as $key => $accouns_by_sources)
+								{				
+									
+									$total_leads_rep = 0;						
+								?>
+									<tr>									
+										<td><?= $accouns_by_sources[0]['parent_user'] ?></td>
+										<td><?php 
+											$cnt = 0;
+											$link = "/crm/accounts?repid=".$accouns_by_sources[0]['rep']."&from=".$accouns_by_sources[0]['from_time']."&to=".$accouns_by_sources[0]['to_time']."&source=";
+											foreach ($accouns_by_sources as $ind => $accouns_by_source)
+											{
+												if (strcasecmp($accouns_by_source['source'],'Internet')==0)
+												{
+													$link .= 'Internet';
+													echo "<a target='_blank' href='",$link."'>".$accouns_by_source['leads'].'</a>';
+													$total_internet+=$accouns_by_source['leads'];
+													$total_leads_rep += $accouns_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0;
+											$link = "/crm/accounts?repid=".$accouns_by_sources[0]['rep']."&from=".$accouns_by_sources[0]['from_time']."&to=".$accouns_by_sources[0]['to_time']."&source=";
+											foreach ($accouns_by_sources as $ind => $accouns_by_source)
+											{
+												if (strcasecmp($accouns_by_source['source'],'Referred')==0)
+												{
+													$link .= 'Referred';
+													echo "<a target='_blank' href='",$link."'>".$accouns_by_source['leads'].'</a>';
+													$total_referred+=$accouns_by_source['leads'];
+													$total_leads_rep += $accouns_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/accounts?repid=".$accouns_by_sources[0]['rep']."&from=".$accouns_by_sources[0]['from_time']."&to=".$accouns_by_sources[0]['to_time']."&source=";
+											foreach ($accouns_by_sources as $ind => $accouns_by_source)
+											{
+												if (strcasecmp($accouns_by_source['source'],'Social Media')==0)
+												{
+													$link .= 'Social Media';
+													echo "<a target='_blank' href='",$link."'>".$accouns_by_source['leads'].'</a>';
+													$total_social+=$accouns_by_source['leads'];
+													$total_leads_rep += $accouns_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/accounts?repid=".$accouns_by_sources[0]['rep']."&from=".$accouns_by_sources[0]['from_time']."&to=".$accouns_by_sources[0]['to_time']."&source=";
+											foreach ($accouns_by_sources as $ind => $accouns_by_source)
+											{
+												if (strcasecmp($accouns_by_source['source'],'Tradeshow')==0)
+												{
+													$link .= 'Tradeshow';
+													echo "<a target='_blank' href='",$link."'>".$accouns_by_source['leads'].'</a>';
+													$total_tradeshow+=$accouns_by_source['leads'];
+													$total_leads_rep +=$accouns_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										<td><?php 
+											$cnt = 0; 
+											$link = "/crm/accounts?repid=".$accouns_by_sources[0]['rep']."&from=".$accouns_by_sources[0]['from_time']."&to=".$accouns_by_sources[0]['to_time']."&source=";
+											foreach ($accouns_by_sources as $ind => $accouns_by_source)
+											{
+												if (strcasecmp($accouns_by_source['source'],'Other')==0)
+												{
+													$link .= 'Other';
+													echo "<a target='_blank' href='",$link."'>".$accouns_by_source['leads'].'</a>';
+													$total_other+=$accouns_by_source['leads'];
+													$total_leads_rep += $accouns_by_source['leads'];
+													$cnt = 1;
+													break;
+												}
+											}
+											if ($cnt==0)
+												echo '0';
+											?></td>
+										
+										<td><?= $total_leads_rep ?></td>																			
+									</tr>
+								<?php
+									$totalLeads +=$total_leads_rep;	
+								}				
+								?>		
+								<tr>
+									<td style="font-weight:bold">All</td>									
+									<td style="font-weight:bold"><?= $total_internet ?></td>	
+									<td style="font-weight:bold"><?= $total_referred ?></td>	
+									<td style="font-weight:bold"><?= $total_social ?></td>	
+									<td style="font-weight:bold"><?= $total_tradeshow ?></td>	
+									<td style="font-weight:bold"><?= $total_other ?></td>	
+									<td style="font-weight:bold"><?= $totalLeads ?></td>	
+								</tr>
+	                        </tbody>
+	                    </table>
+	                </div>
+	           
+	                
+	            </div>
+	            <!-- /.panel-body -->
+	        </div>
+	        <!-- /.panel -->
+	    </div>
+	</div>
+<?php	
+}
+?>
+
+
+<? if (!empty($this->accounts)): ?>
+   
+    <div class="col-lg-12">      
+        <div class="demo-info" style="margin-bottom:10px">
+            <div class="demo-tip icon-tip">&nbsp;</div>            
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading">Accounts</div>
+		  	<div class="panel-body">
+		       
+		        <table class="table table-bordered table-striped table-hover" id="account_conversion">
+		            <thead>
+		                <tr>
+		                	<th class="header">Rep</th>
+		                	<th class="header">Source</th>
+		                    <th class="header">Business Name</th>
+		                    <th class="header">Email</th>
+		                    <th class="header">Contact Name</th>
+		                   <!-- <th class="header">Account Owner</th>-->
+		                    <th class="header">Converted Time</th>
+		                    <th class="header">Created Time</th></tr>
+		            </thead>
+		            <tbody>
+		            	<?php							
+						foreach ($this->accounts as $key => $account)
+						{
+							foreach ($account as $ind => $account_ind)
+							{
+							?>
+							<tr>
+								<td><?= $account[$ind]['parent_user'] ?></td>
+								<td><?= $account[$ind]['source'] ?></td>
+		                        <td><?= $account[$ind]['businessname'] ?></td>      
+		                        <td><?= $account[$ind]['email'] ?></td>      
+		                        <td><?= $account[$ind]['name'] ?></td>
+		                        <!--<td><?= $account[$ind]['rep'] ?></td>      -->
+		                        <td><?= $account[$ind]['action_time'] ?></td>   
+		                        <td><?= $account[$ind]['created_time'] ?></td> 
+							</tr>
+							<?php
+							}
+						}				
+						?>
+		            </tbody>
+		        </table>
+		   </div>
+        </div>
+<? elseif (isset($this->isPost)) : ?>               
+        No accounts found.       
+<? endif; ?>
+ </div>
+
+</div>
+
+<!-- Dariuz Rubin -->    
+<link rel="stylesheet" href="/public/css/bootstrap-multiselect.css" type="text/css">
+<script type="text/javascript" src="/public/js/bootstrap-multiselect.js"></script>
+<!------------------>
+
+<script src="/public/js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script>
+    $(function() {
+        $("#from").datepicker({dateFormat: 'yy-mm-dd'});
+        $("#to").datepicker({dateFormat: 'yy-mm-dd'});        
+        $('#account_conversion').dataTable( {
+              "iDisplayLength": 50       
+        });  
+	    
+	    /* Dariuz Rubin */
+	    /* Multiselect for Rep */    		
+		 $('#rep').multiselect({
+		   includeSelectAllOption: true,
+		   buttonWidth: '100%',
+		   numberDisplayed: 2	   
+		});
+   });
+   /*=======================*/
+
+    $(".datepicker").datepicker({
+        changeYear: true,
+        dateFormat: 'yy-mm-dd'
+    });
+    
+    
+</script>

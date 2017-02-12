@@ -1,0 +1,29 @@
+2016-06-30T08:10:43-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"lastname";s:7:"Barrone";s:7:"user_id";s:3:"570";}
+2016-06-30T08:14:26-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"480-221-6605";s:7:"user_id";s:5:"10840";}
+2016-06-30T08:29:51-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:32:"http://www.stayafloatmarine.com/";s:7:"user_id";s:5:"16554";}
+2016-06-30T08:55:32-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:27:"2307 Fenton Pkwy. #107-126 ";s:7:"user_id";s:5:"16715";}
+2016-06-30T08:55:34-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"92108";s:7:"user_id";s:5:"16715";}
+2016-06-30T09:33:11-07:00 INFO (6): Kory Osborne--a:2:{s:8:"address1";s:24:"CIBC Building, 9 Main St";s:7:"user_id";s:4:"9718";}
+2016-06-30T10:16:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16359";}
+2016-06-30T10:22:59-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16392";}
+2016-06-30T10:33:49-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16704";}
+2016-06-30T11:16:28-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16410";}
+2016-06-30T11:40:46-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16066";}
+2016-06-30T11:57:37-07:00 INFO (6): Kory Osborne--a:2:{s:5:"email";s:20:" yingt1994@gmail.com";s:7:"user_id";s:4:"3593";}
+2016-06-30T12:04:47-07:00 INFO (6): Kory Osborne--a:2:{s:8:"address1";s:16:"18 East Broadway";s:7:"user_id";s:4:"3593";}
+2016-06-30T12:05:00-07:00 INFO (6): Kory Osborne--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:4:"3593";}
+2016-06-30T12:05:20-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16697";}
+2016-06-30T12:05:20-07:00 INFO (6): Kory Osborne--a:2:{s:3:"zip";s:5:"10002";s:7:"user_id";s:4:"3593";}
+2016-06-30T12:05:26-07:00 INFO (6): Kory Osborne--a:2:{s:4:"city";s:8:"New York";s:7:"user_id";s:4:"3593";}
+2016-06-30T12:28:36-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Lillian Marquez";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Lilian";s:8:"lastname";s:7:"Marquez";s:12:"contactphone";s:12:"818-207-7026";s:5:"email";s:34:"lillian@starhollywoodcosmetics.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"24655ae048f344ad4808abb35066bb2c40f91c8d";s:8:"username";s:15:"Lillian Marquez";s:12:"created_time";s:19:"2016-06-30 12:28:36";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"f2d313ff60540ef84fa2880a18150212";}
+2016-06-30T12:29:06-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:7:"Lillian";s:7:"user_id";s:5:"16726";}
+2016-06-30T12:30:44-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:13:"Mission Hills";s:7:"user_id";s:5:"16726";}
+2016-06-30T13:30:06-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14083";}
+2016-06-30T14:18:34-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:8:"Chiquita";s:7:"user_id";s:5:"16691";}
+2016-06-30T14:18:40-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:10:"Haliburton";s:7:"user_id";s:5:"16691";}
+2016-06-30T14:44:35-07:00 INFO (6): Kory Osborne--a:2:{s:8:"address1";s:26:"18 East Broadway Suite 603";s:7:"user_id";s:4:"3593";}
+2016-06-30T14:57:41-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14083";}
+2016-06-30T14:59:05-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:12:"Jonathan Ehr";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"WI";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"715-527-0124";s:6:"source";s:8:"Internet";s:9:"firstname";s:8:"Jonathan";s:8:"lastname";s:3:"Ehr";s:12:"contactphone";s:12:"715-527-0124";s:5:"email";s:25:"jonathanehr2013@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"95d886891491cab7bc2a6c440cdb00416257e9e7";s:8:"username";s:12:"Jonathan Ehr";s:12:"created_time";s:19:"2016-06-30 14:59:05";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"db66d55b6f2fca488be7bdc0339b7d86";}
+2016-06-30T14:59:15-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16727";}
+2016-06-30T15:12:40-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Austin Greene";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:8:"Puyallup";s:5:"state";s:2:"WA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Austin";s:8:"lastname";s:6:"Greene";s:12:"contactphone";s:12:"253-495-6508";s:5:"email";s:22:"ahgreene25@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"4f214370547066621a3a566f8784906aa03f6226";s:8:"username";s:13:"Austin Greene";s:12:"created_time";s:19:"2016-06-30 15:12:40";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"3a8704a1394341a3628b64d541100425";}
+2016-06-30T15:29:02-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16729";}

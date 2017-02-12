@@ -1,0 +1,80 @@
+2016-05-03T09:49:25-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"480-234-5776";s:7:"user_id";s:5:"16275";}
+2016-05-03T09:49:52-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:17:"Corrupt Cosmetics";s:7:"user_id";s:5:"16275";}
+2016-05-03T09:51:31-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:32:"http://www.corruptcosmetics.com/";s:7:"user_id";s:5:"16275";}
+2016-05-03T10:00:13-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Crystal";s:7:"user_id";s:5:"16274";}
+2016-05-03T10:00:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Crystal Dorazio";s:7:"user_id";s:5:"16274";}
+2016-05-03T10:00:19-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Crystal Dorazio";s:7:"user_id";s:5:"16274";}
+2016-05-03T10:02:32-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16274";}
+2016-05-03T10:09:22-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:15:"Jakia (Juh-Kia)";s:7:"user_id";s:5:"12985";}
+2016-05-03T10:19:32-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"3075";}
+2016-05-03T11:15:14-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15926";}
+2016-05-03T11:20:35-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15584";}
+2016-05-03T11:20:45-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15580";}
+2016-05-03T11:23:46-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15597";}
+2016-05-03T11:23:54-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15567";}
+2016-05-03T11:24:13-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15561";}
+2016-05-03T11:24:16-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15561";}
+2016-05-03T11:26:10-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:11:"Frohnhoefer";s:7:"user_id";s:5:"16084";}
+2016-05-03T11:27:28-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15554";}
+2016-05-03T11:27:41-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15513";}
+2016-05-03T11:27:56-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15504";}
+2016-05-03T11:28:04-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15486";}
+2016-05-03T11:28:19-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15465";}
+2016-05-03T11:28:32-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15433";}
+2016-05-03T11:29:20-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"12332";}
+2016-05-03T11:30:14-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14108";}
+2016-05-03T11:33:54-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"13041";}
+2016-05-03T11:44:40-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:8:"Mia cope";s:7:"user_id";s:5:"10436";}
+2016-05-03T12:01:22-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"2918";}
+2016-05-03T12:22:14-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:24:"(520) 456-7715 - bronwen";s:7:"user_id";s:5:"16271";}
+2016-05-03T13:27:33-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:",";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:13:"Fort Campbell";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"954-330-7996";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Araby";s:8:"lastname";s:7:"Ephraim";s:12:"contactphone";s:12:"954-330-7996";s:5:"email";s:22:"arabyephraim@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"b5d1e9b8a6989aa74789b2d5a7348c27c1b85ede";s:8:"username";s:1:",";s:12:"created_time";s:19:"2016-05-03 13:27:33";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c26813c2baf4e90d41515d95090ed34d";}
+2016-05-03T14:12:08-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:12:"Gazzy Smilez";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:16:"1910 Lynbrook Dr";s:8:"address2";s:0:"";s:4:"city";s:5:"Flint";s:5:"state";s:2:"MI";s:3:"zip";s:5:"48507";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"810-449-9999";s:6:"source";s:8:"Referred";s:9:"firstname";s:10:"Charolette";s:8:"lastname";s:10:"Strickland";s:12:"contactphone";s:12:"810-449-9999";s:5:"email";s:18:"cha.4cha@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:16:"Yvette Jefferson";s:4:"type";s:7:"Account";s:8:"password";s:40:"185e714c1f5bb0fa3e2e7e18870d57efae5d6574";s:8:"username";s:12:"Gazzy Smilez";s:12:"created_time";s:19:"2016-05-03 14:12:08";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"2a367db2f7e85b5ba18c89323c8c54c9";}
+2016-05-03T14:28:21-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:20:"3414 Evanston Avenue";s:7:"user_id";s:5:"11399";}
+2016-05-03T14:28:26-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"OH";s:7:"user_id";s:5:"11399";}
+2016-05-03T14:28:37-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"45207";s:7:"user_id";s:5:"11399";}
+2016-05-03T14:30:31-07:00 INFO (6): Stephanie Brown--a:2:{s:9:"firstname";s:9:"Charlotte";s:7:"user_id";s:5:"16278";}
+2016-05-03T15:01:41-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15926";}
+2016-05-03T15:02:50-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16272";}
+2016-05-03T15:03:25-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16269";}
+2016-05-03T15:03:49-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16267";}
+2016-05-03T15:04:47-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16264";}
+2016-05-03T15:05:01-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16262";}
+2016-05-03T15:05:14-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"260-446-4520";s:7:"user_id";s:5:"16259";}
+2016-05-03T15:05:19-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16259";}
+2016-05-03T15:12:03-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16254";}
+2016-05-03T15:12:23-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"16249";}
+2016-05-03T15:12:42-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16256";}
+2016-05-03T15:12:58-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16248";}
+2016-05-03T15:13:12-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16244";}
+2016-05-03T15:14:06-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16235";}
+2016-05-03T15:15:19-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Ryan";s:7:"user_id";s:5:"16276";}
+2016-05-03T15:15:24-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Ryan Wilby";s:7:"user_id";s:5:"16276";}
+2016-05-03T15:15:27-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Ryan Wilby";s:7:"user_id";s:5:"16276";}
+2016-05-03T15:16:29-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16224";}
+2016-05-03T15:16:38-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16276";}
+2016-05-03T15:20:26-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16222";}
+2016-05-03T15:20:57-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"937-536-2755";s:7:"user_id";s:5:"16222";}
+2016-05-03T15:42:01-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16217";}
+2016-05-03T15:43:40-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16212";}
+2016-05-03T15:44:23-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16211";}
+2016-05-03T15:55:27-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16201";}
+2016-05-03T16:03:20-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16200";}
+2016-05-03T16:06:11-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16190";}
+2016-05-03T16:06:27-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"16181";}
+2016-05-03T16:12:25-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:21:"alyssa@needsemail.com";s:7:"user_id";s:5:"16180";}
+2016-05-03T16:14:24-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16180";}
+2016-05-03T16:16:00-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16173";}
+2016-05-03T16:16:24-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16166";}
+2016-05-03T16:19:00-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16153";}
+2016-05-03T16:20:22-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16148";}
+2016-05-03T16:24:37-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16144";}
+2016-05-03T16:33:22-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16142";}
+2016-05-03T16:59:33-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16142";}
+2016-05-03T17:05:29-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16135";}
+2016-05-03T17:10:09-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16124";}
+2016-05-03T17:10:12-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16124";}
+2016-05-03T17:19:55-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:5:"Silva";s:7:"user_id";s:5:"16166";}
+2016-05-03T17:41:07-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16122";}
+2016-05-03T17:45:23-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16120";}
+2016-05-03T17:48:12-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16119";}
+2016-05-03T17:49:19-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16112";}

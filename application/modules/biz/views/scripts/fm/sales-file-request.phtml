@@ -1,0 +1,91 @@
+<link rel="stylesheet" type="text/css" href="/public/js/plugins/combobox/bootstrap-combobox.css">
+<script src="/public/js/plugins/combobox/bootstrap-combobox.js"></script>   
+
+
+<div class="row">    
+    <div class="col-lg-12">                   
+        <h2 class="page-header">File Request for Business Customers</h2>
+        <ol class="breadcrumb">                        
+            <li><a href="/fm/sales-file-list">Business Customer Files</a></li>
+            <li><a href="/fm/sales-file-requests">File Requests</a></li>           
+            <li><a href="/downloads/upload">Upload a File</a></li>            
+            <li class="active">Request a New File</li>
+        </ol>
+    </div>    
+</div>
+
+<div class="col-lg-8">   
+         <div class="panel panel-info">           
+            <div class="panel-heading">Request A file</div>
+            <div class="panel-body">
+        <?if (isset($this->error)):?>           
+             <div class="alert alert-danger alert-dismissable">
+                     <a class="close" data-dismiss="alert" href="#">×</a>
+                 <?= $this->error;?>                             
+            </div>
+        <?endif;?>
+       <? if (isset($this->message)): ?>           
+        <div class="alert alert-success alert-dismissable">
+            <a class="close" data-dismiss="alert" href="#">×</a>
+            <?= $this->message; ?>                             
+        </div>
+    <? endif; ?>
+        
+        <form class="form-horizontal" method="POST">                        
+                  
+        <div class="form-group">
+               <label for="category" class="col-sm-3 control-label required">Category</label>
+                <div class="col-sm-8">                    
+                    <select name="category"  id="category" class="form-control">
+                        <option value=""></option>
+                        <?foreach ($this->categories as $category): ?> 
+                        <option value="<?= $category['name'] ?>" <?if(isset($this->data['category']) && $this->data['category'] == $category['name']) echo 'selected';?>><?= $category['name']?></option>
+                        <?endforeach;?>                        
+                    </select>                     
+                </div>
+       </div>
+        
+        <div class="form-group">
+               <label for="fileType" class="col-sm-3 control-label required">File Type</label>
+                <div class="col-sm-8">                    
+                    <select name="fileType"  class="form-control">
+                        <option value=""></option>
+                        <?foreach ($this->fileTypes as $fileType): ?> 
+                        <option value="<?= $fileType ?>" <?if(isset($this->data['fileType']) && $this->data['fileType'] == $fileType) echo 'selected';?>><?= $fileType?></option>
+                        <?endforeach;?>                        
+                    </select>
+                </div>
+       </div> 
+        
+        <div class="form-group">
+                <label for="description" class="col-sm-3 control-label required">Description</label>
+                <div class="col-sm-8">
+                    <textarea  name="description" class="form-control" rows="3"><? if(isset($this->data['description'])) echo $this->data['description']?></textarea>
+                </div>
+        </div>
+            
+         <div class="form-group">
+             <label for="priority" class="col-sm-3 control-label">Priority</label>
+             <div class="col-sm-8">
+             <select name="priority"  class="form-control">
+                 <option value="normal" <?if($this->data['priority'] == 'normal') echo 'selected';?>>Normal</option>
+                 <option value="high" <?if($this->data['priority'] == 'high') echo 'selected';?>>High</option>
+                 <option value="urgent" <?if($this->data['priority'] == 'urgent') echo 'selected';?>>Urgent</option>
+             </select>      
+             </div>
+        </div>
+               
+        <p class="text-center"><input type="submit" class="btn btn-primary" value="Submit"></p>
+           
+      </form> 
+    </div>
+         </div>
+    </div>
+<script type="text/javascript">
+      //<![CDATA[
+        $(document).ready(function(){
+        //  $('#category').combobox();
+         
+        });
+      //]]>
+    </script>

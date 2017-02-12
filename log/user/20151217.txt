@@ -1,0 +1,27 @@
+2015-12-17T08:33:47-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"10221";}
+2015-12-17T08:33:58-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:7:"Pending";s:7:"user_id";s:5:"10221";}
+2015-12-17T08:36:00-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15020";}
+2015-12-17T08:36:07-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Shanika Carty";s:7:"user_id";s:5:"15020";}
+2015-12-17T08:36:09-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Shanika Carty";s:7:"user_id";s:5:"15020";}
+2015-12-17T09:23:08-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Karen Henstridge";s:7:"user_id";s:5:"15038";}
+2015-12-17T09:23:10-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Karen Henstridge";s:7:"user_id";s:5:"15038";}
+2015-12-17T09:25:32-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15038";}
+2015-12-17T09:36:36-08:00 INFO (6): Erika Rose--a:2:{s:6:"soldby";s:26:"Teeth Whitening Technology";s:7:"user_id";s:5:"14988";}
+2015-12-17T09:40:42-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:7:"Jasmine";s:7:"user_id";s:5:"14988";}
+2015-12-17T09:40:48-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Jasmine Logue";s:7:"user_id";s:5:"14988";}
+2015-12-17T09:40:50-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Jasmine Logue";s:7:"user_id";s:5:"14988";}
+2015-12-17T09:40:53-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14988";}
+2015-12-17T10:23:40-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"13124";}
+2015-12-17T10:45:29-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"240-351-0154";s:7:"user_id";s:5:"13177";}
+2015-12-17T12:07:13-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12246";}
+2015-12-17T12:20:39-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13177";}
+2015-12-17T12:22:28-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"13177";}
+2015-12-17T12:24:01-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Jazmin Padilla";s:7:"user_id";s:5:"11015";}
+2015-12-17T12:24:05-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:6:"Jazmin";s:7:"user_id";s:5:"11015";}
+2015-12-17T14:06:31-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:17:"FAX #818-709-5917";s:7:"user_id";s:5:"13124";}
+2015-12-17T14:46:07-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15039";}
+2015-12-17T14:47:39-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:239:"Recep called back. Says they are looking for a light that clamps to the dental chair. They are concerned about the length of ours. They aren't sure it will reach the patient. They currently use zoom but are not impressed with the results. ";s:7:"user_id";s:5:"15039";}
+2015-12-17T17:06:45-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:8:"Holloway";s:7:"user_id";s:5:"14615";}
+2015-12-17T17:06:49-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Carolyn Holloway";s:7:"user_id";s:5:"14615";}
+2015-12-17T17:07:28-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Carolyn Holloway";s:7:"user_id";s:5:"14611";}
+2015-12-17T17:30:25-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15007";}

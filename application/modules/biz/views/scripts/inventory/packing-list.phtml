@@ -1,0 +1,431 @@
+<head>
+     <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+     <style>
+         #left {
+             float:left;
+             margin-left: 0.15em;
+             width:325px;
+         }
+        /* #right {
+             margin-top: 10px;
+             margin-left: 23em;
+         }*/
+         table {
+            border-collapse: collapse; 
+         }
+        
+         .account {        
+             margin-top: 20px;
+             margin-bottom: 20px;                             
+         }
+
+         .account th {             
+             width: 12%;
+             border-top: 1px solid black;
+             font-weight: bold;
+             text-align: center;
+             border-right: 1px solid black;
+         }         
+        
+         .account th, .account td {
+             border-left: 1px solid black;
+             border-bottom: 1px solid black;
+             padding: 5px;
+             vertical-align:middle;    
+             font-size: 12px;
+         }
+         center {
+             margin-left: auto;
+             margin-right: auto;
+             align:center;
+             width: auto;
+         }
+         body {
+             background: #FFFFFF;             
+         }
+        
+         tfoot {
+             font-weight: bold;             
+         }
+         
+         body, td, th, input, select, textarea, option, optgroup {
+             float: none !important; 
+             font-family: Verdana, Arial, Helvetica, sans-serif;
+             font-size: 11pt;
+             color: #000000;   
+             margin-left: auto;
+             margin-right: auto;
+
+         }         
+     </style>
+     <style type="text/css" media="print">
+         page { size: landscape;}
+     </style>
+</head>
+<center>
+<table width="700px">
+   
+    <tr><td></td>
+        <td colspan="5" align="center"><h1>Packing List</h1></td></tr>
+    <tr><td></td><td colspan="5" align="center"><?= $this->entity['name']?></tr>
+    <tr><td></td><td colspan="5" align="center"><?= $this->entity['address']?></td></tr>
+    <tr><td></td><td colspan="5" align="center">Tel:<?= $this->entity['phone']?> Fax: <?= $this->entity['fax']?></td>
+    </tr>
+  
+</table>
+</center>
+
+<center><table width="700px" style="margin-top: 20px">
+        
+        <tr><td colspan="5"></td></tr>
+            
+        <tr><th align="left">Attn:</th><td width="20%"><?= $this->shipment['shipContact'] ?></td><td></td>
+            <th align="left">Date:</th><td><?= date("Y-m-d")?></td>
+        </tr>
+        <tr><th align="left">To:</th><td width="20%"><?= $this->shipTo['name'] ?></td><td></td>
+            <th align="left">Invoice:</th><td><?= $this->shipment['inventory_shipment_id']?></td>        
+        </tr>
+        <tr><th align="left">Tax ID:</th><td><?= $this->shipTo['taxId']?></td><td></td>
+            <th align="left">Page:</th><td></td>
+        </tr>
+        <tr><th align="left">Address:</th><td><?= $this->shipTo['address']?></td><td></td>
+            <td></td>
+            <td></td><td></td>        
+        </tr>
+        <tr><th align="left">Final Port:</th><td><?= $this->shipment['destination']?></td><td></td>
+            <th align="left">Container:</th><td><?= $this->shipment['container']?></tr>
+        <tr><td colspan="5"></td></tr>
+    </table>
+</center>
+
+    
+<center>
+   
+    <table class="account" width="750px" style="margin-top: 20px;">
+        
+    <tr>
+        <th>Item Number</th>
+        <th width="40%">Product</th>
+        <th><br>PCs/CTN</th>
+        <th><br>T/T CTN</th>
+        <th><br>T/T PCs</th>
+        <th>Volume/<br>CTN</th>
+        <th><br>T/T Volume (CBM)</th>
+        <th>G.W./CTN</th>
+        <th><br>T/T G.W (kgs)</th>
+    </tr>
+   
+        <? $totalBoxes = 0; $totalVol = 0.00; $totalWeight = 0; $totalQty = 0; $index = 0;
+           $totalItems = sizeof($this->shipmentItems); $boxTotal = 0;
+        ?>
+        <?foreach($this->shipmentItems as $shipmentItem){?>
+        <tr>
+            <td align="center"><?= $shipmentItem['itemNumber']?></td>
+            <td align="left" width="40%"><?= ucwords($shipmentItem['item'])?></td>
+            
+            <? /* $noBorder = ''; $lastTD = ''; $multi = 0; 
+                if( $index <= $totalItems-1 && $this->shipmentItems[$index]['box_id']) {
+                    $noBorder = 'style="border-bottom:none;"'; $lastTD = 'border-bottom:none;';   $multi = 1;
+                    if( $index+ 1 == $totalItems || isset($this->shipmentItems[$index+1]) && $this->shipmentItems[$index+1]['box_id'] != $this->shipmentItems[$index]['box_id']) {
+                        $noBorder = ''; $lastTD = ''; 
+                    }
+                    $boxTotal += $shipmentItem['quantity'];
+                } else {
+                    $boxTotal = 0;
+                }  */ 
+            ?>       
+            <? if ($shipmentItem['box_id']){?>
+                 <td align="right"><?= $shipmentItem['quantity']?></td>        
+                 <?  
+                   if(isset($box) && $box) {
+                        $boxItems = explode(',', $box['shipmentItem']);
+                        if (in_array($shipmentItem['shipment_items_id'], $boxItems)){
+                            $sameBox = 1;
+                        } else {
+                            $sameBox = 0;
+                        } 
+                    } else {
+                        $sameBox = 0;
+                    }
+                  
+                  if (!isset($sameBox) || $sameBox == 0) {
+                    $sameBox = 0;
+                    $this->m_inventory =  new Application_Model_Inventory;                   
+                    $box = $this->m_inventory->get_box($shipmentItem['box_id']);
+                  }?>
+                 <?if($sameBox ==0):?>
+                    <td align='right' rowspan=<?= $box['totalItems']?>>1</td>
+                    <td align='right' rowspan=<?= $box['totalItems']?>><?= $box['quantity']?></td>
+                    <td align='right' rowspan=<?= $box['totalItems']?>><?= $box['volPerBox']?></td>
+                    <td align='right' rowspan=<?= $box['totalItems']?>><?= $box['volPerBox']?></td>
+                    <td align='right' rowspan=<?= $box['totalItems']?>><?= $box['weightPerBox']?></td>
+                    <td align='right' rowspan=<?= $box['totalItems']?> style="border-right: 1px solid black;"><?= $box['weightPerBox']?></td>
+                    <? $totalBoxes += 1; 
+                       $totalVol += $box['volPerBox'];
+                       $totalWeight += $box['weightPerBox'];
+                       $totalQty += $box['quantity'];
+                    ?>
+                 <?endif?>
+                   
+                  
+            <?    
+               
+            } else {    
+            ?>
+            
+            <td align="right"><?= $shipmentItem['qtyPerBox']?></td>
+            <td align="right"><?= $shipmentItem['numberOfBoxes']?></td>
+            <td align="right"><?= $shipmentItem['quantity']?></td>
+            <td align="right"><?= $shipmentItem['volPerBox']?></td>
+            <?$rowVol = $shipmentItem['volPerBox'] * $shipmentItem['numberOfBoxes'];?>
+            <td align="right"><?= $rowVol== 0 ?'':$rowVol?></td>
+            <td align="right"><?= $shipmentItem['weightPerBox'] ?></td>
+            <? $rowWeight = $shipmentItem['weightPerBox'] * $shipmentItem['numberOfBoxes'];?>
+            <td align="right" style="border-right: 1px solid black;"><?= $rowWeight==0?'':$rowWeight?></td>
+            <? $totalBoxes += $shipmentItem['numberOfBoxes'];
+               $totalVol += $rowVol;
+               $totalWeight += $rowWeight;
+               $totalQty += $shipmentItem['quantity'];
+               ++$index;
+            }?>
+        </tr>
+            <?}?>
+    </tbody>
+    
+    <tfoot>    
+        <tr><td colspan="3" align="left">Total</td><td align="right"><?= $totalBoxes?></td><td align="right"><?= $totalQty?></td><td></td><td align="right"><?= $totalVol?></td><td></td>
+            <td align="right" style="border-right: 1px solid black;"><?= $totalWeight?></td></tr>
+        <tr><td rowspan="3" colspan="9" style="border:none;border-right: none;"><br> TOTAL: <?echo numberTowords($totalBoxes); ?> CARTON ONLY.</td></tr>
+    </tfoot>
+</table>
+    
+   
+    
+</center>
+
+
+<?
+function numberTowords($number) {
+   
+    $hyphen      = '-';
+    $conjunction = ' and ';
+    $separator   = ', ';
+    $negative    = 'negative ';
+    $decimal     = ' point ';
+    $dictionary  = array(
+        0                   => 'zero',
+        1                   => 'one',
+        2                   => 'two',
+        3                   => 'three',
+        4                   => 'four',
+        5                   => 'five',
+        6                   => 'six',
+        7                   => 'seven',
+        8                   => 'eight',
+        9                   => 'nine',
+        10                  => 'ten',
+        11                  => 'eleven',
+        12                  => 'twelve',
+        13                  => 'thirteen',
+        14                  => 'fourteen',
+        15                  => 'fifteen',
+        16                  => 'sixteen',
+        17                  => 'seventeen',
+        18                  => 'eighteen',
+        19                  => 'nineteen',
+        20                  => 'twenty',
+        30                  => 'thirty',
+        40                  => 'fourty',
+        50                  => 'fifty',
+        60                  => 'sixty',
+        70                  => 'seventy',
+        80                  => 'eighty',
+        90                  => 'ninety',
+        100                 => 'hundred',
+        1000                => 'thousand',
+        1000000             => 'million',
+        1000000000          => 'billion',
+        1000000000000       => 'trillion',
+        1000000000000000    => 'quadrillion',
+        1000000000000000000 => 'quintillion'
+    );
+   
+    if (!is_numeric($number)) {
+        return false;
+    }
+   
+    if (($number >= 0 && (int) $number < 0) || (int) $number < 0 - PHP_INT_MAX) {
+        // overflow
+        trigger_error(
+            'convert_number_to_words only accepts numbers between -' . PHP_INT_MAX . ' and ' . PHP_INT_MAX,
+            E_USER_WARNING
+        );
+        return false;
+    }
+
+    if ($number < 0) {
+        return $negative . convert_number_to_words(abs($number));
+    }
+    
+   
+    $string = $fraction = null;
+   
+    if (strpos($number, '.') !== false) {
+        list($number, $fraction) = explode('.', $number);
+    }
+   
+    switch (true) {
+        case $number < 21:
+            $string = $dictionary[$number];
+            break;
+        case $number < 100:
+            $tens   = ((int) ($number / 10)) * 10;
+            $units  = $number % 10;
+            $string = $dictionary[$tens];
+            if ($units) {
+                $string .= $hyphen . $dictionary[$units];
+            }
+            break;
+        case $number < 1000:
+            $hundreds  = $number / 100;
+            $remainder = $number % 100;
+            $string = $dictionary[$hundreds] . ' ' . $dictionary[100];
+            if ($remainder) {
+                $string .= $conjunction . convert_number_to_words($remainder);
+            }
+            break;
+        default:
+            $baseUnit = pow(1000, floor(log($number, 1000)));
+            $numBaseUnits = (int) ($number / $baseUnit);
+            $remainder = $number % $baseUnit;
+            $string = convert_number_to_words($numBaseUnits) . ' ' . $dictionary[$baseUnit];
+            if ($remainder) {
+                $string .= $remainder < 100 ? $conjunction : $separator;
+                $string .= convert_number_to_words($remainder);
+            }
+            break;
+    }
+   
+    if (null !== $fraction && is_numeric($fraction)) {
+        $string .= $decimal;
+        $words = array();
+        foreach (str_split((string) $fraction) as $number) {
+            $words[] = $dictionary[$number];
+        }
+        $string .= implode(' ', $words);
+    }
+   
+    return strtoupper($string);
+}
+function convert_number_to_words($number) {
+   
+    $hyphen      = '-';
+    $conjunction = ' and ';
+    $separator   = ', ';
+    $negative    = 'negative ';
+    $decimal     = ' point ';
+    $dictionary  = array(
+        0                   => 'zero',
+        1                   => 'one',
+        2                   => 'two',
+        3                   => 'three',
+        4                   => 'four',
+        5                   => 'five',
+        6                   => 'six',
+        7                   => 'seven',
+        8                   => 'eight',
+        9                   => 'nine',
+        10                  => 'ten',
+        11                  => 'eleven',
+        12                  => 'twelve',
+        13                  => 'thirteen',
+        14                  => 'fourteen',
+        15                  => 'fifteen',
+        16                  => 'sixteen',
+        17                  => 'seventeen',
+        18                  => 'eighteen',
+        19                  => 'nineteen',
+        20                  => 'twenty',
+        30                  => 'thirty',
+        40                  => 'fourty',
+        50                  => 'fifty',
+        60                  => 'sixty',
+        70                  => 'seventy',
+        80                  => 'eighty',
+        90                  => 'ninety',
+        100                 => 'hundred',
+        1000                => 'thousand',
+        1000000             => 'million',
+        1000000000          => 'billion',
+        1000000000000       => 'trillion',
+        1000000000000000    => 'quadrillion',
+        1000000000000000000 => 'quintillion'
+    );
+   
+    if (!is_numeric($number)) {
+        return false;
+    }
+   
+    if (($number >= 0 && (int) $number < 0) || (int) $number < 0 - PHP_INT_MAX) {
+        // overflow
+        trigger_error(
+            'convert_number_to_words only accepts numbers between -' . PHP_INT_MAX . ' and ' . PHP_INT_MAX,
+            E_USER_WARNING
+        );
+        return false;
+    }
+
+    if ($number < 0) {
+        return $negative . convert_number_to_words(abs($number));
+    }
+   
+    $string = $fraction = null;
+   
+    if (strpos($number, '.') !== false) {
+        list($number, $fraction) = explode('.', $number);
+    }
+   
+    switch (true) {
+        case $number < 21:
+            $string = $dictionary[$number];
+            break;
+        case $number < 100:
+            $tens   = ((int) ($number / 10)) * 10;
+            $units  = $number % 10;
+            $string = $dictionary[$tens];
+            if ($units) {
+                $string .= $hyphen . $dictionary[$units];
+            }
+            break;
+        case $number < 1000:
+            $hundreds  = $number / 100;
+            $remainder = $number % 100;
+            $string = $dictionary[$hundreds] . ' ' . $dictionary[100];
+            if ($remainder) {
+                $string .= $conjunction . convert_number_to_words($remainder);
+            }
+            break;
+        default:
+            $baseUnit = pow(1000, floor(log($number, 1000)));
+            $numBaseUnits = (int) ($number / $baseUnit);
+            $remainder = $number % $baseUnit;
+            $string = convert_number_to_words($numBaseUnits) . ' ' . $dictionary[$baseUnit];
+            if ($remainder) {
+                $string .= $remainder < 100 ? $conjunction : $separator;
+                $string .= convert_number_to_words($remainder);
+            }
+            break;
+    }
+   
+    if (null !== $fraction && is_numeric($fraction)) {
+        $string .= $decimal;
+        $words = array();
+        foreach (str_split((string) $fraction) as $number) {
+            $words[] = $dictionary[$number];
+        }
+        $string .= implode(' ', $words);
+    }
+   
+    return $string;
+}
+?>

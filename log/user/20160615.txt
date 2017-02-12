@@ -1,0 +1,65 @@
+2016-06-15T08:14:46-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16619";}
+2016-06-15T08:25:43-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16203";}
+2016-06-15T08:28:15-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:28:"16 Terry Close, Narre Warren";s:7:"user_id";s:5:"16203";}
+2016-06-15T08:28:24-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Melbourne";s:7:"user_id";s:5:"16203";}
+2016-06-15T08:43:52-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16593";}
+2016-06-15T08:47:38-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16619";}
+2016-06-15T09:23:31-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:16:"Refresh My Smile";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"949-910-9495";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Joanne";s:8:"lastname";s:7:"Villani";s:12:"contactphone";s:12:"949-910-9495";s:5:"email";s:26:"support@refreshmysmile.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a0a5b8eb5aa194d293e8d55b932a95f73fc23db9";s:8:"username";s:16:"Refresh My Smile";s:12:"created_time";s:19:"2016-06-15 09:23:31";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c660f7298d47ba300366adea906bf12d";}
+2016-06-15T09:30:25-07:00 INFO (6): Kory Osborne--a:27:{s:12:"businessname";s:7:"PA 0021";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:18:"2000 Columbia Ave.";s:8:"address2";s:0:"";s:4:"city";s:9:"Lancaster";s:5:"state";s:2:"PA";s:3:"zip";s:5:"17603";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"717-392-1772";s:6:"source";N;s:9:"firstname";s:5:"Erika";s:8:"lastname";s:7:"Taltlan";s:12:"contactphone";s:0:"";s:5:"email";s:22:"erikataltlan@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"2135b91b4032a11455f5632b9b3228809da00bcf";s:8:"username";s:7:"PA 0021";s:12:"created_time";s:19:"2016-06-15 09:30:25";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"0622d0cbfed047330069aa41f42c5e58";}
+2016-06-15T10:03:31-07:00 INFO (6): Kory Osborne--a:2:{s:8:"lastname";s:7:"Taltoan";s:7:"user_id";s:5:"16636";}
+2016-06-15T10:03:40-07:00 INFO (6): Kory Osborne--a:2:{s:5:"email";s:22:"erikataltoan@yahoo.com";s:7:"user_id";s:5:"16636";}
+2016-06-15T10:05:34-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:454:"BALANCE OF $2,212
+
+shipping address: 
+2 Lovett Gardens, Maidenhead, Berkshire, SL6 8HQ, United Kingdom
+
+Babak is helping a Dentist to create a private label kit so that he can give a way at his office to bring more patient in.
+
+Item Numbers: 15025 - Pen Clear 1.2 mL, Pro Teeth Whitening Co & 15026 - Pro Teeth Whitening Co pad printing plate.
+Amazon: https://www.amazon.co.uk/Teeth-Whitening-Pro-Co-Peroxide/dp/B01G26MV2A?ie=UTF8&*Version*=1&*entries*=0";s:7:"user_id";s:5:"10620";}
+2016-06-15T10:05:41-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:455:"BALANCE OF $2,212
+
+shipping address: 
+2 Lovett Gardens, Maidenhead, Berkshire, SL6 8HQ, United Kingdom
+
+Babak is helping a Dentist to create a private label kit so that he can give a way at his office to bring more patient in.
+
+Item Numbers: 15025 - Pen Clear 1.2 mL, Pro Teeth Whitening Co & 15026 - Pro Teeth Whitening Co pad printing plate.
+
+Amazon: https://www.amazon.co.uk/Teeth-Whitening-Pro-Co-Peroxide/dp/B01G26MV2A?ie=UTF8&*Version*=1&*entries*=0";s:7:"user_id";s:5:"10620";}
+2016-06-15T10:11:11-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:331:"BALANCE OF $2,212
+
+shipping address: 
+2 Lovett Gardens, Maidenhead, Berkshire, SL6 8HQ, United Kingdom
+
+Item Numbers: 15025 - Pen Clear 1.2 mL, Pro Teeth Whitening Co & 15026 - Pro Teeth Whitening Co pad printing plate.
+
+Amazon: https://www.amazon.co.uk/Teeth-Whitening-Pro-Co-Peroxide/dp/B01G26MV2A?ie=UTF8&*Version*=1&*entries*=0";s:7:"user_id";s:5:"10620";}
+2016-06-15T10:41:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:9:"Kimchheng";s:7:"user_id";s:5:"16631";}
+2016-06-15T10:41:22-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Kimchheng Kong";s:7:"user_id";s:5:"16631";}
+2016-06-15T10:41:24-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Kimchheng Kong";s:7:"user_id";s:5:"16631";}
+2016-06-15T10:41:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16631";}
+2016-06-15T11:50:11-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:12:"Andrea Young";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"864-990-8166";s:6:"source";N;s:9:"firstname";s:6:"Andrea";s:8:"lastname";s:5:"Young";s:12:"contactphone";s:12:"864-990-8166";s:5:"email";s:21:"cequanna.young@td.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"efac24057ff66ee05e323b24b75cfbd1f7383676";s:8:"username";s:12:"Andrea Young";s:12:"created_time";s:19:"2016-06-15 11:50:11";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"7fa3e34510440e37f98fad23c2261528";}
+2016-06-15T11:50:26-07:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:5:"16637";}
+2016-06-15T11:50:36-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"SC";s:7:"user_id";s:5:"16637";}
+2016-06-15T11:51:28-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"29301";s:7:"user_id";s:5:"16637";}
+2016-06-15T11:55:30-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:13:"Lewis-Colombo";s:7:"user_id";s:5:"16248";}
+2016-06-15T12:03:59-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16596";}
+2016-06-15T12:05:26-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:6:"Rhoden";s:7:"user_id";s:5:"16597";}
+2016-06-15T12:07:40-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16595";}
+2016-06-15T12:08:18-07:00 INFO (6): Cory Nielsen--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16598";}
+2016-06-15T12:09:18-07:00 INFO (6): Cory Nielsen--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16597";}
+2016-06-15T12:10:44-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16597";}
+2016-06-15T12:19:02-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16637";}
+2016-06-15T14:52:30-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"contactphone";s:12:"909-208-1527";s:7:"user_id";s:2:"98";}
+2016-06-15T14:59:50-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:15:"ddorati@aol.com";s:7:"user_id";s:2:"98";}
+2016-06-15T15:04:23-07:00 INFO (6): Jing Zeng--a:2:{s:12:"businessname";s:8:"VA Group";s:7:"user_id";s:5:"16239";}
+2016-06-15T15:47:27-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:40:"231 East Alessandro Blvd Suite A PMB 736";s:7:"user_id";s:2:"98";}
+2016-06-15T15:47:34-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Riverside";s:7:"user_id";s:2:"98";}
+2016-06-15T15:47:36-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"92508";s:7:"user_id";s:2:"98";}
+2016-06-15T16:09:06-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16613";}
+2016-06-15T16:33:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16365";}
+2016-06-15T16:58:04-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16553";}
+2016-06-15T17:00:24-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:22:"Pleasant Dental Center";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:33:"126A Pleasant Valley Street Ste 4";s:8:"address2";s:0:"";s:4:"city";s:7:"Methuen";s:5:"state";s:2:"MA";s:3:"zip";s:5:"01844";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"978-688-9200";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Julie";s:8:"lastname";s:1:".";s:12:"contactphone";s:12:"978-688-9200";s:5:"email";s:32:"pleasantdentalcenter@comcast.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:11:"tooth brush";s:4:"type";s:4:"Lead";s:8:"password";s:40:"79d936abcc737d7b6984c68d62a52222614918f0";s:8:"username";s:22:"Pleasant Dental Center";s:12:"created_time";s:19:"2016-06-15 17:00:24";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"d3887d3e18d839bf9d693649dc7a66fb";}
+2016-06-15T17:25:16-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:15:"112, av Leacock";s:7:"user_id";s:3:"595";}
+2016-06-15T17:25:42-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:7:"H9R 1H1";s:7:"user_id";s:3:"595";}

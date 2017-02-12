@@ -1,0 +1,26 @@
+2016-05-06T09:25:26-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:3:"729";}
+2016-05-06T09:56:16-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:7:"The Woo";s:7:"user_id";s:5:"16296";}
+2016-05-06T10:21:45-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"504-222-3081";s:7:"user_id";s:5:"16300";}
+2016-05-06T11:37:49-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"10338";}
+2016-05-06T12:08:10-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"203-690-7555";s:7:"user_id";s:3:"928";}
+2016-05-06T12:30:36-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:17:"Mary Anne Okupuno";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:7:"Houston";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"929-355-7592";s:6:"source";N;s:9:"firstname";s:9:"Mary Anne";s:8:"lastname";s:7:"Okupuno";s:12:"contactphone";s:12:"929-355-7592";s:5:"email";s:27:"mariannoclassics2@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"c4ba18730e95071d6210ba20f2a1e4e302159832";s:8:"username";s:17:"Mary Anne Okupuno";s:12:"created_time";s:19:"2016-05-06 12:30:36";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"8045acc6064585cc1f6523e803eabaf3";}
+2016-05-06T12:35:37-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"77084";s:7:"user_id";s:5:"16302";}
+2016-05-06T12:35:59-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16302";}
+2016-05-06T15:00:53-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:22:"602-569-9557 - Husband";s:7:"user_id";s:5:"16297";}
+2016-05-06T15:02:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:20:"2233 E Behrend Drive";s:7:"user_id";s:5:"16297";}
+2016-05-06T15:02:39-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Phoenix";s:7:"user_id";s:5:"16297";}
+2016-05-06T15:02:41-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"85024";s:7:"user_id";s:5:"16297";}
+2016-05-06T15:03:45-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:27:"10600 Southdown Trace Trail";s:7:"user_id";s:5:"15992";}
+2016-05-06T15:03:54-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"apt# 1201";s:7:"user_id";s:5:"15992";}
+2016-05-06T15:03:59-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"77034";s:7:"user_id";s:5:"15992";}
+2016-05-06T15:04:04-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Houston";s:7:"user_id";s:5:"15992";}
+2016-05-06T15:18:41-07:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"16297";}
+2016-05-06T15:20:14-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16297";}
+2016-05-06T15:28:41-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16303";}
+2016-05-06T15:32:14-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16303";}
+2016-05-06T16:00:46-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Julie Memmott";s:7:"user_id";s:5:"16304";}
+2016-05-06T16:00:50-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Julie Memmott";s:7:"user_id";s:5:"16304";}
+2016-05-06T16:00:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16304";}
+2016-05-06T16:08:20-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16304";}
+2016-05-06T16:10:58-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:15:"Winnekta Dental";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:8:"Winnekta";s:5:"state";s:2:"CA";s:3:"zip";s:5:"91306";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"818-676-0970";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Benny";s:8:"lastname";s:9:"Navidzaeh";s:12:"contactphone";s:12:"818-676-0970";s:5:"email";s:18:"drjoonam@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"587b3d2d5871886300f340098656da4667433a00";s:8:"username";s:15:"Winnekta Dental";s:12:"created_time";s:19:"2016-05-06 16:10:58";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"be428b07919b32cef34ac877b790a1da";}
+2016-05-06T16:20:47-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16305";}

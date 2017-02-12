@@ -1,0 +1,56 @@
+2016-05-25T09:20:38-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Ugochuks";s:7:"user_id";s:5:"16458";}
+2016-05-25T09:20:44-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Ugochuks Awa";s:7:"user_id";s:5:"16458";}
+2016-05-25T09:20:47-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Ugochuks Awa";s:7:"user_id";s:5:"16458";}
+2016-05-25T09:20:50-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16458";}
+2016-05-25T09:23:30-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:27:"richardoseibaah88@gmail.com";s:7:"user_id";s:5:"16455";}
+2016-05-25T09:57:03-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:20:"8 hours ahead of us.";s:7:"user_id";s:5:"16458";}
+2016-05-25T09:58:22-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:16:"Esmerelda Spitia";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"305-799-7074";s:6:"source";s:8:"Internet";s:9:"firstname";s:9:"Esmerelda";s:8:"lastname";s:6:"Spitia";s:12:"contactphone";s:12:"305-799-7074";s:5:"email";s:22:"arcekidipili@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"e8636e58c805bd74defa8743f2e1a62dcab2a3da";s:8:"username";s:16:"Esmerelda Spitia";s:12:"created_time";s:19:"2016-05-25 09:58:22";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"74298ecb463607ac533c1194a2858f03";}
+2016-05-25T09:59:32-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"FM";s:7:"user_id";s:5:"16459";}
+2016-05-25T09:59:36-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:5:"16459";}
+2016-05-25T09:59:40-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:5:"Miami";s:7:"user_id";s:5:"16459";}
+2016-05-25T10:52:23-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16096";}
+2016-05-25T11:17:49-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:11:"Luisa Nalls";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:18:"114-108 231 Street";s:8:"address2";s:0:"";s:4:"city";s:15:"Cambria Heights";s:5:"state";s:2:"NY";s:3:"zip";s:5:"11411";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"347-261-8611";s:6:"source";N;s:9:"firstname";s:5:"Luisa";s:8:"lastname";s:5:"Nalls";s:12:"contactphone";s:12:"347-261-8611";s:5:"email";s:16:"inals@icloud.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"cfce98171723448c47a362fa792b270a69dc061a";s:8:"username";s:11:"Luisa Nalls";s:12:"created_time";s:19:"2016-05-25 11:17:49";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"aceac0e11a8c917be67ebff65864872b";}
+2016-05-25T11:17:59-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16461";}
+2016-05-25T11:18:17-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16461";}
+2016-05-25T11:58:37-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16368";}
+2016-05-25T12:03:06-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Whittlesea";s:7:"user_id";s:5:"16368";}
+2016-05-25T12:07:53-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:17:"lnalls@icloud.com";s:7:"user_id";s:5:"16461";}
+2016-05-25T13:50:50-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11834";}
+2016-05-25T14:14:43-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16200";}
+2016-05-25T14:16:02-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:17:"786-478-3904 CELL";s:7:"user_id";s:5:"16367";}
+2016-05-25T14:16:06-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:22:"850-296-4432 - Husband";s:7:"user_id";s:5:"16367";}
+2016-05-25T14:27:13-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:4:"8115";}
+2016-05-25T14:40:45-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:12:"Crystal Kapp";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"ND";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Crystal";s:8:"lastname";s:5:"Krapp";s:12:"contactphone";s:12:"701-320-5073";s:5:"email";s:22:"crystcokrapp@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"85ce1d0df205906c0650d03ee420da6fe1a39192";s:8:"username";s:12:"Crystal Kapp";s:12:"created_time";s:19:"2016-05-25 14:40:44";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"4697cf97c5c8f452cfabea78ab0356d8";}
+2016-05-25T14:44:23-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:398:"Crystal used to work with Shauna Diede at Skintastic Lazer and is familiar with our products. She is starting at a new salon and called for info to share with the owner. We talked about her past experience and she said she was using AK's with a Futura Face. She was getting good results but got complaints of color regression within a month. I told her to sell DW Fusion as a maintenance product.  ";s:7:"user_id";s:5:"16463";}
+2016-05-25T14:54:31-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"12011";}
+2016-05-25T14:56:43-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:21:"cryscokrapp@yahoo.com";s:7:"user_id";s:5:"16463";}
+2016-05-25T15:06:14-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16256";}
+2016-05-25T15:06:26-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16367";}
+2016-05-25T15:16:19-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16279";}
+2016-05-25T15:16:43-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"9367";}
+2016-05-25T15:24:41-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11627";}
+2016-05-25T15:32:37-07:00 INFO (6): Stephanie Brown--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"13260";}
+2016-05-25T15:38:51-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:14:"1-832-339-9988";s:7:"user_id";s:5:"16464";}
+2016-05-25T15:39:25-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16464";}
+2016-05-25T15:51:29-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16464";}
+2016-05-25T15:55:32-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:702:"Summer just paid $300 to have her dentist whitening her teeth and is interested in offering TW in her spa. She doesn't know what he used but said she had to make 2 visits and wore a tray for 29 minutes each time but that the dentist did not use a light. She wasn't real excited with the results, thinks white strips work better. Said she just moved and wanted to bring TW in but she was looking for financing. I mentioned PayPal credit but she is already using that to pay off a microderm abrasion machine. She has $300 to spend and is considering bringing in take home kits to gauge interest. She said her spa has an active FB account so I asked her to post TW on there to see what the interest was.  ";s:7:"user_id";s:5:"16464";}
+2016-05-25T16:11:45-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:14:"Tammy Chappell";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"OH";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"216-278-4208";s:6:"source";N;s:9:"firstname";s:5:"Tammy";s:8:"lastname";s:8:"Chappell";s:12:"contactphone";s:12:"216-278-4208";s:5:"email";s:17:"lcinc12@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5462e534b223d5c9d0c06c23812c6c5ce35dab80";s:8:"username";s:14:"Tammy Chappell";s:12:"created_time";s:19:"2016-05-25 16:11:45";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"fa22a50a6b51eee92ceaecee3c56bdbd";}
+2016-05-25T16:12:53-07:00 INFO (6): Cory Nielsen--a:2:{s:13:"contactphone2";s:14:"+502-5203-7338";s:7:"user_id";s:4:"8510";}
+2016-05-25T16:15:16-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16467";}
+2016-05-25T16:15:31-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Cleveland";s:7:"user_id";s:5:"16467";}
+2016-05-25T16:16:59-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:57:"http://www.happilybeautifulmakeup.com/#!/page/162617/home";s:7:"user_id";s:5:"16465";}
+2016-05-25T16:17:15-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:0:"";s:7:"user_id";s:5:"16465";}
+2016-05-25T16:18:45-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16466";}
+2016-05-25T16:19:18-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16467";}
+2016-05-25T16:23:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Otto";s:7:"user_id";s:4:"8510";}
+2016-05-25T16:25:19-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"8510";}
+2016-05-25T16:27:51-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16465";}
+2016-05-25T16:27:53-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16465";}
+2016-05-25T16:29:57-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Otto Rehwoldt";s:7:"user_id";s:4:"8510";}
+2016-05-25T16:30:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Otto Rehwoldt";s:7:"user_id";s:4:"8510";}
+2016-05-25T16:35:17-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"5049";}
+2016-05-25T16:46:32-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:4:"8510";}
+2016-05-25T16:48:14-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16466";}
+2016-05-25T16:49:46-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:248:"Frank and his partners have a high end day spa with hundreds of customers. They are interested in adding new services and TW is one that they are looking at. What is important to him is that whatever they do had a professional look and feel to it. ";s:7:"user_id";s:5:"16466";}
+2016-05-25T16:49:59-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:23:"professional look/ feel";s:7:"user_id";s:5:"16466";}
+2016-05-25T16:56:47-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"978-340-2776";s:7:"user_id";s:5:"16462";}

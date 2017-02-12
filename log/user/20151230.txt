@@ -1,0 +1,46 @@
+2015-12-30T08:20:24-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"3805 Aspin Street";s:7:"user_id";s:5:"15037";}
+2015-12-30T08:20:35-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"VA";s:7:"user_id";s:5:"15037";}
+2015-12-30T08:20:46-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"23703";s:7:"user_id";s:5:"15037";}
+2015-12-30T08:22:45-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:10:"Individual";s:7:"user_id";s:5:"15037";}
+2015-12-30T09:08:57-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:22:"2910 Oak Shadow Circle";s:7:"user_id";s:5:"15015";}
+2015-12-30T09:09:03-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:8:"Bedford ";s:7:"user_id";s:5:"15015";}
+2015-12-30T09:09:12-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"76021";s:7:"user_id";s:5:"15015";}
+2015-12-30T09:13:51-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:24:"Rennesance Skin Boutique";s:7:"user_id";s:5:"15015";}
+2015-12-30T09:19:18-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14722";}
+2015-12-30T09:25:47-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15087";}
+2015-12-30T09:25:50-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Barbara";s:7:"user_id";s:5:"15087";}
+2015-12-30T09:25:55-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Barbara Rockwell";s:7:"user_id";s:5:"15087";}
+2015-12-30T09:25:57-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Barbara Rockwell";s:7:"user_id";s:5:"15087";}
+2015-12-30T09:51:00-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:12:"208 ave 1 NE";s:7:"user_id";s:4:"2941";}
+2015-12-30T10:03:05-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"11687";}
+2015-12-30T10:06:25-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"11687";}
+2015-12-30T10:06:51-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15015";}
+2015-12-30T10:45:40-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14777";}
+2015-12-30T10:54:45-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14528";}
+2015-12-30T11:00:37-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"15063";}
+2015-12-30T11:49:41-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:4:"9587";}
+2015-12-30T11:49:51-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:7:"Pending";s:7:"user_id";s:4:"9587";}
+2015-12-30T11:58:53-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:4:"8962";}
+2015-12-30T11:58:55-08:00 INFO (6): Erika Rose--a:2:{s:6:"soldby";s:14:"Sapient Dental";s:7:"user_id";s:4:"8962";}
+2015-12-30T12:02:26-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14773";}
+2015-12-30T12:22:22-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14770";}
+2015-12-30T12:26:54-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14559";}
+2015-12-30T12:43:19-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:259:"BALANCE OF $10,712
+
+Babak is helping a Dentist to create a private label kit so that he can give a way at his office to bring more patient in.
+
+Item Numbers: 15025 - Pen Clear 1.2 mL, Pro Teeth Whitening Co & 15026 - Pro Teeth Whitening Co pad printing plate.";s:7:"user_id";s:5:"10620";}
+2015-12-30T13:30:25-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"11687";}
+2015-12-30T13:31:11-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Morton";s:7:"user_id";s:5:"14167";}
+2015-12-30T14:01:08-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"8962";}
+2015-12-30T14:01:11-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:4:"8962";}
+2015-12-30T17:02:25-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"12143";}
+2015-12-30T17:11:22-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"305 Hoskins Place";s:7:"user_id";s:5:"12143";}
+2015-12-30T17:11:27-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:20:"Pottstown Dental Spa";s:7:"user_id";s:5:"12143";}
+2015-12-30T17:11:37-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"19602";s:7:"user_id";s:5:"12143";}
+2015-12-30T17:11:41-08:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"12143";}
+2015-12-30T17:11:43-08:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"12143";}
+2015-12-30T17:14:59-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"506-452-9001";s:7:"user_id";s:3:"333";}
+2015-12-30T21:10:39-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:17:"Lamees Abounassif";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AS";s:3:"zip";s:0:"";s:7:"country";s:2:"SA";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:6:"Lamees";s:8:"lastname";s:10:"Abounassif";s:12:"contactphone";s:0:"";s:5:"email";s:20:"artal_dent@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"768999ab99a268fa8a9ecc4b49db913c7374fd94";s:8:"username";s:17:"Lamees Abounassif";s:12:"created_time";s:19:"2015-12-30 21:10:39";s:2:"ip";s:14:"73.164.223.221";s:4:"salt";s:32:"3566ba59eaec2177bf0b082b45ac0468";}
+2015-12-30T21:10:50-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15092";}
+2015-12-30T21:10:53-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15092";}

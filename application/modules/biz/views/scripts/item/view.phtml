@@ -1,0 +1,73 @@
+
+<head>	
+	<title>Beaming White - Edit Items</title>	
+        <link rel="stylesheet" type="text/css" href="/public/js/jquery/easyui/themes/default/easyui.css">
+        <link rel="stylesheet" type="text/css" href="/public/js/jquery/easyui/themes/icon.css">	
+                     
+        <script src="/public/js/jquery.easyui.min.js"></script>   
+        <script type="text/javascript" src="/public/js/jquery/jquery.edatagrid.js"></script>
+        <script type="text/javascript" src="http://www.jeasyui.com/easyui/datagrid-filter.js"></script>
+        
+         <!--script type="text/javascript" src="http://www.jeasyui.com/easyui/jquery.easyui.min.js"></script-->
+        
+        <script type="text/javascript">
+		$(function(){
+                    
+			$('#dg').edatagrid({                               
+                                url: 'get-raw-material',
+				saveUrl: 'save-raw-material',
+				updateUrl: 'update-raw-material',
+				destroyUrl: 'delete-raw-material',
+                                onError: function(index,row){
+                                    alert(row.msg);
+                                }, 
+                                autoSave:false,                                
+			});
+                        $('#dg').datagrid('enableFilter');    // enable filter
+                        
+		});
+	</script>
+</head>
+
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Items</h2>
+        <ol class="breadcrumb">
+            <li><a href="/inventory/company">Companies</a></li>             
+            <li><a href="/inventory/create-order">Create Order</a></li>
+            <li><a href="/inventory/create-shipment">Create Shipment</a></li>                 
+            <li><a href="/inventory/stock">Current Inventory</a></li>           
+            <li><a href="/inventory/quantity">Inventory Adjustment</a></li>             
+            <li><a href="/inventory/find-item">Item History</a></li>             
+            <li><a href="/inventory/view">Orders</a></li>            
+            <li><a href="/inventory/shipments">Shipments</a></li>
+            <li class="active">Items</li>
+        </ol>
+    </div>    
+</div>
+
+    <div class="row"> 
+    
+    <div class="col-lg-12">  
+        	
+	<table id="dg" title="Items" style="width:auto;height:auto"
+			toolbar="#toolbar" idField="id" sortName="name" sortOrder="asc"
+			rownumbers="true" fitColumns="true" singleSelect="true">
+		<thead>
+			<tr>  <th field="itemNumber" width="10"  sortable="true" editor="{type:'validatebox',sortable:'true', options:{required:true}}">Item Number</th>
+				<th field="name" width="35" sortable="true" align="left" editor="{type:'validatebox',options:{required:true}}">Description</th>	
+                                <th field="invoice_name" sortable="true" width="35" align="left" editor="{type:'validatebox',options:{required:true}}">Commercial Invoice Name</th>	
+                                <th field="fdaNumber" sortable="true" width="10" align="left" editor="{type:'validatebox'}">FDA Number</th>	
+			</tr>
+		</thead>
+	</table>
+	<div id="toolbar">
+		<a href="#" class="easyui-linkbutton" iconCls="icon-add" plain="true" onclick="javascript:$('#dg').edatagrid('addRow')">New</a>
+		<a href="#" class="easyui-linkbutton" iconCls="icon-remove" plain="true" onclick="javascript:$('#dg').edatagrid('destroyRow')">Remove</a>
+		<a href="#" class="easyui-linkbutton" iconCls="icon-save" plain="true" onclick="javascript:$('#dg').edatagrid('saveRow')">Save</a>
+		<a href="#" class="easyui-linkbutton" iconCls="icon-undo" plain="true" onclick="javascript:$('#dg').edatagrid('cancelRow')">Cancel</a>
+	</div>
+        
+        
+    </div>
+    </div>

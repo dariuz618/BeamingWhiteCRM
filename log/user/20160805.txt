@@ -1,0 +1,62 @@
+2016-08-05T00:00:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17136";}
+2016-08-05T00:00:28-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Kerrie Osuna";s:7:"user_id";s:5:"17136";}
+2016-08-05T00:00:31-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Kerrie Osuna";s:7:"user_id";s:5:"17136";}
+2016-08-05T10:57:00-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:415:"10mL Syringe Carbamide Peroxide 3000 units: $3.00 each 6000 units: $2.00 each 9000 units: $1.50 each 5mL  Syringe Carbamide Peroxide 3000 units: $2.50 each 6000 units: $1.50 each 9000 units: $1.25 each 3mL  Syringe Carbamide Peroxide 3000 units: $2.25 each 6000 units: $1.25 each 9000 units: $1.10 each 2mL Touch Up Pen with Carbamide Peroxide  3000 units: $3.50 each 6000 units: $2.50 each 9000 units: $1.50 each
+
+";s:7:"user_id";s:5:"17039";}
+2016-08-05T10:57:24-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:417:"10mL Syringe Carbamide Peroxide 3000 units: $3.00 each 
+6000 units: $2.00 each 9000 units: $1.50 each 
+5mL  Syringe Carbamide Peroxide 3000 units: $2.50 each 6000 units: $1.50 each 9000 units: $1.25 each 3mL  Syringe Carbamide Peroxide 3000 units: $2.25 each 6000 units: $1.25 each 9000 units: $1.10 each 2mL Touch Up Pen with Carbamide Peroxide  3000 units: $3.50 each 6000 units: $2.50 each 9000 units: $1.50 each
+
+";s:7:"user_id";s:5:"17039";}
+2016-08-05T10:58:09-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:429:"10mL Syringe Carbamide Peroxide 3000 units: $3.00 each 
+6000 units: $2.00 each 9000 units: $1.50 each 
+
+5mL  Syringe Carbamide Peroxide 3000 units: $2.50 each 
+6000 units: $1.50 each 
+9000 units: $1.25 each 
+
+3mL  Syringe Carbamide Peroxide 3000 units: $2.25 each 
+6000 units: $1.25 each 
+9000 units: $1.10 each 
+
+2mL Touch Up Pen with Carbamide Peroxide  
+3000 units: $3.50 each 
+6000 units: $2.50 each 
+9000 units: $1.50 each
+
+";s:7:"user_id";s:5:"17039";}
+2016-08-05T10:58:37-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:432:"10mL Syringe Carbamide Peroxide 
+3000 units: $3.00 each 
+6000 units: $2.00 each 9000 units: $1.50 each 
+
+5mL  Syringe Carbamide Peroxide 
+3000 units: $2.50 each 
+6000 units: $1.50 each 
+9000 units: $1.25 each 
+
+3mL  Syringe Carbamide Peroxide 
+3000 units: $2.25 each 
+6000 units: $1.25 each 
+9000 units: $1.10 each 
+
+2mL Touch Up Pen with Carbamide Peroxide  
+3000 units: $3.50 each 
+6000 units: $2.50 each 
+9000 units: $1.50 each
+
+";s:7:"user_id";s:5:"17039";}
+2016-08-05T11:57:50-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:12:"609 E Street";s:7:"user_id";s:4:"9483";}
+2016-08-05T12:43:05-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:25:"The Artist known as Milan";s:7:"user_id";s:5:"16874";}
+2016-08-05T12:43:11-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16874";}
+2016-08-05T12:52:56-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:30:"HE GETS GENERIC PRODUCTS ONLY ";s:7:"user_id";s:5:"16874";}
+2016-08-05T13:59:20-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:19:"Gentle Touch Lasers";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:15:"456 King Street";s:8:"address2";s:0:"";s:4:"city";s:9:"Rochester";s:5:"state";s:2:"NY";s:3:"zip";s:5:"10573";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"914-882-2422";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Maria";s:8:"lastname";s:5:"Maria";s:12:"contactphone";s:12:"914-882-2422";s:5:"email";s:26:"info@gentletouchlasers.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"809235d83e11f3a3e490266c2a2c8478d54892ab";s:8:"username";s:19:"Gentle Touch Lasers";s:12:"created_time";s:19:"2016-08-05 13:59:20";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"d7f6b30c1317951992bd73d7a9b43ce1";}
+2016-08-05T13:59:26-07:00 INFO (6): Alison Duff--a:2:{s:8:"lastname";s:0:"";s:7:"user_id";s:5:"17143";}
+2016-08-05T14:03:01-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:14:"Latonya Bryant";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"248-835-8764";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Latonya";s:8:"lastname";s:6:"Bryant";s:12:"contactphone";s:12:"248-835-8764";s:5:"email";s:21:"needlatonya@email.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"0da84c1984dd2e60d51a15922189b468eb1f165a";s:8:"username";s:14:"Latonya Bryant";s:12:"created_time";s:19:"2016-08-05 14:03:01";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"bb65d7d04cb0a0c5d839f2ebd79fccec";}
+2016-08-05T16:03:05-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:21:"Indigo Lotus Wellness";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"805-796-2771";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Marlena";s:8:"lastname";s:6:"Gasper";s:12:"contactphone";s:12:"805-796-2771";s:5:"email";s:29:"indigolotuswellness@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8342c2cf0266238f3a96371e85f072361fab1a5d";s:8:"username";s:21:"Indigo Lotus Wellness";s:12:"created_time";s:19:"2016-08-05 16:03:05";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"e0dae0aa0fbf4f1fd9d6627b123b6a00";}
+2016-08-05T16:22:58-07:00 INFO (6): Taylor Grady--a:2:{s:5:"email";s:21:"Daneile55@live.com.au";s:7:"user_id";s:5:"11414";}
+2016-08-05T17:31:39-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:16:"CMG Hair Studios";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"754-252-4972";s:6:"source";s:8:"Internet";s:9:"firstname";s:9:"Joahnette";s:8:"lastname";s:5:"Brown";s:12:"contactphone";s:12:"754-252-4972";s:5:"email";s:24:"cmghairstudios@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a82990414ffecaa810cedba75afde567d50cec0f";s:8:"username";s:16:"CMG Hair Studios";s:12:"created_time";s:19:"2016-08-05 17:31:39";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6ef067de0b27f7835215543d8bf6b9bf";}
+2016-08-05T17:31:49-07:00 INFO (6): Alison Duff--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"17146";}
+2016-08-05T17:31:57-07:00 INFO (6): Alison Duff--a:2:{s:11:"source_text";s:21:"Premiere Orlando 2016";s:7:"user_id";s:5:"17146";}
+2016-08-05T20:10:41-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16980";}
+2016-08-05T20:31:34-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"16946";}

@@ -1,0 +1,463 @@
+
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Sales CRM - Branch</h2>        
+    </div>    
+</div>
+
+
+<?
+    $id = $this->user['id'];
+    $link_param = "/id/".$id;
+
+    
+?>
+
+<head>    
+    <!--link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">    
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script--> 
+    <link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/css/jqueryui-editable.css" rel="stylesheet"/>
+    <link href="/public/css/jquery.datetimepicker.css" rel="stylesheet" />
+	<script src="/public/js/jquery/jquery.datetimepicker.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/js/jqueryui-editable.min.js"></script> 
+    <script src="/public/js/jquery/jquery-editable-poshytip.js"></script>    
+   	
+</head>
+
+
+<div class="row">
+	<form name="branch_info_form" id="branch_info_form" method="post" enctype="multipart/form-data">
+		<div class="row">
+			<div class="col-sm-offset-1 col-sm-10 customer-detail-col">
+				<table class="table my-table-font" cellspacing="0" cellpadding="0">	
+					 <tbody>					 	
+					    <tr>
+					        <td class = "customer-detail-left-field customer-detail-font">Branch Name</td>
+					        <td>	
+					        	<input  type="text" class="customer-detail-field customer-detail-font" name="branch_name" id="branch_name" value="<?php		 
+					        		if (isset($_POST['branch_name'])) 
+					        			echo $_POST['branch_name'];
+					        		?>"/>   					        		
+					        </td>	
+					         <td align="right">					    	
+			                	<button type="button"  class="btn btn-primary  customer-detail-button customer-detail-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  id="save_btn" name="save_btn" style="width:120px">Save</button>			                	
+					        </td>				        
+					    </tr>							    			       
+					 </tbody>
+				</table>				
+			</div>
+		</div>
+		<br />
+		<div class="row">
+			<div class="col-sm-offset-1 col-sm-10 customer-detail-col">
+				<div class="panel customer-detail-panel">
+					<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Contact & Company Information</div>
+					<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+						<table class="table my-table-font" cellspacing="0" cellpadding="0">				
+							 <tbody>					 	
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Business Name</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="businessname" id="businessname" value="<?php		 
+					        		if (isset($_POST['businessname'])) 
+					        			echo $_POST['businessname'];
+					        		?>"/>
+							        </td>					        
+							    </tr>
+								<tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Business Type</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="businesstype" id="businesstype" value="<?php		 
+					        		if (isset($_POST['businesstype'])) 
+					        			echo $_POST['businesstype'];
+					        		?>"/>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">First Name</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="firstname" id="firstname"  value="<?php		 
+					        		if (isset($_POST['firstname'])) 
+					        			echo $_POST['firstname'];
+					        		?>"/>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Last Name</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="lastname" id="lastname" value="<?php		 
+					        		if (isset($_POST['lastname'])) 
+					        			echo $_POST['lastname'];
+					        		?>"/>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Phone</td>
+							        <td>		
+							        	<?php
+							        		
+							        		for ($i=0;$i<5;$i++)
+							        		{
+							        			$id = "contact_phone_". $i;
+											?>
+											<div class="row input-group "  id = '<?= $id?>' style="<?php 
+												if ($i) 
+													echo 'display:none';
+												?>">
+									        	<div>
+									        		<input class="customer-detail-field customer-detail-font customer-detail-added" name="contactphones[]" type="text"/>	
+											    </div>
+											 	<span class="input-group-btn">
+							                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="addInputFirstContactPhone('<?=$i?>');" >
+							                        	<span class="glyphicon glyphicon-plus"></span>
+							                        </button>
+							                    </span>										
+				                            </div>
+											<?php	
+											}
+							        	?>
+			                                                    
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Email</td>
+							        <td>		
+							        	<?php
+							        		
+							        		for ($i=0;$i<5;$i++)
+							        		{
+							        			$id = "contact_email_". $i;
+											?>
+											<div class="row input-group "  id = '<?= $id?>' style="<?php 
+												if ($i)  
+													echo 'display:none';
+												?>">
+									        	<div>
+									        		<input class="customer-detail-field customer-detail-font customer-detail-added" name="contactemails[]" type="text" />	
+											    </div>
+											 	<span class="input-group-btn">
+							                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="addInputFirstContactEmail('<?=$i?>');" >
+							                        	<span class="glyphicon glyphicon-plus"></span>
+							                        </button>
+							                    </span>										
+				                            </div>
+											<?php	
+											}
+							        	?>						        	 
+			                                        
+							        </td>					        
+							    </tr>					  
+							       
+							 </tbody>
+						</table>
+						<table class="table my-table-font" cellspacing="0" cellpadding="0"  id="secondaryContactTable">				
+							 <tbody>		
+							 	<tr style="margin-bottom: 20px">
+							        <td class = "customer-detail-left-field customer-detail-font" colspan="2" align="center" style="color:black;font-size:19px">Secondary Contact & Company Information</td>					        
+							    </tr>			 	
+							   	<tr style="height:15px">&nbsp;</tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Business Name</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="secondary_businessname" id="secondary_businessname" value="<?php		 
+					        		if (isset($_POST['secondary_businessname'])) 
+					        			echo $_POST['secondary_businessname'];
+					        		?>"/>
+							        </td>					        
+							    </tr>
+								<tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Business Type</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="secondary_businesstype" id="secondary_businesstype" value="<?php		 
+					        		if (isset($_POST['secondary_businesstype'])) 
+					        			echo $_POST['secondary_businesstype'];
+					        		?>"/>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">First Name</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="secondary_firstname" id="secondary_firstname" value="<?php		 
+					        		if (isset($_POST['secondary_firstname'])) 
+					        			echo $_POST['secondary_firstname'];
+					        		?>"/>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Last Name</td>
+							        <td>					        						        	
+							        	<input  type="text" class="customer-detail-field customer-detail-font" name="secondary_lastname" id="secondary_lastname" value="<?php		 
+					        		if (isset($_POST['secondary_lastname'])) 
+					        			echo $_POST['secondary_lastname'];
+					        		?>"/>
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Phone</td>
+							        <td>		
+							        	<?php
+							        		
+							        		for ($i=0;$i<5;$i++)
+							        		{
+							        			$id = "secondary_contact_phone_". $i;
+											?>
+											<div class="row input-group "  id = '<?= $id?>' style="<?php 
+												if ($i)  
+													echo 'display:none';
+												?>">
+									        	<div>
+									        		<input class="customer-detail-field customer-detail-font customer-detail-added" name="secondary_contactphones[]" type="text"/>	
+											    </div>
+											 	<span class="input-group-btn">
+							                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  type="button" onClick="addInputSecondaryContactPhone('<?=$i?>');" >
+							                        	<span class="glyphicon glyphicon-plus"></span>
+							                        </button>
+							                    </span>										
+				                            </div>
+											<?php	
+											}
+							        	?>						        	
+							        </td>					        
+							    </tr>
+							    <tr>
+							        <td class = "customer-detail-left-field customer-detail-font">Email</td>
+							        <td>
+							        	<?php
+							        		
+							        		for ($i=0;$i<5;$i++)
+							        		{
+							        			$id = "secondary_contact_email_". $i;
+											?>
+											<div class="row input-group "  id = '<?= $id?>' style="<?php 
+												if ($i)  
+													echo 'display:none';
+												?>">
+									        	<div>
+									        		<input class="customer-detail-field customer-detail-font customer-detail-added" name="secondary_contactemails[]" type="text"/>	
+											    </div>
+											 	<span class="input-group-btn">
+							                        <button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>" type="button" onClick="addInputSecondaryContactEmail('<?=$i?>');" >
+							                        	<span class="glyphicon glyphicon-plus"></span>
+							                        </button>
+							                    </span>										
+				                            </div>
+											<?php	
+											}
+							        	?>						      		
+							        	
+			                                        
+							        </td>					        
+							    </tr>
+							 </tbody>
+						</table>				
+					</div>
+				</div>			
+			</div>		
+		</div>
+		
+	
+	</form>
+</div>
+
+<script>    
+
+	function addInputFirstContactPhone(ind){
+		ind++;
+		var divName = 'contact_phone_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+	
+	}
+	function addInputFirstContactEmail(ind){
+		
+		ind++;
+		var divName = 'contact_email_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+		
+	}
+	function addInputSecondaryContactPhone(ind){
+		ind++;
+		var divName = 'secondary_contact_phone_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+	
+	}
+	function addInputSecondaryContactEmail(ind){
+		ind++;
+		var divName = 'secondary_contact_email_'+ind;
+		console.log(divName);
+		document.getElementById(divName).style.display="inline-table";
+	}
+
+	$(document).ready(function() {   
+    
+	     $("#save_btn").click(function() {
+	     	var branch_name = $("#branch_name").val();
+	     	
+	     	if (branch_name.length ==0)
+	     		alert("Please input Branch Nmae");
+	     	else
+	     	{
+				dataString = $("#branch_info_form").serialize();        
+			 	$.ajax({
+		            url: '/crm/create-branch<?= $link_param?>',
+		            data: dataString,
+		            dataType: 'html',
+		            type: "POST",            
+		            success: function(res){
+		            	console.log(res);
+		                if (res == 'Success')
+		                {
+							alert("New Branch is successfully created!");
+						}
+		            }
+		        });
+			}
+		 	
+	     });  
+	});
+	
+</script>
+
+<style type="text/css">
+	.customer-detail-font{
+		font-size: 12px !important;
+		font-family :Verdana, Arial, Helvetica, sans-serif;	    
+	    font-style: italic !important;
+	}
+	.customer-detail-black-font{
+		font-size: 12px !important;
+		font-family :Verdana, Arial, Helvetica, sans-serif;	    
+	    font-style: italic !important;
+	    color: black;
+	}
+	 
+	.customer-detail-section-head-font{
+		font-size: 16px !important;
+		text-align: center;
+	}
+	.customer-detail-field{
+		width: 100%;
+	    border: 2px solid #c4c4c4;
+	    border-radius: 3px;
+	    
+	}
+	.customer-detail-date-field{
+		width: 40%;
+	    
+	}
+	.customer-detail-image-field{
+		background-image: url(/public/image/calendar.png);
+	  	background-position: 5px 50%;
+	  	background-repeat: no-repeat;	 	
+	 	padding-left: 35px;
+	 	width: 100%;
+	 	color: black;
+	}
+	.customer-detail-left-field{
+		width: 40%;
+	    color: #737373;
+	    vertical-align: middle !important;
+	}
+	.customer-detail-left-activity-field{
+		width: 65%;
+	    color: #737373;
+	    vertical-align: middle !important;
+	}
+	.customer-detail-button{
+		/*    width: 100%;
+	    height: 112%;
+	    padding-top: 5px;
+	    padding-bottom: 0px;*/
+	    border-radius: 0px;
+	    width: 100%;
+	}
+	.table>tbody>tr>td {
+	    padding-top: 2px !important;
+	    padding-bottom: 2px !IMPORTANT;
+	}
+	table, tr, td {
+	    border: none !important;
+	   	    
+	}
+	table{
+		margin-bottom: auto !important;
+	}
+	.customer-detail-panel{
+		margin-bottom: 5px;
+	}
+	.panel-body {
+		border-width:2px;
+		border-color: #428bca;
+		padding-top: 10px;
+    	padding-bottom: 10px;
+    	background-color: #f2f0f1;
+	}
+	.account-panel-heading {
+	    color: #fff !important;
+	    background-color: #428bca !important;
+	    border-color: #428bca !important;
+	}
+	.lead-panel-heading {
+	    color: #fff !important;
+	    background-color: green !important;
+	    border-color: green !important;
+	}
+	.prospect-panel-heading {
+	    color: #4c4646 !important;
+	    /*background-color: aqua !important;
+	     border-color:aqua !important;*/
+	    background-color: rgb(21,202,204) !important;
+	    border-color:rgb(21,202,204) !important;
+	   
+	}
+	.account-panel {		
+		border-color: #428bca;		
+	}
+	.lead-panel {		
+		border-color: green;		
+	}
+	.prospect-panel {		
+		/*border-color: aqua;*/
+		 border-color:rgb(21,202,204) !important;
+	}
+	.row{
+		margin-left: auto;
+		margin-right: auto;
+	}	
+	.customer-detail-col{
+		/*padding:3px;*/
+	}
+	.customer-detail-followup-left-field{
+		width: 80%;
+	    color: #737373;
+	    vertical-align: middle;
+	}
+	.entry:not(:first-of-type)
+	{
+	    margin-top: 10px;
+	}
+
+	.glyphicon
+	{
+	    font-size: 16px;
+	}
+	.input-group-addon, .input-group-btn {
+	    vertical-align: top;
+	}
+	
+	.customer-detail-added{
+		margin-bottom: 4px;		
+	}
+		.customer-detail-activity-checkbox{
+		    /* font-size: 210%; */
+	    -ms-transform: scale(1.2);
+	    -moz-transform: scale(1.2);
+	    -webkit-transform: scale(1.2);
+	    -o-transform: scale(1.2);	
+	    margin-top: 13px !important;	
+	    
+	}
+	    
+</style>

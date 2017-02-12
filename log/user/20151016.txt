@@ -1,0 +1,35 @@
+2015-10-16T08:33:20-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"443-915-0985";s:7:"user_id";s:5:"14114";}
+2015-10-16T09:27:02-07:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"02190";s:7:"user_id";s:4:"1123";}
+2015-10-16T10:58:34-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14252";}
+2015-10-16T11:16:58-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:10:"PO BOX 795";s:7:"user_id";s:4:"4286";}
+2015-10-16T11:23:33-07:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"97015";s:7:"user_id";s:4:"4286";}
+2015-10-16T11:25:40-07:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:114:"Customer ordered 35 kits, gel pens went bad, called & ordered 5, offered discount @ $7each after she begged-WindyJ";s:7:"user_id";s:4:"4286";}
+2015-10-16T11:35:01-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:20:"2701 SW Ave, Suite J";s:7:"user_id";s:5:"14243";}
+2015-10-16T12:06:21-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:20:"janielmt13@gmail.com";s:7:"user_id";s:5:"12689";}
+2015-10-16T12:47:22-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:14:"2495 Scott Ave";s:7:"user_id";s:5:"14401";}
+2015-10-16T13:01:54-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12664";}
+2015-10-16T13:25:11-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:29:"ricardo@thedentistadvises.com";s:7:"user_id";s:5:"14372";}
+2015-10-16T13:25:16-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:23:"ricardostuart@yahoo.com";s:7:"user_id";s:5:"14372";}
+2015-10-16T13:25:21-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:29:"ricardo@thedentistadvises.com";s:7:"user_id";s:5:"14372";}
+2015-10-16T13:25:27-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"14372";}
+2015-10-16T13:44:40-07:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"GA";s:7:"user_id";s:5:"14404";}
+2015-10-16T13:51:31-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:12:"2820 wolf St";s:7:"user_id";s:5:"14404";}
+2015-10-16T13:51:36-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"31520";s:7:"user_id";s:5:"14404";}
+2015-10-16T13:51:47-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:13:"2820 wolfe St";s:7:"user_id";s:5:"14404";}
+2015-10-16T13:53:30-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14404";}
+2015-10-16T14:18:30-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"108 North Cedar St";s:7:"user_id";s:5:"14411";}
+2015-10-16T14:18:35-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"Massapaqua";s:7:"user_id";s:5:"14411";}
+2015-10-16T14:18:40-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"11758";s:7:"user_id";s:5:"14411";}
+2015-10-16T14:28:46-07:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:4:"John";s:7:"user_id";s:5:"14411";}
+2015-10-16T14:28:57-07:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:8:"Gibilaro";s:7:"user_id";s:5:"14411";}
+2015-10-16T14:29:13-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:19:"jgibilaro@gmail.com";s:7:"user_id";s:5:"14411";}
+2015-10-16T14:38:29-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14411";}
+2015-10-16T14:41:38-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14409";}
+2015-10-16T15:17:26-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:7:"Valarie";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TN";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"901-650-2639";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Valarie";s:8:"lastname";s:4:"Lusk";s:12:"contactphone";s:12:"901-650-2639";s:5:"email";s:21:"luskvalarie@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"c48bdd5c408241bb9245917cf77a04cca94d7974";s:8:"username";s:7:"Valarie";s:12:"created_time";s:19:"2015-10-16 15:17:26";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"551723fe0b92b587355a601ec01779e4";}
+2015-10-16T15:28:43-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"13107";}
+2015-10-16T15:32:03-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:5:"Megan";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"254-423-2696";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Megan";s:8:"lastname";s:7:"Jackson";s:12:"contactphone";s:12:"254-423-2696";s:5:"email";s:18:"megjaxtx@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8cbea5b996caf4f8e20b2b0986f1b62e31c3b6ad";s:8:"username";s:5:"Megan";s:12:"created_time";s:19:"2015-10-16 15:32:03";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"5347df8d6bf55dd7b68ea849efa2f5cb";}
+2015-10-16T15:34:49-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:3:"Teo";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Teo";s:8:"lastname";s:10:"Aghazarian";s:12:"contactphone";s:12:"818-497-4308";s:5:"email";s:25:"teo@newlookskincenter.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"3ad809e6fb95a0e2caa45c3f23f2d21545802e6e";s:8:"username";s:3:"Teo";s:12:"created_time";s:19:"2015-10-16 15:34:49";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"8fe6fd90de28730373f16c5486796364";}
+2015-10-16T15:36:59-07:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:24:"styledbysummer@yahoo.com";s:7:"user_id";s:4:"3363";}
+2015-10-16T16:12:02-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:10:"4044843455";s:7:"user_id";s:5:"13240";}
+2015-10-16T16:18:31-07:00 INFO (6): Cory Nielsen--a:2:{s:6:"email2";s:24:"rebeccalyncarr@gmail.com";s:7:"user_id";s:5:"13240";}
+2015-10-16T16:25:09-07:00 INFO (6): Cory Nielsen--a:2:{s:10:"profile_id";s:8:"37792853";s:7:"user_id";s:5:"14358";}

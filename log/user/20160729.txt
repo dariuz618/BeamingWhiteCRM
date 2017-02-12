@@ -1,0 +1,20 @@
+2016-07-29T08:12:32-07:00 INFO (6): Taylor Grady--a:2:{s:6:"email2";s:30:"michelle.randolph@seegreat.net";s:7:"user_id";s:4:"1164";}
+2016-07-29T08:13:09-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16819";}
+2016-07-29T08:14:39-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"16819";}
+2016-07-29T08:14:41-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"16819";}
+2016-07-29T08:14:48-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:21:"Dr. Xochitl Samaniego";s:7:"user_id";s:5:"16819";}
+2016-07-29T08:59:51-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:14:"602 Churchhill";s:7:"user_id";s:5:"15038";}
+2016-07-29T09:00:00-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:7:"A2V 1T5";s:7:"user_id";s:5:"15038";}
+2016-07-29T09:03:42-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15038";}
+2016-07-29T10:07:53-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17049";}
+2016-07-29T13:22:57-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15961";}
+2016-07-29T14:06:10-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17008";}
+2016-07-29T14:54:34-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16771";}
+2016-07-29T15:55:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"803-261-2063";s:7:"user_id";s:5:"17069";}
+2016-07-29T16:38:42-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16558";}
+2016-07-29T16:52:14-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16461";}
+2016-07-29T20:55:44-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Robyn";s:7:"user_id";s:5:"17066";}
+2016-07-29T20:55:49-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Robyn Anderson";s:7:"user_id";s:5:"17066";}
+2016-07-29T20:55:54-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Robyn Anderson";s:7:"user_id";s:5:"17066";}
+2016-07-29T20:56:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17066";}
+2016-07-29T20:57:10-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:34:"DUPLICATE ACCOUNT - NEED TO DELETE";s:7:"user_id";s:5:"17069";}

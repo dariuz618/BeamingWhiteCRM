@@ -1,0 +1,39 @@
+2015-09-30T09:27:07-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14289";}
+2015-09-30T09:28:58-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:178:"Morgan wants to set up in her mom's salon. She thinks she will have a suite of her own. Will need the facial bed, posters, window cling. Interested in the premium salon starter. ";s:7:"user_id";s:5:"14289";}
+2015-09-30T10:14:43-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:11:"400 2nd Ave";s:7:"user_id";s:5:"14239";}
+2015-09-30T10:14:49-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:8:"apt. 22E";s:7:"user_id";s:5:"14239";}
+2015-09-30T10:14:55-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"10010";s:7:"user_id";s:5:"14239";}
+2015-09-30T10:15:03-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:13:"New York City";s:7:"user_id";s:5:"14239";}
+2015-09-30T11:08:51-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14286";}
+2015-09-30T11:17:14-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:14:"Tame Your Mane";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Ariel";s:8:"lastname";s:2:"Na";s:12:"contactphone";s:12:"814-954-4108";s:5:"email";s:25:"tameyourmane1@verizon.net";s:13:"contactphone2";s:12:"814-695-7286";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5a89183239c789bc5f45645b4dadbf4950473466";s:8:"username";s:14:"Tame Your Mane";s:12:"created_time";s:19:"2015-09-30 11:17:14";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a5d5eb24139dc01f0a8cc5474d03b5ad";}
+2015-09-30T11:18:13-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:219:"Purchased a salon with the Futura 2400. Called to learn about products. They also own a previous salon and have done teeth whitening but she was unsure of what products they used other than that there were mouth trays. ";s:7:"user_id";s:5:"14291";}
+2015-09-30T11:18:55-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:312:"Purchased a salon with the Futura 2400. Called to learn about products. They also own a previous salon and have done teeth whitening but she was unsure of what products they used other than that there were mouth trays. (pre-filled, whiter image?) At the end of a session Ariel was told how many trays they used. ";s:7:"user_id";s:5:"14291";}
+2015-09-30T11:21:04-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14291";}
+2015-09-30T12:35:52-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14287";}
+2015-09-30T13:03:30-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14290";}
+2015-09-30T13:08:01-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:26:"Wants to work for herself.";s:7:"user_id";s:5:"14290";}
+2015-09-30T13:08:11-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:21:"Works in a hair salon";s:7:"user_id";s:5:"14290";}
+2015-09-30T13:08:59-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14290";}
+2015-09-30T14:43:00-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:13:"22-55 31st St";s:7:"user_id";s:5:"12527";}
+2015-09-30T14:43:07-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 204";s:7:"user_id";s:5:"12527";}
+2015-09-30T14:43:16-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Astoria";s:7:"user_id";s:5:"12527";}
+2015-09-30T14:43:34-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"11105";s:7:"user_id";s:5:"12527";}
+2015-09-30T14:43:50-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:31:"Smooth Touch Face and Bodyworks";s:7:"user_id";s:5:"12527";}
+2015-09-30T15:44:59-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:22:"ssantana7345@gmail.com";s:7:"user_id";s:5:"14267";}
+2015-09-30T15:53:31-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:15:"Lauren Hollings";s:7:"user_id";s:5:"12571";}
+2015-09-30T16:01:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14236";}
+2015-09-30T16:01:18-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14236";}
+2015-09-30T16:05:10-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:21:"Beauty With a Mission";s:7:"user_id";s:5:"11935";}
+2015-09-30T16:05:17-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:0:"";s:7:"user_id";s:5:"11935";}
+2015-09-30T16:08:23-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:21:"Beauty with a Mission";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:3:"Aja";s:8:"lastname";s:6:"Halweg";s:12:"contactphone";s:12:"949-500-1919";s:5:"email";s:20:"aja.halweg@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:8:"San Jose";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a07c64fb79775e8900c6a4df2c2209726381c5b6";s:8:"username";s:21:"Beauty with a Mission";s:12:"created_time";s:19:"2015-09-30 16:08:23";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"3c6c5fc39d17df9d2707b01c24c6f0f5";}
+2015-09-30T16:08:37-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"234 East 17th St";s:7:"user_id";s:5:"14295";}
+2015-09-30T16:08:42-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"Costa Mesa";s:7:"user_id";s:5:"14295";}
+2015-09-30T16:08:50-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"92627";s:7:"user_id";s:5:"14295";}
+2015-09-30T16:12:14-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:159:"Aja's boss spoke with Jon in San Jose and called him but never got a follow up call. They are interested in the Skin FX pen. I quoted the show price of $999. 
+";s:7:"user_id";s:5:"14295";}
+2015-09-30T16:12:21-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14295";}
+2015-09-30T16:24:44-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"157 Hillview Ave";s:7:"user_id";s:5:"14281";}
+2015-09-30T16:24:56-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:12:"Redwood City";s:7:"user_id";s:5:"14281";}
+2015-09-30T16:25:04-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"94062";s:7:"user_id";s:5:"14281";}
+2015-09-30T17:36:32-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14293";}
+2015-09-30T17:36:38-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14293";}

@@ -1,0 +1,42 @@
+2016-06-24T08:44:36-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:23:"ywang@dmg-dental.com.cn";s:7:"user_id";s:5:"16268";}
+2016-06-24T09:07:28-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16260";}
+2016-06-24T09:07:30-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16260";}
+2016-06-24T10:18:07-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Deanna Cooper";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:12:"989-402-7608";s:5:"state";s:2:"MI";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"989-402-7608";s:6:"source";N;s:9:"firstname";s:6:"Deanna";s:8:"lastname";s:6:"Cooper";s:12:"contactphone";s:12:"989-402-7608";s:5:"email";s:17:"ddclee4@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1fc1ae5b4ef1f50f4a1a9c255ef611ac163d45cd";s:8:"username";s:13:"Deanna Cooper";s:12:"created_time";s:19:"2016-06-24 10:18:06";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"65ab20ce1e048c35033528bf1ab13f9a";}
+2016-06-24T10:28:42-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16693";}
+2016-06-24T10:54:45-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Yat Yan";s:7:"user_id";s:5:"16690";}
+2016-06-24T10:54:50-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Yat Yan Lau";s:7:"user_id";s:5:"16690";}
+2016-06-24T10:54:53-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Yat Yan Lau";s:7:"user_id";s:5:"16690";}
+2016-06-24T10:54:55-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16690";}
+2016-06-24T11:13:30-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"404-851-7466";s:7:"user_id";s:5:"16691";}
+2016-06-24T11:13:32-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"404-851-7466";s:7:"user_id";s:5:"16691";}
+2016-06-24T11:19:16-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"917-941-4292";s:7:"user_id";s:5:"16692";}
+2016-06-24T11:19:29-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Olga";s:7:"user_id";s:5:"16692";}
+2016-06-24T11:19:33-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Olga Gorelik";s:7:"user_id";s:5:"16692";}
+2016-06-24T11:19:35-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Olga Gorelik";s:7:"user_id";s:5:"16692";}
+2016-06-24T11:20:07-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16692";}
+2016-06-24T11:20:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16692";}
+2016-06-24T11:21:58-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Silvana";s:7:"user_id";s:5:"16694";}
+2016-06-24T11:22:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Silvana Asaad";s:7:"user_id";s:5:"16694";}
+2016-06-24T11:22:04-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Silvana Asaad";s:7:"user_id";s:5:"16694";}
+2016-06-24T11:22:18-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"714-423-1222";s:7:"user_id";s:5:"16694";}
+2016-06-24T11:26:36-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16688";}
+2016-06-24T11:26:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16671";}
+2016-06-24T12:39:29-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"714-423-1222";s:7:"user_id";s:5:"16694";}
+2016-06-24T12:41:18-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16694";}
+2016-06-24T13:07:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16691";}
+2016-06-24T13:14:08-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:8:"Chikuita";s:7:"user_id";s:5:"16691";}
+2016-06-24T13:14:12-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16691";}
+2016-06-24T14:27:01-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16691";}
+2016-06-24T14:27:02-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16691";}
+2016-06-24T14:30:23-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Michelle";s:7:"user_id";s:5:"16695";}
+2016-06-24T14:30:27-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Michelle Kulikov";s:7:"user_id";s:5:"16695";}
+2016-06-24T14:30:29-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Michelle Kulikov";s:7:"user_id";s:5:"16695";}
+2016-06-24T14:51:46-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16678";}
+2016-06-24T15:00:06-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16657";}
+2016-06-24T15:00:09-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16657";}
+2016-06-24T16:02:32-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16692";}
+2016-06-24T16:52:42-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16695";}
+2016-06-24T16:52:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16695";}
+2016-06-24T16:53:18-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"11235";s:7:"user_id";s:5:"16695";}
+2016-06-24T17:20:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16359";}
+2016-06-24T17:49:17-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16692";}

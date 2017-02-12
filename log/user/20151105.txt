@@ -1,0 +1,40 @@
+2015-11-05T08:35:32-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"14542";}
+2015-11-05T08:55:30-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:22:"Burkhart Dental Supply";s:7:"user_id";s:5:"12227";}
+2015-11-05T08:55:53-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:17:"fax: 866.875.7254";s:7:"user_id";s:5:"12227";}
+2015-11-05T08:55:57-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:17:"Fax: 866.875.7254";s:7:"user_id";s:5:"12227";}
+2015-11-05T08:56:06-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12227";}
+2015-11-05T09:02:40-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:818:"Randa Kullab � Sales and Marketing Coordinator
+Tel: +966 11 2885022 Ext.106
+                                                Fax: +966 11 2885060
+                                                         Mobile: +966 550021518
+                                                        Website: www.abdulwahed.med.sa
+
+
+Please use our DHL A/c 961207209 and ship the goods to the bellow adress: 
+
+Ahmed Abdulwahed Trading Company - Riyadh 
+Al- Dabab - front of King Fahad Medical City
+Al-Dabab trading tower - third floor - ofiice 25-26
+Name: Randa Kullab 
+Tel : 00966112885022 Ext : 106
+Mobile : 00966550021518
+
+Ajmal
+Logistics & Supply Chain Co-ordinator
+Ahmed Abdulwahed Co.
+Amal Plaza, P.O Box: 3611, Hail Street, Jeddah- 21481, Saudi Arabia
+Tel: +966 12 6500282 x 571, Fax: +966 12 6502625, Email: ajmal@abdulwahed.com";s:7:"user_id";s:5:"10230";}
+2015-11-05T09:21:09-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:29:"ogfarm@marshallbeattie.com.au";s:7:"user_id";s:3:"577";}
+2015-11-05T09:21:13-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:20:"abeauty@iinet.com.au";s:7:"user_id";s:3:"577";}
+2015-11-05T09:21:17-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:29:"ogfarm@marshallbeattie.com.au";s:7:"user_id";s:3:"577";}
+2015-11-05T09:21:19-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:0:"";s:7:"user_id";s:3:"577";}
+2015-11-05T13:47:32-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14540";}
+2015-11-05T14:21:33-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:6:"Revive";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:3:"Jim";s:8:"lastname";s:3:"Jim";s:12:"contactphone";s:0:"";s:5:"email";s:28:"jim@revivemassagechicago.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:10:"Miami 2014";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"ecd46b787e3f07c588fb16fc5668d6fa9e860e2e";s:8:"username";s:6:"Revive";s:12:"created_time";s:19:"2015-11-05 14:21:33";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"1d519c12a225ec9344050e5a121d6bfb";}
+2015-11-05T14:31:29-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"773-494-5770";s:7:"user_id";s:5:"14550";}
+2015-11-05T14:54:09-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:27:"A New You Weight Loss Clinc";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TN";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"423-543-1041";s:6:"source";s:5:"Other";s:9:"firstname";s:8:"Buchanan";s:8:"lastname";s:7:"Christi";s:12:"contactphone";s:12:"423-543-1041";s:5:"email";s:23:"christib.rmtn@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"ed9978195904268f0d0df85c54db3308f9743e03";s:8:"username";s:27:"A New You Weight Loss Clinc";s:12:"created_time";s:19:"2015-11-05 14:54:09";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"858aab2633e8b85c65a192145be01093";}
+2015-11-05T14:55:07-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:9:"Jackowski";s:7:"user_id";s:5:"14550";}
+2015-11-05T14:55:18-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:194:"Christi's clinic just opened 3 weeks ago and she says its going better than expected. She has worked at a clinic previously that offered Beyond White and she would like to add TW to her clinic. ";s:7:"user_id";s:5:"14551";}
+2015-11-05T15:05:02-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14551";}
+2015-11-05T15:55:29-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:16:"Smiles On the Go";s:7:"user_id";s:5:"11849";}
+2015-11-05T16:12:18-08:00 INFO (6): Jing Zeng--a:2:{s:8:"username";s:5:"45641";s:7:"user_id";s:5:"10585";}
+2015-11-05T16:12:22-08:00 INFO (6): Jing Zeng--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"10585";}

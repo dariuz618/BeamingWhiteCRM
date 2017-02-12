@@ -1,0 +1,10 @@
+2016-10-05T19:55:53+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17404";}
+2016-10-05T19:58:24+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"status";s:6:"Active";s:7:"user_id";s:5:"17404";}
+2016-10-05T20:03:00+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17593";}
+2016-10-05T20:09:55+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17604";}
+2016-10-05T20:11:02+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17600";}
+2016-10-05T20:11:24+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17604";}
+2016-10-05T20:54:02+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17603";}
+2016-10-05T20:54:12+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"17603";}
+2016-10-05T20:54:50+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17603";}
+2016-10-05T21:40:19+02:00 INFO (6): Dariuz Rubin--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17596";}

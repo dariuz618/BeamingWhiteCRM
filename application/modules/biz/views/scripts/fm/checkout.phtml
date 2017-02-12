@@ -1,0 +1,112 @@
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Business Files Check Out</h1>
+    </div>
+</div>
+
+<div>
+    <div class="col-lg-8">
+         <a style="float: right;" class="btn btn-primary btn-xs text-right" href="/fm/sales-file-list/id/9">Add Files</a>
+        <?if(!empty($this->files)):?>              
+            <h4>You have selected: </h4>
+            <ol>
+            <? foreach($this->files as $file):?>
+                <li><?= $file['title'] ?><span class="glyphicon glyphicon-trash delete" style="cursor:pointer;color: #d9534f;" id="<?= $file['id']?>"></span></li>
+            <? endforeach;?> 
+            </ol>
+        <?else: ?>
+            <h4>No files selected</h4>
+        <?endif;?>
+        
+         <div id="updateMessage"></div>
+     <form class="form-horizontal" id="checkoutForm" method="POST">
+         <div class="form-group">
+                                         <label class="col-sm-2 control-label">Send File By</label>
+                                          <div class="col-sm-6">
+                                            <label class="radio-inline">
+                                                <input name="method" id="method1" value="attachment" checked="" type="radio">Attachment
+                                            </label>
+                                            <label class="radio-inline">
+                                                <input name="method" id="method2" value="fileLink" type="radio">File Link
+                                            </label>
+                                          </div>
+                                        </div>
+        
+         <div class="form-group">
+             <label for="createdBy" class="col-sm-2 control-label">From</label>   
+             <div class="col-sm-6">
+                 <input class="form-control" value = "<?= $this->repEmail ?>" name="from" >
+             </div>
+         </div>
+         <div class="form-group">
+             <label for="to" class="col-sm-2 control-label">To</label>   
+             <div class="col-sm-6">
+                 <input class="form-control" name="to" >
+             </div>
+         </div>
+        <div class="form-group">
+             <label for="createdBy" class="col-sm-2 control-label">Subject</label>   
+             <div class="col-sm-6">
+                 <input class="form-control" value = "Your Files From Beaming White" name="subject">
+             </div>
+         </div>
+         <div class="form-group">
+             <label for="message" class="col-sm-2 control-label">Message</label>
+             <div class="col-sm-10">
+                 <textarea name="message" id="message" class="form-control" rows="6"></textarea>
+             </div>
+         </div>
+         <p class="text-center"><input type="submit" class="btn btn-primary" value="Send"></p>
+     </form>
+    </div>
+</div>
+ 
+<script>
+     $("#checkoutForm").submit(function(e){
+                e.preventDefault();
+		formData = $("#checkoutForm").serialize();                        
+		$.ajax({                                    
+				type: "POST",
+				url: "/fm/send-sales-file",
+				data: formData,
+				dataType: 'html',
+				success: function(data) {    
+                                   $("#updateMessage").empty().removeClass("alert alert-danger");                                    
+                                   if (data == 'success') {
+                                       $("#updateMessage").html("File(s) Sent Successfully!").addClass("alert alert-success");
+                                   } else {
+                                       $("#updateMessage").html(data).addClass("alert alert-danger");
+                                   }
+                                }
+			});
+	});
+        $('li').delegate('.delete', 'click', function() {
+                    $(this).closest("li").hide();                 
+                    $.post('/fm/sales-file-delete', 
+                    {
+                        "fileId": $(this).attr("id")                     
+                    },
+                    function(data) {                           
+                      /*  if (data == 'success') {
+                            $(this).closest("tr").remove();
+                        } else {
+                          $("#delete_error").html(data).addClass("alert alert-danger alert-dismissable");   
+                        }*/
+                    });           
+                       
+        }); 
+        
+         $('#method2').click(function() {        
+          
+        $.ajax({                                    
+				type: "POST",
+				url: "/fm/sales-file-url",
+				dataType: 'html',
+				success: function(data) { 
+                                    
+                                  $("#message").empty().val(data);                                  
+                                }
+			});
+         });
+        
+</script>

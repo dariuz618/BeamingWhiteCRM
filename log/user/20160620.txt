@@ -1,0 +1,56 @@
+2016-06-20T08:32:22-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:12:"Kasie Schott";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:12:"606-312-1032";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:5:"Kasie";s:8:"lastname";s:6:"Schott";s:12:"contactphone";s:12:"606-312-1032";s:5:"email";s:23:"kschott0002@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"ef9c870e6540eae86d2e5aa93f4b7c113544ad9b";s:8:"username";s:12:"Kasie Schott";s:12:"created_time";s:19:"2016-06-20 08:32:22";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"4ff00204443db54ebfd96531ea893b76";}
+2016-06-20T08:38:51-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16659";}
+2016-06-20T08:38:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16659";}
+2016-06-20T09:11:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:34:"23560 walden center drive unit 103";s:7:"user_id";s:5:"16543";}
+2016-06-20T09:17:02-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16543";}
+2016-06-20T09:17:05-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16543";}
+2016-06-20T09:20:15-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:5:"Kacie";s:7:"user_id";s:5:"16659";}
+2016-06-20T09:24:26-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"KY";s:7:"user_id";s:5:"16659";}
+2016-06-20T09:24:33-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:9:"Somerset ";s:7:"user_id";s:5:"16659";}
+2016-06-20T09:24:39-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"606-312-1032";s:7:"user_id";s:5:"16659";}
+2016-06-20T09:24:43-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:0:"";s:7:"user_id";s:5:"16659";}
+2016-06-20T09:24:46-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Somerset ";s:7:"user_id";s:5:"16659";}
+2016-06-20T09:29:23-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16648";}
+2016-06-20T09:39:55-07:00 INFO (6): Stephanie Brown--a:2:{s:9:"firstname";s:4:"Jody";s:7:"user_id";s:5:"16655";}
+2016-06-20T09:51:38-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16567";}
+2016-06-20T10:01:29-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16365";}
+2016-06-20T10:01:31-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16365";}
+2016-06-20T10:03:38-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16655";}
+2016-06-20T10:20:57-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16655";}
+2016-06-20T10:28:20-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16532";}
+2016-06-20T10:40:01-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16532";}
+2016-06-20T11:07:30-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"832-212-0272";s:7:"user_id";s:5:"16657";}
+2016-06-20T11:08:00-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"832-212-0272";s:7:"user_id";s:5:"16657";}
+2016-06-20T11:16:07-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:102:"https://www.facebook.com/The-Ultimate-Look-featuring-FACES-By-Suwuan-146092138778303/info?tab=overview";s:7:"user_id";s:5:"16657";}
+2016-06-20T11:25:14-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16657";}
+2016-06-20T11:25:51-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Amanda";s:7:"user_id";s:5:"16652";}
+2016-06-20T11:25:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Amanda Ballenger";s:7:"user_id";s:5:"16652";}
+2016-06-20T11:25:58-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Amanda Ballenger";s:7:"user_id";s:5:"16652";}
+2016-06-20T12:19:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16652";}
+2016-06-20T13:34:48-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:17:"Francisco Becerra";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:7:"El Paso";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:9:"Francisco";s:8:"lastname";s:7:"Becerra";s:12:"contactphone";s:0:"";s:5:"email";s:19:"fsbecerra@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"e0d10e3cf6990b98e09c4b274571a787fe8d6b23";s:8:"username";s:17:"Francisco Becerra";s:12:"created_time";s:19:"2016-06-20 13:34:48";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"db6d2a77b7c2661b50fe425dc431d560";}
+2016-06-20T13:37:44-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"915-996-2345";s:7:"user_id";s:5:"16661";}
+2016-06-20T14:15:41-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:16:"130 Connors Way ";s:7:"user_id";s:5:"16659";}
+2016-06-20T14:15:43-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"42503";s:7:"user_id";s:5:"16659";}
+2016-06-20T14:28:29-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Kacie Schott";s:7:"user_id";s:5:"16659";}
+2016-06-20T14:28:32-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Kacie Schott";s:7:"user_id";s:5:"16659";}
+2016-06-20T14:48:05-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:164:"9 hours behind. 5:00pm is 8:00am for them.
+
+Shipping address;
+
+Klinik Pergigian Batrisya
+No.20, Jalan Inang 1,
+Taman Paya Rumput Utama
+76450 cheng 
+Melaka, Malaysia";s:7:"user_id";s:5:"16365";}
+2016-06-20T14:48:11-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:163:"9 hours behind. 5:00pm is 8:00am for them.
+
+Shipping address;
+Klinik Pergigian Batrisya
+No.20, Jalan Inang 1,
+Taman Paya Rumput Utama
+76450 cheng 
+Melaka, Malaysia";s:7:"user_id";s:5:"16365";}
+2016-06-20T15:01:09-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16205";}
+2016-06-20T15:25:32-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:10:"Jim Holley";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:7:"Houston";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"713-869-9711";s:6:"source";N;s:9:"firstname";s:3:"Jim";s:8:"lastname";s:6:"Holley";s:12:"contactphone";s:12:"713-869-9711";s:5:"email";s:22:"jimmy6902001@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"c985a63e7f50dd21b80bcc048c02c130eedc03bd";s:8:"username";s:10:"Jim Holley";s:12:"created_time";s:19:"2016-06-20 15:25:32";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"e284b6e81fdffc9c3447d193fa040f56";}
+2016-06-20T15:27:24-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16664";}
+2016-06-20T16:28:05-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16662";}

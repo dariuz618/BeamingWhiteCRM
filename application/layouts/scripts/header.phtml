@@ -1,0 +1,644 @@
+<?php
+	$auth = Zend_Auth::getInstance()->getIdentity(); 
+	$server = RINGCENTRAL_APP_SERVER;
+	$appKey = RINGCENTRAL_APP_KEY;
+	$appSecret = RINGCENTRAL_APP_SECRET;
+	$login = RINGCENTRAL_APP_USERNAME;
+	$ext = RINGCENTRAL_APP_EXTENSION;
+	$password = RINGCENTRAL_APP_PASSWORD;	    
+	$from_number = $auth->businessphone;    	 
+?>        
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom: 0">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>                
+                <a class="navbar-brand" href="http://dev.beamingwhite.mx/crm/leads?repid=&pid=&source=&soldBy=&lastAttempt=&from=&to=
+">Beaming White Business Admin</a>                 
+            </div>
+            <div class="collapse navbar-collapse">
+      			<ul class="nav navbar-nav">
+      				<li class="dropdown">
+			          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <i class="fa fa-outdent fa-2x"></i></a>
+			          <ul class="dropdown-menu nav" id="side-menu">
+                  
+                         <? if(in_array('admin_dashboard', unserialize($auth->permission))):?> 
+                            <li>
+                                <a href="/report/dashboard"><i class="fa fa-dashboard fa-fw"></i>Admin Dashboard</a>
+                            </li>
+                         <?endif;?>
+                         <? if(in_array('crm', unserialize($auth->permission))):?> 
+                                <? if ($auth->role == 'sales') {
+                                    $link = "?repid=$auth->id";
+                                } else {
+                                    $link = '';
+                                }?>
+                             <li class="dropdown-submenu">
+				                <a href="#"><i class="fa fa-area-chart fa-fw"></i>Sales CRM</a>
+				                <ul class="dropdown-menu">
+				                 	<li><a href="/crm/leads<?= $link?>">Leads</a></li>                               
+                                    <li><a href="/crm/prospect<?= $link?>">Prospects</a></li>
+                                    <li><a href="/crm/accounts<?= $link?>">Accounts</a></li>
+                                    <li><a href="/crm/activity">Activities</a></li>
+                                    <? if(in_array('businessreport', unserialize($auth->permission))):?> 
+                                        <li><a href="/businessreport">Reports</a></li>
+                                    <?endif;?>
+				                </ul>
+				             </li>                         
+                        <?endif;?>
+                        <li class="dropdown-submenu">
+			                <a href="#"><i class="fa fa-files-o fa-fw"></i> File Sharing</a>
+			                <ul class="dropdown-menu">
+			                 	<? if(in_array('manage_file_category', unserialize($auth->permission))):?> 
+                                    <li><a href="/fm/category">Manage Category</a></li>
+                               <?endif;?>
+                                <? if(in_array('upload_files', unserialize($auth->permission))):?> 
+                                    <li><a href="/fm/upload">Upload Files</a></li>                             
+                                <? endif;?>
+                                <li><a href="/fm/index">Shared files</a></li>
+			                </ul>
+			             </li>
+				       
+                        
+                        <? if(in_array('china_inventory', unserialize($auth->permission))):?> 
+                        <li class="dropdown-submenu">
+			                <a href="#"><i class="fa fa-exchange fa-fw"></i> China Inventory</a>
+                            
+                            <ul class="dropdown-menu">
+                                    <li><a href="/inventory/company">Companies</a></li>
+                                    <li><a href="/inventory/quantity">Inventory Adjustment</a></li>
+                                    <li><a href="/inventory/find-item">Item History</a></li>
+                                    <li class="dropdown-submenu">
+			                			<a href="#">Orders</a>
+                                         <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="/inventory/create-order">Create Order</a>
+                                            </li>
+                                            <li>
+                                                <a href="/inventory/view">View/Update Orders</a>
+                                            </li>                                            
+                                      </ul>                                   
+                                    </li>
+                                    <li class="dropdown-submenu">
+			                			<a href="#">Shipments</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="/inventory/create-shipment">Create Shipment</a></li>
+                                            <li><a href="/inventory/shipments">View/Update Shipments</a></li>                                             
+                                        </ul>                                   
+                                    </li>                                                            
+                                    <li><a href="/inventory/stock">Current Inventory</a></li>
+                                    
+                                    <?// $itemsAllowed = array('Tom', 'Luis', 'Jing') ?>
+                                    <? if(in_array('manage_items', unserialize($auth->permission))):?> 
+                                        <li><a href="/item/view">View/Update Items</a></li>
+                                    <? endif;?>
+                            </ul>
+                          
+                        </li>
+                        <?endif;?>                    
+                   
+			          </ul>
+			        </li>
+      			</ul>
+      			<!--<ul class="nav navbar-nav navbar-right">-->
+      			<ul class="nav navbar-top-links navbar-right">   
+      				<li>
+      					<a onclick="javascript:onPhoneCall()" style="padding-left: 0px;padding-right: 0px;color: #428bca;">
+      					
+	                        <i class="fa fa-phone fa-fw"></i>
+	                    </a>     					      					
+      					<!--<button class="btn btn-primary" type="submit">Call</button>-->
+      				</li>
+      			 	<li class="dropdown">
+	                    <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="padding-left: 0px;padding-right: 0px;color: #428bca;">
+	                        <i class="fa fa-user fa-fw"></i><i class="fa fa-caret-down"></i>
+	                    </a>
+	                    <ul class="dropdown-menu">	                      
+	                        <li class="divider"></li>
+	                        <li><a onclick="javascript:onLogout()"><i class="fa fa-sign-out fa-fw"></i>Logout</a>
+	                        </li>
+	                    </ul>                 
+	                </li>
+	                              
+	                <? if(in_array('manage_accounts', unserialize($auth->permission))):?> 
+	                 <li class="dropdown">                    
+	                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+	                        <i class="fa fa-gear fa-fw"></i><i class="fa fa-caret-down"></i>
+	                    </a>
+	                    <ul class="dropdown-menu dropdown-user">                        
+	                        <li><a href="/user/signup"><i class="fa fa-user fa-fw"></i>Create Account</a></li>    
+	                        <li><a href="/user/reset-password"><i class="fa fa-user fa-fw"></i>Reset Password</a></li>                                           
+	                        <li><a href="/user/users"><i class="fa fa-user fa-fw"></i>Manage Accounts</a></li>
+	                    </ul>
+	                </li>                                
+	                <?endif;?>
+      			 </ul>
+      		</div>
+        
+            <!-- /.navbar-static-side -->
+        </nav>
+        
+		<!-- Dariuz Rubin -->			
+		<style type="text/css">
+			@media (min-width: 768px)
+			{
+				.navbar-nav>li>a {
+				    padding-top: 12px;
+				    padding-bottom: 6px;
+				}
+			}
+				
+			.dropdown-submenu {
+			    position: relative;
+			}
+
+			.dropdown-submenu>.dropdown-menu {
+			    top: 0;
+			    left: 100%;
+			    margin-top: -6px;
+			    margin-left: -1px;
+			    -webkit-border-radius: 0 6px 6px 6px;
+			    -moz-border-radius: 0 6px 6px;
+			    border-radius: 0 6px 6px 6px;
+			}
+			
+			.dropdown:hover>.dropdown-menu {
+			    display: block;
+			}
+			.dropdown-submenu:hover>.dropdown-menu {
+			    display: block;
+			}
+			.dropdown-menu>li>a {
+			    position: relative;
+			    display: block;
+			    padding: 10px 15px;
+			}
+			.dropdown-submenu>a:after {
+			    display: block;
+			    content: " ";
+			    float: right;
+			    width: 0;
+			    height: 0;
+			    border-color: transparent;
+			    border-style: solid;
+			    border-width: 5px 0 5px 5px;
+			    border-left-color: #ccc;
+			    margin-top: 5px;
+			    margin-right: -10px;
+			}
+
+			.dropdown-submenu:hover>a:after {
+			    border-left-color: #fff;
+			}
+
+			.dropdown-submenu.pull-left {
+			    float: none;
+			}
+
+			.dropdown-submenu.pull-left>.dropdown-menu {
+			    left: -100%;
+			    margin-left: 10px;
+			    -webkit-border-radius: 6px 0 6px 6px;
+			    -moz-border-radius: 6px 0 6px 6px;
+			    border-radius: 6px 0 6px 6px;
+			}
+		</style>
+		<script type="text/javascript">	  	
+			/** @type {RingCentral.SDK} */
+		    var sdk = null;
+		    /** @type {Platform} */
+		    var platform = null;
+		    
+		    var ring_session = null;
+		    
+		    /** @type {WebPhone} */
+		    var webPhone = null;
+			
+			var server = "<?= $server?>";
+	        var appKey = "<?= $appKey?>";
+	        var appSecret = "<?= $appSecret?>";
+	        var login = "<?= $login?>";
+	        var ext = "<?= $ext?>";
+	        var password = "<?= $password?>";	    
+	        var from_number = "<?= $from_number?>";
+	        var to_number ='';
+	        var to_homeCountryId = '';
+	        
+			   /*0 - Error
+               1 - Warning
+               2 - Log
+               3 - Debug*/
+                   
+		    var logLevel = 3;
+		    var username = null;
+		    var extension = null;
+		    var sipInfo = null;
+		    
+		    function DismissEvent(event_id){    
+		    	console.log("DismissEvent");
+		    	var data = {"event_id":event_id}; 
+		    	
+				$.ajax({               
+					type: "POST",
+					url: "/crm/dismiss-event",
+					data: data,
+					dataType : "json",
+					success: function(result) {		
+					
+						console.log(result);
+					 }
+				});		
+			 }	
+			    
+			$(document).ready(function(){	  			
+		        setInterval(popupreminder,1000*90);
+		        popupreminder();		                 
+			    function popupreminder(){    
+			    	console.log("popupreminder");
+			    	formData = $("#snoozeForm").serialize();        
+					$.ajax({               
+						type: "POST",
+						url: "/crm/ping",
+						data: formData,
+						dataType: 'html',
+						success: function(result) {		
+						
+							var logout = result.includes("<!doctype html>");
+							if ((result == 'logout') || (logout == true)) {			
+				        		var interval_id = window.setInterval("", 9999); // Get a reference to the last
+								for (var i = 1; i < interval_id; i++)
+				        			window.clearInterval(i);		
+				        		window.location = "/user/logout";	           						                
+				            } else if(result !='' && result !='logout'  && logout == false) {                    
+				                 document.getElementById("reminder_event").innerHTML =result;		
+				  				 $("#popup_reminder").modal();		
+				            }
+						 }
+					});		
+				 }	
+		    	
+		    	$("#ringcentral_call_btn").on("click",function(){
+					var number = $("#to_phone_number").val();
+					var homeCountry = $("#to_phone_homeCountry").val();
+		        	console.log(number);
+		        	console.log(homeCountry);		        	
+					makeCall(number, homeCountry);
+
+				});
+				$("#ringcentral_hangup_btn").on("click",function(){
+					if (ring_session != null)
+					 	ring_session.terminate();
+				
+				});
+				$("#ringcentral_close_btn").on("click",function(){
+					if (ring_session != null)
+					 	ring_session.terminate();
+					 $("#dialog_phone").modal('hide');		
+				
+				});
+				
+				$("#ringcentral_clicktocall_hangup_btn").on("click",function(){
+					if (ring_session != null)
+					 	ring_session.terminate();
+				
+				});
+				$("#ringcentral_clicktocall_close_btn").on("click",function(){
+					if (ring_session != null)
+					 	ring_session.terminate();
+					 $("#dialog_clicktocall").modal('hide');		
+				
+				});
+				
+		    	
+	  		});   
+		    function setSnooze(interval){    	
+		    	console.log(interval);
+				document.getElementById("snoozeTime").value = interval;			
+				$("#popup_reminder").modal('hide');			
+			}
+			
+			function onLogout(){    	
+		    	console.log("onLogout");
+				var interval_id = window.setInterval("", 9999); // Get a reference to the last
+				for (var i = 1; i < interval_id; i++)
+        			window.clearInterval(i);		
+        		window.location = "/user/logout";
+			}
+			
+			function onlogin(server, appKey, appSecret, login, ext, password, ll) 
+		    {
+		    	console.log("onlogin");
+		        sdk = new RingCentral.SDK({
+		            appKey: appKey,
+		            appSecret: appSecret,
+		            server: server
+		        });
+
+		        platform = sdk.platform();
+
+		        // TODO: Improve later to support international phone number country codes better
+		        if (login) {
+		            login = (login.match(/^[\+1]/)) ? login : '1' + login;
+		            login = login.replace(/\W/g, '')
+		        }
+
+		        platform
+		            .login({
+		                username: login,
+		                extension: ext || null,
+		                password: password
+		            })
+		            .then(function() {
+
+		                logLevel = ll;
+		                username = login;
+
+		                localStorage.setItem('webPhoneServer', server || '');
+		                localStorage.setItem('webPhoneAppKey', appKey || '');
+		                localStorage.setItem('webPhoneAppSecret', appSecret || '');
+		                localStorage.setItem('webPhoneLogin', login || '');
+		                localStorage.setItem('webPhoneExtension', ext || '');
+		                localStorage.setItem('webPhonePassword', password || '');
+		                localStorage.setItem('webPhoneLogLevel', logLevel || 0);
+
+		                return platform.get('/restapi/v1.0/account/~/extension/~');
+
+		            })
+		            .then(function(res) {
+
+		                extension = res.json();
+
+		                console.log('Extension info', extension);
+
+		                return platform.post('/client-info/sip-provision', {
+		                    sipInfo: [{
+		                        transport: 'WSS'
+		                    }]
+		                });
+
+		            })
+		            .then(function(res) { return res.json(); })
+		            .then(register)
+		            .then(makeCallForm)
+		            .catch(function(e) {
+		                console.error('Error in main promise chain');
+		                console.error(e.stack || e);
+		            });
+
+		    }
+			
+			function onloginClicktoCall(server, appKey, appSecret, login, ext, password, ll) 
+		    {
+		    	console.log("onlogin");
+		        sdk = new RingCentral.SDK({
+		            appKey: appKey,
+		            appSecret: appSecret,
+		            server: server
+		        });
+
+		        platform = sdk.platform();
+
+		        // TODO: Improve later to support international phone number country codes better
+		        if (login) {
+		            login = (login.match(/^[\+1]/)) ? login : '1' + login;
+		            login = login.replace(/\W/g, '')
+		        }
+
+		        platform
+		            .login({
+		                username: login,
+		                extension: ext || null,
+		                password: password
+		            })
+		            .then(function() {
+
+		                logLevel = ll;
+		                username = login;
+
+		                localStorage.setItem('webPhoneServer', server || '');
+		                localStorage.setItem('webPhoneAppKey', appKey || '');
+		                localStorage.setItem('webPhoneAppSecret', appSecret || '');
+		                localStorage.setItem('webPhoneLogin', login || '');
+		                localStorage.setItem('webPhoneExtension', ext || '');
+		                localStorage.setItem('webPhonePassword', password || '');
+		                localStorage.setItem('webPhoneLogLevel', logLevel || 0);
+
+		                return platform.get('/restapi/v1.0/account/~/extension/~');
+
+		            })
+		            .then(function(res) {
+
+		                extension = res.json();
+
+		                console.log('Extension info', extension);
+
+		                return platform.post('/client-info/sip-provision', {
+		                    sipInfo: [{
+		                        transport: 'WSS'
+		                    }]
+		                });
+
+		            })
+		            .then(function(res) { return res.json(); })
+		            .then(register)
+		            .then(makeClicktoCallForm)
+		            .catch(function(e) {
+		                console.error('Error in main promise chain');
+		                console.error(e.stack || e);
+		            });
+
+		    }
+		    
+		    function register(data) {
+
+		        sipInfo = data.sipInfo[0] || data.sipInfo;
+
+		        webPhone = new RingCentral.WebPhone(data, {
+		            appKey: localStorage.getItem('webPhoneAppKey'),
+		            audioHelper: {
+		                enabled: true
+		            },
+		            logLevel: parseInt(logLevel, 10)
+		        });
+
+		        webPhone.userAgent.audioHelper.loadAudio({
+		            incoming: '/public/audio/incoming.ogg',
+		            outgoing: '/public/audio/outgoing.ogg'
+		        })
+
+		        webPhone.userAgent.audioHelper.setVolume(.3);
+
+		        webPhone.userAgent.on('invite', onInvite);
+		        webPhone.userAgent.on('connecting', function() { console.log('UA connecting'); });
+		        webPhone.userAgent.on('connected', function() { console.log('UA Connected'); });
+		        webPhone.userAgent.on('disconnected', function() { console.log('UA Disconnected'); });
+		        webPhone.userAgent.on('registered', function() { console.log('UA Registered'); });
+		        webPhone.userAgent.on('unregistered', function() { console.log('UA Unregistered'); });
+		        webPhone.userAgent.on('registrationFailed', function() { console.log('UA RegistrationFailed', arguments); });
+		        webPhone.userAgent.on('message', function() { console.log('UA Message', arguments); });
+
+		        return webPhone;
+
+		    }
+
+			function onInvite() {
+
+		        console.log('EVENT: Invite', ring_session.request);
+		        console.log('To', ring_session.request.to.displayName, ring_session.request.to.friendlyName);
+		        console.log('From', ring_session.request.from.displayName, ring_session.request.from.friendlyName);
+
+		    
+
+		        var acceptOptions = {
+		            media: {
+		                render: {
+		                    remote: document.getElementById('remoteVideo'),
+		                    local: document.getElementById('localVideo')
+		                }
+		            }
+		        };
+
+		      
+
+		    }
+
+		    function onAccepted() {
+
+		        console.log('EVENT: Accepted', ring_session.request);
+		        console.log('To', ring_session.request.to.displayName, ring_session.request.to.friendlyName);
+		        console.log('From', ring_session.request.from.displayName, ring_session.request.from.friendlyName);
+
+
+		        ring_session.on('accepted', function() { console.log('Event: Accepted'); });
+		        ring_session.on('progress', function() { console.log('Event: Progress'); });
+		        ring_session.on('rejected', function() {
+		            console.log('Event: Rejected');
+		            //document.getElementById("clicktocall_status").innerHTML += 'Event: Rejected';
+		            //close();
+		        });
+		        ring_session.on('failed', function() {
+		            console.log('Event: Failed');
+		            //document.getElementById("clicktocall_status").innerHTML += 'Event: Failed';
+		            //close();
+		        });
+		        ring_session.on('terminated', function() {
+		            console.log('Event: Terminated');
+		            //document.getElementById("clicktocall_status").innerHTML += 'Event: Terminated';
+		            //close();
+		        });
+		        ring_session.on('cancel', function() {
+		            console.log('Event: Cancel');
+		            //document.getElementById("clicktocall_status").innerHTML += 'Event: Cancel';
+		            //close();
+		        });
+		        ring_session.on('refer', function() {
+		            console.log('Event: Refer');
+		            //document.getElementById("clicktocall_status").innerHTML += 'Event: Refer';
+		            //close();
+		        });
+		        ring_session.on('replaced', function(newSession) {
+		            console.log('Event: Replaced: old ring_session', ring_session, 'has been replaced with', newSession);
+		            //close();
+		            onAccepted(newSession);
+		        });
+		        ring_session.on('dtmf', function() { console.log('Event: DTMF'); });
+		        ring_session.on('muted', function() { console.log('Event: Muted'); });
+		        ring_session.on('unmuted', function() { console.log('Event: Unmuted'); });
+		        ring_session.on('connecting', function() { console.log('Event: Connecting'); });
+		        ring_session.on('bye', function() {
+		            console.log('Event: Bye');
+		            //document.getElementById("clicktocall_status").innerHTML += 'Event: Bye';
+		            //close();
+		        });
+
+		        ring_session.mediaHandler.on('iceConnection', function() { console.log('Event: ICE: iceConnection'); });
+		        ring_session.mediaHandler.on('iceConnectionChecking', function() { console.log('Event: ICE: iceConnectionChecking'); });
+		        ring_session.mediaHandler.on('iceConnectionConnected', function() { console.log('Event: ICE: iceConnectionConnected'); });
+		        ring_session.mediaHandler.on('iceConnectionCompleted', function() { console.log('Event: ICE: iceConnectionCompleted'); });
+		        ring_session.mediaHandler.on('iceConnectionFailed', function() { console.log('Event: ICE: iceConnectionFailed'); });
+		        ring_session.mediaHandler.on('iceConnectionDisconnected', function() { console.log('Event: ICE: iceConnectionDisconnected'); });
+		        ring_session.mediaHandler.on('iceConnectionClosed', function() { console.log('Event: ICE: iceConnectionClosed'); });
+		        ring_session.mediaHandler.on('iceGatheringComplete', function() { console.log('Event: ICE: iceGatheringComplete'); });
+		        ring_session.mediaHandler.on('iceGathering', function() { console.log('Event: ICE: iceGathering'); });
+		        ring_session.mediaHandler.on('iceCandidate', function() { console.log('Event: ICE: iceCandidate'); });
+		        ring_session.mediaHandler.on('userMedia', function() { console.log('Event: ICE: userMedia'); });
+		        ring_session.mediaHandler.on('userMediaRequest', function() { console.log('Event: ICE: userMediaRequest'); });
+		        ring_session.mediaHandler.on('userMediaFailed', function() { console.log('Event: ICE: userMediaFailed'); });
+
+		    }
+
+			function makeCall(number, homeCountryId) {
+
+		        homeCountryId = homeCountryId
+		                      || (extension && extension.regionalSettings && extension.regionalSettings.homeCountry && extension.regionalSettings.homeCountry.id)
+		                      || null;
+
+		        ring_session = webPhone.userAgent.invite(number, {
+		            media: {
+		                render: {
+		                    remote: document.getElementById('remoteVideo'),
+		                    local: document.getElementById('localVideo')
+		                }
+		            },
+		            fromNumber: from_number,
+		            homeCountryId: homeCountryId
+		        });
+
+		        onAccepted();
+
+		    }
+			
+			function makeCallForm() {
+				
+				$("#dialog_phone_login").modal('hide');
+				$("#dialog_phone").modal();
+
+		    }
+		    
+		    function makeClicktoCallForm() {
+		    	console.log('makeClicktoCallForm');
+				document.getElementById("clicktocall_status").innerHTML = '<h4>Calling to '+to_number+' ...</h4>';	
+				
+		        console.log(to_number);
+		        console.log(to_homeCountryId);		        	
+				makeCall(to_number, to_homeCountryId);		
+		    }
+		    
+		    
+			
+		    function makeLogin() {	    
+		        console.log('makeLogin');
+            	onlogin(server, appKey, appSecret, login, ext, password,logLevel);	
+		    }		
+		    function makeClicktoCallLogin() {	    
+		        console.log('makeClicktoCallLogin');
+            	onloginClicktoCall(server, appKey, appSecret, login, ext, password,logLevel);	
+		    }			    
+			    
+			    
+			function onPhoneCall(){    	
+		    	console.log("onPhoneCall");		    	
+		    	$("#dialog_phone_login").modal();
+			    makeLogin();			    
+			}
+			function onClicktoCall(to_phone_number){    	
+		    	console.log("onClicktoCall");		 
+		    	
+		    	
+		    	to_number = to_phone_number.replace(/[^0-9]/g,'');
+		    	to_number=to_number.substring(to_number.length-10);
+		    	to_number = "+1"+to_number;
+		    	
+		    	to_homeCountryId=1;
+		    	console.log(to_number);		    
+		    	console.log(to_homeCountryId);	
+		    	  
+		    	$("#dialog_clicktocall").modal();
+			    makeClicktoCallLogin();			    
+			}
+		  
+		</script>
+		<!----------------------->

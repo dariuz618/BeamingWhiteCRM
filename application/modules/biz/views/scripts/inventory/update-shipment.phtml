@@ -1,0 +1,700 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="/public/css/crm.css">	 
+</head>
+
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Update Shipment</h2>
+        <ol class="breadcrumb">            
+            <li><a href="/inventory/create-shipment">Create Shipment</a></li>
+            <li><a href="/inventory/create-order">Create Inventory Order</a></li>
+            <li><a href="/inventory/view">Inventory Orders</a></li>
+            <li><a href="/inventory/stock">Current Inventory</a></li>
+            <li><a href="/inventory/shipments">Shipments</a></li> 
+            <li class="active">Update Shipment</li>
+        </ol>
+    </div>    
+</div>
+
+<div class="row">    
+     
+        
+    <div class="col-lg-10">
+        
+        <p>
+        <div class="btn btn-warning view_log" id="<?= $this->shipment['inventory_shipment_id'] ?>">Shipment Change Log</div>
+        <div type="button" class="btn btn-info invoice">Generate Invoice</div>
+        <div type="button" class="btn btn-info commercial">Generate Commercial Invoice</div>
+        <div type="button" class="btn btn-info packing">Generate Packing List</div>
+       </p>  
+       <p>
+        <span type="button" class="btn btn-success itemsBox" id="<?= $this->shipment['inventory_shipment_id'] ?>">Multi Item Box</span>     
+        <a href="/inventory/invoice/export/1/id/<?= $this->shipment['inventory_shipment_id']?>" class="btn btn-info">Export Invoice to Excel</a>        
+        <a href="/inventory/packing-list/export/1/id/<?= $this->shipment['inventory_shipment_id']?>" class="btn btn-info">Export Packing List to Excel</a> 
+        <a href="/inventory/commercial-invoice/export/1/id/<?= $this->shipment['inventory_shipment_id']?>" class="btn btn-info">Export Commercial Invoice to Excel</a>
+       </p>  
+        <? if (isset($this->error)): ?>
+        <div class="alert alert-danger alert-dismissable">
+            <a class="close" data-dismiss="alert" href="#">×</a>
+            <?= $this->error; ?>                             
+        </div>    
+    <? endif; ?>
+    <? if (isset($this->message)): ?>           
+        <div class="alert alert-success alert-dismissable">
+            <a class="close" data-dismiss="alert" href="#">×</a>
+            <?= $this->message; ?>                             
+        </div>
+    <? endif; ?>
+        
+       <div id="updateMessage"></div>
+    </div>
+   
+    
+   <form class="form-horizontal" id="shipmentForm" method="POST">
+    <div class="col-lg-6">           
+            
+             <div class="form-group">
+                <label for="destination" class="col-sm-4 control-label required">Destination Port:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="destination" value = "<? echo isset($this->shipment['destination'])?$this->shipment['destination']:'' ?>" >
+                </div>
+            </div>
+        
+            <div class="form-group">
+                <label for="entity" class="col-sm-4 control-label">Business Entity</label>   
+                <div class="col-sm-6">            
+                    <select name="entity"  class="form-control">
+                        <option value=""></option>
+                        <? foreach ($this->companies as $company): ?>
+                            <option value="<?= $company['id'] ?>" <? echo isset($this->shipment['entity']) && $this->shipment['entity'] == $company['id']?"selected='selected'":'' ?>><?= $company['name'] ?></option>
+                        <? endforeach; ?>                 
+                    </select>
+                    <!-- Click <a href="/inventory/company">Here</a> to add/edit company -->
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="billTo" class="col-sm-4 control-label">Bill To:</label>   
+                <div class="col-sm-6">            
+                    <select name="billTo"  class="form-control">
+                        <option value=""></option>
+                        <? foreach ($this->companies as $company): ?>
+                            <option value="<?= $company['id'] ?>" <? echo isset($this->shipment['billTo']) && $this->shipment['billTo'] == $company['id']?"selected='selected'":'' ?>><?= $company['name'] ?></option>
+                        <? endforeach; ?>                 
+                    </select>
+                </div>
+            </div>
+        
+                 
+            <div class="form-group">
+                <label for="shipTo" class="col-sm-4 control-label required">Ship To:</label>   
+                <div class="col-sm-6">            
+                    <select name="shipTo"  class="form-control">
+                        <option value=""></option>
+                        <? foreach ($this->companies as $company): ?>
+                            <option value="<?= $company['id'] ?>" <? echo isset($this->shipment['shipTo']) && $this->shipment['shipTo'] == $company['id']?"selected='selected'":'' ?>><?= $company['name'] ?></option>
+                        <? endforeach; ?>                 
+                    </select>
+                </div>
+            </div>
+          
+            <div class="form-group">
+                <label for="terms" class="col-sm-4 control-label">Terms</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="terms" value = "<? echo isset($this->shipment['terms'])?$this->shipment['terms']:'' ?>" >
+                </div>
+            </div>
+        
+            <div class="form-group">
+                <label for="freight" class="col-sm-4 control-label">Shipping Cost:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="freight" value = "<? echo isset($this->shipment['freight'])?$this->shipment['freight']:'' ?>" >
+                </div>
+            </div>
+                  
+        </div>  
+            
+        <div class="col-lg-6">           
+            <div class="form-group">
+                <label for="shipDate" class="col-sm-4 control-label required">Ship Date:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control datepicker" name="shipDate" placeholder="YYYY-MM-DD" value = "<? echo isset($this->shipment['shipDate'])?$this->shipment['shipDate']:'' ?>" >
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="shipvia" class="col-sm-4 control-label">Ship Via:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="shipvia" value = "<? echo isset($this->shipment['shipvia'])?$this->shipment['shipvia']:'' ?>" >
+                </div>
+            </div>
+            
+             <div class="form-group">
+                <label for="contact" class="col-sm-4 control-label">Billing Contact:</label>   
+                <div class="col-sm-6">            
+                    
+                    <select name="billContact"  class="form-control" id="billContact">
+                       <option value=""></option>
+                        <? foreach ($this->contacts as $contact): ?>
+                            <option value="<?= $contact['attn'] ?>" <? echo isset($this->shipment['billContact']) && $this->shipment['billContact'] == $contact['attn']?"selected='selected'":'' ?>><?= $contact['attn'] ?></option>
+                        <? endforeach; ?>    
+                    </select>
+                </div>
+            </div>
+                 
+        <div class="form-group">
+                <label for="contact" class="col-sm-4 control-label">Shipping Contact:</label>   
+                <div class="col-sm-6">            
+                    
+                    <select name="shipContact"  class="form-control" id="shipContact">
+                       <option value=""></option>
+                        <? foreach ($this->contacts as $contact): ?>
+                            <option value="<?= $contact['attn'] ?>" <? echo isset($this->shipment['shipContact']) && $this->shipment['shipContact'] == $contact['attn']?"selected='selected'":'' ?>><?= $contact['attn'] ?></option>
+                        <? endforeach; ?>    
+                    </select>
+                </div>
+            </div>                     
+        
+             <div class="form-group">
+                <label for="container" class="col-sm-4 control-label">Container #:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="container" value = "<? echo isset($this->shipment['container'])?$this->shipment['container']:'' ?>" >
+                </div>
+            </div>
+            
+    
+    </div>
+       <div class="col-lg-12">
+       <input type="hidden" name="inventory_shipment_id" value="<?= $this->shipment['inventory_shipment_id']?>">      
+       <p class="text-center"><input type="submit" id="shipment" class="btn btn-primary" value="Update"></p>
+       </div>
+    </form>
+     <div class="col-lg-10">
+         <div id="itemMessage"></div>
+            <table cellpadding="0" cellspacing="0" border="0" id="items" class="account">    
+                <tr>      
+                    <th></th>
+                    <th width="10%">Item *<br>QOH**Item Number -- Name</th>     
+                    <th width="8%">Order ID *</th>
+                    <th width="8%">Pcs/<br>Carton</th>
+                    <th width="8%">T/T CTNS</th>
+                    <th width="8%">Quantity*</th>
+                    <th width="8%">Volume/<br>Carton</th>         
+                    <th width="8%">G.W./Carton</th>
+                    <th width="8%">Price</th>
+                    <th width="8%">Invoice Price</th>
+                    <th width="8%" colspan="2">Action</th>
+                </tr>
+                  
+                
+                <?if (!empty($this->shipmentItems)):?>
+                <? //$index = 1;?>
+                  <? foreach($this->shipmentItems as $shipmentItem):?>                
+                 <form id="itemForm_<?= $shipmentItem['shipment_items_id']?>" method="POST"> 
+                 <tr>                 
+                      <input type="hidden" name="shipment_items_id" value="<?= $shipmentItem['shipment_items_id']?>">
+                      <input type="hidden" name="inventory_shipment_id" value="<?= $shipmentItem['inventory_shipment_id']?>">
+                      <input type="hidden" name="shipTo" value="<?= $this->shipment['shipTo']?>">
+                      <td style="text-align:center;"><?= $shipmentItem['shipment_items_id'];?></td>  
+                      <td width="10%">           
+                        <input type="text" size="40" name="item[]" disabled class="field_input item" value ="<? echo isset($shipmentItem['totalOnHand'])?$shipmentItem['totalOnHand']:0 ?>***<?= $shipmentItem['itemNumber'] ?>***<?= $shipmentItem['item'] ?>"/>              
+                        <!--select name="item[]">
+                            <option value=""></option>                            
+                            <? foreach ($this->items as $item): ?>
+                                <option value="<?= $item['item'] ?>" 
+                                    <? echo isset($shipmentItem['item']) && $item['item'] == $shipmentItem['item']?"selected='selected'":''  ?> disabled>
+                                   <? echo isset($item['totalOnHand'])?$item['totalOnHand']:0 ?>**<?= $item['itemNumber'] ?> -- <?= $item['item'] ?></option>                 
+                            <? endforeach; ?>
+                        </select-->
+                        </td>
+                        <input type="hidden" name="item" value="<?= $shipmentItem['item']?>">
+                        <input type="hidden" name="originalQty" value="<?= $shipmentItem['quantity']?>">
+                        <input type="hidden" name="orderid" value="<?= $shipmentItem['order_id']?>">
+                    
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" value = "<? echo isset($shipmentItem['order_id'])?$shipmentItem['order_id']:'' ?>" name="orderid" disabled class="field_input orderid" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" value = "<? echo isset($shipmentItem['qtyPerBox'])?$shipmentItem['qtyPerBox']:'' ?>" name="qtyPerBox" class="field_input qtyPerBox" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" value = "<? echo isset($shipmentItem['numberOfBoxes'])?$shipmentItem['numberOfBoxes']:'' ?>" name="numberOfBoxes" class="field_input numberOfBoxes" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" value = "<? echo isset($shipmentItem['quantity'])?$shipmentItem['quantity']:'' ?>" name="quantity" class="field_input quantity" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" value = "<? echo isset($shipmentItem['volPerBox'])?$shipmentItem['volPerBox']:'' ?>" name="volPerBox" class="field_input volPerBox" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" value = "<? echo isset($shipmentItem['weightPerBox'])?$shipmentItem['weightPerBox']:'' ?>" name="weightPerBox" class="field_input weightPerBox" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" value = "<? echo isset($shipmentItem['actualPrice'])?$shipmentItem['actualPrice']:'' ?>" name="actualPrice" class="field_input actualPrice" style="text-align:right;"/></td>       
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" value = "<? echo isset($shipmentItem['invoicePrice'])?$shipmentItem['invoicePrice']:'' ?>" name="invoicePrice" class="field_input invoicePrice" style="text-align:right;"/></td>
+                    <td width="4%"><button id="<?= $shipmentItem['shipment_items_id']?>" type="button" class="btn btn-primary btn-xs updateItem">Update</button></td>
+                    <td width="4%"><button id="<?= $shipmentItem['shipment_items_id']?>" type="button" class="btn btn-danger btn-xs deleteItem">Delete</button></td>
+                  </tr>
+                  </form> 
+                <? //++$index;?>
+                  <?endforeach;?>
+                  
+                <?endif;?>
+              
+                <tr class="dataRow">   
+                    <td></td>
+                    <td width="10%"> 
+                         <input type="text" size="40" name="item[]" class="field_input item" />
+                        <!--select name="item" class="field_input item">
+                            <option value=""></option>
+                            <? foreach ($this->inventoryItems as $item): ?>
+                                <option value="<?= $item['item'] ?>"><?= $item['itemNumber'] ?><? echo isset($item['totalOnHand'])?' ** '.$item['totalOnHand']:'' ?>--<?= $item['item'] ?>  </option>                 
+                            <? endforeach; ?>
+                        </select-->
+                    </td>       
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" name="orderid" class="field_input orderid" style="text-align:right;"/></td>
+                    
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" name="qtyPerbox" class="field_input qtyPerBox" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" name="numberOfBoxes" class="field_input numberOfBoxes" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" name="quantity" class="field_input quantity" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" name="volPerBox" class="field_input volPerBox" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" name="weightPerBox" class="field_input weightPerBox" style="text-align:right;"/></td>
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" name="actualPrice" class="field_input actualPrice" style="text-align:right;"/></td>       
+                    <td width="8%" style="text-align:center;"><input type="text" size="4" name="invoicePrice" class="field_input invoicePrice" style="text-align:right;"/></td>
+                    <td width="4%"><button class="btn btn-primary btn-xs addItem">Add</button></td>
+                    <td width="4%"><button class="btn btn-warning btn-xs resetItem">Clear</button></td>
+                    <td width="4%"></td>
+                </tr>  
+            </table>
+
+            <div id="add_row" class="button">+ Item</div>
+
+            <br><br>
+            
+                                
+            <div class="form-group">                 
+                <label for="notes" class="col-sm-1 control-label">Notes</label>                
+                
+                <div class="col-sm-6">
+                    <?if ($this->shipment['notes'] != ''):?>
+                        <p><?= $this->shipment['notes']?><br>
+                        <span style="margin-left: 30px;">-<?= $this->shipment['created_by'] ?> <?= $this->shipment['created_time'] ?></span>
+                        <p>
+                    <?endif;?>
+                     <? if(isset($this->notes)):?>                   
+                        <?foreach ($this->notes as $note):?>
+                        <p><?= $note['notes'] ?>
+                        <br><span style="margin-left: 30px;">-<?= $note['author'] ?> <?= $note['enter_time'] ?></span><br>
+                        </p>
+                        <?endforeach;?>                    
+                    <?endif;?> 
+                            
+                    <textarea  name="notes" id="notes" class="form-control" rows="3"></textarea>
+                    <p class="text-center"><input type="submit" class="btn btn-primary addNotes" value="Add Notes"></p>
+                </div>
+            </div>  
+          
+    </div>
+      
+<div id="dialog_view_log">
+	<div id="view_log"></div>
+</div>
+
+<div id="dialog_itemsBox">
+	<div id="itemsBox"></div>
+</div>    
+    
+</div>
+
+<script>
+    $(document).ready(function() {
+        $(".datepicker").datepicker({
+            changeYear: true,
+            dateFormat: 'yy-mm-dd'
+        });
+        $(".invoice").click(function() {  
+            window.open("/inventory/invoice/id/<?=$this->shipment['inventory_shipment_id']?>");
+        });
+        $(".commercial").click(function() {  
+            window.open("/inventory/commercial-invoice/id/<?=$this->shipment['inventory_shipment_id']?>");
+        });
+        $(".packing").click(function() {  
+            window.open("/inventory/packing-list/id/<?=$this->shipment['inventory_shipment_id']?>");
+        });
+        $(".item").bind("keyup", itemAutoComplete) ;  
+        
+         $('.orderid').autocomplete({                             
+                source: function(request, response ) {                       
+                $.ajax({                                  
+                    url: "/inventory/orderid-autosuggest",
+                    dataType: "json",
+                 
+                    data: {term: this.element.closest('tr').find('.item').val()},
+                    success: function(data) {
+                                response($.map(data, function(item) {
+                                return {                                     
+                                    quantity: item.quantity,                               
+                                    value: item.value                                       
+                                    };
+                            }));
+                        }
+                    });
+                },              
+				focus: function(event, ui) {
+					// prevent autocomplete from updating the textbox
+					event.preventDefault();
+					// manually update the textbox
+					$(this).val(ui.item.value);
+                                        
+				},
+				
+                                 select: function( event, ui ) {
+                                    event.preventDefault();
+					// manually update the textbox and hidden field
+					$(this).val(ui.item.label);
+                                         var $row = $(this).closest('tr');                                         
+                                         $row.find('.quantity').val(ui.item.quantity);                                         
+                                    },  
+                                            
+                 minLength: 0,
+            }).focus(function () {
+                $(this).autocomplete("search");
+            }); 
+               
+        
+        $('.qtyPerBox').autocomplete({                             
+                source: function(request, response ) {                       
+                $.ajax({                                  
+                    url: "/inventory/box-autosuggest",
+                    dataType: "json",
+                 
+                    data: {term: this.element.closest('tr').find('.item').val()},
+                    success: function(data) {
+                                response($.map(data, function(item) {
+                                return {
+                                    volPerBox: item.volPerBox,
+                                    weightPerBox: item.weightPerBox,
+                                    numberOfBoxes: item.numberOfBoxes,
+                                    quantity: item.quantity,
+                                    value: item.value                                       
+                                    };
+                            }));
+                        }
+                    });
+                },              
+				focus: function(event, ui) {
+					// prevent autocomplete from updating the textbox
+					event.preventDefault();
+					// manually update the textbox
+					$(this).val(ui.item.value);
+                                        
+				},
+				
+                                 select: function( event, ui ) {
+                                    event.preventDefault();
+					// manually update the textbox and hidden field
+					$(this).val(ui.item.label);
+                                         var $row = $(this).closest('tr');
+                                         $row.find('.numberOfBoxes').val(ui.item.numberOfBoxes);
+                                         $row.find('.quantity').val(ui.item.quantity);
+                                         $row.find('.volPerBox').val(ui.item.volPerBox);
+                                         $row.find('.weightPerBox').val(ui.item.weightPerBox);
+                                    },  
+                                            
+                 minLength: 0,
+            }).focus(function () {
+                $(this).autocomplete("search");
+            }); 
+        
+        $(".qtyPerBox, .numberOfBoxes").on("keyup", function() {
+            var $row = $(this).closest('tr');
+            var qtyPerBox = $row.find('.qtyPerBox').val();
+          
+            var numberOfBoxes = $row.find('.numberOfBoxes').val();
+            if (qtyPerBox > 0 && numberOfBoxes > 0) {
+                total = qtyPerBox * numberOfBoxes;
+                $row.find('.quantity').val(total);
+            }
+        });
+        
+        /***********Box Info***********/
+       $('.itemsBox').click(function() {                          
+            $('#itemsBox').html('');            
+            $('#itemsBox').load('/inventory/multi-item-box/id/' + $(this).attr("id") );
+	    $('#dialog_itemsBox').dialog('open');
+	});    
+
+   $('#dialog_itemsBox').dialog({
+		title: 'Multi Items Box',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+        
+
+
+        var numberExistingRows = 1;
+
+        $('#add_row').click(function() {
+
+            // keep track of number of rows for input names
+            numberExistingRows++;
+            // clone a row
+            var $row = $('.dataRow:last').clone();
+            // strip previous values and fix names of inputs
+            $row.find('input').each(function() {
+                var $input = $(this);// cache this input into jQuery object in lieu of using $(this) in below functions for clarity and performance
+                $input.val("");// reset value to none
+
+                // fix names
+                var thisInputName = $input.attr('name').split('_')[0] + '_' + numberExistingRows;
+                $input.attr('name', thisInputName)
+
+            });
+            $row.find('.qtyPerBox, .numberOfBoxes').on("change", getQuantity);       
+            $row.find('.item').bind("keyup", itemAutoComplete) ; 
+            
+             $row.find('.orderid').autocomplete({
+                source: function( request, response ) {
+                $.ajax({
+                    url: "/inventory/orderid-autosuggest",
+                    dataType: "json",
+                    data: {term: $row.find('.item').val()},
+                    success: function(data) {
+                                response($.map(data, function(item) {
+                                return {                                   
+                                    quantity: item.quantity,
+                                    value: item.value                                       
+                                    };
+                            }));
+                        }
+                    });
+                },              
+				focus: function(event, ui) {
+					// prevent autocomplete from updating the textbox
+					event.preventDefault();
+					// manually update the textbox
+					$(this).val(ui.item.value);
+                                        
+				},
+				
+                                 select: function( event, ui ) {
+                                    event.preventDefault();
+					// manually update the textbox and hidden field
+					$(this).val(ui.item.label);
+                                         var $row = $(this).closest('tr');                                         
+                                         $row.find('.quantity').val(ui.item.quantity);                                         
+                                    },  
+                                            
+                 minLength: 0,
+            }).focus(function () {
+                $(this).autocomplete("search");
+            });  
+             $row.find('.resetItem').bind('click', function(){
+             $row.find('input').each(function() {
+                var $input = $(this);
+                $input.val("");
+            });
+          }); 
+            
+            
+            $row.find('.qtyPerBox').autocomplete({
+                source: function( request, response ) {
+                $.ajax({
+                    url: "/inventory/box-autosuggest",
+                    dataType: "json",
+                    data: {term: $row.find('.item').val()},
+                    success: function(data) {
+                                response($.map(data, function(item) {
+                                return {
+                                    volPerBox: item.volPerBox,
+                                    weightPerBox: item.weightPerBox,
+                                    numberOfBoxes: item.numberOfBoxes,
+                                    quantity: item.quantity,
+                                    value: item.value                                       
+                                    };
+                            }));
+                        }
+                    });
+                },              
+				focus: function(event, ui) {
+					// prevent autocomplete from updating the textbox
+					event.preventDefault();
+					// manually update the textbox
+					$(this).val(ui.item.value);
+                                        
+				},
+				
+                                 select: function( event, ui ) {
+                                    event.preventDefault();
+					// manually update the textbox and hidden field
+					$(this).val(ui.item.label);
+                                         var $row = $(this).closest('tr');
+                                         $row.find('.numberOfBoxes').val(ui.item.numberOfBoxes);
+                                         $row.find('.quantity').val(ui.item.quantity);
+                                         $row.find('.volPerBox').val(ui.item.volPerBox);
+                                         $row.find('.weightPerBox').val(ui.item.weightPerBox);
+                                    },  
+                                            
+                 minLength: 0,
+            }).focus(function () {
+                $(this).autocomplete("search");
+            });  
+             $row.find('.resetItem').bind('click', function(){
+             $row.find('input').each(function() {
+                var $input = $(this);
+                $input.val("");
+            });
+          });
+            
+            $('#items').append($row);
+
+        });
+        $("#shipmentForm").submit(function(e){
+                e.preventDefault();
+		formData = $("#shipmentForm").serialize();                        
+		$.ajax({                                    
+				type: "POST",
+				url: "/inventory/update-shipment",
+				data: formData,
+				dataType: 'html',
+				success: function(data) {    
+                                   $("#updateMessage").empty().removeClass("alert alert-danger");                                    
+                                   if (data == 'success') {
+                                       $("#updateMessage").html("Shipment Update Successfully!").addClass("alert alert-success");
+                                   } else {
+                                       $("#updateMessage").html(data).addClass("alert alert-danger");
+                                   }
+                                }
+			});
+	});
+        $('.updateItem').bind('click', function(){   
+            formData = $("#itemForm_" + $(this).attr("id")).serialize();
+            $.ajax({                                    
+				type: "POST",
+				url: "/inventory/ajax-update-shipment-item",
+				data: formData,
+				dataType: 'html',
+				success: function(data) {    
+                                   $("#itemMessage").empty().removeClass("alert alert-danger");   
+                                   $("#itemMessage").empty().removeClass("alert alert-success");   
+                                   if (data == 'success') {
+                                       $("#itemMessage").html("Shipment Item Updated Successfully!").addClass("alert alert-success");
+                                       //window.location.href = '/inventory/update-shipment/id/' +  <?= $this->shipment['inventory_shipment_id']?>;
+                                   } else {
+                                       $("#itemMessage").html(data).addClass("alert alert-danger");
+                                   }
+                                }
+			});
+         });
+         $('.deleteItem').bind('click', function(){ 
+           var r=confirm("Delete this item from shipment?");
+           if (r==true) {
+                $.post('/inventory/ajax-remove-shipment-item', 
+                      { 
+                          "action" : 'delete',
+                          "shipment_items_id":$(this).attr("id")                     
+                      },
+                      function(data) {                           
+                            if (data == 'success') {
+                                      window.location.href = '/inventory/update-shipment/id/' +  <?= $this->shipment['inventory_shipment_id']?>;
+                             }
+                      });           
+            }  
+         });
+         $('.addNotes').bind('click', function(){  
+              $.post('/inventory/ajax-save-shipment-notes', 
+                      { 
+                          "notes": $("#notes").val(),                          
+                          "id": <?= $this->shipment['inventory_shipment_id']?>
+                      },
+                      function(data) {                           
+                            if (data == 'success') {
+                                      window.location.href = '/inventory/update-shipment/id/' +  <?= $this->shipment['inventory_shipment_id']?>;
+                             }
+                      });    
+         });
+         $('.addItem').bind('click', function(){  
+              var $row = $(this).closest('tr');            
+              $.post('/inventory/ajax-add-shipment-item', 
+                      { 
+                          "action" : 'add',
+                          "item":$row.find('.item').val(),   
+                          "orderid":$row.find('.orderid').val(),   
+                          "qtyPerBox": $row.find('.qtyPerBox').val(),
+                          "numberOfBoxes":$row.find('.numberOfBoxes').val(),
+                          "quantity":$row.find('.quantity').val(),
+                          "volPerBox":$row.find('.volPerBox').val(),
+                          "weightPerBox":$row.find('.weightPerBox').val(),
+                          "actualPrice":$row.find('.actualPrice').val(),
+                          "invoicePrice":$row.find('.invoicePrice').val(),
+                          "inventory_shipment_id": <?=$this->shipment['inventory_shipment_id']?>,
+                          "shipTo": <?= $this->shipment['shipTo']?>
+                      },
+                      function(data) {                           
+                             $("#itemMessage").empty().removeClass("alert alert-danger");                                    
+                             if (data == 'success') {
+                                 window.location.href = '/inventory/update-shipment/id/' +  <?= $this->shipment['inventory_shipment_id']?>
+                             } else {
+                                 $("#itemMessage").html(data).addClass("alert alert-danger");
+                             }
+                      });
+         });
+           $('.resetItem').bind('click', function(){       
+            var $row = $(this).closest('tr');            
+            $row.find('input').each(function() {
+                var $input = $(this);
+                $input.val("");
+            });
+        });
+         
+          /***********Order change log***********/
+       $('.view_log').click(function() {       
+            $('#view_log').html('');            
+            $('#view_log').load('/inventory/log/id/' + $(this).attr("id") + '/type/shipment');
+	    $('#dialog_view_log').dialog('open');
+	});    
+
+   $('#dialog_view_log').dialog({
+		title: 'Shipment Change log',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {
+                    
+		    Close: function() {			
+			$(this).dialog('close');
+                    }
+		}
+	});
+     
+    });
+    function itemAutoComplete() {
+        $(this).autocomplete({
+            source: function(request, response)
+            {
+                $.post(
+                        '/inventory/item-autosuggest',
+                        {queryString: request.term,
+                            field: this.element.context.id
+
+                        },
+                function(list) {
+                    response(list);
+                },
+                        'json'
+                        );
+            },
+            minLength: 2
+        });
+    }
+    
+    function getQuantity() {
+        var $row = $(this).closest('tr');
+        var qtyPerBox = $row.find('.qtyPerBox').val();    
+        var numberOfBoxes = $row.find('.numberOfBoxes').val();
+        if (qtyPerBox > 0 && numberOfBoxes > 0) {
+            total = qtyPerBox * numberOfBoxes;
+            $row.find('.quantity').val(total);
+        }
+    }
+
+</script>

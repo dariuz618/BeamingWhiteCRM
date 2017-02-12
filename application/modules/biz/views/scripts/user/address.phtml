@@ -1,0 +1,54 @@
+
+<? if(!empty($this->address)):?>
+You will be able to select from these shipping addresses in checkout.<br>
+    <? $showForm = 1;?>           
+    <? foreach($this->address as $address):?>       
+       <?= $address['firstname']?> <?= $address['lastname']?>  <br>
+       <?= $address['address1']?> <br>
+      <? echo $address['address2']?$address['address2'].'<br>':''; ?> 
+       <?= $address['city']?>, <?= $address['state']?> <br> <?= $address['zipcode']?> <br>
+       <?= $address['country']?> <br>
+       <a href="/biz/user/editaddress/id/<?= $address['address_id']?>">edit</a> 
+       <a class="delete" title="<?= $address['address_id']?>">delete</a> <br><br>
+    <? endforeach;?>  
+   
+<? endif; ?>
+<br>
+
+
+<a id="add">Add a new address </a>
+<? $style = '';?>
+<?if(isset($showForm)) $style = "style = display:none;" ?>
+<div id = 'addressForm' <?= $style?>>
+    <?= $this->form;?>
+</div>
+
+<script>
+$(function() {    
+    $("#add").click(function() {
+        $("#addressForm").show();
+    });
+    $("#country").change(function() {
+            $.ajax({
+                url: '/biz/user/ajax-get-regions',
+                dataType: 'html',
+                type: "POST",
+                data: {country: $(this).val()},
+                success: function(data) {
+                    $('#state').html(data);
+                }
+            });
+
+    });   
+    
+    $(".delete").click(function() {           
+        var r=confirm("Delte this address?");
+        if (r==true) {
+            //alert($(this).attr("title") );
+            window.location.href = "/biz/user/deleteaddress/id/" + $(this).attr("title");
+        }     
+        
+    });
+    
+});
+</script>

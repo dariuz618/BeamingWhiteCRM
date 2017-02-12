@@ -1,0 +1,16 @@
+2016-07-28T10:32:23-07:00 INFO (6): Cory--a:42:{s:2:"id";s:5:"17016";s:8:"username";s:15:"Ultra Smile Pro";s:10:"account_id";N;s:10:"profile_id";N;s:4:"type";s:4:"Lead";s:9:"potential";N;s:8:"interest";s:355:"Pricing please, any package deals or quantity orders on products. 
+
+Info regarding drop shipments.
+
+Info/pricing on private label/our brand name.
+
+Info/pricing on marketing materials.
+
+How do I get started with training?
+
+Please email me information rather than phone call at this time.
+
+Thank you.
+
+Amanda Ballenger
+ultrasmilepro@gmail.com";s:14:"payment_option";s:4:"card";s:13:"resale_number";N;s:5:"email";s:23:"ultrasmilepro@gmail.com";s:6:"email2";s:0:"";s:9:"firstname";s:6:"Amanda";s:8:"lastname";s:9:"Ballenger";s:12:"contactphone";s:10:"9135537513";s:13:"contactphone2";s:10:"9135537513";s:3:"fax";N;s:12:"businessname";s:15:"Ultra Smile Pro";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";N;s:8:"address1";s:21:"11235 W. 64th Terrace";s:8:"address2";s:5:"# 601";s:4:"city";s:7:"Shawnee";s:5:"state";s:2:"KS";s:3:"zip";s:5:"66203";s:7:"country";s:2:"US";s:13:"businessphone";s:10:"9135537513";s:7:"website";s:0:"";s:11:"description";N;s:6:"source";s:8:"Internet";s:11:"source_text";s:15:"teeth whitening";s:8:"imported";s:12:"Registration";s:13:"imported_text";N;s:8:"password";s:40:"4faf2ef64dec3a6a84cc9cc4e076125a9f7af5ed";s:4:"salt";s:32:"873328909026f75fa8297621a63d5b80";s:4:"role";s:8:"customer";s:10:"user_agent";s:109:"Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36";s:2:"ip";s:13:"99.198.188.40";s:12:"created_time";s:19:"2016-07-22 21:08:32";s:10:"last_login";N;s:6:"status";s:7:"Pending";s:11:"parent_user";s:5:"15249";}

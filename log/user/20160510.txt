@@ -1,0 +1,75 @@
+2016-05-10T08:31:24-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:21:"(706) 850-9100 - WORK";s:7:"user_id";s:5:"15173";}
+2016-05-10T08:51:07-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:12:"Body by Bina";s:7:"user_id";s:4:"9256";}
+2016-05-10T08:51:11-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:12:"Body by Bina";s:7:"user_id";s:4:"9256";}
+2016-05-10T08:51:20-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"630-696-8622";s:7:"user_id";s:4:"9256";}
+2016-05-10T08:51:50-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:12:"Body by Binx";s:7:"user_id";s:4:"9256";}
+2016-05-10T08:51:54-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:12:"Body by Binx";s:7:"user_id";s:4:"9256";}
+2016-05-10T09:11:56-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:0:"";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:11:58-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:0:"";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:12:00-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:0:"";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:12:06-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NH";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:12:11-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:20:"16C Garabedian Drive";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:12:19-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:5:"Salem";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:12:22-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"03079";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:12:26-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:15:"Salem, NH 03079";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:12:42-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:0:"";s:7:"user_id";s:5:"16149";}
+2016-05-10T09:29:21-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16322";}
+2016-05-10T10:00:28-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16149";}
+2016-05-10T10:10:03-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:21:"4353 Union Springs Rd";s:7:"user_id";s:5:"15288";}
+2016-05-10T10:10:10-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"34608";s:7:"user_id";s:5:"15288";}
+2016-05-10T10:28:13-07:00 INFO (6): Rachel Reiser--a:28:{s:12:"businessname";s:16:"Shine in no time";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:13:"3006 37th St.";s:8:"address2";s:0:"";s:4:"city";s:7:"Lubbock";s:5:"state";s:2:"TX";s:3:"zip";s:5:"79413";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"806-544-8205";s:6:"source";s:5:"Other";s:9:"firstname";s:9:"Johnathan";s:8:"lastname";s:8:"Villalon";s:12:"contactphone";s:12:"806-544-8205";s:5:"email";s:22:"villalon1986@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"8f2de986be8ca0724ef624bd2c2d85fc8957c8af";s:8:"username";s:16:"Shine in no time";s:12:"created_time";s:19:"2016-05-10 10:28:13";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"5374059e67de7d2abf19d0e5d535a076";}
+2016-05-10T10:56:28-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:5:"Tampa";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:17:"cell 813-451-9597";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Pat";s:8:"lastname";s:5:"Gomez";s:12:"contactphone";s:17:"cell 813-451-9597";s:5:"email";s:17:"pat@needemail.com";s:13:"contactphone2";s:19:"office 727-569-0999";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"6653e051e767d01561ced3cdf28d4fcc4a6a9f3a";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-05-10 10:56:28";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"958c480aeb732d72bb3a3e7719c9c16b";}
+2016-05-10T10:56:41-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16328";}
+2016-05-10T11:04:22-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:7:"RuthAnn";s:7:"user_id";s:5:"16326";}
+2016-05-10T11:05:18-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:50:"http://www.ddskintherapy.com/page/page/1214369.htm";s:7:"user_id";s:5:"16326";}
+2016-05-10T11:06:56-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:0:"";s:7:"user_id";s:5:"16326";}
+2016-05-10T11:11:46-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:21:"www.ddskintherapy.com";s:7:"user_id";s:5:"16326";}
+2016-05-10T11:39:23-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"16312";}
+2016-05-10T12:24:24-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:12:"Loay Mustafa";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"678-644-5255";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Loay";s:8:"lastname";s:7:"Mustafa";s:12:"contactphone";s:12:"678-644-5255";s:5:"email";s:19:"loaymustafa@aol.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"7e12a028b54136716f1139f92587908f2e43df8a";s:8:"username";s:12:"Loay Mustafa";s:12:"created_time";s:19:"2016-05-10 12:24:23";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"b3b95565f962f7ac399f321b8b387ca2";}
+2016-05-10T12:24:35-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Atlanta";s:7:"user_id";s:5:"16329";}
+2016-05-10T12:29:51-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:541:"Loay is in Atlanta but has an office and warehouse in Jordan. He distributes nutrition, diet, health, and beauty supplies throughout the middle east. He is interested in adding private labelled home use teeth whitening supplies anticipating initial order volumes of 10,000 ea. He is asking for quoted on Deluxe Home kits with a private labelled bag, and the home use pre loaded trays (Snap White trays) As his whitening business grows he would like to add FW pens to his line. Says he has called us and Smile Labs but they have not replied. ";s:7:"user_id";s:5:"16329";}
+2016-05-10T12:33:49-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16329";}
+2016-05-10T12:57:54-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:22:"jsorrells86@icloud.com";s:7:"user_id";s:5:"15173";}
+2016-05-10T13:09:49-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15173";}
+2016-05-10T13:16:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:27:"485 Huntington Rd suite 195";s:7:"user_id";s:5:"15173";}
+2016-05-10T14:01:01-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16290";}
+2016-05-10T14:19:05-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16279";}
+2016-05-10T14:58:38-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:4:"Cobb";s:7:"user_id";s:3:"455";}
+2016-05-10T14:59:28-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:16:"HD Brow & Lashes";s:7:"user_id";s:3:"455";}
+2016-05-10T14:59:33-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:16:"HD Brow & Lashes";s:7:"user_id";s:3:"455";}
+2016-05-10T14:59:40-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:20:"201/1 Pacific Avenue";s:7:"user_id";s:3:"455";}
+2016-05-10T14:59:49-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address2";s:12:"Tannum Sands";s:7:"user_id";s:3:"455";}
+2016-05-10T14:59:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"844-797-2015";s:7:"user_id";s:5:"16149";}
+2016-05-10T14:59:56-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:4:"4680";s:7:"user_id";s:3:"455";}
+2016-05-10T15:00:00-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:3:"QLD";s:7:"user_id";s:3:"455";}
+2016-05-10T15:00:11-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:25:"hdbrowandlashes@gmail.com";s:7:"user_id";s:3:"455";}
+2016-05-10T15:00:27-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:0:"";s:7:"user_id";s:3:"455";}
+2016-05-10T15:07:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16149";}
+2016-05-10T15:10:43-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16149";}
+2016-05-10T15:45:16-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15260";}
+2016-05-10T15:46:14-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"713-582-1065";s:7:"user_id";s:4:"9753";}
+2016-05-10T15:51:30-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15577";}
+2016-05-10T15:55:13-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"254-518-5600";s:7:"user_id";s:5:"15911";}
+2016-05-10T15:58:37-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"704-726-5097";s:7:"user_id";s:4:"9726";}
+2016-05-10T15:59:11-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15911";}
+2016-05-10T16:00:19-07:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:5:"Paris";s:7:"user_id";s:4:"9719";}
+2016-05-10T16:00:23-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:13:"Paris Paulson";s:7:"user_id";s:4:"9719";}
+2016-05-10T16:12:12-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:5:"Miami";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"954-305-5901";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Crystal";s:8:"lastname";s:8:"Campbell";s:12:"contactphone";s:0:"";s:5:"email";s:29:"crystal.campbell105@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"b264d01209239cd9f7785052d57f4aca4d91354d";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-05-10 16:12:12";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"833213ec6db5e835248982bf8efa6f77";}
+2016-05-10T16:18:51-07:00 INFO (6): Rachel Reiser--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:4:"9688";}
+2016-05-10T16:21:35-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16331";}
+2016-05-10T16:21:35-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15919";}
+2016-05-10T16:21:38-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16331";}
+2016-05-10T16:26:11-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15931";}
+2016-05-10T16:27:30-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15943";}
+2016-05-10T16:32:07-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16038";}
+2016-05-10T16:58:14-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:11:"Sacha Davis";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"818-921-5452";s:6:"source";s:5:"Other";s:9:"firstname";s:5:"Sacha";s:8:"lastname";s:5:"Davis";s:12:"contactphone";s:12:"818-921-5452";s:5:"email";s:18:"sacha_niks@aol.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"57718aebf4321ad387741e23fd2b40159a444c2b";s:8:"username";s:11:"Sacha Davis";s:12:"created_time";s:19:"2016-05-10 16:58:14";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"398ccf89a6ad494c7dfe11f2e1242d17";}
+2016-05-10T16:59:17-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:217:"Sacha has been performing teeth whitening in her spa using a chemical free mineral based gel out of Utah??? Says she has purchased two lights off of Amazon which have failed within a year. Looking for a better light. ";s:7:"user_id";s:5:"16332";}
+2016-05-10T17:21:50-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:25:"920 South 2nd Street East";s:7:"user_id";s:5:"16264";}
+2016-05-10T17:22:01-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"59313";s:7:"user_id";s:5:"16264";}
+2016-05-10T17:23:24-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:15:"011640416704493";s:7:"user_id";s:5:"16312";}
+2016-05-10T17:24:01-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"640416704493";s:7:"user_id";s:5:"16312";}
+2016-05-10T17:25:48-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:11:"61416704493";s:7:"user_id";s:5:"16312";}
+2016-05-10T17:36:46-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16312";}
+2016-05-10T18:11:19-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:17:"Dora De La Sancha";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"832-290-3054";s:6:"source";N;s:9:"firstname";s:4:"Dora";s:8:"lastname";s:12:"De La Sancha";s:12:"contactphone";s:12:"832-290-3054";s:5:"email";s:25:"dora_delasancha@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"227439245b1cccb1ac2a5d29531ad7a9a3a48a1f";s:8:"username";s:17:"Dora De La Sancha";s:12:"created_time";s:19:"2016-05-10 18:11:19";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"0e9b41ea39ef64862ffb867558bdba47";}
+2016-05-10T18:14:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16333";}
+2016-05-10T18:17:40-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16312";}

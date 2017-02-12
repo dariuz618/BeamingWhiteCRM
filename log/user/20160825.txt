@@ -1,0 +1,60 @@
+2016-08-25T09:00:38-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17245";}
+2016-08-25T09:38:49-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:27:"Acadianaesthetics@gmail.com";s:7:"user_id";s:5:"11272";}
+2016-08-25T09:43:01-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"11272";}
+2016-08-25T10:06:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17293";}
+2016-08-25T10:07:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"443-804-2524";s:7:"user_id";s:5:"17293";}
+2016-08-25T10:07:06-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"443-804-2524";s:7:"user_id";s:5:"17293";}
+2016-08-25T10:08:36-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11272";}
+2016-08-25T10:15:31-07:00 INFO (6): Erika Rose--a:2:{s:8:"interest";s:0:"";s:7:"user_id";s:5:"17293";}
+2016-08-25T10:16:57-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:16:"Beth (Elizabeth)";s:7:"user_id";s:5:"17233";}
+2016-08-25T11:21:29-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16470";}
+2016-08-25T11:33:35-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17268";}
+2016-08-25T12:33:36-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:555:"Mais medical group
+Riyadh-Saudi Arabia - Second Industry Area
+PO box 3900
+Riyadh 14335-7599
+Tel: +96612650184
+
+Shipping Address: 
+Mais Medical Group Dental Division		
+3rd Industrial City		
+Riyadh		
+Kingdom of Saudi Arabia		
+(96611) 265-1084
+		
+ Shipping Address: 
+Smart Dental Co		
+Dhabab Street		
+Muhanna Building 407, Riyadh		
+Kingdom of Saudi Arabia		
+(96611) 412-0201
+
+Dr. Hosam e-mailed me to let me know that he does not want a shelf life of less than 18 months. I let him know that we can do that but he will have to wait until we make a new batch.";s:7:"user_id";s:5:"10984";}
+2016-08-25T12:45:49-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:11:"Sean Butler";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"631-308-2861";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Sean";s:8:"lastname";s:6:"Butler";s:12:"contactphone";s:12:"631-308-2861";s:5:"email";s:17:"sbutler41@cox.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"bda9f6619c7ca4d73d8b106c0b52ef5c8d5b6761";s:8:"username";s:11:"Sean Butler";s:12:"created_time";s:19:"2016-08-25 12:45:48";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"1785e7f90711fd0feb0dfc1b739af20d";}
+2016-08-25T12:57:10-07:00 INFO (6): Stephanie Brown--a:2:{s:11:"description";s:92:"Never ship usps
+2016 Pricing:
+Advance Kits: $9.00
+Minerals Pen $8.50
+Cheek Retractors: $1.50";s:7:"user_id";s:5:"16084";}
+2016-08-25T13:09:59-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:21:"Silhouette Beauty LLC";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AZ";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"623-203-3432";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Ruth";s:8:"lastname";s:6:"Butler";s:12:"contactphone";s:12:"623-203-3432";s:5:"email";s:31:"silhouettebeautyllcaz@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a8c42f97550f2199d2c89c2c86024f3f6c309221";s:8:"username";s:21:"Silhouette Beauty LLC";s:12:"created_time";s:19:"2016-08-25 13:09:58";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6bcde58069470a003d9afa1f25d81200";}
+2016-08-25T14:41:15-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:5:"Shane";s:7:"user_id";s:5:"17294";}
+2016-08-25T14:42:01-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:32:"Husbane Shane: sbutler41@cox.net";s:7:"user_id";s:5:"17295";}
+2016-08-25T14:42:33-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:27:"Husband Shane: 631-308-2861";s:7:"user_id";s:5:"17295";}
+2016-08-25T14:42:44-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:14:"Ruth and Shane";s:7:"user_id";s:5:"17295";}
+2016-08-25T14:50:34-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:34:"Sharon: sharon4thespacc@yahoo.com ";s:7:"user_id";s:5:"16868";}
+2016-08-25T15:17:24-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"Dr.kooroush";s:7:"user_id";s:5:"10010";}
+2016-08-25T15:17:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:18:"Dr. Sarit Nathwani";s:7:"user_id";s:5:"10010";}
+2016-08-25T15:17:31-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:20:"Dr. kooroush Kassiri";s:7:"user_id";s:5:"10010";}
+2016-08-25T15:17:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:10:"Dr. Sarit ";s:7:"user_id";s:5:"10010";}
+2016-08-25T15:17:37-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:8:"Nathwani";s:7:"user_id";s:5:"10010";}
+2016-08-25T15:17:41-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:12:"Dr. Nathwani";s:7:"user_id";s:5:"10010";}
+2016-08-25T15:17:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:6:"Sarit ";s:7:"user_id";s:5:"10010";}
+2016-08-25T15:18:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"10010";}
+2016-08-25T15:57:26-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:9:"Ben Ament";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"WI";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:3:"Ben";s:8:"lastname";s:5:"Ament";s:12:"contactphone";s:12:"920-716-1620";s:5:"email";s:24:"benjamin.ament@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"21cb3dd392eafae8206100118c73a6eba2a94b9c";s:8:"username";s:9:"Ben Ament";s:12:"created_time";s:19:"2016-08-25 15:57:26";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"46590acb91c5e0d96e8ed140da3aeec6";}
+2016-08-25T16:29:17-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17296";}
+2016-08-25T16:29:33-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"3255 N Oakland Ave ";s:7:"user_id";s:5:"17296";}
+2016-08-25T16:29:41-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Milwaukee";s:7:"user_id";s:5:"17296";}
+2016-08-25T16:29:43-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"53211";s:7:"user_id";s:5:"17296";}
+2016-08-25T17:18:20-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17293";}
+2016-08-25T17:48:45-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:24:"sheila.hedlund@gmail.com";s:7:"user_id";s:5:"17208";}
+2016-08-25T17:51:52-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"17164";}

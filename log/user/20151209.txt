@@ -1,0 +1,186 @@
+2015-12-09T09:12:12-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:22:"Francisco(Paco) & Juan";s:7:"user_id";s:5:"14859";}
+2015-12-09T09:27:14-08:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:7:"Detroit";s:7:"user_id";s:4:"3197";}
+2015-12-09T09:44:19-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:13:"Executive Tan";s:7:"user_id";s:5:"14328";}
+2015-12-09T09:52:02-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:9:"Stephanie";s:7:"user_id";s:5:"14966";}
+2015-12-09T09:52:07-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Stephanie Hughes";s:7:"user_id";s:5:"14966";}
+2015-12-09T09:52:09-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Stephanie Hughes";s:7:"user_id";s:5:"14966";}
+2015-12-09T09:52:12-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14966";}
+2015-12-09T09:52:13-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14966";}
+2015-12-09T10:29:44-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14981";}
+2015-12-09T10:42:35-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:219:"Talked to someone in February 2015 and was quoted $1,100 - $1,200. She has been focused on her eyelash extension business but says her clients have shown interest in TW. She does a lot of briday events and has a chair. ";s:7:"user_id";s:5:"14981";}
+2015-12-09T10:42:47-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14981";}
+2015-12-09T10:46:21-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"lastname";s:6:"McNail";s:7:"user_id";s:4:"9377";}
+2015-12-09T10:52:54-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Zuhair";s:7:"user_id";s:5:"14986";}
+2015-12-09T10:53:01-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Zuhair Aleryani";s:7:"user_id";s:5:"14986";}
+2015-12-09T10:53:04-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Zuhair Aleryani";s:7:"user_id";s:5:"14986";}
+2015-12-09T10:53:10-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14986";}
+2015-12-09T11:04:53-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address2";s:6:"Unit 8";s:7:"user_id";s:5:"14328";}
+2015-12-09T11:07:44-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"787-375-3004";s:7:"user_id";s:5:"14735";}
+2015-12-09T11:25:02-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:16:"Downriver Smiles";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:25:21-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:12:"509-326-8039";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:25:30-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:16:"Downriver Smiles";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:25:46-08:00 INFO (6): Rachel Reiser--a:2:{s:7:"website";s:35:"http://www.howcanimakeyousmile.com/";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:25:59-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:24:"3404 w. northwest blvd. ";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:26:15-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"99205";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:26:57-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:36:"Nikki-manager,  Kitty-places orders.";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:27:24-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:37:"Nikki-manager,  Katie- places orders.";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:28:55-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:55:"Nikki-manager??,  Katie-dental assitant- places orders.";s:7:"user_id";s:5:"11626";}
+2015-12-09T11:35:12-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14989";}
+2015-12-09T11:35:38-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address2";s:20:"3201 Grand Concourse";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:36:00-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"10468";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:36:32-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:0:"";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:36:41-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:20:"3201 Grand Concourse";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:36:44-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address2";s:0:"";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:36:57-08:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:37:02-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:6:"Bronyx";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:37:09-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:5:"Bronx";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:38:21-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14735";}
+2015-12-09T11:39:22-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:14:"(718) 285-6625";s:7:"user_id";s:5:"14960";}
+2015-12-09T11:41:30-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14989";}
+2015-12-09T11:44:07-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:281:"Owns a hair salon and has friends in GA who told her TW is really popular there. She is interested in adding it but not now. Said she has issues with her grandmother and couldn't spend the $$$ until after the first of the year. Quoted her the itemized package prices if she waits. ";s:7:"user_id";s:5:"14989";}
+2015-12-09T11:46:14-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"717-394-7218";s:7:"user_id";s:5:"14963";}
+2015-12-09T11:48:26-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:22:"Bordon dental services";s:7:"user_id";s:5:"14957";}
+2015-12-09T11:48:32-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:22:"Bordon dental services";s:7:"user_id";s:5:"14957";}
+2015-12-09T11:48:51-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:14:"(571) 926-8429";s:7:"user_id";s:5:"14957";}
+2015-12-09T11:56:45-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14679";}
+2015-12-09T11:56:48-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:40:"INTERESTED IN REPLACING ZOOM
+
+Julie Dale";s:7:"user_id";s:5:"14964";}
+2015-12-09T12:15:28-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11186";}
+2015-12-09T12:44:19-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:26:"http://alosoolmedical.com/";s:7:"user_id";s:5:"14826";}
+2015-12-09T12:45:27-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:15:"966 11 275 4871";s:7:"user_id";s:5:"14826";}
+2015-12-09T12:45:36-08:00 INFO (6): Windy Jenkins--a:2:{s:3:"fax";s:15:"966 11 275 4579";s:7:"user_id";s:5:"14826";}
+2015-12-09T12:46:38-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:9:"NY Dental";s:7:"user_id";s:5:"14827";}
+2015-12-09T13:03:10-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:23:"http://nydentalnyc.com/";s:7:"user_id";s:5:"14827";}
+2015-12-09T13:03:38-08:00 INFO (6): Windy Jenkins--a:2:{s:13:"contactphone2";s:14:"(212) 868-2507";s:7:"user_id";s:5:"14827";}
+2015-12-09T13:04:17-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:36:"350 5th avenue350 Fifth Ave Ste 2618";s:7:"user_id";s:5:"14827";}
+2015-12-09T13:04:21-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address2";s:0:"";s:7:"user_id";s:5:"14827";}
+2015-12-09T13:07:07-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:31:"http://buymetabiomedonline.com/";s:7:"user_id";s:5:"14829";}
+2015-12-09T13:07:32-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(267) 282-5893";s:7:"user_id";s:5:"14829";}
+2015-12-09T13:10:56-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:13:"+919819088516";s:7:"user_id";s:5:"14832";}
+2015-12-09T13:11:04-08:00 INFO (6): Windy Jenkins--a:2:{s:13:"contactphone2";s:14:"91-22-28626877";s:7:"user_id";s:5:"14832";}
+2015-12-09T13:13:16-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:21:"http://www.jw.org/en/";s:7:"user_id";s:5:"14833";}
+2015-12-09T13:15:12-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:28:"http://www.doueckdental.com/";s:7:"user_id";s:5:"14837";}
+2015-12-09T13:15:28-08:00 INFO (6): Windy Jenkins--a:2:{s:13:"contactphone2";s:14:"(718) 339-7982";s:7:"user_id";s:5:"14837";}
+2015-12-09T13:16:23-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:12:"Chang dental";s:7:"user_id";s:5:"14845";}
+2015-12-09T13:18:00-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(718) 539-5306";s:7:"user_id";s:5:"14845";}
+2015-12-09T13:18:12-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:22:"ericchangdds@gmail.com";s:7:"user_id";s:5:"14845";}
+2015-12-09T13:19:05-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:11:"Susan Moshe";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Susan";s:8:"lastname";s:5:"Moshe";s:12:"contactphone";s:0:"";s:5:"email";s:16:"sjam71@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5aac73b7ae6f5e5e6b7c92926fbca3e8daaf9fda";s:8:"username";s:11:"Susan Moshe";s:12:"created_time";s:19:"2015-12-09 13:19:05";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"20595b136b0ae0bdb9649f62aca1cf86";}
+2015-12-09T13:19:30-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:48:"Interested in adding TS to her S. Florida salon.";s:7:"user_id";s:5:"14990";}
+2015-12-09T13:30:27-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:21:"94-11-2727220/2710221";s:7:"user_id";s:5:"14955";}
+2015-12-09T13:31:18-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address2";s:27:"11, kalyani road, colombo-6";s:7:"user_id";s:5:"14955";}
+2015-12-09T13:54:04-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:21:"REGO PARK DENTAL P.C.";s:7:"user_id";s:5:"14952";}
+2015-12-09T13:55:33-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:38:"Looking at remi gel and in office kits";s:7:"user_id";s:5:"14952";}
+2015-12-09T13:58:36-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:14:"(610) 624-3788";s:7:"user_id";s:5:"14950";}
+2015-12-09T14:19:15-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:18:"Florence Nj Smiles";s:7:"user_id";s:5:"14948";}
+2015-12-09T14:20:32-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:14:"(609) 499-3800";s:7:"user_id";s:5:"14948";}
+2015-12-09T14:54:37-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:35:"http://dentalwellnessandhealth.com/";s:7:"user_id";s:5:"14854";}
+2015-12-09T14:54:54-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(203) 744-1814";s:7:"user_id";s:5:"14854";}
+2015-12-09T14:59:18-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:48:"http://www.bronxcare.org/our-services/dentistry/";s:7:"user_id";s:5:"14861";}
+2015-12-09T14:59:56-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(718) 590 1800";s:7:"user_id";s:5:"14861";}
+2015-12-09T15:08:44-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:31:" info@nationalhospitalabuja.net";s:7:"user_id";s:5:"14868";}
+2015-12-09T15:08:58-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:49:"http://www.nationalhospitalabuja.net/contact.html";s:7:"user_id";s:5:"14868";}
+2015-12-09T15:18:19-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:39:"http://www.ocvts.org/htm/locations.html";s:7:"user_id";s:5:"14871";}
+2015-12-09T15:18:52-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(732) 473 3100";s:7:"user_id";s:5:"14871";}
+2015-12-09T15:19:11-08:00 INFO (6): Windy Jenkins--a:2:{s:3:"fax";s:14:"(732) 349 9788";s:7:"user_id";s:5:"14871";}
+2015-12-09T15:21:19-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:21:"http://ukdent.com.ua/";s:7:"user_id";s:5:"14872";}
+2015-12-09T15:21:34-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:9:"235-00-90";s:7:"user_id";s:5:"14872";}
+2015-12-09T15:25:04-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(718) 633-9600";s:7:"user_id";s:5:"14878";}
+2015-12-09T15:27:14-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:14:"(203) 487-6020";s:7:"user_id";s:5:"14983";}
+2015-12-09T15:32:40-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:202:"Acedentalgroup.inc@gmail gave pro kit, white fx home kit. minerals, fw, fw xl,  fusion, very interestwd. started distributkng in florida 8mo ago. also distributes to south america
+
+Marie from Ace Dental";s:7:"user_id";s:5:"14839";}
+2015-12-09T15:49:46-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14368";}
+2015-12-09T15:55:19-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:19:"Keating Dental Arts";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:14:"16881 Hale Ave";s:8:"address2";s:0:"";s:4:"city";s:6:"Irvine";s:5:"state";s:2:"CA";s:3:"zip";s:5:"92606";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:4:"Kris";s:8:"lastname";s:7:"Paredes";s:12:"contactphone";s:0:"";s:5:"email";s:26:"paul@keatingdentalarts.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"a9e32263afdc775735b05d0a6ff277cf7ce1959c";s:8:"username";s:19:"Keating Dental Arts";s:12:"created_time";s:19:"2015-12-09 15:55:19";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"016d23e9972f09389f9f3a8abdc731d5";}
+2015-12-09T15:56:32-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:27:"sales@keatingdentalarts.com";s:7:"user_id";s:5:"14991";}
+2015-12-09T15:56:46-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:14:"1-800-433-9833";s:7:"user_id";s:5:"14991";}
+2015-12-09T16:01:44-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:15:"DDS Connections";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:1:"n";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:7:"Avalene";s:8:"lastname";s:7:"Roberts";s:12:"contactphone";s:12:"908 327-0875";s:5:"email";s:18:"avalener@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"4818ccb3dc8b8e179254ee9cc281e6cfcccba429";s:8:"username";s:15:"DDS Connections";s:12:"created_time";s:19:"2015-12-09 16:01:44";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"4e1c7378300e6fb5a3f9fd7275506b6c";}
+2015-12-09T16:15:29-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:19:03-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"896 Manhattan Ave";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:21:15-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:50:"http://tristatedentalsales.com/index.php/our-team/";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:22:14-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:109:"Looking at home kits.
+
+Darlene James also attended. Different location: 896 Manhattan Ave, Brooklyn, NY 11222";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:22:27-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"21 Candlewood Path";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:22:34-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Dix Hills";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:22:39-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"11746";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:22:48-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:22:"Tri State Dental Sales";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:22:58-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:22:"Tri State Dental Sales";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:23:07-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:4:"Bill";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:23:15-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:11:"Lossef, DDS";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:23:53-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:128:"Looking at home kits.
+
+Darlene James also attended. Different location: 896 Manhattan Ave, Brooklyn, NY 11222
+noemail2@gmail.com";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:24:19-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:25:"bill.lossef.DDS@gmail.com";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:24:22-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:18:"noemail2@gmail.com";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:24:43-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"718 389-0353";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:24:55-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"516 524-7257";s:7:"user_id";s:5:"14934";}
+2015-12-09T16:27:26-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:9:"DC Dental";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:18:"1133 Greenwood rd,";s:8:"address2";s:0:"";s:4:"city";s:9:"Baltimore";s:5:"state";s:2:"MD";s:3:"zip";s:5:"21208";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"410-205-8031";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:4:"Mark";s:8:"lastname";s:10:"Sambrowsky";s:12:"contactphone";s:21:"877-653-7500 ext. 316";s:5:"email";s:17:"mark@dcdental.com";s:13:"contactphone2";s:12:"410-205-8032";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"5fcbea9812ce4cb38a777e84af9c7a4a5ff1e725";s:8:"username";s:9:"DC Dental";s:12:"created_time";s:19:"2015-12-09 16:27:26";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"7e9b730d02701ae402b26448f4e52018";}
+2015-12-09T16:27:46-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:16:"www.dcdental.com";s:7:"user_id";s:5:"14993";}
+2015-12-09T16:28:36-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"410-205-8032";s:7:"user_id";s:5:"14993";}
+2015-12-09T16:28:41-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"410-205-8031";s:7:"user_id";s:5:"14993";}
+2015-12-09T16:32:06-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:18:"Catholic Charities";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:18:"12247 Georgia Ave.";s:8:"address2";s:0:"";s:4:"city";s:13:"Silver Spring";s:5:"state";s:2:"MD";s:3:"zip";s:5:"20902";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"301-933-0868";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:5:"Livia";s:8:"lastname";s:7:"Amezcua";s:12:"contactphone";s:0:"";s:5:"email";s:37:"livia.amezcua@catholiccharitiesdc.org";s:13:"contactphone2";s:12:"301-537-9591";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"5d13fa90188fb025988d614c062c8741a30ac269";s:8:"username";s:18:"Catholic Charities";s:12:"created_time";s:19:"2015-12-09 16:32:06";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"d4ff821973ef48bc77b4586768c943b2";}
+2015-12-09T16:32:21-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"301-933-0868";s:7:"user_id";s:5:"14994";}
+2015-12-09T16:32:28-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:9:"Primadent";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:34:"169, Rue Ben Haddadi Said Dar Diaf";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:3:"ADR";s:3:"zip";s:0:"";s:7:"country";s:2:"DZ";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:7:"Produit";s:8:"lastname";s:8:"Dentaire";s:12:"contactphone";s:17:"213 0 555 425 159";s:5:"email";s:18:"bouatite@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"7522b53aae250f001e52d3509ec73b596cad02e1";s:8:"username";s:9:"Primadent";s:12:"created_time";s:19:"2015-12-09 16:32:28";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"e8ed3efd57203ff8cd3515095ba4f552";}
+2015-12-09T16:32:49-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:27:"www.catholiccharitiesdc.org";s:7:"user_id";s:5:"14994";}
+2015-12-09T16:33:16-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:21:"301-933-0868 ext. 930";s:7:"user_id";s:5:"14994";}
+2015-12-09T16:33:30-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"301-933-0975";s:7:"user_id";s:5:"14994";}
+2015-12-09T16:35:14-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:21:"gave pro kit scanned ";s:7:"user_id";s:5:"14994";}
+2015-12-09T16:38:25-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"01 33 38 27 ";s:7:"user_id";s:5:"14859";}
+2015-12-09T16:38:41-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:17:"01 33 38 27 30 10";s:7:"user_id";s:5:"14859";}
+2015-12-09T16:38:59-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:16:"0133 38 27 30 11";s:7:"user_id";s:5:"14859";}
+2015-12-09T16:40:11-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:21:"DEPOSITO DENTAL RAMOS";s:7:"user_id";s:5:"14859";}
+2015-12-09T16:41:20-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:18:"info@softacare.com";s:7:"user_id";s:5:"14955";}
+2015-12-09T16:41:32-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:17:"www.softacare.com";s:7:"user_id";s:5:"14955";}
+2015-12-09T16:41:40-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:8:"Xianfeng";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:49:"ADD: Fuhai Industrial Park Dongya District, Dache";s:8:"address2";s:45:"Industrial park, Nanlang town, Zhongshan city";s:4:"city";s:16:"Guangdong P.R.C.";s:5:"state";s:3:"HCW";s:3:"zip";s:6:"528451";s:7:"country";s:2:"HK";s:13:"businessphone";s:12:"4008-896-796";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:5:"David";s:8:"lastname";s:4:"Chen";s:12:"contactphone";s:17:"+86 138 2390 7370";s:5:"email";s:21:"david@xianfengalu.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:10:"GNYDM 2015";s:4:"type";s:4:"Lead";s:8:"password";s:40:"27e6969ba1ddb599859a2c7a810770a399bdc172";s:8:"username";s:8:"Xianfeng";s:12:"created_time";s:19:"2015-12-09 16:41:40";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"b31e3db85829b1ca078d6f8d00b80319";}
+2015-12-09T16:41:56-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:17:"+86 760 8850 6632";s:7:"user_id";s:5:"14996";}
+2015-12-09T16:42:44-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:22:"52, Yasodhara Mawatha ";s:7:"user_id";s:5:"14955";}
+2015-12-09T16:43:24-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:78:"Wants to distribute home & in office, will send me email of documents he needs";s:7:"user_id";s:5:"14955";}
+2015-12-09T16:43:54-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:25:"Vital Tech Dental Academy";s:7:"user_id";s:5:"14954";}
+2015-12-09T16:44:00-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:11:"Dr. Mariano";s:7:"user_id";s:5:"14954";}
+2015-12-09T16:44:20-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"809 567-9003";s:7:"user_id";s:5:"14954";}
+2015-12-09T16:44:28-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"809 769-0895";s:7:"user_id";s:5:"14954";}
+2015-12-09T16:44:49-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:22:"www.adminmplantsdr.com";s:7:"user_id";s:5:"14954";}
+2015-12-09T16:45:05-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:4:"Naco";s:7:"user_id";s:5:"14954";}
+2015-12-09T16:48:00-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:19:"Naco, Santo Domingo";s:7:"user_id";s:5:"14954";}
+2015-12-09T16:48:24-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"Verkmastaregatan 1";s:7:"user_id";s:5:"14941";}
+2015-12-09T16:48:35-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:6:"745 85";s:7:"user_id";s:5:"14941";}
+2015-12-09T16:48:41-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:67:"Wants to ditribute, send price list for kits, home & pro, bilingual";s:7:"user_id";s:5:"14954";}
+2015-12-09T16:48:52-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:15:"www.nordenta.se";s:7:"user_id";s:5:"14941";}
+2015-12-09T16:49:10-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:11:"AB Nordenta";s:7:"user_id";s:5:"14941";}
+2015-12-09T16:49:29-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:21:"www.farabiclinics.com";s:7:"user_id";s:5:"14932";}
+2015-12-09T16:50:21-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:80:"Home/In-Office, send email, 100x3 month-In office, 100x3 month-home
+Saudi Arabia";s:7:"user_id";s:5:"14932";}
+2015-12-09T16:50:21-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"718-217-6279";s:7:"user_id";s:5:"14893";}
+2015-12-09T16:50:28-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:8:"M. Tariq";s:7:"user_id";s:5:"14932";}
+2015-12-09T16:50:43-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:15:"00966 596664142";s:7:"user_id";s:5:"14932";}
+2015-12-09T16:51:03-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"718-649-6324";s:7:"user_id";s:5:"14893";}
+2015-12-09T16:51:20-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"718-217-6279";s:7:"user_id";s:5:"14893";}
+2015-12-09T16:51:34-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"718-649-6324";s:7:"user_id";s:5:"14893";}
+2015-12-09T16:51:45-08:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"718-649-6357";s:7:"user_id";s:5:"14893";}
+2015-12-09T16:55:35-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"1711 Ralph Ave.";s:7:"user_id";s:5:"14893";}
+2015-12-09T16:57:18-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:58:"Call after Jan. 1st 
+Gave pro kit to compare against zoom.";s:7:"user_id";s:5:"14893";}
+2015-12-09T17:06:39-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:218:"Talked to someone in February 2015 and was quoted $1,100 - $1,200. She has been focused on her eyelash extension business but says her clients have shown interest in TW. She does a lot of bridal events and has a chair.";s:7:"user_id";s:5:"14981";}
+2015-12-09T17:12:30-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14885";}
+2015-12-09T17:12:32-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14885";}
+2015-12-09T17:34:13-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"903-601-3513";s:7:"user_id";s:5:"14997";}
+2015-12-09T17:34:19-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14997";}
+2015-12-09T17:36:01-08:00 INFO (6): Windy Jenkins--a:2:{s:13:"contactphone2";s:14:"(917) 309-1181";s:7:"user_id";s:5:"14893";}
+2015-12-09T17:36:56-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:25:"http://www.drkrevitz.com/";s:7:"user_id";s:5:"14894";}
+2015-12-09T17:38:08-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:12:"215 674-2505";s:7:"user_id";s:5:"14894";}
+2015-12-09T17:39:07-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(914) 241-2242";s:7:"user_id";s:5:"14896";}
+2015-12-09T17:41:08-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:21:"http://www.danmed.ee/";s:7:"user_id";s:5:"14897";}
+2015-12-09T17:41:44-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"+372 664 03 40";s:7:"user_id";s:5:"14897";}
+2015-12-09T17:41:58-08:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:18:"  danmed@danmed.ee";s:7:"user_id";s:5:"14897";}
+2015-12-09T17:43:04-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:34:"http://www.johnconstantinedds.com/";s:7:"user_id";s:5:"14899";}
+2015-12-09T17:43:29-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:12:"914 237-3600";s:7:"user_id";s:5:"14899";}
+2015-12-09T17:44:06-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:99:"Licensed medical aesthetics. Opening a training facility, wants to include TW and offer packages.  ";s:7:"user_id";s:5:"14997";}
+2015-12-09T17:44:28-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14997";}
+2015-12-09T17:47:36-08:00 INFO (6): Windy Jenkins--a:2:{s:7:"website";s:25:"https://www.dentalex.com/";s:7:"user_id";s:5:"14901";}
+2015-12-09T17:49:42-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:12:"800 416-9480";s:7:"user_id";s:5:"14901";}
+2015-12-09T17:50:28-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(914) 682-0338";s:7:"user_id";s:5:"14904";}
+2015-12-09T17:52:20-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"+372 5656 9703";s:7:"user_id";s:5:"14906";}
+2015-12-09T17:52:52-08:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:5:"Tartu";s:7:"user_id";s:5:"14906";}
+2015-12-09T17:53:44-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:14:"(631) 595-2400";s:7:"user_id";s:5:"14917";}

@@ -1,0 +1,246 @@
+<head>
+    <!--link rel="stylesheet" type="text/css" href="/public/css/crm.css"-->	
+    <style>
+        .account, .product {
+            border-collapse: collapse;
+        }
+.account {
+    /*width: 50%;*/
+    margin-bottom: 20px;
+    border-top: 1px solid #CDDDDD;
+    border-right: 1px solid #CDDDDD;
+}
+
+.account th {
+    background: #E7EFEF;    
+    font-weight: bold;
+    text-align: center;
+}
+.account th, .account td {
+    border-left: 1px solid #CDDDDD;
+    border-bottom: 1px solid #CDDDDD;
+    padding: 5px;
+    vertical-align:middle;
+}
+input, select, textarea {
+    border: 1px solid #95B8E7;
+    padding: 4px 4px;
+    background-color: #FFFFFF;
+    margin-bottom: 3px;
+    font-size: 13px;
+}
+
+input[type=text]:focus, textarea:focus{
+    background-color: lightyellow;
+    outline: none !important;
+    border:1px solid green;
+    box-shadow: 0 0 10px #719ECE;    
+} 
+.button {
+    background: none repeat scroll 0 0 #428BCA;      
+    border-color: #357EBD;
+    color: #FFFFFF;  
+    display: inline-block;
+    padding: 2px 5px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;  
+    line-height: 1.5;
+}
+    </style>
+</head>
+
+<div class="row">    
+    <h4>Order <?= $this->order_id?></h4>
+    <span id ="boxMessage">
+   <?if(!empty($this->boxes)):?>
+    <?if($this->boxQuantity != $this->boxes[0]['quantity_received']):?>
+        ` <div class="alert alert-danger alert-dismissable">
+                <a class="close" data-dismiss="alert" href="#">×</a>
+                Total Received: <?= $this->boxes[0]['quantity_received']?>, Total Quantity Recorded in boxes: <?= $this->boxQuantity ?>
+          </div>
+      <?else: ?>
+          <div class="alert alert-success alert-dismissable">
+            <a class="close" data-dismiss="alert" href="#">×</a>
+            Total Received: <?= $this->boxes[0]['quantity_received']?>
+          </div>
+    <?endif;?>
+    <?endif;?>
+    </span>    
+    <table cellpadding="0" cellspacing="0" border="0" id="items" class="account" style="margin-top: 20px;">    
+                <tr>
+                    <th width="7%">Vol/CTN*</th>
+                    <th width="7%">T/T CTNS*</th>                    
+                    <th width="7%">Pcs/CTN*</th>
+                    <th width="7%">Quantity*</th>                    
+                    <th width="7%">G.W./CTN</th>
+                    <th width="5%">Shipment ID</th>
+                    <th width="10%" colspan="2">Action</th>  
+                </tr>
+                <?if(!empty($this->boxes)):?>
+                    <? $qtyOh = 0; $cbmOh = 0;?>
+                    <?foreach($this->boxes as $box):?>
+                        <tr>
+                            <input type="hidden" name="box_id" id="box_id" value="<?= $box['box_id']?>">
+                            <td width="7%" style="text-align:center;"><input type="text" size="3" name="volPerBox" value="<?= $box['volPerBox']?>" class="field_input volPerBox" style="text-align:right;"/></td>
+                            <td width="7%" style="text-align:center;"><input type="text" size="3" name="numberOfBoxes" value="<?= $box['numberOfBoxes']?>" class="field_input numberOfBoxes" style="text-align:right;"/></td>
+                            <td width="7%" style="text-align:center;"><input type="text" size="3" name="qtyPerBox" value="<?= $box['qtyPerBox']?>" class="field_input qtyPerBox" style="text-align:right;"/></td>                            
+                            <td width="7%" style="text-align:center;"><input type="text" size="4" name="quantity" value="<?= $box['quantity']?>" class="field_input quantity" style="text-align:right;"/></td>                            
+                            <td width="7%" style="text-align:center;"><input type="text" size="3" name="weightPerBox" value="<?= $box['weightPerBox']?>" class="field_input weightPerBox" style="text-align:right;"/></td>
+                            <td width="5%" style="text-align:center;"><input type="text" size="3" name="shipmentId" value="<?= $box['shipment_id']?>" class="field_input shipmentId" style="text-align:right;"/></td>
+                            <td width="5%"><span class="btn btn-primary btn-xs updateBox">Update</span></td> 
+                            <td width="5%"><span class="btn btn-danger btn-xs removeBox">Remove</span></td> 
+                        </tr> 
+                        <? 
+                        if(!$box['shipment_id']) {
+                            $qtyOh += $box['quantity'];
+                            $cbmOh += $box['volPerBox'] * $box['numberOfBoxes'];
+                        }?>
+                    <? endforeach;?>
+                <?endif?>                                
+                <tr class="dataRow">
+                    <td width="7%" style="text-align:center;"><input type="text" size="3" name="volPerBox" class="field_input volPerBox" style="text-align:right;"/></td>
+                    <td width="7%" style="text-align:center;"><input type="text" size="3" name="numberOfBoxes" class="field_input numberOfBoxes" style="text-align:right;"/></td>
+                    <td width="7%" style="text-align:center;"><input type="text" size="3" name="qtyPerBox" class="field_input qtyPerBox" style="text-align:right;"/></td>                    
+                    <td width="7%" style="text-align:center;"><input type="text" size="4" name="quantity" class="field_input quantity" style="text-align:right;"/></td>                    
+                    <td width="7%" style="text-align:center;"><input type="text" size="3" name="weightPerBox" class="field_input weightPerBox" style="text-align:right;"/></td>                    
+                    <td width="5%" style="text-align:center;"><input type="text" size="3" name="shipmentId" class="field_input shipmentId" style="text-align:right;"/></td>
+                    <td width="5%"><span class="btn btn-primary btn-xs addBox">Add</span></td> <td></td>                   
+                </tr>
+               
+            </table>
+
+            <div id="add_row" class="button">+ Row</div>            
+            <br>
+             Total In Stock CBM: <?= $cbmOh;?>,  QTY: <?= $qtyOh;?>
+               
+</div>
+
+
+<script>
+    $(document).ready(function() {
+     
+     $('.row').delegate('.updateBox', 'click', function() {              
+              var $row = $(this).closest('tr');            
+              $.post('/inventory/create-box', 
+                      { 
+                          "action" : 'update',   
+                          "box_id":  $row.find('#box_id').val(),
+                          "qtyPerBox": $row.find('.qtyPerBox').val(),
+                          "numberOfBoxes":$row.find('.numberOfBoxes').val(),
+                          "quantity":$row.find('.quantity').val(),
+                          "volPerBox":$row.find('.volPerBox').val(),
+                          "weightPerBox":$row.find('.weightPerBox').val(),   
+                          "shipmentId":$row.find('.shipmentId').val()
+                      },
+                      function(data) {                           
+                             $("#boxMessage").empty().removeClass("alert alert-danger");                                    
+                             if (data == 'success') {                                
+                                $row.find('.updateBox').slideUp( 300 ).delay( 600 ).fadeIn( 400 );
+                             } else {
+                                 $("#boxMessage").html(data).addClass("alert alert-danger");
+                             }
+                      });
+         });
+       
+          //$('.addBox').bind('click', function(){ 
+          $('.row').delegate('.addBox', 'click', function() {              
+              var $row = $(this).closest('tr');            
+              $.post('/inventory/create-box', 
+                      { 
+                          "action" : 'add',                                    
+                          "qtyPerBox": $row.find('.qtyPerBox').val(),
+                          "numberOfBoxes":$row.find('.numberOfBoxes').val(),
+                          "quantity":$row.find('.quantity').val(),
+                          "volPerBox":$row.find('.volPerBox').val(),
+                          "weightPerBox":$row.find('.weightPerBox').val(),                          
+                          "shipmentId":$row.find('.shipmentId').val(),
+                          "order_id": <?=$this->order_id?>
+                      },
+                      function(data) {                           
+                             $("#boxMessage").empty().removeClass("alert alert-danger");                                    
+                             if (data == 'success') {
+                                 $(".addBox").empty().switchClass("btn btn-primary btn-xs addBox", "added").html('added');
+                             } else {
+                                 $("#boxMessage").html(data).addClass("alert alert-danger");
+                             }
+                      });
+         });
+          $('.row').delegate('.removeBox', 'click', function() {              
+              var $row = $(this).closest('tr');            
+              var r=confirm("Delete this info? ");                
+                if (r==true) {
+                    $(this).closest("tr").hide();
+                    $.post('/inventory/create-box', 
+                    {
+                        "action" : 'remove',   
+                        "box_id":  $row.find('#box_id').val(),
+                    },
+                    function(data) {                           
+                        if (data == 'success') {                                                 
+                            $(this).closest("tr").remove();
+                        } else {
+                            $("#boxMessage").html(data).addClass("alert alert-danger alert-dismissable");   
+                        }
+                    });           
+                } 
+         });
+        
+        $(".qtyPerBox, .numberOfBoxes").on("keyup", function() {
+            var $row = $(this).closest('tr');
+            var qtyPerBox = $row.find('.qtyPerBox').val();
+            var numberOfBoxes = $row.find('.numberOfBoxes').val();
+            if (qtyPerBox > 0 && numberOfBoxes > 0) {
+                total = qtyPerBox * numberOfBoxes;
+                $row.find('.quantity').val(total);
+            }
+        });
+       
+        var numberExistingRows = 1;
+
+        $('#add_row').click(function() {
+
+            // keep track of number of rows for input names
+            numberExistingRows++;
+            // clone a row
+            var $row = $('.dataRow:last').clone();
+            // strip previous values and fix names of inputs
+            
+            $row.find('input').each(function() {
+                var $input = $(this);// cache this input into jQuery object in lieu of using $(this) in below functions for clarity and performance                
+             
+                $input.val("");// reset value to none
+
+                // fix names
+                //var thisInputName = $input.attr('name').split('_')[0] + '_' + numberExistingRows;
+             
+                //$input.attr('name', thisInputName)
+
+            });            
+            $row.find('.qtyPerBox, .numberOfBoxes').on("change", getQuantity);            
+            $row.find('.added').switchClass("added", "btn btn-primary btn-xs addBox addBox").html("Add");
+            // bind item auto complete to new row. SInce using classes now makes it much easier to locate correct input
+            // $row.find('.item').bind("keyup", itemAutoComplete) ;   
+
+            // for real autocomplete 
+            // $row.find('.tbTitle').autocomplete(// options)
+
+            // append to table id=tblInventoryItems
+            $('#items').append($row);
+
+        });
+    });
+    
+    function getQuantity() {
+        var $row = $(this).closest('tr');
+        var qtyPerBox = $row.find('.qtyPerBox').val();
+        var numberOfBoxes = $row.find('.numberOfBoxes').val();
+        if (qtyPerBox > 0 && numberOfBoxes > 0) {
+            total = qtyPerBox * numberOfBoxes;
+            $row.find('.quantity').val(total);
+        }
+    }
+
+</script>

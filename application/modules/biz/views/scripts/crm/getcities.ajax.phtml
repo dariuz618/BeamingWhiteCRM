@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<form>	
+	Select City:
+	<select name="cities" onchange="yearOptions(this.value)">
+			<option>Please select a city...</option>
+			<?php
+				// Database Connection
+				require('config.php');
+				
+				// Global Variables from _GET
+				$name = strval($_GET['name']);
+				
+				// MySQL Query
+			  $sql = "SELECT * FROM tradeshows WHERE name LIKE '$name' GROUP BY city ORDER BY city asc;";
+
+				// Output Each MySQL Result in Dropdown Menu
+			  $i = 0;
+				foreach ($conn->query($sql) as $row) {
+					echo "<option value='$row[city]'>$row[city]</option>";
+					$i++;
+			  }
+			?>
+	</select>
+</form>
+<!--
+<table>
+	<tr>
+		<th>ID</th>
+		<th>Name</th>
+		<th>City</th>
+		<th>State</th>
+		<th>Country</th>
+		<th>Begins</th>
+		<th>Ends</th>
+		<th>Year</th>
+	</tr>
+	<?php
+		// Output Each Results as a Row
+	  foreach ($conn->query($sql) as $row) {
+			echo "<tr>";
+			echo "<td>" . $row['id'] . "\t";
+			echo "<td>" . $row['name'] . "\t";
+			echo "<td>" . $row['city'] . "\n";
+			echo "<td>" . $row['state'] . "\n";
+			echo "<td>" . $row['country'] . "\n";	
+			echo "<td>" . $row['datebegins'] . "\n";	
+			echo "<td>" . $row['dateends'] . "\n";
+			echo "<td>" . $row['year'] . "\n";
+			echo "</tr>";
+	  }
+
+		// End MySQL Connection
+		$conn = null;
+	?>
+	</table>
+	-->
+</body>
+</html>

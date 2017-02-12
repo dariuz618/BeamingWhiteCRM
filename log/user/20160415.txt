@@ -1,0 +1,126 @@
+2016-04-15T08:36:07-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:11:"Smile Style";s:7:"user_id";s:4:"3129";}
+2016-04-15T08:36:11-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:11:"Smile Style";s:7:"user_id";s:4:"3129";}
+2016-04-15T08:58:51-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:86:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/";s:7:"user_id";s:5:"16090";}
+2016-04-15T09:01:05-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:155:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.";s:7:"user_id";s:5:"16090";}
+2016-04-15T09:02:56-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:39:"http://www.beachbodytans.com/index.html";s:7:"user_id";s:5:"16090";}
+2016-04-15T09:03:50-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:171:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) ";s:7:"user_id";s:5:"16090";}
+2016-04-15T09:13:39-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:6:" Style";s:7:"user_id";s:4:"3129";}
+2016-04-15T09:13:41-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:5:"Style";s:7:"user_id";s:4:"3129";}
+2016-04-15T09:43:35-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:8:"Pastrana";s:7:"user_id";s:5:"12809";}
+2016-04-15T09:49:32-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:14:"1-347-489-0554";s:7:"user_id";s:5:"16126";}
+2016-04-15T09:58:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Teena";s:7:"user_id";s:5:"16127";}
+2016-04-15T09:58:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Teena Barnes";s:7:"user_id";s:5:"16127";}
+2016-04-15T09:58:10-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Teena Barnes";s:7:"user_id";s:5:"16127";}
+2016-04-15T10:06:48-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16127";}
+2016-04-15T10:07:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:8:"Ivy Tran";s:7:"user_id";s:5:"16131";}
+2016-04-15T10:07:28-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"Ivy Tran";s:7:"user_id";s:5:"16131";}
+2016-04-15T10:19:27-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16131";}
+2016-04-15T10:35:52-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:216:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - http://www.tansuncity.com/";s:7:"user_id";s:5:"16090";}
+2016-04-15T10:41:29-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:236:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave
+http://www.tansuncity.com/";s:7:"user_id";s:5:"16090";}
+2016-04-15T10:41:42-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:254:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/";s:7:"user_id";s:5:"16090";}
+2016-04-15T11:03:34-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16090";}
+2016-04-15T11:08:58-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:279:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com";s:7:"user_id";s:5:"16090";}
+2016-04-15T11:09:06-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:303:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com";s:7:"user_id";s:5:"16090";}
+2016-04-15T11:09:16-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:338:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+";s:7:"user_id";s:5:"16090";}
+2016-04-15T11:09:26-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:372:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+";s:7:"user_id";s:5:"16090";}
+2016-04-15T11:09:35-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:404:"Location #1) Beach body Tanning in Stuyvesant Plaza
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575.
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-15T11:29:51-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16128";}
+2016-04-15T11:30:07-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:15:"Nane (Nawn-nuh)";s:7:"user_id";s:5:"16128";}
+2016-04-15T11:49:07-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:26:"226 W Ironwood Dr Suite A4";s:7:"user_id";s:5:"14626";}
+2016-04-15T12:26:59-07:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:15:"Taide  (Ty-day)";s:7:"user_id";s:5:"16091";}
+2016-04-15T12:58:41-07:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:19:"Kavonna (Kav-on-ah)";s:7:"user_id";s:5:"16116";}
+2016-04-15T13:10:42-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14137";}
+2016-04-15T13:32:11-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:20:"Cocoa Tanning Studio";s:7:"user_id";s:5:"16063";}
+2016-04-15T14:11:16-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:14:"(415) 810-1570";s:7:"user_id";s:4:"2406";}
+2016-04-15T14:13:09-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:8:"khartoum";s:7:"user_id";s:5:"16092";}
+2016-04-15T14:19:01-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"269-744-6217";s:7:"user_id";s:5:"15876";}
+2016-04-15T14:36:49-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:20:"Anywhere Dental Care";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NM";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"505-266-6598";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Laurie";s:8:"lastname";s:4:"Foss";s:12:"contactphone";s:12:"505-266-6598";s:5:"email";s:24:"anywheredental@gmail.com";s:13:"contactphone2";s:12:"505-266-6598";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8f476ddccb551776282690ad78484dd5640de05c";s:8:"username";s:20:"Anywhere Dental Care";s:12:"created_time";s:19:"2016-04-15 14:36:48";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"40aca45ca4a00e020566236737228249";}
+2016-04-15T14:40:34-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:430:"Laurie had a mobile dental business providing all dental services. She does not to teeth whitening but has a light. She would like a quick easy whitening system that does not require a lot of time or gingival protection. She does have bibs, vitamin E, etc. Only needs gel and maybe cheek retractors. She uses some kind of damn that holds the mouth open now. sounds like it would work but quoting cheek retractors as well as gel.  ";s:7:"user_id";s:5:"16134";}
+2016-04-15T14:41:12-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16134";}
+2016-04-15T14:55:18-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16016";}
+2016-04-15T15:21:43-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16085";}
+2016-04-15T15:33:54-07:00 INFO (6): Erika Rose--a:2:{s:6:"soldby";s:13:"Beaming White";s:7:"user_id";s:5:"16011";}
+2016-04-15T15:39:09-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14626";}
+2016-04-15T15:50:59-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:10:"Scottsdale";s:5:"state";s:2:"AZ";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"480-703-6600";s:6:"source";s:8:"Internet";s:9:"firstname";s:8:"Dennelle";s:8:"lastname";s:1:".";s:12:"contactphone";s:12:"480-703-6600";s:5:"email";s:16:"aijvaov@blah.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:13:"Microneedling";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"9386f360269fc75e84b5222300916271b552a7c7";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-04-15 15:50:59";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"54032573cb28712619f0eb458ca65fb8";}
+2016-04-15T15:59:34-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:19:"Dr. Larry J. Miller";s:7:"user_id";s:5:"16114";}
+2016-04-15T15:59:37-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:18:"Walton Dental Care";s:7:"user_id";s:5:"16114";}
+2016-04-15T16:01:38-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"480-374-9800";s:7:"user_id";s:5:"16133";}
+2016-04-15T16:46:31-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16069";}
+2016-04-15T17:37:39-07:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16128";}

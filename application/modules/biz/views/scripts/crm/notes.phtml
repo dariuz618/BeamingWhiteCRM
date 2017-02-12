@@ -1,0 +1,296 @@
+<table class="account" width="380px;">
+	<!-- Dariuz Rubin -->
+    <tr>
+        <th>Sale</th>
+        <td>
+            <form id='saleEnterForm' method="post">
+            	<div class="row" style="margin:0px">
+                	<div class="col-md-3" style="padding-left: 5px">
+                		Order Frequency
+                	</div>
+                	<div class="col-md-6" style="padding: 2px">    
+                		 <select name="order_frequency" id="order_frequency">        
+                		 	<option value="30" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 30) echo 'selected';?>>30 Days</option>
+							<option value="60" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 60) echo 'selected';?>>60 Days</option>
+							<option value="90" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 90) echo 'selected';?>>90 Days</option>
+							<option value="120" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 120) echo 'selected';?>>120 Days</option>
+							<option value="180" <?if(isset($this->user['order_frequency']) && $this->user['order_frequency'] == 180) echo 'selected';?>>180 Days</option>							
+				        </select>            			                             	
+                	</div>                	
+                </div>
+            	<div class="row" style="margin:0px">
+                	<div class="col-md-3" style="padding: 8px;padding-left: 5px">
+                		Total
+                	</div>
+                	<div class="col-md-6" style="padding: 2px">
+                	<?php 
+                		if ($this->sales)
+                		{
+                			$total_sale = 0;
+							foreach ($this->sales as $sale)
+							{
+								 $total_sale += $sale['enter_sale_amount'];
+							}
+						}
+		                
+		                ?>
+		                <input type="text" name="enter_total_sale" id="enter_total_sale" size="20" style="width:100%" disabled value="<?php if ($total_sale != 0) echo $total_sale.' USD'; ?>">                	
+                	</div>                	
+                </div>
+                <div class="row" style="margin:0px">
+                	<div class="col-md-3" style="padding: 5px">
+                		Date
+                	</div>
+                	<div class="col-md-6" style="padding: 2px">
+                		<input type="text" name="enter_sale_time" id="enter_sale_time" size="20" class="datetimePicker" placeholder="Sale Time" style="width:100%">                		
+                	</div>
+                	<div class="col-md-3" style="padding: 2px">
+                		<input type="submit" id="submitSaleEnter" name="submitSaleEnter" value="Enter" />
+                	</div>
+                </div>
+                <div class="row" style="margin:0px">
+                	<div class="col-md-3" style="padding: 5px">
+                		Amount
+                	</div>
+                	<div class="col-md-6" style="padding: 2px">
+                		<input type='text' id="enter_sale_amount" name="enter_sale_amount"  style="width:100%">            		
+                	</div>
+                	<div class="col-md-3" style="padding: 2px;padding-top:7px;">
+                		USD
+                	</div>
+                </div>
+                <input type='hidden' id="userId" name="userId" value="<?= $this->user['id'] ?>">               
+            </form>    
+            <span id="saleNotes">
+                <?php if ($this->sales): ?>
+                    <?php foreach ($this->sales as $sale): ?>
+                        <br>
+                            <?php echo date('m/d/y &\nb\sp;&\nb\sp; g:i A', strtotime($sale['enter_time'])); ?>&nbsp;&nbsp;&nbsp;&nbsp;<?php echo $sale['enter_sale_amount']; ?>&nbsp;USD <br>                               
+                            
+                    <?php endforeach; ?>
+                <?php endif; ?>
+            </span>      
+        </td>
+
+    </tr>
+	<!------------------>
+    <tr>
+        <th>Contact attempt</th>
+        <td>
+            <form id='leadAttemptForm' method="post">
+                <select id="leadAttempt" name="leadAttempt">
+                        <option value=""></option>
+                        <option value="email">Email</option>
+                        <option value="phone">Phone</option>
+                </select>
+                <input type='hidden' id="userId" name="userId" value="<?= $this->user['id'] ?>">
+                <input type="submit" id="submitAttempt" name="submitAttempt" value="Submit" />
+            </form>
+            <input type="text" name="followup" id="followup" size="20" value="<? echo $this->followup['start']?date('m/d/y g:i A', strtotime($this->followup['start'])):''?>" class="datetimePicker" placeholder="Follow-Up Time">
+            <div id="submitFollowup" class="button">Set</div><br>
+            <div id="followupMessage"></div>
+            <span id="attemptNotes">
+                    <?php if ($this->attempts): ?>
+                        <?php foreach ($this->attempts as $attempt): ?>
+                            <br>
+                                <?php echo date('m/d/y &\nb\sp;&\nb\sp; g:i A', strtotime($attempt['enter_time'])); ?> <?php echo $attempt['author']; ?> <br>                                
+                                <?php echo $attempt['notes']; ?><br>
+                        <?php endforeach; ?>
+                    <?php endif; ?>
+                </span>
+        </td>
+    </tr>
+
+    <tr>
+        <th>Enter Notes</th>
+        <td>
+            <form id='noteForm' method="post">
+                <div id="commentSubmitArea">
+                    <!--span id="loadnote" style ="display:none;"><img src="/shared/images/ajax_wait.gif"></span-->
+                    <span id="commentSection">
+                        <textarea rows="3" cols="36" id="comment" name="notes" onfocus="if (!this._haschanged) {
+                                                    this.value = ''
+                                                }
+                                                ;
+                                                this._haschanged = true;">Add a note</textarea>
+                    </span>
+                    <br/>
+                    <input type='hidden' id="userId" name="userId" value="<?= $this->user['id'] ?>">
+                    <input type="submit" id="submitComment" name="submitComment" value="Submit" />
+
+                    <!-- Dariuz Rubin -->
+                    <input type="checkbox" name="removal_days" id="removal_days" value="yes" <?php if ($this->user['removal_days']==120) { echo 'checked disabled'; }?>>&nbsp;&nbsp;Additional 60 days<br>
+                    <!------------------>
+
+                </div>
+                <br>
+
+                <span id="notes">
+                    <?php if ($this->notes): ?>
+                        <?php foreach ($this->notes as $comment): ?>
+                            <br>
+                                <?php echo date('m/d/y &\nb\sp;&\nb\sp; g:i A', strtotime($comment['enter_time'])); ?> &nbsp;&nbsp;&nbsp; <?php echo $comment['author']; ?> <br>                                
+                                <?php echo $comment['notes']; ?><br>
+                        <?php endforeach; ?>
+                    <?php endif; ?>
+                </span>
+            </form>
+        </td>
+    </tr>
+    
+</table>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+
+      	 $('.datetimePicker').datetimepicker(							
+		        {
+	            dayOfWeekStart: 0,
+	            format: 'm/d/Y g:i A',
+	            hour: '7:00 AM',
+	            step: 30,
+	            formatTime: 'g:i A',
+	            allowTimes: ['7:00 AM', '7:30 AM', '8:00 AM', '8:30 AM', '9:00 AM', '9:30 AM', '10:00 AM', '10:30 AM', '11:00 AM', '11:30 AM', '12:00 PM', '12:30 PM', '1:00 PM', '1:30 PM', '2:00 PM', '2:30 PM', '3:00 PM', '3:30 PM', '4:00 PM', '4:30 PM', '5:00 PM', '5:30 PM', '6:00 PM', '6:30 PM', '7:00 PM'],
+	        });
+        $("#submitFollowup").click(function() {
+            $.post('/biz/crm/followup', {
+                    'followup': $('#followup').val(),
+                    'userId': <?= $this->user['id'] ?>
+                },
+                function(data) {
+                    $('#followupMessage').html('').removeClass("error");
+                    $('#followupMessage').html('').removeClass("success");
+                    if (data == 'success') {
+                        $('#followupMessage').html('Follow-up scheduled').addClass("success");;
+                    }
+                    if (data != 'success') {
+                        $('#followupMessage').html(data).addClass("error");
+                    }
+                });
+        });
+
+        /* Dariuz Rubin */
+        /**
+         * Check box event for automated removal date by an additional 60 days
+         */
+        $("#removal_days").change(function() {
+
+            dataString = $("#noteForm").serialize();
+            $.ajax({
+                type: "POST",
+                url: "/biz/crm/removaladdition",
+                data: dataString,
+                dataType: 'html',
+                success: function(data) {}
+            });
+
+            $("#removal_days").attr('disabled', 'disabled');
+
+        });
+        
+        /**
+         * save order frequency field
+         */
+        $("#order_frequency").change(function() {
+			console.log('change');
+            dataString = $("#saleEnterForm").serialize();
+            $.ajax({
+                type: "POST",
+                url: "/biz/crm/setorderfrequency",
+                data: dataString,
+                dataType: 'html',
+                success: function(data) {}
+            });
+        });
+        
+        /* Enter sale's date and amount */
+         $("#saleEnterForm").submit(function(e) {
+
+            if ($.trim($('#enter_sale_time').val()) == '' || $('#enter_sale_amount').val() == '') {
+                alert('Please enter all information about Sale.');
+                return false;
+            }
+
+            e.preventDefault();
+            /*dataString = $("#saleEnterForm").serialize();*/
+			var form = document.getElementById('saleEnterForm');
+			var formData = new FormData(form);
+            $.ajax({
+                type: "POST",
+                url: "/biz/crm/enter-sale",
+                dataType : "json",
+                data: formData,
+                processData: false,
+	  			contentType: false,
+                success: function(data) {
+                	console.log("success");
+					
+					salesnotes = '<br>'+data.enter_sale_time+'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'+data.enter_sale_amount+' USD'+'<br>';
+                    $('#saleNotes').prepend(salesnotes);
+                    document.getElementById("enter_total_sale").value = data.total_sale+' USD';
+                    
+
+                },
+                error:function(data) {
+                	console.log('fail');
+                	console.log(data);
+                }
+            });
+        });
+        
+        /*==============*/
+
+        $("#noteForm").submit(function(e) {
+            /*$('#loadnote').show();
+			$('#commentSection').hide();
+        
+*/
+
+            if ($.trim($('#comment').val()) == '' || $('#comment').val() == 'Add a note') {
+                alert('Please enter a note');
+                return false;
+            }
+
+            e.preventDefault();
+            dataString = $("#noteForm").serialize();
+
+            $.ajax({
+
+                type: "POST",
+                url: "/biz/crm/notes",
+                data: dataString,
+                dataType: 'html',
+                success: function(data) {
+
+                    $('#notes').prepend(data);
+                    $('#comment').val('');
+                }
+            });
+        });
+        $("#leadAttemptForm").submit(function(e) {
+
+            //check if there is a lead attempt       
+            if ($.trim($('#leadAttempt').val()) == '') {
+                alert('Please select a lead attempt.');
+                return false;
+            }
+
+            e.preventDefault();
+            formData = $("#leadAttemptForm").serialize();
+            //alert (formData);
+            $.ajax({
+
+                type: "POST",
+                url: "/biz/crm/lead-attempt",
+                data: formData,
+                dataType: 'html',
+                success: function(data) {
+
+                    $('#attemptNotes').prepend(data);
+
+                }
+            });
+        });
+
+    });
+</script>

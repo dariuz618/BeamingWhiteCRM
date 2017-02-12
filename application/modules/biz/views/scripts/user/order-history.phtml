@@ -1,0 +1,27 @@
+<h3>Orders</h3>
+<div>
+    <b>Incomplete:</b> Yuu have not finished placing this order. Select to complete or delete. <br>
+    <b>Pending:</b> Something is holding up this order. Contact your representative to find out why.<br>
+    <b>Shipped:</b> This order shipped. Select to view, or re-order.<br>
+</div>
+
+<table width="800px">
+    <thead><th>Order Date</th><th>Invoice #</th><th>Total Price</th><th>Order Status</th><th></th></thead>
+<tbody>
+    
+    <? foreach ($this->orders as $order):?>    
+    <tr><td align="center"><?= date('m/d/Y', strtotime($order['date_modified']))?></td> 
+        <td align="center"><?=$order['order_id']?></td>
+        <td align="right">$<?= $order['total']?></td>
+        <td align='center'><?= $order['order_status']?></td>       
+        <td align='center'><a href="/biz/cart/reorder/id/<? echo $order['order_id']?>">SELECT</a></td>       
+    </tr>
+    <? endforeach; ?>
+</tbody>
+</table>
+
+<script type="text/javascript">
+        $(document).ready(function() {
+            $("table tbody tr:nth-child(even)").addClass("even");
+        });
+    </script>

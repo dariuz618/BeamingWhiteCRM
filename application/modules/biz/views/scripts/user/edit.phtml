@@ -1,0 +1,201 @@
+<div class="row">
+    
+ <ul class="nav nav-tabs">
+  <li class="active"><a data-toggle="tab" href="#home">User Information</a></li>
+  <li><a data-toggle="tab" href="#permission">Permission</a></li> 
+ </ul> 
+   
+ <div class="tab-content">
+      <div id="home" class="tab-pane fade in active">
+          <br>
+   <form role="form" class="form-horizontal" method="POST" id="userForm">
+    <div class="col-lg-16">
+       <div id="message"></div>
+       <div class="form-group">
+                <label for="firstname" class="col-sm-4 control-label required">First Name:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="firstname" value = "<?= $this->user['firstname'] ?>" >
+                </div>
+       </div>
+        <div class="form-group">
+                <label for="lastname" class="col-sm-4 control-label required">Last Name:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="lastname" value = "<?= $this->user['lastname'] ?>" >
+                </div>
+       </div>
+        <div class="form-group">
+                <label for="email" class="col-sm-4 control-label required">Email:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="email" value = "<?= $this->user['email'] ?>" >
+                </div>
+       </div>
+       <div class="form-group">                             
+          <label for="department" class="col-sm-4 control-label required">Department:</label>                                     
+           <div class="col-sm-4">   
+           <select class="form-control" name="role"> 
+               <option value=''></option>
+               <? foreach ($this->departments as $department): ?>                                        
+               <option value="<?= $department ?>" <?if(strtolower($department) == $this->user['role']) echo 'selected';?>><?= $department ?></option>                                        
+               <? endforeach; ?>
+           </select>
+           </div>
+       </div>
+       <!--div class="form-group">                             
+          <label for="allowUpload" class="col-sm-4 control-label">Allow Upload:</label>                                     
+           <div class="checkbox col-sm-2">   
+           <input  name="file_level" type="checkbox" <?if($this->user['file_level'] > 2) echo "checked"?> value ="5">
+           </div>
+       </div-->      
+       <input type="hidden" name="id" value="<?= $this->user['id']?>">
+       <input type="hidden" name="action" value="edit">
+       <p class="text-center">
+             <input class="btn btn-primary save" type="submit" value="Save">
+       </p>
+    </div>
+      </form>
+         </div>
+        
+     <div id="permission" class="tab-pane fade">           
+         <div class="form-group">             
+          <form role="permissionForm" class="form-horizontal" method="POST" id="permissionForm">
+             <div class="checkbox">
+                 <label><input name="permission[]" type="checkbox" <?if(in_array('manage_accounts', unserialize($this->user['permission']))) echo "checked"?> value ="manage_accounts">Manage Accounts
+                 </label>
+             </div> 
+             <div class="checkbox">
+                 <label><input name="permission[]" type="checkbox" <?if(in_array('admin_dashboard', unserialize($this->user['permission']))) echo "checked"?> value ="admin_dashboard">Admin Dash Board
+                 </label>
+             </div> <br>
+             <div class="checkbox">
+                 <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('china_inventory', unserialize($this->user['permission']))) echo "checked"?> value ="china_inventory">China Inventory
+                 </label>
+             </div>
+             <div class="checkbox">
+                 <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('manage_items', unserialize($this->user['permission']))) echo "checked"?> value ="manage_items">Manage Items
+                 </label>
+             </div><br>
+             <div class="checkbox">
+                 <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('crm', unserialize($this->user['permission']))) echo "checked"?> value ="crm">CRM
+                 </label>
+             </div>
+             <div class="checkbox">
+                 <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('change_rep', unserialize($this->user['permission']))) echo "checked"?> value ="change_rep">Change Account Rep
+                 </label>
+             </div>
+             <div class="checkbox">
+                 <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('delete_crm', unserialize($this->user['permission']))) echo "checked"?> value ="delete_crm">Delete CRM Account
+                 </label>
+             </div>
+             <div class="checkbox">
+                 <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('businessreport', unserialize($this->user['permission']))) echo "checked"?> value ="businessreport">CRM Reports
+                 </label>
+             </div>
+             <br>
+             <div class="checkbox">
+                 <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('manage_file_category', unserialize($this->user['permission']))) echo "checked"?> value ="manage_file_category">Manage File Category
+                 </label>
+             </div>
+             <div class="checkbox">
+                   <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('download_files', unserialize($this->user['permission']))) echo "checked"?> value ="download_files">Download Files
+                 </label>
+             </div>
+             <div class="checkbox">
+                   <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('upload_files', unserialize($this->user['permission']))) echo "checked"?> value ="upload_files">Upload Files
+                 </label>
+             </div>
+             <div class="checkbox">
+                 <label>
+                     <input name="permission[]" type="checkbox" <?if(in_array('delete_files', unserialize($this->user['permission']))) echo "checked"?> value ="delete_files">Delete Files
+                 </label>
+             </div>
+            <input type="hidden" name="id" value="<?= $this->user['id']?>">
+          </form>
+         </div>
+     </div>
+    </div> <!-- tab content-->
+ 
+</div>
+    <!-- /.col-lg-12 -->
+
+<script src="/public/js/bootstrapValidator.js"></script>      
+<script>
+$(document).ready(function() {   
+    $('#userForm')
+        .bootstrapValidator({
+            message: 'This value is not valid',
+            feedbackIcons: {
+                valid: 'glyphicon glyphicon-ok',
+                invalid: 'glyphicon glyphicon-remove',
+                validating: 'glyphicon glyphicon-refresh'
+            },
+            fields: {               
+                'firstname': {
+                    validators: {
+                         notEmpty: {
+                            message: 'First name is required and cannot be empty'
+                        }
+                       
+                    }
+                },
+                 'lastname': {
+                    validators: {
+                         notEmpty: {
+                            message: 'Last name is required and cannot be empty'
+                        }
+                       
+                    }
+                },
+                 'email': {
+                    validators: {
+                         notEmpty: {
+                            message: 'Email is required and cannot be empty'
+                        },
+                        emailAddress: {
+                            message: 'The input is not a valid email address'
+                        }
+                    }
+                },
+            }
+        });
+         $('.save').click(function() {
+               dataString = $("#userForm").serialize();                    
+                        $.ajax({                                    
+				type: "POST",
+				url: '/user/edit',
+				data: dataString,
+				dataType: 'html',
+				success: function(data) {
+                                    if (data == 'success') {                                                                          
+                                        $("#dialog_edit").dialog('close');   
+                                         window.location.href = '/user/users';
+                                     } else {
+                                         $("#message").html(data).addClass("alert alert-danger alert-dismissable");                     
+                                     }
+				}
+			});
+                        return false;
+         });
+        
+        
+        $('input[type="checkbox"][name="permission[]"]').change(function() {
+            dataString = $("#permissionForm").serialize();                    
+                        $.ajax({                                    
+				type: "POST",
+				url: "/user/edit-permission",
+				data: dataString,
+				dataType: 'html'				
+			});
+        });
+        
+   
+});
+</script>

@@ -1,0 +1,66 @@
+2016-09-13T08:41:23-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:14:"Beautiful Glow";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:23:"227 W. Valley Blvd 268B";s:8:"address2";s:0:"";s:4:"city";s:15:"San Gabriel, CA";s:5:"state";s:2:"CA";s:3:"zip";s:5:"91776";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"626-282-8822";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:6:"Melody";s:8:"lastname";s:5:"Hsieh";s:12:"contactphone";s:12:"626-282-8822";s:5:"email";s:25:"melody@beautiful-glow.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:15:"Long Beach 2016";s:4:"type";s:7:"Account";s:8:"password";s:40:"aef541b55fe8ca9af1115e010e727cc43630a04c";s:8:"username";s:14:"Beautiful Glow";s:12:"created_time";s:19:"2016-09-13 08:41:22";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"3ea3c6e0e7e9f474f0c0a5b7f8e5e054";}
+2016-09-13T08:43:20-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17417";}
+2016-09-13T09:11:56-07:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:11:"Rene (male)";s:7:"user_id";s:4:"2769";}
+2016-09-13T10:05:38-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17411";}
+2016-09-13T10:15:02-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16072";}
+2016-09-13T10:34:39-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:120:"Deluxe Take Home Kit:
+1-9 units: $22.00 each 
+10-24 units: $18.50 each
+25-49 units: $17.00 each 
+50+ units: $15.50 each ";s:7:"user_id";s:5:"17446";}
+2016-09-13T10:47:19-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"754-273-0385";s:7:"user_id";s:5:"10434";}
+2016-09-13T10:55:10-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17244";}
+2016-09-13T11:11:44-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17442";}
+2016-09-13T11:15:19-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"10434";}
+2016-09-13T11:29:22-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17406";}
+2016-09-13T11:29:33-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17406";}
+2016-09-13T11:59:45-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:5:"B-Tan";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"678-360-9769";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Jessica";s:8:"lastname";s:5:"Ancto";s:12:"contactphone";s:12:"678-360-9769";s:5:"email";s:17:"jessica@b-tan.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"909582c40a04b06d491cec0c94f6541fc25a930f";s:8:"username";s:5:"B-Tan";s:12:"created_time";s:19:"2016-09-13 11:59:45";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"616b87e18faff0acc6d5bba0a5e2856c";}
+2016-09-13T13:16:12-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:20:"1350 Kelso Dunes Ave";s:7:"user_id";s:5:"16829";}
+2016-09-13T13:16:17-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address2";s:4:"#224";s:7:"user_id";s:5:"16829";}
+2016-09-13T13:16:22-07:00 INFO (6): Stephanie Brown--a:2:{s:4:"city";s:9:"Henderson";s:7:"user_id";s:5:"16829";}
+2016-09-13T13:16:26-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"state";s:2:"NV";s:7:"user_id";s:5:"16829";}
+2016-09-13T13:16:30-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"89014";s:7:"user_id";s:5:"16829";}
+2016-09-13T13:36:04-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16072";}
+2016-09-13T13:44:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17271";}
+2016-09-13T13:47:18-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17232";}
+2016-09-13T13:52:36-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:23:"$75 USD to ship sample
+";s:7:"user_id";s:5:"17442";}
+2016-09-13T13:52:50-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:20:"Diamond Smile Center";s:7:"user_id";s:5:"17225";}
+2016-09-13T13:58:08-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17232";}
+2016-09-13T14:35:32-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:17:"Angela Barmichael";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Angela";s:8:"lastname";s:10:"Barmichael";s:12:"contactphone";s:12:"707-391-8487";s:5:"email";s:24:"customglowtans@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8b0a64919f6fca556e4a42492ffb36efd33419c6";s:8:"username";s:17:"Angela Barmichael";s:12:"created_time";s:19:"2016-09-13 14:35:32";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"5b86d4520059eddbe26bc2711ad831a6";}
+2016-09-13T14:35:51-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17468";}
+2016-09-13T15:59:08-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Sanjeev Sharma";s:7:"user_id";s:5:"16478";}
+2016-09-13T16:18:55-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:12:"Tiffany Prok";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:8:"Stockton";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Tiffany";s:8:"lastname";s:4:"Prok";s:12:"contactphone";s:12:"209-629-5005";s:5:"email";s:22:"tiffany.prok@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"f97599d1a8366694682ad95cbd4ecd682a51dbf6";s:8:"username";s:12:"Tiffany Prok";s:12:"created_time";s:19:"2016-09-13 16:18:55";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"de9ca23f6d84a742fa3544bc313dc664";}
+2016-09-13T16:23:46-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:140:"Quote for 3mL Syringe with Black Plunger: 
+Prebuy MOQ of 50k units at $0.25 each. Then pay remaining $0.95 to have syringe filled with gel. ";s:7:"user_id";s:5:"16748";}
+2016-09-13T16:31:40-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:13:"David Santana";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"David";s:8:"lastname";s:7:"Santana";s:12:"contactphone";s:12:"954-829-8276";s:5:"email";s:25:"davidsantanadmd@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"702be7baea96586052dbdd078a203dc46bed7886";s:8:"username";s:13:"David Santana";s:12:"created_time";s:19:"2016-09-13 16:31:40";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"cbdb1b6e15ec60509f5555038d107cb6";}
+2016-09-13T17:00:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16231";}
+2016-09-13T17:09:23-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"334-208-4862";s:7:"user_id";s:5:"10338";}
+2016-09-13T17:28:30-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:116:"Shipping Address: Apotik Medicare lantai 2 (depan RSUD Tarakan).jl. Kyai caringin No 2 jakarta pusat Indonesia 10150";s:7:"user_id";s:5:"16231";}
+2016-09-13T17:48:30-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:0:"";s:7:"user_id";s:5:"10338";}
+2016-09-13T17:48:58-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"10338";}
+2016-09-13T18:10:21-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16231";}
+2016-09-13T19:41:22-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16652";}
+2016-09-13T20:09:04-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:7:"SPANISH";s:7:"user_id";s:5:"15362";}
+2016-09-13T20:16:25-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:798:"White Light Smile 22% CP Kit. 
+Contents: 1 x Mini-LED Light
+1 x Set of Thermoforming Trays
+1 x Case for Thermoforming Tray 
+4 x 3mL Lined Syringes with 22% CP. 
+The Thermoforming Trays come Inside of the Tray Cases, the Lot Number & Expiration Sticker on the bottom of the boxes & the customer Provides his own boxes.
+
+Shipping Company: Michael Widjaja
+Domestic Operations Manager
+SEKO Logistics, 7345 Mission Gorge Rd
+Suite J, San Diego CA, 92120
+Main: 619-229-2222
+Fax:619-229-2229
+Michael.Widjaja@sekologistics.com. www.sekologistics.com
+
+Distributes to the UK, Germany & France. There is a halt on everything because he is getting registrations. He will have projections for is in about 60 - 90 days after 9/9/2016. He claims that the international marker is bigger for him than the US market. ";s:7:"user_id";s:5:"16715";}
+2016-09-13T20:43:27-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17414";}
+2016-09-13T21:32:52-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17414";}
+2016-09-13T22:21:01-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17449";}
+2016-09-13T22:21:35-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:13:"+972547616313";s:7:"user_id";s:5:"17449";}
+2016-09-13T22:56:22-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15178";}
+2016-09-13T23:11:06-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"DO NOT CONTACT";s:7:"user_id";s:5:"15770";}

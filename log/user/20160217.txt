@@ -1,0 +1,148 @@
+2016-02-17T07:46:44-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15380";}
+2016-02-17T08:02:34-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"856-987-0023";s:7:"user_id";s:5:"15122";}
+2016-02-17T08:21:07-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:26:"chicglamspaspa@outlook.com";s:7:"user_id";s:5:"12530";}
+2016-02-17T08:21:23-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:23:"chicglamspa@outlook.com";s:7:"user_id";s:5:"12530";}
+2016-02-17T08:25:42-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:16:"701 Richmond Ave";s:7:"user_id";s:3:"468";}
+2016-02-17T08:25:46-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:7:"Houston";s:7:"user_id";s:3:"468";}
+2016-02-17T08:25:50-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"77006";s:7:"user_id";s:3:"468";}
+2016-02-17T08:26:25-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:8:"Vparlour";s:7:"user_id";s:3:"468";}
+2016-02-17T08:29:30-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15208";}
+2016-02-17T08:29:54-08:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:27:"fairchild_britney@yahoo.com";s:7:"user_id";s:3:"468";}
+2016-02-17T08:29:57-08:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:3:"468";}
+2016-02-17T08:30:08-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"936-488-8200";s:7:"user_id";s:3:"468";}
+2016-02-17T08:30:18-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:3:"468";}
+2016-02-17T08:30:25-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:8:"Vparlour";s:7:"user_id";s:3:"468";}
+2016-02-17T08:30:29-08:00 INFO (6): Rachel Reiser--a:2:{s:13:"businessphone";s:0:"";s:7:"user_id";s:3:"468";}
+2016-02-17T08:40:30-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Shayna Robinson";s:7:"user_id";s:5:"15445";}
+2016-02-17T08:40:33-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Shayna Robinson";s:7:"user_id";s:5:"15445";}
+2016-02-17T08:56:19-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15530";}
+2016-02-17T09:16:52-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:35:""Advanced Laser & Skin Center LTD "";s:7:"user_id";s:5:"15530";}
+2016-02-17T09:16:58-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:32:"Advanced Laser & Skin Center LTD";s:7:"user_id";s:5:"15530";}
+2016-02-17T09:28:01-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15445";}
+2016-02-17T09:32:24-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"201-569-2400";s:7:"user_id";s:5:"15445";}
+2016-02-17T09:43:17-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:19:"011 52 1999 1224146";s:7:"user_id";s:5:"15363";}
+2016-02-17T09:43:30-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:16:"0115219991224146";s:7:"user_id";s:5:"15363";}
+2016-02-17T09:56:37-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15380";}
+2016-02-17T10:09:50-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13066";}
+2016-02-17T10:28:50-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:11:"Co Smile Us";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Emily";s:8:"lastname";s:5:"Emily";s:12:"contactphone";s:12:"310-787-1775";s:5:"email";s:18:"emily@smile-us.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"35940e37b54f7120591c61183d375d6691da279e";s:8:"username";s:11:"Co Smile Us";s:12:"created_time";s:19:"2016-02-17 10:28:50";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"bed3958632ba743be14efb42e2a005e7";}
+2016-02-17T10:28:58-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15533";}
+2016-02-17T10:29:00-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15533";}
+2016-02-17T10:46:08-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:5:"Namba";s:7:"user_id";s:5:"15533";}
+2016-02-17T11:06:13-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:23:"Inspire Success One SPA";s:7:"user_id";s:5:"14265";}
+2016-02-17T11:06:27-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:14:"1886 Horne ave";s:7:"user_id";s:5:"14265";}
+2016-02-17T11:06:38-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"32811";s:7:"user_id";s:5:"14265";}
+2016-02-17T11:07:00-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14265";}
+2016-02-17T11:16:57-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:12:"Seth Vazquez";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Seth";s:8:"lastname";s:7:"Vazquez";s:12:"contactphone";s:12:"619-677-6555";s:5:"email";s:20:"jungleseth@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5e9e5b2f57e00f88e5b916fb9f1807ba9e5e8e8d";s:8:"username";s:12:"Seth Vazquez";s:12:"created_time";s:19:"2016-02-17 11:16:57";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a04ea5149d5be0c02cc0f881c27f0a20";}
+2016-02-17T11:19:16-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:215:"Seth and his wife own a spa in Cabo San Lucas but also have a home where they would have their product shipped in San Diego. They are interested in mobile #2, his wife will be performing the teeth whitening service.";s:7:"user_id";s:5:"15534";}
+2016-02-17T11:19:27-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15534";}
+2016-02-17T11:48:10-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"TX";s:7:"user_id";s:5:"15287";}
+2016-02-17T11:56:21-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15277";}
+2016-02-17T12:00:50-08:00 INFO (6): Cory Nielsen--a:2:{s:6:"source";s:5:"Other";s:7:"user_id";s:5:"15498";}
+2016-02-17T12:00:54-08:00 INFO (6): Cory Nielsen--a:2:{s:8:"imported";s:10:"Phone Call";s:7:"user_id";s:5:"15498";}
+2016-02-17T12:06:01-08:00 INFO (6): Cory Nielsen--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:5:"15514";}
+2016-02-17T12:06:11-08:00 INFO (6): Cory Nielsen--a:2:{s:8:"imported";s:12:"Registration";s:7:"user_id";s:5:"15514";}
+2016-02-17T12:06:23-08:00 INFO (6): Cory Nielsen--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15514";}
+2016-02-17T12:08:13-08:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"TX";s:7:"user_id";s:5:"15319";}
+2016-02-17T12:08:28-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15319";}
+2016-02-17T12:08:34-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14138";}
+2016-02-17T12:20:05-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"14136";}
+2016-02-17T12:20:49-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"14083";}
+2016-02-17T12:21:16-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"13259";}
+2016-02-17T12:21:20-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13259";}
+2016-02-17T12:30:17-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:13:"+592-226-9001";s:7:"user_id";s:5:"14372";}
+2016-02-17T12:41:46-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"13191";}
+2016-02-17T12:41:50-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13191";}
+2016-02-17T12:41:57-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13191";}
+2016-02-17T12:42:12-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13087";}
+2016-02-17T12:42:15-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"13087";}
+2016-02-17T12:42:30-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13081";}
+2016-02-17T12:42:35-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"13081";}
+2016-02-17T12:48:04-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12947";}
+2016-02-17T12:48:52-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:17:"dlk1027@yahoo.com";s:7:"user_id";s:5:"15471";}
+2016-02-17T12:49:02-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:21:"diannakunis@gmail.com";s:7:"user_id";s:5:"15471";}
+2016-02-17T12:52:29-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"12947";}
+2016-02-17T13:07:11-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15043";}
+2016-02-17T13:10:56-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"KH";s:7:"user_id";s:5:"15363";}
+2016-02-17T13:11:07-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"15363";}
+2016-02-17T13:11:09-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"15363";}
+2016-02-17T13:11:58-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:20:"1928 S McPherrin Ave";s:7:"user_id";s:5:"15363";}
+2016-02-17T13:12:03-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:14:" Monterey Park";s:7:"user_id";s:5:"15363";}
+2016-02-17T13:12:04-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"91754";s:7:"user_id";s:5:"15363";}
+2016-02-17T13:12:19-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Solarium Spa";s:7:"user_id";s:5:"15363";}
+2016-02-17T13:13:07-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:24:"solariumsocial@gmail.com";s:7:"user_id";s:5:"15363";}
+2016-02-17T13:15:23-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12869";}
+2016-02-17T13:15:27-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12869";}
+2016-02-17T13:15:47-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12812";}
+2016-02-17T13:16:16-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12730";}
+2016-02-17T13:17:14-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12730";}
+2016-02-17T13:17:57-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12727";}
+2016-02-17T13:18:19-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12636";}
+2016-02-17T13:18:22-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12636";}
+2016-02-17T13:18:55-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12553";}
+2016-02-17T13:18:58-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12553";}
+2016-02-17T13:19:16-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12536";}
+2016-02-17T13:25:05-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12474";}
+2016-02-17T13:27:52-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12473";}
+2016-02-17T13:31:14-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12362";}
+2016-02-17T13:31:17-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12362";}
+2016-02-17T13:32:08-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12272";}
+2016-02-17T13:32:10-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12272";}
+2016-02-17T13:32:29-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12228";}
+2016-02-17T13:32:32-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12228";}
+2016-02-17T13:33:21-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12212";}
+2016-02-17T13:33:38-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12205";}
+2016-02-17T13:33:42-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12205";}
+2016-02-17T13:34:14-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12156";}
+2016-02-17T13:35:15-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12156";}
+2016-02-17T13:35:28-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12149";}
+2016-02-17T13:35:31-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12149";}
+2016-02-17T13:35:53-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12124";}
+2016-02-17T13:35:55-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12124";}
+2016-02-17T13:36:09-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12122";}
+2016-02-17T13:37:35-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12092";}
+2016-02-17T13:37:38-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12092";}
+2016-02-17T13:39:00-08:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"12068";}
+2016-02-17T13:40:44-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12068";}
+2016-02-17T13:40:49-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12068";}
+2016-02-17T13:41:46-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12057";}
+2016-02-17T13:41:49-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"12057";}
+2016-02-17T13:42:00-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12039";}
+2016-02-17T13:42:10-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12015";}
+2016-02-17T13:59:49-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13242";}
+2016-02-17T14:07:53-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"778-987-0219";s:7:"user_id";s:4:"1683";}
+2016-02-17T14:12:42-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:13:"5219991224146";s:7:"user_id";s:5:"15363";}
+2016-02-17T14:15:25-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:18:"Dr. Ricardo Stuart";s:7:"user_id";s:5:"14372";}
+2016-02-17T14:17:29-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14773";}
+2016-02-17T14:18:28-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14743";}
+2016-02-17T14:18:54-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14708";}
+2016-02-17T14:19:37-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14690";}
+2016-02-17T14:20:16-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"239-565-0346";s:7:"user_id";s:5:"15535";}
+2016-02-17T14:32:19-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15281";}
+2016-02-17T14:45:53-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15535";}
+2016-02-17T14:56:55-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15535";}
+2016-02-17T15:03:40-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:283:"Was a hygienist but now rents a space in a spa and works as an aestheticion. She had her teeth whitened on a cruise and wondered if this was something she could offer. She is moving to a new location in two weeks (2/22/16) and won't be able to add any new service until after then.  ";s:7:"user_id";s:5:"15535";}
+2016-02-17T15:04:07-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:283:"Was a hygienist but now rents a space in a spa and works as an aestheticion. She had her teeth whitened on a cruise and wondered if this was something she could offer. She is moving to a new location in two weeks (2/29/16) and won't be able to add any new service until after then.  ";s:7:"user_id";s:5:"15535";}
+2016-02-17T15:04:16-08:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:35:"something to bring in new clients. ";s:7:"user_id";s:5:"15535";}
+2016-02-17T15:09:31-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15208";}
+2016-02-17T15:14:51-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"404-254-0292";s:7:"user_id";s:5:"15208";}
+2016-02-17T15:25:12-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:20:"41 Legacy Common SE.";s:7:"user_id";s:3:"939";}
+2016-02-17T15:25:23-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:7:"T2X 0X9";s:7:"user_id";s:3:"939";}
+2016-02-17T15:33:23-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:14:"Cesar Melendez";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Cesar";s:8:"lastname";s:8:"Melendez";s:12:"contactphone";s:12:"347-659-0156";s:5:"email";s:16:"cmelen21@aol.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d14ee83444d4fee408a1c55ef0a87225fe6092e1";s:8:"username";s:14:"Cesar Melendez";s:12:"created_time";s:19:"2016-02-17 15:33:23";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"752f0f7acc653fd53de365b52c2ef7db";}
+2016-02-17T15:40:21-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:358:"Cesar's drop dead gorgeous wife emailed him links to our mobile packages and the Futura Face. She is going to school for something with the lips??? Botox?? She apparently has 30,000 followers on instagram just posting pictures of herself. She would like to offer teeth whitening and possibly LED light therapy out of their home to start and later open a spa.";s:7:"user_id";s:5:"15536";}
+2016-02-17T15:59:04-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15536";}
+2016-02-17T15:59:12-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"10889";}
+2016-02-17T16:12:38-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:19:"404-254-0292 - HOME";s:7:"user_id";s:5:"15208";}
+2016-02-17T16:12:40-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11633";}
+2016-02-17T16:12:41-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:17:"404-621-2342 CELL";s:7:"user_id";s:5:"15208";}
+2016-02-17T16:12:53-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Atlanta";s:7:"user_id";s:5:"15208";}
+2016-02-17T16:29:14-08:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"11424";}
+2016-02-17T16:29:17-08:00 INFO (6): Alison Duff--a:2:{s:7:"country";s:2:"UG";s:7:"user_id";s:5:"11424";}
+2016-02-17T16:29:23-08:00 INFO (6): Alison Duff--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"11424";}
+2016-02-17T16:29:26-08:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"11424";}
+2016-02-17T16:33:10-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:26:"toddwhite@kentuckymail.net";s:7:"user_id";s:5:"15522";}
+2016-02-17T16:52:53-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:23:"Muamet (Mickey)  Mamudi";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:15:"Muamet (mickey)";s:8:"lastname";s:6:"Mamudi";s:12:"contactphone";s:12:"203-206-6340";s:5:"email";s:19:"mamudim@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"769d518677df8e46d437a101f3f89e09255672d1";s:8:"username";s:23:"Muamet (Mickey)  Mamudi";s:12:"created_time";s:19:"2016-02-17 16:52:53";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"c5c662189ae0a45179b56953ff4d9d25";}
+2016-02-17T16:53:04-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15537";}
+2016-02-17T16:53:21-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:15:"Muamet (Mickey)";s:7:"user_id";s:5:"15537";}
+2016-02-17T17:13:51-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"3314";}
+2016-02-17T17:40:36-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15537";}
+2016-02-17T17:40:38-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15537";}

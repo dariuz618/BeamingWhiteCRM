@@ -1,0 +1,34 @@
+2015-09-25T09:52:59-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"443-413-4393";s:7:"user_id";s:5:"14165";}
+2015-09-25T10:10:48-07:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"IN";s:7:"user_id";s:5:"14248";}
+2015-09-25T10:10:56-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:8:"Richmond";s:7:"user_id";s:5:"14248";}
+2015-09-25T10:34:46-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:8:"Aquoalis";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"678-489-6434";s:6:"source";s:8:"Internet";s:9:"firstname";s:8:"Aquoalis";s:8:"lastname";s:6:"Jordan";s:12:"contactphone";s:12:"678-489-6434";s:5:"email";s:20:"aquoalis@comcast.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1c28d862dfb5a6f3e336f37de98b17e8cf980d97";s:8:"username";s:8:"Aquoalis";s:12:"created_time";s:19:"2015-09-25 10:34:46";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"37e371e5766e77eeeb6c37cb119f0f7e";}
+2015-09-25T10:35:04-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:18:"2419 fripp terrace";s:7:"user_id";s:5:"14255";}
+2015-09-25T10:35:15-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:9:"Riverdale";s:7:"user_id";s:5:"14255";}
+2015-09-25T10:35:20-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"30296";s:7:"user_id";s:5:"14255";}
+2015-09-25T10:45:37-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14248";}
+2015-09-25T10:45:40-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14248";}
+2015-09-25T11:32:51-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"14151";}
+2015-09-25T11:40:13-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:6:"Debbie";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NV";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Debbie";s:8:"lastname";s:6:"Tanner";s:12:"contactphone";s:12:"702-465-5705";s:5:"email";s:20:"d.tanner19@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"477ca9bc6f916792f5b7e5ad16a7bebb21e131e5";s:8:"username";s:6:"Debbie";s:12:"created_time";s:19:"2015-09-25 11:40:12";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"683ae2d50721b5eff1b1ec4c31ebe240";}
+2015-09-25T11:58:01-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:23:"3660 Waldrop Cliff Lane";s:7:"user_id";s:5:"14162";}
+2015-09-25T11:58:08-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"30034";s:7:"user_id";s:5:"14162";}
+2015-09-25T12:00:53-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:19:"osmankeid@gmail.com";s:7:"user_id";s:5:"13143";}
+2015-09-25T12:01:01-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:17:"eosmaneid@aol.com";s:7:"user_id";s:5:"13143";}
+2015-09-25T12:08:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14167";}
+2015-09-25T12:09:11-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:14:"Jorge Martinez";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Jorge";s:8:"lastname";s:8:"Martinez";s:12:"contactphone";s:0:"";s:5:"email";s:32:"martinezteethwhitening@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8684456a26505d012c77f7cbf8f05ae984d3cfe1";s:8:"username";s:14:"Jorge Martinez";s:12:"created_time";s:19:"2015-09-25 12:09:11";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"d5266c453651a311e05159724ac90e6d";}
+2015-09-25T12:09:25-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:30:"Interested in FF and Preloaded";s:7:"user_id";s:5:"14257";}
+2015-09-25T12:16:42-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14254";}
+2015-09-25T12:16:48-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14254";}
+2015-09-25T12:17:01-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:40:"Would like to meet us at the Philly ICES";s:7:"user_id";s:5:"14254";}
+2015-09-25T12:17:09-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:48:"Would like to meet us at the Philly ICES in Oct.";s:7:"user_id";s:5:"14254";}
+2015-09-25T12:19:51-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14245";}
+2015-09-25T12:27:36-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:109:"Dental assistant, works 4 days per week. Lives in an upscale lake community. Has interested clients already. ";s:7:"user_id";s:5:"14250";}
+2015-09-25T12:30:13-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14250";}
+2015-09-25T13:18:49-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14252";}
+2015-09-25T14:37:10-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:6:"Andrea";s:7:"user_id";s:5:"14236";}
+2015-09-25T14:37:17-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Andrea Michel Moska";s:7:"user_id";s:5:"14236";}
+2015-09-25T14:37:19-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:19:"Andrea Michel Moska";s:7:"user_id";s:5:"14236";}
+2015-09-25T14:42:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14236";}
+2015-09-25T15:08:07-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14259";}
+2015-09-25T15:08:12-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14259";}
+2015-09-25T15:08:40-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:56:"Wants mobile #2 with a recliner. Will have $$$ Oct 25th.";s:7:"user_id";s:5:"14259";}
+2015-09-25T16:02:33-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address2";s:7:"Suite D";s:7:"user_id";s:5:"14151";}

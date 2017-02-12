@@ -1,0 +1,350 @@
+/***************CRM**************************/
+/*@import url('http://fonts.googleapis.com/css?family=Open+Sans');*/
+body {
+    background: #FFFFFF;
+}
+
+body, td, th, input, select, textarea, option, optgroup {
+    font-family: Verdana, Arial, Helvetica, sans-serif;   
+    font-size: 13px;
+    color: #000000;        
+
+}
+input, select, textarea {
+    border: 1px solid #95B8E7;
+    padding: 4px 4px;
+    background-color: #FFFFFF;
+    margin-bottom: 3px;
+    font-size: 13px;
+}
+
+/*input[type=text]:focus, textarea:focus{
+    background-color: lightyellow;
+    outline: none !important;
+    border:1px solid green;
+    box-shadow: 0 0 10px #719ECE;
+} */
+
+h1 {	
+    color: #686868;	
+    font-size: 24px;
+    font-weight: bold;        
+    margin: 15px 0px 15px 0px;	      
+}
+h2 {
+    font-size:18px;
+    font-weight:bold;
+    margin:0;
+    margin: 10px 0px 10px 0px;	
+}
+.crm-title {
+   font: 14pt Verdana, Arial, Helvetica, sans-serif;
+   color: #245496;
+   font-weight: bold;
+}
+/*
+table.form {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+}
+table.form > tbody > tr > td:first-child {
+        width: 200px;
+}
+table.form > tbody > tr > td {
+        padding: 10px;
+        color: #000000;
+        border-bottom: 1px dotted #CCCCCC;
+}
+
+.heading td {
+        background: #E7EFEF;
+}*/
+.account, .product {
+    border-collapse: collapse;
+}
+.account {
+    /*width: 50%;*/
+    margin-bottom: 20px;
+    border-top: 1px solid #CDDDDD;
+    border-right: 1px solid #CDDDDD;
+}
+
+.account th {
+    background: #E7EFEF;
+    width: 20%;
+    font-weight: bold;
+    text-align: center;
+}
+/* Dariuz Rubin */
+.account th, .account td {
+    border-left: 1px solid #CDDDDD;
+    border-bottom: 1px solid #CDDDDD;
+    padding: 5px;
+    vertical-align:middle;
+    /*border: 1px solid orange;
+    background-color: orange;
+    padding: 5px;    
+    font-size: 18px;
+    vertical-align: middle;*/
+}
+.account th a, .account td a{
+    color: black;
+}
+/*===============*/
+/*.account td {
+        width: 50%;
+}*/
+.product {	
+    margin-bottom: 20px;
+    border-top: 1px solid #CDDDDD;
+    border-right: 1px solid #CDDDDD;
+}
+.product td {
+    border-left: 1px solid #CDDDDD;  
+    padding: 5px;
+}
+.product tr.item {background:#ecf5e2;color:#333;}
+.product tr.options td {border-bottom: none;}
+#calendar {
+    margin: 2em auto;
+}
+
+
+
+#left {
+    float:left;
+    margin-left: 2px; /* Dariuz Rubin */
+    width:425px;
+}
+
+#right {
+    float:right;
+    margin-left: 30px;    
+}
+
+.address_odd {
+    float: left;    
+    width: 385px;
+
+}
+.address_even {
+    float: right;
+    width: 550px;
+}
+
+a.button, .list a.button {
+    background: none repeat scroll 0 0 #428BCA; 
+    background-color: #428BCA;
+    /*border-color: #357EBD;*/
+    display: inline-block;
+    padding: 2px 5px;
+    text-decoration: none;
+    cursor: pointer;    
+    color: #FFFFFF;   
+    border:1px solid #84bbf3;
+    font-weight: bold;
+}
+a.smallButton, .list a.smallButton {
+    background: none repeat scroll 0 0 #428BCA;  
+    background-color: #428BCA;
+    display: inline-block;
+    padding: 2px;
+    text-decoration: none;
+    cursor: pointer;    
+    color: #FFFFFF;    
+    font-size: 80%;
+    border:1px solid #84bbf3;    
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;  
+}
+a, a:visited {
+    /*color: #003366;*/
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#addressSection {
+    border: 1px solid #245496;
+    width: 300px;    
+    height: 180px;
+    padding: 5px;
+    margin:  20px 0 0 0;
+    background: #F8F8F8; 
+}
+
+
+
+
+/*easyui demo css*/
+/**{
+        font-size:12px;
+}*/
+
+.demo-info{
+    background:#FFFEE6;
+    color:#8F5700;
+    padding:12px;
+}
+.demo-tip{
+    width:16px;
+    height:16px;
+    margin-right:8px;
+    float:left;
+}
+.order {
+    /*margin-bottom: 30px;*/
+    border: 1px solid #CDDDDD;
+    display: block;
+    padding: 10px;
+}
+.spacing{
+    margin-right: 20px;    
+}
+
+.summary .detail{
+    padding: 20px;  
+    display: block;
+}
+.highlight {
+    background-color: #FFFF00;
+}
+
+.button {
+    background: none repeat scroll 0 0 #428BCA;      
+    border-color: #357EBD;
+    color: #FFFFFF;  
+    display: inline-block;
+    padding: 2px 5px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;  
+    line-height: 1.5;
+}
+.small {
+    font-size: 80%;
+} 
+.infoButton {
+    background: none repeat scroll 0 0 #5CB85C;
+    border-color: #4CAE4C;
+    color: #FFFFFF;    
+    display: inline-block;
+    padding: 2px 5px;
+    text-decoration: none;
+    cursor: pointer; 
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;   
+    line-height: 1.5;
+}
+
+/*Potential*/
+.Hot {
+    background-color: darkred;           
+}            
+a.Hot  {
+    color: white;
+}
+.Warm {
+    background-color: darkorange;    
+}            
+a.Warm  {
+    color: blue;
+}
+.Cool {
+    background-color: yellow;    
+}            
+a.Cool  {
+    color: blue;
+}
+.Cold {
+    background-color: lightyellow;    
+}            
+a.Cold  {
+    color: blue;
+}
+.Big {
+    background-color: lawngreen;    
+}            
+a.Big  {
+    color:black;
+}
+.Huge {
+    background-color: darkgreen;    
+}            
+a.Huge  {
+    color: white;
+}
+
+/****************Zend form*****************/
+.zend_form dt label {
+    float:left;
+    width:120px;
+    margin-top:5px;
+    margin-left:5px;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.zend_form dd input,
+.zend_form dd textfield,
+.zend_form dd select,
+.zend_form dd textarea,
+.zend_form dd radio {   
+    border: 1px solid #DDDDDD;   
+    color: #373737; 
+    margin-bottom: 1em;
+}
+.zend_form dd#year-element { 
+    margin-left: 250px;
+    margin-top: -75px; 
+    width: 50px;
+}
+select#year {                    
+    position: relative;
+    top: 12px;
+    left: -35px; 
+}
+.zend_form dd#customertype-element label {
+    font-weight: normal;   
+}
+.zend_form dd#customertype-element br{    
+    display: none;
+}
+
+select#country {
+    width: 200px;
+}
+
+/*.zend_form dd#submit-element {
+   clear: both;
+   text-align: center;
+   margin-top: 10px;      
+   cursor: pointer;
+}*/
+
+.zend_form dd ul.errors li {
+    color: #f00;
+}
+
+.zend_form dt label.required:after {
+    content: " *";
+    color: #00f;
+}
+
+.zend_form legend {
+    font-weight: bold;
+}
+/* Dariuz Rubin */
+.crm-customer-detail{
+	width:100%;
+	/*width:960px;*/
+	height:auto;
+}
+.no-padding{
+	padding: 0px !important;
+}
+/*==============*/

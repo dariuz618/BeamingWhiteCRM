@@ -1,0 +1,42 @@
+2015-09-15T09:20:21-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"20600 Tracy Ave";s:7:"user_id";s:4:"3291";}
+2015-09-15T09:20:44-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:6:"Euclid";s:7:"user_id";s:4:"3291";}
+2015-09-15T09:20:51-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"44123";s:7:"user_id";s:4:"3291";}
+2015-09-15T10:40:47-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:6:"Carine";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:11:"Carine Phan";s:8:"lastname";s:4:"Rust";s:12:"contactphone";s:12:"713-542-8675";s:5:"email";s:20:"carinephan@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:16:"carine@lexor.com";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5638f80753ed546a6f21df797ed7cbe2dd72c468";s:8:"username";s:6:"Carine";s:12:"created_time";s:19:"2015-09-15 10:40:47";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"149393336fa8c0ebd0da04e7ae56b822";}
+2015-09-15T10:53:07-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"11209 Bellaire Blvd";s:7:"user_id";s:5:"14119";}
+2015-09-15T10:53:20-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:10:"suite C-18";s:7:"user_id";s:5:"14119";}
+2015-09-15T10:53:36-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Houston";s:7:"user_id";s:5:"14119";}
+2015-09-15T10:53:46-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"77072";s:7:"user_id";s:5:"14119";}
+2015-09-15T11:02:33-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14116";}
+2015-09-15T11:02:53-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:71:"Michelle is a dental assistant interested in starting her own business.";s:7:"user_id";s:5:"14116";}
+2015-09-15T11:03:04-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14116";}
+2015-09-15T12:19:22-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:4:"1408";}
+2015-09-15T12:19:36-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"530-410-7167";s:7:"user_id";s:4:"1408";}
+2015-09-15T12:20:18-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"5650 Balls Ferry Rd";s:7:"user_id";s:4:"1408";}
+2015-09-15T12:35:21-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"1100 East Hwy 20";s:7:"user_id";s:3:"192";}
+2015-09-15T12:35:27-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"97759";s:7:"user_id";s:3:"192";}
+2015-09-15T12:35:35-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:2:"#7";s:7:"user_id";s:3:"192";}
+2015-09-15T12:35:42-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Sisters";s:7:"user_id";s:3:"192";}
+2015-09-15T12:41:21-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14110";}
+2015-09-15T12:43:48-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14113";}
+2015-09-15T12:45:40-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"678-815-2878";s:7:"user_id";s:5:"11303";}
+2015-09-15T13:39:01-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"3291";}
+2015-09-15T14:40:47-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"5 Mile Smiles";s:7:"user_id";s:5:"13260";}
+2015-09-15T14:40:51-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"5 Mile Smiles";s:7:"user_id";s:5:"13260";}
+2015-09-15T14:50:14-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:92:"Dr. Jason Keefe, D.D.S
+Jessica Villalobos
+Hours of Operation
+Mon-Thur- 9am-5pm
+Fri- 9am-3pm
+";s:7:"user_id";s:5:"13260";}
+2015-09-15T14:50:30-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:23:"jessica@5milesmiles.com";s:7:"user_id";s:5:"13260";}
+2015-09-15T14:53:11-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"13260";}
+2015-09-15T16:16:53-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"509.981.3063";s:7:"user_id";s:5:"13260";}
+2015-09-15T16:17:12-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:123:"Dr. Jason Keefe, D.D.S
+Jessica Villalobos
+Hours of Operation
+Mon-Thur- 9am-5pm
+Fri- 9am-3pm
+P: 509.981.3063
+F: 509.325.5796";s:7:"user_id";s:5:"13260";}
+2015-09-15T16:58:05-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14117";}
+2015-09-15T17:28:57-07:00 INFO (6): Brian Radke--a:2:{s:12:"businessname";s:6:"Ashley";s:7:"user_id";s:5:"10428";}

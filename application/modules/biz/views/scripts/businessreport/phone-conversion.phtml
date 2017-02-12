@@ -1,0 +1,265 @@
+<?=$this->action('index', 'businessreport');?> 
+<div class="row">
+    <h3 class="page-header">Phone Conversion Report</h3>    
+ 	<!-- Dariuz Rubin -->
+	<div class="col-lg-12 space">
+	    <form method="POST" name="verify" class="form-horizontal">
+	    	<div class="row">
+	    		<div class="col-md-4">
+	    			<div class="form-group">
+		                <label for="from" class="col-sm-3 control-label required">From:</label>   
+		                <div class="col-sm-6">
+		                <input name="from" class="form-control" type="text" id="from" maxlength="10" value="<?php if (isset($_POST['from'])) {
+		                echo $_POST['from'];} ?>" />
+		                </div>
+		            </div>          
+	    		</div>
+	    		<div class="col-md-4">
+	    			<div class="form-group">
+		                <label for="to" class="col-sm-3 control-label required">To:</label>   
+		                <div class="col-sm-6">
+		                <input name="to" class="form-control" type="text" id="to" maxlength="10" value="<?php if (isset($_POST['to'])) {
+		                echo $_POST['to'];} ?>" />
+		                </div>
+		            </div>       
+	    		</div>
+	    		<div class="col-md-4">
+	    			<div class="form-group">                
+		                <label for="sales" class="col-sm-3 control-label">Rep</label>
+		                  <div class="col-sm-6">
+		                  
+		                  	<!--Dariuz Rubin-->	                  
+		                  	<select id="rep" name="rep[]" multiple="multiple" class="form-control">
+		                  		
+		                        <? foreach ($this->reps as $rep): ?>
+		                            <option value= "<?php 
+		                            	echo $rep['id'].','.$rep['name']; 
+		                            	?>"  <? 
+		                            			$check_rep = $rep['id'].','.$rep['name'];
+		                            			foreach ($_POST['rep'] as $post_rep)
+		                            			{
+													if ($check_rep == $post_rep)
+														echo 'selected';
+												}	                            		
+		                            		?>><?= $rep['name'] ?></option>                          
+		                        <? endforeach; ?>					       
+						    </select>     				  
+						    <!----------------->			    
+						
+		                  </div>
+		            </div>  
+	    		</div>
+	    	</div>
+	    	
+	    	<div class="row">
+	    		<div class="col-md-12">
+	    			<center>
+	    				<button type="submit" class="btn btn-default">Submit</button>
+	    			</center>
+	    		</div>
+	    	</div>     
+	    </form>    
+    </div>
+	
+	<!-- Phone Calls -->
+	
+	<div class="row">
+		<div class="col-sm-6">
+	        <div class="panel panel-default">
+	            <div class="panel-heading">
+	                Phone Calls
+	            </div>
+	            <!-- /.panel-heading -->
+	            <div class="panel-body">
+	                <div class="table-responsive">
+	                    <table class="table">
+	                        <thead>
+	                             <tr class="header">
+	                             	<th>Rep</th>
+	                                <th>Calls made</th>
+	                             	<th>Calls Received</th>
+	                             	<th>Total</th>
+	                             	<th>Minutes</th>
+	                             </tr>                            
+	                        </thead>
+
+	                        <tbody>
+	                        	<?php		
+	                        	if (!empty($this->phonecalls))
+	                        	{
+									
+									foreach ($this->phonecalls as $key => $phonecall)
+									{								
+									?>
+										<tr>
+											<td><?= $phonecall['parent_user'] ?></td>
+											<td><?= $phonecall['calls_made'] ?></td>
+											<td><?= $phonecall['received'] ?></td>
+											<td><?= $phonecall['total'] ?></td>
+											<td><?= $phonecall['minutes'] ?></td>												
+										</tr>
+									<?php
+									}	
+									?>									
+								<?php							
+								}else
+								{
+								?>
+									<tr>
+										<td colspan='4'>No Calls found.</td>									
+									</tr>
+								<?php	
+								}
+								?>
+								
+	                        </tbody>
+	                    </table>
+	                </div>
+	                <!-- /.table-responsive -->
+	            </div>
+	            <!-- /.panel-body -->
+	        </div>
+	        <!-- /.panel -->
+	    </div>
+
+	    <!------------------>
+																																							<div class="col-sm-6">
+	        <div class="panel panel-default">
+	            <div class="panel-heading">
+	                Phone Conversation
+	            </div>
+	            <!-- /.panel-heading -->
+	            <div class="panel-body">
+	                <div class="table-responsive">
+	                    <table class="table">
+	                        <thead>
+	                             <tr class="header">
+	                             	<th>Rep</th>
+	                                <th>Total Accounts</th>
+	                             	<th>Total Contacts</th>
+	                             	<th>Percentage</th>
+	                             </tr>                            
+	                        </thead>
+
+	                        <tbody>
+	                        	<?php		
+	                        	if (!empty($this->conversions))
+	                        																															{
+								$totalAccount=0;
+								$totalContact=0;
+								foreach ($this->conversions as $key => $conversion)
+								{								
+									$totalAccount += $conversion[1]["totalContacts"];
+									$totalContact += $conversion[0]["totalContacts"];								
+								}
+								foreach ($this->conversions as $key => $conversion)
+								{								
+								?>
+									<tr>
+										<td><?= $conversion[0]['parent_user'] ?></td>
+										<td><?echo isset($conversion[1]["totalContacts"])?$conversion[1]["totalContacts"]:0 ?></td>
+										
+										<td><?= $conversion[0]["totalContacts"] ?></td>									
+										<td><? if($conversion[0]["totalContacts"]> 0) 
+	        echo (round($conversion[1]['totalContacts']/$conversion[0]['totalContacts'], 4) * 100).'%' ?></td>				
+									</tr>
+								<?php
+								}
+								?>
+								<tr>
+									<td style="font-weight:bold"><?php echo 'Total';?></td>
+									<td style="font-weight:bold"><?= $totalAccount ?></td>
+									<td style="font-weight:bold"><?= $totalContact ?></td>
+									<td style="font-weight:bold"><? if($totalContact> 0) 
+	       										 echo (round($totalAccount/$totalContact, 4) * 100).'%' ?></td>
+								</tr>			
+							<?php	
+							}else
+								{
+								?>
+									<tr>
+										<td colspan='4'>No Contacts found.</td>									
+									</tr>
+								<?php	
+								}
+								?>
+	                        </tbody>
+	                    </table>
+	                </div>
+	                <!-- /.table-responsive -->
+	            </div>
+	            <!-- /.panel-body -->
+	        </div>
+	        <!-- /.panel -->
+	    </div>
+	</div>
+	<div class="col-lg-12">
+		<div class="panel panel-default">
+		   <div class="panel-heading">Contacts</div>
+		   <div class="panel-body">
+			   <table class="table table-bordered table-striped table-hover" id="phone_conversion">
+			     <thead>
+			        <tr>
+				        <th class="header">Rep</th>
+				        <th>Contact type</th>
+				        <th>Business Name</th>
+				        <th>Email</th>
+				        <th>Contact Name</th>
+				       <!-- <th>Account Owner</th>-->
+				        <th>Converted Time</th><th>Created Time</th>
+				    </tr>
+			    </thead>
+			    <tbody>
+			    	<?php							
+					foreach ($this->accounts as $key => $account)
+					{
+						foreach ($account as $ind => $account_ind)
+						{
+						?>
+						<tr>
+							<td><?= $account[$ind]['parent_user'] ?></td>
+							<td><?= $account[$ind]['type'] ?></td>
+			                <td><a href="/biz/crm/customer/id/<?= $account[$ind]['id']?>" target="_new"><?= $account[$ind]['businessname']?></a></td>      
+			                <td><?= $account[$ind]['email'] ?></td>      
+			                <td><?= $account[$ind]['name'] ?></td>
+			                <!--<td><?= $account[$ind]['rep'] ?></td>    -->  
+			                <td><?= $account[$ind]['action_time'] ?></td>   
+			                <td><?= $account[$ind]['created_time'] ?></td> 
+						</tr>
+						<?php
+						}
+					}				
+					?>
+			   
+			    </tbody>
+			</table>
+      	    </div>
+		</div>
+	</div>
+
+</div>
+
+<!-- Dariuz Rubin -->    
+<link rel="stylesheet" href="/public/css/bootstrap-multiselect.css" type="text/css">
+<script type="text/javascript" src="/public/js/bootstrap-multiselect.js"></script>
+<!------------------>
+
+<script src="/public/js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script>
+  $(function() {   
+	    $("#from").datepicker({dateFormat: 'yy-mm-dd'});
+	    $("#to").datepicker({dateFormat: 'yy-mm-dd'});
+	    $('#phone_conversion').dataTable( {
+	        "iDisplayLength": 50       
+	    });    
+	   /* Dariuz Rubin */
+	    /* Multiselect for Rep */    		
+		 $('#rep').multiselect({
+		   includeSelectAllOption: true,
+		   buttonWidth: '100%',
+		   numberDisplayed: 2	   
+		});
+   });
+   /*=======================*/
+</script>

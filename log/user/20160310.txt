@@ -1,0 +1,57 @@
+2016-03-10T09:01:18-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15795";}
+2016-03-10T09:12:37-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15796";}
+2016-03-10T09:19:51-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:10:"Jade Okoye";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Jade";s:8:"lastname";s:5:"Okoye";s:12:"contactphone";s:12:"407-222-6279";s:5:"email";s:19:"jadeokoye@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"55662e6f2c8725d6db826cad73c48a50dd0fe4c4";s:8:"username";s:10:"Jade Okoye";s:12:"created_time";s:19:"2016-03-10 09:19:51";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"15bdd0abd900fe62ddfee778aeb72a37";}
+2016-03-10T09:19:59-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15800";}
+2016-03-10T09:20:01-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15800";}
+2016-03-10T09:23:48-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Corpus Waxing & Spa";s:7:"user_id";s:5:"15800";}
+2016-03-10T09:24:00-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:14:"(407) 960-4875";s:7:"user_id";s:5:"15800";}
+2016-03-10T09:24:10-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"364 W Fairbanks Ave";s:7:"user_id";s:5:"15800";}
+2016-03-10T09:24:21-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:"Winter Park";s:7:"user_id";s:5:"15800";}
+2016-03-10T09:24:23-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"32789";s:7:"user_id";s:5:"15800";}
+2016-03-10T09:27:09-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Nicole";s:7:"user_id";s:5:"11349";}
+2016-03-10T09:27:13-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Nicole Hollern";s:7:"user_id";s:5:"11349";}
+2016-03-10T09:39:30-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:193:"Been in the dental business for 19 years. Interested in two lights with aluminum cases. Didn't want to share who she is getting gel from but was interested in our 16% HP.
+Card on file ****4319
+";s:7:"user_id";s:5:"11349";}
+2016-03-10T09:53:02-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:40:"http://corpuswaxingcenter.fullslate.com/";s:7:"user_id";s:5:"15800";}
+2016-03-10T10:41:47-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Hussain";s:7:"user_id";s:5:"15798";}
+2016-03-10T10:41:52-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:18:"Hussain Al Hammadi";s:7:"user_id";s:5:"15798";}
+2016-03-10T10:41:54-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15798";}
+2016-03-10T10:44:05-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15683";}
+2016-03-10T11:11:09-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:62:"THIS CUST ALWAYS ORDERS PENS W/ SMALL BLUE CHEEK RETRACTORS-RR";s:7:"user_id";s:5:"10938";}
+2016-03-10T11:14:30-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12057";}
+2016-03-10T11:46:32-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Great White Teeth";s:7:"user_id";s:5:"15266";}
+2016-03-10T11:55:34-08:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:19:"lcorvelli@gmail.com";s:7:"user_id";s:5:"15792";}
+2016-03-10T12:07:45-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15796";}
+2016-03-10T12:30:18-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"812-589-9740";s:7:"user_id";s:4:"2412";}
+2016-03-10T12:49:42-08:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:29:"brittany.johnson502@gmail.com";s:7:"user_id";s:5:"15793";}
+2016-03-10T13:44:40-08:00 INFO (6): Alison Duff--a:2:{s:9:"firstname";s:5:"Dusti";s:7:"user_id";s:3:"238";}
+2016-03-10T13:50:35-08:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"786-333-5666";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Marlyn";s:8:"lastname";s:11:"Machiaveloo";s:12:"contactphone";s:12:"786-333-5666";s:5:"email";s:23:"marlynmachair@gmail.com";s:13:"contactphone2";s:12:"786-333-5666";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"5fddf43442d3fe7293fbf325e360cba9646d6077";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-03-10 13:50:35";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"cdf0bc6d0e3bdfb8a43bac344467a5cc";}
+2016-03-10T14:18:53-08:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:268:"Chris Johnson
+Valuemed Professional Products Ltd
+16410 - 117 Ave
+Edmonton, AB T5M 3W2
+Toll Free Phone: 1-800-919-8444
+Edmonton Phone: 780-454-1899
+Fax: 780-454-6420
+Cell: 780-953-7007 (feel free to phone or text message)
+www.valuemed.ca
+Email: chrisjohnson@valuemed.ca";s:7:"user_id";s:5:"15749";}
+2016-03-10T15:16:19-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"469-475-7572";s:7:"user_id";s:5:"15292";}
+2016-03-10T15:23:13-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"92127";s:7:"user_id";s:5:"15292";}
+2016-03-10T15:29:16-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"757-358-3688";s:7:"user_id";s:5:"15037";}
+2016-03-10T15:38:28-08:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:12:"248-755-1205";s:7:"user_id";s:4:"2916";}
+2016-03-10T15:38:36-08:00 INFO (6): Windy Jenkins--a:2:{s:13:"contactphone2";s:12:"248-851-8222";s:7:"user_id";s:4:"2916";}
+2016-03-10T15:51:42-08:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"44128";s:7:"user_id";s:5:"15297";}
+2016-03-10T15:51:54-08:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:15:"4135 E 142nd St";s:7:"user_id";s:5:"15297";}
+2016-03-10T16:14:59-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:8:"Humberto";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"817-915-6110";s:6:"source";N;s:9:"firstname";s:8:"Humberto";s:8:"lastname";s:5:"Gomez";s:12:"contactphone";s:12:"817-915-6110";s:5:"email";s:21:"needemail15@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"6ab66bc43bbc29f2d2fe5fe04a70f2f0e7271a1c";s:8:"username";s:8:"Humberto";s:12:"created_time";s:19:"2016-03-10 16:14:59";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"061b680b49a8ae1186a23a3d8186c9b5";}
+2016-03-10T16:58:56-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:25:"Diamond Smiles of Houston";s:7:"user_id";s:4:"2846";}
+2016-03-10T16:59:41-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:24:"1919 Monarch Hollow Dr. ";s:7:"user_id";s:4:"2846";}
+2016-03-10T17:00:27-08:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:22:"Pier Sun Tanning Salon";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:10:"Lake Tahoe";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"530-544-7786";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Ron";s:8:"lastname";s:7:"Svetlik";s:12:"contactphone";s:12:"530-544-7786";s:5:"email";s:15:"ron@piersun.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"32f371bd81e8180546a7116038370be35a0780d8";s:8:"username";s:22:"Pier Sun Tanning Salon";s:12:"created_time";s:19:"2016-03-10 17:00:27";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"40be2609d33523e58c70f2dbd982bede";}
+2016-03-10T17:32:44-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15806";}
+2016-03-10T17:36:58-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15787";}
+2016-03-10T17:40:57-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:16:"Kishinda Watkina";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NV";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:8:"Kishinda";s:8:"lastname";s:7:"Watkina";s:12:"contactphone";s:12:"562-274-8264";s:5:"email";s:22:"hairfairy777@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"1fd583a9fd97be9be9a38232243b5ddef1737cae";s:8:"username";s:16:"Kishinda Watkina";s:12:"created_time";s:19:"2016-03-10 17:40:55";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c46b62f907ed8bb83a56d97998e2152c";}
+2016-03-10T17:41:57-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:19:"5204 Painted Pebble";s:7:"user_id";s:5:"15807";}
+2016-03-10T17:42:03-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Las Vegas";s:7:"user_id";s:5:"15807";}
+2016-03-10T17:42:05-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"89081";s:7:"user_id";s:5:"15807";}
+2016-03-10T17:49:18-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15807";}

@@ -1,0 +1,134 @@
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Sales CRM</h2>
+        <ol class="breadcrumb">               
+            <li><a href="/crm/prospect">Leads</a></li> 
+            <li><a href="/crm/prospect">Prospects</a></li>             
+            <li><a href="/crm/accounts">Accounts</a></li> 
+            <li><a href="/crm/activity">Activities</a></li>
+			<li class="active">Tradeshows</li>
+        </ol>
+    </div>    
+</div>
+
+<h3>Tradeshows</h3>
+
+<div id="page-wrap">
+
+	<h1>Pulls from text files</h1>
+
+	<!-- Tradeshow -->
+	<select id="tradeshow">
+		<option selected value="base">Please Select a Tradeshow</option>
+		<option value="tradeshow">Tradeshow</option>
+	</select>
+	
+	<br />
+	
+	<!-- Show Name -->
+	<select id="showname">
+		<option selected value="base">Please Select a name</option>
+	</select>
+	
+	<br />
+	
+	<!-- City -->
+	<select id="tscity">
+		<option>Please choose from above</option>
+	</select>
+
+	<br />
+	
+	<!-- Year -->
+	<select id="tsyear">
+		<option>Please choose from above</option>
+	</select>
+</div>
+
+<!--
+<div class="dropdown">
+  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Tradeshow
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+	  
+    <!-- Tradeshow -> Show Name -> City -> Year 
+    <li><a href="#">ISSE - Long Beach, CA - 2016</a></li>
+    <li><a href="#">CDS Midwinter Meeting - Chicago, IL - 2016</a></li>
+    <li><a href="#">International Beauty Show - New York, NY - 2016</a></li>
+    <li><a href="#">International Esthetics, Cosmetics & Spa - New York, NY - 2016</a></li>
+    <li><a href="#">Americas Beauty Show - Chicago, IL - 2016</a></li>
+	<li><a href="#">Face & Body - Chicago, IL - 2016</a></li>
+	<li><a href="#">Thomas P Hinman Dental Meeting - Atlanta, GA - 2016</a></li>
+	<li><a href="#">Cosmoprof Bologna - Bologna, Spain - 2016</a></li>
+	<li><a href="#">Oregon Dental Conference - Portland, OR - 2016</a></li>
+	<li><a href="#">ICES - International Congress of Esthetics and Spa - Philadelphia, PA - 2016</a></li>
+	<li><a href="#">California Dental Association - Anaheim, CA - 2016</a></li>
+	<li><a href="#">ICES - International Congress of Esthetics and Spa - Dallas, TX - 2016</a></li>
+	<li><a href="#">Premier Orlando - Orlando, FL - 2016</a></li>
+	<li><a href="#">IECSC - International Esthetics, Cosmetics & Spa Conference - Las Vegas, NV - 2016</a></li>
+	<li><a href="#">IBS -International Beauty Show - Las Vegas, NV - 2016</a></li>
+	<li><a href="#">Pacific Northwest Dental Conference - Seattle, WA - 2016</a></li>
+	<li><a href="#">CDA Presents San Francisco - San Francisco, CA - 2016</a></li>
+	<li><a href="#">Cosmoprof North America - Las Vegas, NV - 2016</a></li>
+	<li><a href="#">ICES - International Congress of Esthetics and Spa - Long Beach, CA - 2016</a></li>
+	<li><a href="#">ICES - International Congress of Esthetics and Spa - Miami, FL - 2016</a></li>
+  </ul>
+</div>
+-->
+
+<?php
+$servername = "localhost";
+$username = "bwbiz";
+$password = "BWbiz2014";
+$dbname = "bwerp";
+
+// Create connection
+$conn = mysqli_connect($servername, $username, $password, $dbname);
+$choice = addslashes($_GET['choice']);
+
+// Check connection
+if (!$conn) {
+    die("Connection failed: " . mysqli_connect_error());
+}
+echo "Connected successfully";
+echo "<br />";
+
+// Select from database
+$sql = "SELECT * FROM tradeshows";
+$result = $conn->query($sql);
+
+if ($result->num_rows > 0) {
+    // output data of each row
+    while($row = $result->fetch_assoc()) {
+        echo "<option>" . $row["name"] . "</option>";
+    }
+} else {
+    echo "0 results";
+}
+$conn->close();
+
+?>
+
+<script>
+	$("#tradeshow").change(function() {
+	  $("#showname").load("tradeshows?choice=" + $("#tradeshow").val());
+	});
+
+/*	$(function() {
+		$("#tradeshow").change(function() {
+			$("#showname").load("/public/textdata/tradeshow/" + $(this).val() + ".txt");
+		});
+		$("#showname").change(function() {
+			$("#tscity").load("/public/textdata/tradeshow/name/" + $(this).val() + ".txt");
+		});
+		$("#tscity").change(function() {
+			$("#tsyear").load("/public/textdata/tradeshow/name/city/" + $(this).val() + ".txt");
+		});
+		$("#tsyear").change(function() {
+			alert("year");
+		});
+	});
+/*
+</script>
+<link href='/public/css/crm.css' rel='stylesheet' />
+

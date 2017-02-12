@@ -1,0 +1,130 @@
+2015-10-20T08:33:48-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:15:"emilie@deldo.ch";s:7:"user_id";s:4:"9923";}
+2015-10-20T08:33:53-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:23:"emilie@smile-center.com";s:7:"user_id";s:4:"9923";}
+2015-10-20T08:33:58-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:15:"emilie@deldo.ch";s:7:"user_id";s:4:"9923";}
+2015-10-20T08:34:00-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:4:"9923";}
+2015-10-20T08:34:07-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:21:"marc@smile-center.com";s:7:"user_id";s:4:"9923";}
+2015-10-20T09:00:15-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:7:"I Smile";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"VA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Norris";s:8:"lastname";s:7:"Sherman";s:12:"contactphone";s:12:"757-761-0029";s:5:"email";s:22:"ismilebright@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"e34049727496766eb771da89a3f3a35fda925d0f";s:8:"username";s:7:"I Smile";s:12:"created_time";s:19:"2015-10-20 09:00:15";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"d088dcc5de17f5c4440642dc87c44964";}
+2015-10-20T09:00:38-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:63:"Buys Deluxe Home Kits in the clear zippered pouch for $16 each.";s:7:"user_id";s:5:"14431";}
+2015-10-20T09:00:59-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:7:"I smile";s:7:"user_id";s:5:"14431";}
+2015-10-20T09:01:05-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:21:"attn Accounts Payable";s:7:"user_id";s:5:"14431";}
+2015-10-20T09:01:11-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Hampton";s:7:"user_id";s:5:"14431";}
+2015-10-20T09:01:17-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"23669";s:7:"user_id";s:5:"14431";}
+2015-10-20T09:21:39-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:3:"Eli";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:21:44-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:7:"Shemali";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:40:11-07:00 INFO (6): Brian Radke--a:2:{s:6:"email2";s:17:"kyle@kreal.com.cn";s:7:"user_id";s:5:"13167";}
+2015-10-20T09:46:23-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:27:"eli@pearldistrictdental.com";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:47:03-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:21:"Pearl District Dental";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:47:18-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"97209";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:47:51-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:27:"www.pearldistrictdental.com";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:48:39-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:28:"info@pearldistrictdental.com";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:49:12-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:30:"Dr. Mika Miyamoto-Shemali DMD
+";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:52:20-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13728";}
+2015-10-20T09:56:13-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:28:"http://kennedydentalpdx.com/";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:57:06-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:14:"Gerald Kennedy";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:57:11-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:19:"Dr. 
+Gerald Kennedy";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:57:15-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:18:"Dr. Gerald Kennedy";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:57:27-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Kennedy Dental";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:57:29-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Kennedy Dental";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:58:17-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"503-286-5055";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:58:23-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:14:"(503) 289-0230";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:58:27-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"503-289-0230";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:59:08-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:27:"yamina@kennedydentalpdx.com";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:59:13-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:27:"yamina@kennedydentalpdx.com";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:59:15-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:0:"";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:59:22-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:6:"Yamina";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:59:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:4:"Hall";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:59:43-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:47:"Yamina Hall - Administrator
+
+Dr. Gerald Kennedy";s:7:"user_id";s:5:"13660";}
+2015-10-20T09:59:51-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:46:"Yamina Hall - Administrator
+Dr. Gerald Kennedy";s:7:"user_id";s:5:"13660";}
+2015-10-20T10:26:39-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:23:"5500 Elysian Fields Ave";s:7:"user_id";s:5:"12882";}
+2015-10-20T10:26:47-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"70122";s:7:"user_id";s:5:"12882";}
+2015-10-20T10:39:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13728";}
+2015-10-20T10:40:01-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"13728";}
+2015-10-20T10:40:03-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"13728";}
+2015-10-20T10:59:21-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13728";}
+2015-10-20T10:59:40-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13728";}
+2015-10-20T11:08:17-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13660";}
+2015-10-20T11:09:09-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"13660";}
+2015-10-20T11:09:11-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"13660";}
+2015-10-20T11:10:12-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13660";}
+2015-10-20T11:28:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:7:"Dorothy";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:29:55-07:00 INFO (6): Brian Radke--a:2:{s:10:"profile_id";s:8:"37827773";s:7:"user_id";s:5:"14430";}
+2015-10-20T11:33:05-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:23:"http://rafiadental.com/";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:33:28-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:23:"contact@rafiadental.com";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:36:00-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14404";}
+2015-10-20T11:43:36-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:50:"Dorothy works up front. Melissa does the ordering.";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:43:42-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:51:"Dorothy works up front. 
+Melissa does the ordering.";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:44:05-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:19:"kaz@rafiadental.com";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:44:08-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:19:"kaz@rafiadental.com";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:44:12-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:23:"contact@rafiadental.com";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:44:16-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:19:"kaz@rafiadental.com";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:45:00-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:46:23-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"503.889.8632";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:46:26-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:46:36-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:112:"Dorothy works up front. 
+Melissa does the ordering
+HOURS:  [ TUE THR:   8 -5 , FRI: 8 -4 ]  and  [ WED:  7- 5 ]
+";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:47:14-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:158:"Dorothy works up front. 
+Melissa does the ordering
+HOURS:  [ TUE THR:   8 -5 , FRI: 8 -4 ]  and  [ WED:  7- 5 ]
+PARK: ample street parking on 14th or Lovejoy
+";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:47:33-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:17:"FAX: 503.223.1919";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:49:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Rafia Rafia";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:49:12-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Rafia Dental";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:49:16-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Rafia Dental";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:49:48-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:49:54-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:49:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:50:56-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:27:"Melissa - Assistant, Orders";s:7:"user_id";s:5:"13690";}
+2015-10-20T11:51:25-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"503-889-8632";s:7:"user_id";s:5:"13690";}
+2015-10-20T12:01:09-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"503-289-0230";s:7:"user_id";s:5:"13660";}
+2015-10-20T12:15:01-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:14:"The Deal Scene";s:7:"user_id";s:5:"11968";}
+2015-10-20T12:15:48-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:27:"http://www.blingdental.com/";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:17:06-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:15:"Dr. Katie Ball
+";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:17:16-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Bling Dental";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:17:23-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Bling Dental";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:17:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:6:"Kaylin";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:18:31-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Morris";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:21:35-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:14:"(503) 227-2444";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:21:36-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:21:38-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:21:42-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"503-227-2444";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:22:04-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:24:"dr.katie@blingdental.com";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:22:12-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:23:"drkatie@blingdental.com";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:22:49-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"97209";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:23:19-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:32:26-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13689";}
+2015-10-20T12:40:31-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:6:"FL0072";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:4:"Lisa";s:8:"lastname";s:5:"Davis";s:12:"contactphone";s:12:"727-823-7680";s:5:"email";s:18:"lisapb01@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:12:"Planet Beach";s:4:"type";s:7:"Account";s:8:"password";s:40:"1660d03579034bca83d93d30e8a33ea935cbec7a";s:8:"username";s:6:"FL0072";s:12:"created_time";s:19:"2015-10-20 12:40:31";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"cb6ba94d813480cf9e457ffff3390687";}
+2015-10-20T13:04:08-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:15:"DJ's Slim & Tan";s:7:"user_id";s:4:"1903";}
+2015-10-20T13:04:59-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:12:"305 948-4882";s:7:"user_id";s:4:"1903";}
+2015-10-20T13:05:13-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:15:"DJ's Slim & Tan";s:7:"user_id";s:4:"1903";}
+2015-10-20T13:12:12-07:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:23:"loyracoronel@djeasy.com";s:7:"user_id";s:4:"1903";}
+2015-10-20T13:18:45-07:00 INFO (6): Windy Jenkins--a:2:{s:6:"email2";s:24:"loyracoronel@djseasy.com";s:7:"user_id";s:4:"1903";}
+2015-10-20T13:29:22-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:11:"Tracie Hill";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:6:"Stacie";s:8:"lastname";s:4:"Hill";s:12:"contactphone";s:12:"304-834-9107";s:5:"email";s:21:"stacienhill@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"2b7416e7f44159a3de41a92368b50b6621dca6e2";s:8:"username";s:11:"Tracie Hill";s:12:"created_time";s:19:"2015-10-20 13:29:22";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"6dc7f4bb8718a5fb648c67ffb89e9f9b";}
+2015-10-20T13:29:52-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:106:"Said she spoke with Jonathan and he was supposed to email her some information but she never received it. ";s:7:"user_id";s:5:"14435";}
+2015-10-20T14:25:07-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"34711 N 30th Ave";s:7:"user_id";s:5:"10281";}
+2015-10-20T14:25:15-07:00 INFO (6): Brian Radke--a:2:{s:5:"state";s:2:"AZ";s:7:"user_id";s:5:"10281";}
+2015-10-20T14:25:23-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"85086";s:7:"user_id";s:5:"10281";}
+2015-10-20T14:31:56-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"10281";}
+2015-10-20T14:37:56-07:00 INFO (6): Windy Jenkins--a:2:{s:11:"description";s:22:"CONTACT: LOYRA CORONEL";s:7:"user_id";s:4:"1903";}
+2015-10-20T15:55:22-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:14:"The Deal Scene";s:7:"user_id";s:5:"11968";}
+2015-10-20T15:55:27-07:00 INFO (6): Windy Jenkins--a:2:{s:5:"state";s:2:"WA";s:7:"user_id";s:5:"11968";}
+2015-10-20T15:56:54-07:00 INFO (6): Cory Nielsen--a:2:{s:5:"state";s:2:"WA";s:7:"user_id";s:5:"11968";}
+2015-10-20T16:27:59-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:5:"Stacy";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Stacy";s:8:"lastname";s:7:"Curtain";s:12:"contactphone";s:12:"978-239-1523";s:5:"email";s:19:"dcurt19@comcast.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"248eac583432f6b1b3ac153317c9a0659d5b5463";s:8:"username";s:5:"Stacy";s:12:"created_time";s:19:"2015-10-20 16:27:59";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"8f8da0f1789cd4bc123691aedd6f4476";}
+2015-10-20T16:44:56-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:177:"Stacy will be working for a salon that is about to open in the next 2 to 3 weeks. She is interested in teeth whitening and is looking for info to share with the owners on 10/23 ";s:7:"user_id";s:5:"14436";}
+2015-10-20T16:57:47-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:13:"Noemy (Naomi)";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"DC";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Noemy";s:8:"lastname";s:7:"Pereira";s:12:"contactphone";s:12:"301-500-8370";s:5:"email";s:23:"noemypereira1@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"33e53d57d858729cdef849130d8429a743f2337a";s:8:"username";s:13:"Noemy (Naomi)";s:12:"created_time";s:19:"2015-10-20 16:57:47";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a63a4a6bddee6fce62a8a7c998926a49";}
+2015-10-20T16:59:10-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:7:"Results";s:7:"user_id";s:5:"14437";}
+2015-10-20T17:00:06-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:122:"Has been in the dental field 14 years. Friend owns a spa, interested in a mobile package. Has used zoom and opal essence. ";s:7:"user_id";s:5:"14437";}
+2015-10-20T17:02:29-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"12443";}
+2015-10-20T17:02:54-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"12443";}
+2015-10-20T17:10:11-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:8:"Brittany";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:8:"Brittany";s:8:"lastname";s:8:"Benjamin";s:12:"contactphone";s:12:"876-362-3026";s:5:"email";s:29:"brittnay_benjamin@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"7ee0ab4127b627420888ca5c1c46be2e9113e479";s:8:"username";s:8:"Brittany";s:12:"created_time";s:19:"2015-10-20 17:10:10";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"e9ec4f5d879250e1cac3aad62bb47574";}
+2015-10-20T17:10:26-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:37:"Interested in Private Label Home Kits";s:7:"user_id";s:5:"14438";}
+2015-10-20T17:42:32-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"businessname";s:24:"Dr Tomas E. Holbrook DDS";s:7:"user_id";s:5:"13040";}

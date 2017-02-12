@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\contactform.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost:8083/BeamingWebsitePlugin/contact-form-7/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost:8083/BeamingWebsitePlugin/contact-form-7/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\wp-contact-form-7.php"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\mail.php"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\classes.php"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\functions.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\textarea.php" crc="1405925818"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\text.php" crc="1405925818"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\submit.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\special-mail-tags.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\select.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\response.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\quiz.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\number.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\listo.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\jetpack.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\flamingo.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\file.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\date.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\checkbox.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\captcha.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\akismet.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\modules\acceptance.php" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\languages\readme.txt" crc="1405925816"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\js\jquery-ui\themes\smoothness\jquery.ui.theme.css" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\js\jquery-ui\themes\smoothness\jquery-ui.min.css" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\js\jquery-ui\themes\smoothness\jquery-ui.css" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\js\scripts.js" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\js\jquery.form.min.js" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\js\jquery.form.js" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\css\styles.css" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\css\styles-rtl.css" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\upgrade.php" crc="1405925808"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\submission.php" crc="1405469954"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\shortcodes.php" crc="1405925808"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\pipe.php" crc="1405925808"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\mail.php" crc="1479869501"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\functions.php" crc="1405925808"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\formatting.php" crc="1405925808"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\deprecated.php" crc="1405925808"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\controller.php" crc="1405925806"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\contact-form.php" crc="1405469954"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\classes.php" crc="1479869515"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\includes\capabilities.php" crc="1405925806"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\js\taggenerator.js" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\js\scripts.js" crc="1405925820"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\includes\meta-boxes.php" crc="1405925818"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\includes\class-contact-forms-list-table.php" crc="1405925818"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\css\styles.css" crc="1405925818"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\css\styles-rtl.css" crc="1405925818"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\edit-contact-form.php" crc="1405925806"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\admin.php" crc="1405925806"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\admin\admin-functions.php" crc="1405925806"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\wp-contact-form-7.php" crc="1406879754"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\uninstall.php" crc="1405925806"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\settings.php" crc="1405925806"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\readme.txt" crc="1405925806"/>
+		<file name="C:\xampp\htdocs\BeamingWebsitePlugin\contact-form-7\license.txt" crc="1405925804"/>
+	</filescache>
+</project>

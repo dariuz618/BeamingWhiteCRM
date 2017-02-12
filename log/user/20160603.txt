@@ -1,0 +1,80 @@
+2016-06-03T09:26:25-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:198:"1 x ProWhitening kit 38% H2O2* @ $17.50 
+1 x Advanced kit Plus 25% hp @ $12.50
+1 x Traditional kit with 36% cp @ $12.50
+1 x Prefilled kit with 36% cp @ $7.50
+1 x Take-home kit Deluxe 22% cp @ $11.50";s:7:"user_id";s:4:"8510";}
+2016-06-03T09:26:49-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:226:"PRICING WITH MINIMUM OF 10
+1 x ProWhitening kit 38% H2O2* @ $17.50 
+1 x Advanced kit Plus 25% hp @ $12.50
+1 x Traditional kit with 36% cp @ $12.50
+1 x Prefilled kit with 36% cp @ $7.50
+1 x Take-home kit Deluxe 22% cp @ $11.50
+";s:7:"user_id";s:4:"8510";}
+2016-06-03T09:34:31-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"75249";s:7:"user_id";s:5:"16477";}
+2016-06-03T10:28:55-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"404-849-8188";s:7:"user_id";s:4:"3342";}
+2016-06-03T10:29:17-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:25:"4600 Roswell Rd. Apt. 665";s:7:"user_id";s:4:"3342";}
+2016-06-03T10:29:22-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"30342";s:7:"user_id";s:4:"3342";}
+2016-06-03T10:35:54-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16477";}
+2016-06-03T10:36:15-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:19:"Planet Beach FL0200";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:12:"17195 US-441";s:8:"address2";s:0:"";s:4:"city";s:7:"Mt Dora";s:5:"state";s:2:"FL";s:3:"zip";s:5:"32757";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:4:"Ujay";s:8:"lastname";s:5:"Patel";s:12:"contactphone";s:0:"";s:5:"email";s:16:"ujay@noemail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:12:"Planet Beach";s:4:"type";s:7:"Account";s:8:"password";s:40:"943cb49bcb76022321eff70a40c081e9ea29aa56";s:8:"username";s:19:"Planet Beach FL0200";s:12:"created_time";s:19:"2016-06-03 10:36:15";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6f38b8b8b42fa279333a6ca7121fa2df";}
+2016-06-03T10:36:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:23:"7521 Long Canyon Trail ";s:7:"user_id";s:5:"16477";}
+2016-06-03T10:56:13-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"561-504-2598";s:7:"user_id";s:5:"16534";}
+2016-06-03T10:56:51-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Rhonda";s:7:"user_id";s:5:"16534";}
+2016-06-03T10:56:56-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:17:"Rhonda Provenzano";s:7:"user_id";s:5:"16534";}
+2016-06-03T10:56:58-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Rhonda Provenzano";s:7:"user_id";s:5:"16534";}
+2016-06-03T10:57:01-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16534";}
+2016-06-03T10:58:17-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"561-504-2598";s:7:"user_id";s:5:"16534";}
+2016-06-03T11:02:49-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"415-573-6971";s:7:"user_id";s:5:"16535";}
+2016-06-03T11:02:53-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Ingrid";s:7:"user_id";s:5:"16535";}
+2016-06-03T11:02:58-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Ingrid Antonelli";s:7:"user_id";s:5:"16535";}
+2016-06-03T11:03:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Ingrid Antonelli";s:7:"user_id";s:5:"16535";}
+2016-06-03T11:06:01-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16535";}
+2016-06-03T11:16:17-07:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"16536";}
+2016-06-03T11:25:33-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:19:"10 hours behind us.";s:7:"user_id";s:5:"16532";}
+2016-06-03T11:34:07-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:22:"6997 Timber Trail Ln S";s:7:"user_id";s:5:"16536";}
+2016-06-03T11:46:34-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16536";}
+2016-06-03T11:46:38-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16536";}
+2016-06-03T11:53:42-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:7:"Johnson";s:7:"user_id";s:5:"16531";}
+2016-06-03T11:53:49-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Johnson Asamoah";s:7:"user_id";s:5:"16531";}
+2016-06-03T11:53:51-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Johnson Asamoah";s:7:"user_id";s:5:"16531";}
+2016-06-03T11:57:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16531";}
+2016-06-03T12:09:19-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"312-909-7350";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:09:36-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Rakia";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:09:41-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Rakia Langston";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:09:43-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Rakia Langston";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:09:59-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:10:00-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:10:02-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:10:14-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:10:16-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16538";}
+2016-06-03T12:27:38-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16538";}
+2016-06-03T13:05:58-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16536";}
+2016-06-03T13:09:52-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:22:"WANTS GENERIC PRODUCTS";s:7:"user_id";s:5:"16538";}
+2016-06-03T13:10:01-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:27:"WOUDL LIKE GENERIC PRODUCTS";s:7:"user_id";s:5:"16538";}
+2016-06-03T13:11:39-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address1";s:15:"1035 Larioja Dr";s:7:"user_id";s:4:"9956";}
+2016-06-03T13:11:47-07:00 INFO (6): Stephanie Brown--a:2:{s:3:"zip";s:5:"75217";s:7:"user_id";s:4:"9956";}
+2016-06-03T13:16:01-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16538";}
+2016-06-03T13:16:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16538";}
+2016-06-03T13:34:18-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"832-212-7517";s:7:"user_id";s:5:"16539";}
+2016-06-03T13:34:35-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Mignon";s:7:"user_id";s:5:"16539";}
+2016-06-03T13:34:39-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Mignon Wessels";s:7:"user_id";s:5:"16539";}
+2016-06-03T13:34:43-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Mignon Wessels";s:7:"user_id";s:5:"16539";}
+2016-06-03T13:34:46-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16539";}
+2016-06-03T13:42:10-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16539";}
+2016-06-03T14:34:29-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16539";}
+2016-06-03T15:05:51-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Chau";s:7:"user_id";s:5:"16532";}
+2016-06-03T15:05:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:9:"Chau Tran";s:7:"user_id";s:5:"16532";}
+2016-06-03T15:05:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16532";}
+2016-06-03T15:05:58-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:9:"Chau Tran";s:7:"user_id";s:5:"16532";}
+2016-06-03T15:19:54-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:49:"7 hours behind. 8:00am for them is 3:00pm for us.";s:7:"user_id";s:5:"16533";}
+2016-06-03T15:21:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:5:"Peter";s:7:"user_id";s:5:"16533";}
+2016-06-03T15:21:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Peter Newington";s:7:"user_id";s:5:"16533";}
+2016-06-03T15:21:08-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Peter Newington";s:7:"user_id";s:5:"16533";}
+2016-06-03T15:40:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16533";}
+2016-06-03T16:02:58-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:4:"8510";}
+2016-06-03T16:40:49-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:41:"No 8, G close,  7th Avenue,  Festac town,";s:7:"user_id";s:5:"16458";}
+2016-06-03T16:41:03-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:26:"No 8, G close,  7th Avenue";s:7:"user_id";s:5:"16458";}
+2016-06-03T16:41:09-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:18:"Festac town, Lagos";s:7:"user_id";s:5:"16458";}
+2016-06-03T17:04:16-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"281-647-2444";s:7:"user_id";s:5:"16423";}
+2016-06-03T17:29:58-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:16:"Stephanie Santos";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NY";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:9:"Stephanie";s:8:"lastname";s:6:"Santos";s:12:"contactphone";s:12:"914-600-5040";s:5:"email";s:21:"ssantos0717@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"b8a264e81c2a68210fc0b1f7cbb644f551f906b1";s:8:"username";s:16:"Stephanie Santos";s:12:"created_time";s:19:"2016-06-03 17:29:58";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"012aff414ae08f521085200a96f4b7c4";}
+2016-06-03T17:32:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16540";}
+2016-06-03T17:32:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16540";}

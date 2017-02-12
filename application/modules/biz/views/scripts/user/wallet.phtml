@@ -1,0 +1,84 @@
+<? /*if(!empty($this->wallets)):?>
+    <? $showForm = 1;?>
+    <table>
+        <tr><th>Card Type</th> <th>Name</th> <th>Number</th><th>Exp date</th></tr>
+    <? foreach($this->wallets as $wallet):?>       
+        <?  $mask = 'X'; $maskLength = strlen($wallet['number']) - 4; 
+           for ($i = 1; $i < $maskLength; ++$i) {
+               if ($i % 4 == 0) {
+                   $mask .= '-';
+               }
+               $mask .= 'X';
+           }
+        ?>
+        <tr><td></td><td><?= $wallet['name'];?></td><td><?= $mask; ?>-<?= substr($wallet['number'], -4); ?></td>
+            <td><?= $wallet['month'];?>/<?= $wallet['year'];?></td>
+ * <td><a href="/biz/user/editcard/id/<?= $wallet['card_id']?>">edit</a></td>
+            <td><a class="delete" title="<?= $wallet['card_id']?>">delete</a></td></tr>
+    <? endforeach;?>
+    </table>
+<? endif;*/ ?>
+<?
+ if (!empty($this->profiles)) {
+      $request = new Application_Service_AuthorizeNetCIM;
+?>
+      <table>
+                <tr><th>Card Type</th> <th>Name</th> <th>Number</th><th>Exp date</th></tr>
+            
+<?  foreach ($this->profiles as $profile) {            
+    
+            $paymentProfile = $request->getCustomerPaymentProfile($profile['profile_id'], $profile['payment_profile_id']); 
+            
+            $card = $paymentProfile->xml->paymentProfile->payment->creditCard;
+            $billTo = $paymentProfile->xml->paymentProfile->billTo
+            ?>            
+                <tr><td><?= $profile['type']?></td><td><?= $billTo->firstName?> <?= $billTo->lastName?></td><td><?= $card->cardNumber ?></td><td><? echo $profile['month'].'/'.$profile['year']  ?><?//= $card->expirationDate?></td>
+                <td><a href="/biz/user/edit-payment-profile/id/<?= $profile['payment_profile_id']?>">edit</a></td>
+                <td><a class="delete" title="<?= $profile['payment_profile_id']?>">delete</a></td>
+            </tr>    
+            
+<?        }?>
+      </table>
+ <?   }
+
+?>
+<br><br>
+
+<a id="add">Add a new card </a>
+
+<? $style = '';?>
+<?if (!empty($this->profiles)) $style = "style = display:none;" ?>
+<?if (isset($this->dataError)) $style = "style = display:true;" ?>
+
+<div id = 'paymentForm' <?= $style?>>
+    <?= $this->form;?>
+</div>
+
+<script>
+$(function() {    
+    $("#add").click(function() {
+        $("#paymentForm").show();
+    });
+    $(".delete").click(function() {    
+        
+        var r=confirm("Delte this card?");
+        if (r==true) {
+            //alert($(this).attr("title") );
+            window.location.href = "/biz/user/delete-payment/id/" + $(this).attr("title");
+        }     
+        
+    });
+     $("#country").change(function() {
+            $.ajax({
+                url: '/biz/user/ajax-get-regions',
+                dataType: 'html',
+                type: "POST",
+                data: {country: $(this).val()},
+                success: function(data) {
+                    $('#state').html(data);
+                }
+            });
+
+        });
+});
+</script>

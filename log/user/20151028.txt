@@ -1,0 +1,33 @@
+2015-10-28T09:02:49-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"815-219-9606";s:7:"user_id";s:5:"14485";}
+2015-10-28T09:03:01-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:5:"Nancy";s:7:"user_id";s:5:"14485";}
+2015-10-28T09:03:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Nancy Morales";s:7:"user_id";s:5:"14485";}
+2015-10-28T09:03:09-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Nancy Morales";s:7:"user_id";s:5:"14485";}
+2015-10-28T09:05:40-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14485";}
+2015-10-28T09:05:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14485";}
+2015-10-28T09:05:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14485";}
+2015-10-28T10:44:30-07:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:7:"Lindsey";s:7:"user_id";s:4:"9178";}
+2015-10-28T10:44:37-07:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:7:"Georges";s:7:"user_id";s:4:"9178";}
+2015-10-28T10:44:57-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:14:"656 NE 88th st";s:7:"user_id";s:4:"9178";}
+2015-10-28T10:45:02-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"33138";s:7:"user_id";s:4:"9178";}
+2015-10-28T10:45:06-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:5:"Miami";s:7:"user_id";s:4:"9178";}
+2015-10-28T11:24:08-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14469";}
+2015-10-28T11:24:11-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14469";}
+2015-10-28T11:24:15-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14469";}
+2015-10-28T11:53:09-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"680 Watson Bay ";s:7:"user_id";s:4:"9847";}
+2015-10-28T13:09:42-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"563-212-9487";s:7:"user_id";s:5:"13000";}
+2015-10-28T13:55:34-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:6:"Andrea";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Andrea";s:8:"lastname";s:4:"Blue";s:12:"contactphone";s:12:"904-713-5386";s:5:"email";s:18:"blueal25@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"24bcb4666649f34ae189f1080a4c9154295cc525";s:8:"username";s:6:"Andrea";s:12:"created_time";s:19:"2015-10-28 13:55:34";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"fabea127044044662af5db215923e95a";}
+2015-10-28T14:10:03-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Smile a nu";s:7:"user_id";s:3:"281";}
+2015-10-28T14:10:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Smile a nu.com";s:7:"user_id";s:3:"281";}
+2015-10-28T15:02:19-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:20:"Tierra Tuggle Beaute";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MD";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"443-739-7361";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:6:"Tierra";s:8:"lastname";s:6:"Tuggle";s:12:"contactphone";s:12:"443-739-7361";s:5:"email";s:24:"tzonebeautybar@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:6:"Philly";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"112b62d2ab96e6e9364bbba2634975cbfd96cafb";s:8:"username";s:20:"Tierra Tuggle Beaute";s:12:"created_time";s:19:"2015-10-28 15:02:19";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"e499a25a9e5cd38ab491a62f3052af49";}
+2015-10-28T15:02:26-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14489";}
+2015-10-28T15:04:53-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:9:"Stephanie";s:7:"user_id";s:5:"14487";}
+2015-10-28T15:04:58-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:18:"Stephanie Schirmer";s:7:"user_id";s:5:"14487";}
+2015-10-28T15:05:00-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:18:"Stephanie Schirmer";s:7:"user_id";s:5:"14487";}
+2015-10-28T15:11:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14487";}
+2015-10-28T16:24:42-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14424";}
+2015-10-28T16:24:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14424";}
+2015-10-28T16:27:21-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:65:"Mike Aniceta
+Dental Depot Philippines Co.
+Chief Executive Officer";s:7:"user_id";s:5:"14424";}
+2015-10-28T17:10:47-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:16:"4895 Walkley Ave";s:7:"user_id";s:5:"14443";}
+2015-10-28T17:11:12-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:7:"H4V 2M3";s:7:"user_id";s:5:"14443";}

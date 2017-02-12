@@ -1,0 +1,19 @@
+2015-10-09T08:37:39-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:13:"Lana (Yelena)";s:7:"user_id";s:5:"14349";}
+2015-10-09T08:40:17-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:5:"Lana ";s:7:"user_id";s:5:"14349";}
+2015-10-09T08:41:57-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:14:"(201) 857-4633";s:7:"user_id";s:5:"14349";}
+2015-10-09T08:42:13-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:100:"On Next follow up, check if she is ready to purchase a complete package.
+YELENA works at the office.";s:7:"user_id";s:5:"14349";}
+2015-10-09T09:16:00-07:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:13:"Hamilton 3216";s:7:"user_id";s:3:"769";}
+2015-10-09T09:16:29-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:16:"19 Peachgrove Rd";s:7:"user_id";s:3:"769";}
+2015-10-09T10:39:46-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address2";s:5:"Ste 1";s:7:"user_id";s:5:"13070";}
+2015-10-09T10:54:45-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14366";}
+2015-10-09T11:23:39-07:00 INFO (6): Windy Jenkins--a:2:{s:5:"email";s:25:"shybrightsmiles@gmail.com";s:7:"user_id";s:5:"13056";}
+2015-10-09T11:26:14-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:12:"941 Avenue I";s:7:"user_id";s:5:"13056";}
+2015-10-09T11:26:19-07:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:7:"Norfolk";s:7:"user_id";s:5:"13056";}
+2015-10-09T11:26:27-07:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"23513";s:7:"user_id";s:5:"13056";}
+2015-10-09T13:55:05-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12029";}
+2015-10-09T14:17:11-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14362";}
+2015-10-09T14:19:48-07:00 INFO (6): Windy Jenkins--a:2:{s:5:"email";s:26:"shysbrightsmiles@gmail.com";s:7:"user_id";s:5:"13056";}
+2015-10-09T15:29:52-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:7:"Jasmine";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"MS";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Jasmine";s:8:"lastname";s:5:"Brown";s:12:"contactphone";s:12:"515-943-5454";s:5:"email";s:20:"jsmnbrwn20@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d5b09143e1f3a2c1ab7a59319fe9863d0f2da723";s:8:"username";s:7:"Jasmine";s:12:"created_time";s:19:"2015-10-09 15:29:52";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"34388b15286f284d382fc5ee81856a86";}
+2015-10-09T15:31:22-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14367";}
+2015-10-09T15:31:54-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:86:"Has a friend making money with teeth whitening. Her and her boyfriend are interested. ";s:7:"user_id";s:5:"14367";}

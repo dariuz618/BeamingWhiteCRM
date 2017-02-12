@@ -1,0 +1,180 @@
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/public/js/jquery/easyui/themes/default/easyui.css">
+    <link rel="stylesheet" type="text/css" href="/public/js/jquery/easyui/themes/icon.css">
+    <!--script src="/public/js/jquery.easyui.min.js"></script-->
+    <style>
+        .crmSearch {
+            border-bottom-left-radius: 0;
+            border-top-left-radius: 0;
+        }
+    </style>
+</head>
+
+<!-- Dariuz Rubin -->
+<div class="col-lg-6" style="margin-bottom: 10px;">
+    <form class="form-inline" id="queryForm" method="get">
+        <div class="input-group">
+            <!--<div class="input-group-btn">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span id="categoryDisplay">All</span> <span class="caret"></span>
+              	</button>
+                <ul class="dropdown-menu" id="categoryOptions">
+                    <li><a href="#">All</a></li>
+                    <li class="email"><a href="#">Email</a></li>
+                    <li class="businessname"><a href="#">Business Name</a></li>
+                    <li class="firstname"><a href="#">First Name</a></li>
+                    <li class="lastname"><a href="#">Last Name</a></li>
+                    <li class="fullname"><a href="#">Full Name</a></li>
+                    <li class="contactphone"><a href="#">Contact Phone</a></li>
+                </ul>            
+                <input id="category" name="category" type="hidden" value="all">
+            </div>
+            -->
+            <div class="input-group-btn">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span id="customerDisplay">All</span> <span class="caret"></span>
+              	</button>             
+                <ul class="dropdown-menu" id="customerOptions">
+                    <li><a href="#">All</a></li>
+                    <li><a href="#">Lead</a></li>
+                    <li><a href="#">Prospect</a></li>
+                    <li><a href="#">Account</a></li>                    
+                </ul>
+                <input id="customer" name="customer" type="hidden" value="all">
+                
+            </div>
+            
+            <div class="input-group-btn">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="border-radius: 0;">
+                  <span id="filterDisplay">First & last name</span> <span class="caret"></span>
+              	</button>               
+                <ul class="dropdown-menu" id="filterOptions">
+                	<li><a href="#">First & last name</a></li>
+                	<li><a href="#">First name</a></li>
+                    <li><a href="#">Business name</a></li>
+                    <li><a href="#">Email</a></li>
+                    <li><a href="#">Phone number</a></li>
+                    <li><a href="#">Zip code</a></li>
+                    <li><a href="#">City</a></li>
+                </ul>
+                <input id="filter" name="filter" type="hidden" value="all">
+            </div>
+
+            <div class="input-group">
+                <input type="text" size="30" name="query" id="searchquery" class="form-control crmSearch" placeholder="Search..." style="width:50%" >
+                <input type="text" size="30" name="query2" id="searchquery2" class="form-control crmSearch" placeholder="Search..." style="width:50%">
+                <span class="input-group-btn">
+                    <button class="btn btn-default submitSearch" type="submit"  id="searchbtn" >
+                        <i class="fa fa-search"></i>
+                    </button>                   
+                </span>
+            </div>
+
+        </div>
+    </form>
+</div>
+<script>
+    $(function() {
+        $('#searchquery').focus();
+        $('#queryForm').submit(function() {
+        	var filter = $('#filterDisplay').text();
+        	var customer = $('#customerDisplay').text();
+        	var query = $('#searchquery').val();
+        	var query2 = $('#searchquery2').val();
+        	var url;
+        	if (filter == 'First & last name')
+        	{
+        		if (query2.length==0)
+        		{
+					alert("Please enter last name!");
+				}else
+				{
+					url = "/crm/search-result?customer=" + encodeURIComponent(customer) + "&filter=" + encodeURIComponent(filter)+ "&query=" + encodeURIComponent(query)+ "&query2=" + encodeURIComponent(query2);	
+					//alert(url);
+					window.location.href = url;
+				 	return false;
+				}
+				
+			}else
+			{
+				url = "/crm/search-result?customer=" + encodeURIComponent(customer) + "&filter=" + encodeURIComponent(filter)+ "&query=" + encodeURIComponent(query);	
+				//alert(url);
+				window.location.href = url;
+				return false;
+			}
+        });
+        
+        /*$('#searchbtn').click(function(e) {
+          	var filter = $('#filterDisplay').text();
+        	var customer = $('#customerDisplay').text();
+        	var query = $('#searchquery').val();
+        	var query2 = $('#searchquery2').val();
+        	var url;
+        	if (filter == 'First & last name')
+        	{
+        		if (query2.length==0)
+        		{
+					alert("Please enter last name!");
+				}else
+				{
+					url = "/crm/search-result?customer=" + encodeURIComponent(customer) + "&filter=" + encodeURIComponent(filter)+ "&query=" + encodeURIComponent(query)+ "&query2=" + encodeURIComponent(query2);	
+					//alert(url);
+					window.location.href = url;
+				 	return false;
+				}
+				
+			}else
+			{
+				url = "/crm/search-result?customer=" + encodeURIComponent(customer) + "&filter=" + encodeURIComponent(filter)+ "&query=" + encodeURIComponent(query);	
+				//alert(url);
+				window.location.href = url;
+				return false;
+			}
+        });*/
+        
+       /* $('#queryForm').submit(function() {
+        	var filter = $('#filterDisplay').text();
+        	var customer = $('#customerDisplay').text();
+        	
+        	
+            var url = "/crm/search-result?category=" + encodeURIComponent($('#category').val()) + "&query=" + encodeURIComponent($('#searchquery').val());
+                       
+            window.location.href = url;
+            return false;
+        });*/
+       
+        /*$('#categoryOptions > li').click(function(e) {
+            e.preventDefault();
+            var selected = $(this).text();
+            $('#category').val($(this).attr("class"));
+            $('#categoryDisplay').text(selected);
+            $('#searchquery').focus();
+        });*/
+        
+        $('#customerOptions > li').click(function(e) {
+            e.preventDefault();
+            var selected = $(this).text();
+            $('#customer').val(selected);
+            $('#customerDisplay').text(selected);
+            $('#searchquery').focus();
+        });
+        
+        $('#filterOptions > li').click(function(e) {
+            e.preventDefault();
+            var selected = $(this).text();
+            if (selected != 'First & last name')
+            {
+            	$("#searchquery2" ).prop( "disabled", true );			
+            	$("#searchquery2" ).val("");	
+			}else
+			{				
+				$("#searchquery2" ).prop( "disabled", false );
+			}
+			$('#filter').val(selected);
+            $('#filterDisplay').text(selected);
+            $('#searchquery2').focus();           
+        });
+    });
+</script>
+<!--------------------->

@@ -1,0 +1,63 @@
+2016-01-13T09:29:56-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15168";}
+2016-01-13T09:30:05-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15168";}
+2016-01-13T09:30:07-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15168";}
+2016-01-13T09:31:33-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:187:"Has a paint and sip business that keeps her studio busy in the evenings but she is looking for something to make $$$ during the day. She has had a couple clients suggest teeth whitening. ";s:7:"user_id";s:5:"15168";}
+2016-01-13T10:03:25-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:13:"Twanna Pirtoe";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Twanna";s:8:"lastname";s:6:"Pirtoe";s:12:"contactphone";s:12:"773-949-7056";s:5:"email";s:23:"tawannapirtle@ymail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"26907053660092f68f5bc62eadbe1dd5cc8d17eb";s:8:"username";s:13:"Twanna Pirtoe";s:12:"created_time";s:19:"2016-01-13 10:03:25";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"4707fb66564a016b67b093299838bb25";}
+2016-01-13T10:03:33-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15169";}
+2016-01-13T10:03:35-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15169";}
+2016-01-13T10:12:00-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Tawanna Pirtle";s:7:"user_id";s:5:"15169";}
+2016-01-13T10:12:03-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Tawanna Pirtle";s:7:"user_id";s:5:"15169";}
+2016-01-13T10:12:07-08:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:7:"Tawanna";s:7:"user_id";s:5:"15169";}
+2016-01-13T10:12:12-08:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Pirtle";s:7:"user_id";s:5:"15169";}
+2016-01-13T10:15:59-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15169";}
+2016-01-13T11:32:10-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:13:"Tracy Manning";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"832-403-8445";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Tracy";s:8:"lastname";s:7:"Manning";s:12:"contactphone";s:12:"832-403-8445";s:5:"email";s:18:"tmanning@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"b540515a30945fdd7f59532bd68eb82c7d7f1c89";s:8:"username";s:13:"Tracy Manning";s:12:"created_time";s:19:"2016-01-13 11:32:10";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"ef8418d738840e73170d1dfe47773249";}
+2016-01-13T11:32:41-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:72:"Interested in Premium Salon Starter with two lights and a facial beds.  ";s:7:"user_id";s:5:"15170";}
+2016-01-13T11:37:42-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15159";}
+2016-01-13T12:32:51-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14788";}
+2016-01-13T12:47:26-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"325-340-3818";s:7:"user_id";s:4:"2905";}
+2016-01-13T13:06:17-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:15:"Jessica Sorrels";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Jessica";s:8:"lastname";s:7:"Sorrels";s:12:"contactphone";s:12:"706-372-2556";s:5:"email";s:21:"needemail10@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"75c7fa6ea9929d042cb9d9b35f0aa123f2b69a1a";s:8:"username";s:15:"Jessica Sorrels";s:12:"created_time";s:19:"2016-01-13 13:06:16";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"2142784d46b7c0c8fbc6490cd067c7e2";}
+2016-01-13T13:06:24-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15173";}
+2016-01-13T13:20:45-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:33:"enchantingbeautybar@yahoo.com.com";s:7:"user_id";s:5:"15173";}
+2016-01-13T13:20:54-08:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:29:"enchantingbeautybar@yahoo.com";s:7:"user_id";s:5:"15173";}
+2016-01-13T13:52:22-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15173";}
+2016-01-13T13:52:43-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:22:"165 Ramble Hills Drive";s:7:"user_id";s:5:"15173";}
+2016-01-13T13:52:49-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:6:"Athens";s:7:"user_id";s:5:"15173";}
+2016-01-13T13:52:51-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"30606";s:7:"user_id";s:5:"15173";}
+2016-01-13T13:54:04-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:20:"Enchanted Beauty Bar";s:7:"user_id";s:5:"15173";}
+2016-01-13T14:00:25-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:18:"Fringe Lash Lounge";s:7:"user_id";s:4:"2019";}
+2016-01-13T14:04:36-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14788";}
+2016-01-13T15:23:34-08:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:17:"Sebastian Wilches";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"305-763-5799";s:6:"source";N;s:9:"firstname";s:9:"Sebastian";s:8:"lastname";s:7:"Wilches";s:12:"contactphone";s:12:"305-763-5799";s:5:"email";s:23:"sebastianwg@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"51fc18131ba4e57af241296f02b25263da913ace";s:8:"username";s:17:"Sebastian Wilches";s:12:"created_time";s:19:"2016-01-13 15:23:34";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"67374960b73811e6156f3b491b445766";}
+2016-01-13T15:24:36-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15175";}
+2016-01-13T15:33:07-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15175";}
+2016-01-13T16:05:05-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15161";}
+2016-01-13T16:37:31-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"817-810-6969";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:37:47-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15174";}
+2016-01-13T16:38:21-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"817-716-6656";s:7:"user_id";s:5:"15172";}
+2016-01-13T16:39:11-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:44:30-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:43:"856 Bent Water Parkway Cedal Hill Tx, 75104";s:7:"user_id";s:5:"15172";}
+2016-01-13T16:44:52-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:42:"856 Bentwater Parkway Cedal Hill Tx, 75104";s:7:"user_id";s:5:"15172";}
+2016-01-13T16:45:04-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:42:"856 Bentwater Parkway Cedar Hill Tx, 75104";s:7:"user_id";s:5:"15172";}
+2016-01-13T16:50:14-08:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"817-810-6969";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:50:50-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"817-716-6656";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:50:55-08:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"817-716-6656";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:51:09-08:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:25:"jackieacevedo99@gmail.com";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:51:21-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Amazing  Smile";s:7:"user_id";s:5:"15172";}
+2016-01-13T16:51:24-08:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Amazing  Smile";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:51:26-08:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Amazing  Smile";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:52:38-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"UG";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:52:41-08:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:52:42-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"75062";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:52:52-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"3317 finely  rd";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:53:00-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:6:"Irving";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:53:02-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"TN";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:53:05-08:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"TX";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:54:02-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:30:"856 Bentwater Pkwy, Cedar Hill";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:54:05-08:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"75104";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:54:11-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"856 Bentwater Pkwy";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:54:14-08:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Cedar Hill";s:7:"user_id";s:5:"15171";}
+2016-01-13T16:55:24-08:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15172";}
+2016-01-13T16:56:16-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15171";}
+2016-01-13T17:19:31-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:9:"Margarita";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:9:"Margarita";s:8:"lastname";s:6:"Latman";s:12:"contactphone";s:12:"323-401-2193";s:5:"email";s:26:"margarita.latman@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"61d9143b66b09a1cafd5d47e02159a175eb08ae5";s:8:"username";s:9:"Margarita";s:12:"created_time";s:19:"2016-01-13 17:19:31";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"b8b495482c5ba7632a5e2b7456358518";}
+2016-01-13T17:24:27-08:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:14:"6638 Vickiview";s:7:"user_id";s:5:"15176";}
+2016-01-13T17:24:34-08:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:10:"West Hills";s:7:"user_id";s:5:"15176";}
+2016-01-13T17:24:44-08:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"91307";s:7:"user_id";s:5:"15176";}

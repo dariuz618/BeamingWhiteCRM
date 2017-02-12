@@ -1,0 +1,56 @@
+2016-03-25T08:52:01-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15849";}
+2016-03-25T09:04:09-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15849";}
+2016-03-25T09:04:29-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"304-415-6474";s:7:"user_id";s:5:"15849";}
+2016-03-25T09:06:47-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"304-415-6474";s:7:"user_id";s:5:"15849";}
+2016-03-25T09:26:28-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:12:"Irina Peters";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Irina";s:8:"lastname";s:6:"Peters";s:12:"contactphone";s:12:"813-520-0279";s:5:"email";s:16:"Irina@noidea.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"f91a35cfe6cff84451ae8391dff7c8cd925ccd81";s:8:"username";s:12:"Irina Peters";s:12:"created_time";s:19:"2016-03-25 09:26:28";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"047b2b3dac4ebc1902ced6d51826c4a5";}
+2016-03-25T09:28:06-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:271:"This is a med spa with 3 zoom lamps. They are looking for something different due to cost. They do an average of 6 treatments per day but use groupon so they are not making anything. Interested in 2 of our lights, quoted a 2 light package with 100 kits for $3300 shipped.";s:7:"user_id";s:5:"15949";}
+2016-03-25T09:28:30-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"contactphone";s:12:"709-944-6845";s:7:"user_id";s:4:"2772";}
+2016-03-25T09:28:50-07:00 INFO (6): Stephanie Brown--a:2:{s:13:"contactphone2";s:27:"karenhenstridge@hotmail.com";s:7:"user_id";s:4:"2772";}
+2016-03-25T09:45:29-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:27:"karenhenstridge@hotmail.com";s:7:"user_id";s:4:"2772";}
+2016-03-25T09:45:33-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:4:"2772";}
+2016-03-25T09:48:02-07:00 INFO (6): Erika Rose--a:2:{s:6:"status";s:8:"Disabled";s:7:"user_id";s:5:"15038";}
+2016-03-25T10:32:46-07:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:34:"accounting@healthandpsychology.com";s:7:"user_id";s:5:"15949";}
+2016-03-25T10:33:01-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:5:"Tampa";s:7:"user_id";s:5:"15949";}
+2016-03-25T10:41:22-07:00 INFO (6): Alison Duff--a:2:{s:5:"state";s:2:"GA";s:7:"user_id";s:5:"15948";}
+2016-03-25T10:53:55-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"678-520-9074";s:7:"user_id";s:5:"14374";}
+2016-03-25T10:58:04-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15948";}
+2016-03-25T10:58:20-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:7:"Eastman";s:7:"user_id";s:5:"15948";}
+2016-03-25T12:06:34-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15913";}
+2016-03-25T12:17:34-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:14:"Nancy Abrahimi";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:5:"Nancy";s:8:"lastname";s:8:"Abrahimi";s:12:"contactphone";s:0:"";s:5:"email";s:28:"dr.shelyan@forever-smile.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"09c294a4038b14c49adb7fa5d52b7120fa328cd8";s:8:"username";s:14:"Nancy Abrahimi";s:12:"created_time";s:19:"2016-03-25 12:17:34";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"e7ff021795035c2363254a15e91a8134";}
+2016-03-25T12:28:54-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:27:"drshelyan@forever-smile.com";s:7:"user_id";s:5:"15951";}
+2016-03-25T12:30:28-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:23:"nancy@forever-smile.com";s:7:"user_id";s:5:"15951";}
+2016-03-25T12:31:06-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:23:"sarit@forever-smile.com";s:7:"user_id";s:5:"15951";}
+2016-03-25T12:52:58-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Los Ageles";s:7:"user_id";s:5:"15951";}
+2016-03-25T12:53:13-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"323-634-9004";s:7:"user_id";s:5:"15951";}
+2016-03-25T12:53:20-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"323-634-9005";s:7:"user_id";s:5:"15951";}
+2016-03-25T12:54:08-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:45:"Nancy Abrahimi - Public Relations Coordinator";s:7:"user_id";s:5:"15951";}
+2016-03-25T12:54:54-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Forever Smiles";s:7:"user_id";s:5:"15951";}
+2016-03-25T13:03:47-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"12443";}
+2016-03-25T13:05:00-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13107";}
+2016-03-25T13:06:12-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13107";}
+2016-03-25T13:22:12-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14404";}
+2016-03-25T13:39:20-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12890";}
+2016-03-25T13:45:26-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:19:"Andrea ortega peña";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:8:"Business";s:6:"soldby";s:6:"Cliona";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AM";s:3:"zip";s:0:"";s:7:"country";s:2:"PE";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:13:"Andrea Ortega";s:8:"lastname";s:5:"Peña";s:12:"contactphone";s:12:"573212478398";s:5:"email";s:22:"andre-4888@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a1fe11060b0c54342352892216b43d2a7150f8b5";s:8:"username";s:19:"Andrea ortega peña";s:12:"created_time";s:19:"2016-03-25 13:45:26";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c223ff00d1b11889f2d26386ca98d56d";}
+2016-03-25T13:45:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15952";}
+2016-03-25T13:45:49-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:12:"Ortega Peña";s:7:"user_id";s:5:"15952";}
+2016-03-25T13:45:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:6:"Andrea";s:7:"user_id";s:5:"15952";}
+2016-03-25T13:47:56-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15798";}
+2016-03-25T15:08:38-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"623-687-7839";s:7:"user_id";s:5:"14412";}
+2016-03-25T15:12:44-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"250-618-6364";s:7:"user_id";s:4:"6713";}
+2016-03-25T15:50:22-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:28:"shanitajennings.sg@gmail.com";s:7:"user_id";s:5:"15936";}
+2016-03-25T15:51:32-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:15:"Skin Sensations";s:7:"user_id";s:5:"12106";}
+2016-03-25T15:52:09-07:00 INFO (6): Rachel Reiser--a:2:{s:13:"contactphone2";s:10:"7028028549";s:7:"user_id";s:5:"12106";}
+2016-03-25T15:52:17-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"contactphone";s:12:"702-283-3229";s:7:"user_id";s:5:"12106";}
+2016-03-25T15:56:20-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15936";}
+2016-03-25T16:12:07-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"15866";}
+2016-03-25T16:18:34-07:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:10:"Usman Ezad";s:7:"user_id";s:5:"15949";}
+2016-03-25T16:19:42-07:00 INFO (6): Stephanie Brown--a:2:{s:9:"firstname";s:7:"Crystal";s:7:"user_id";s:4:"2084";}
+2016-03-25T16:19:46-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"lastname";s:0:"";s:7:"user_id";s:4:"2084";}
+2016-03-25T16:25:24-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:19:"Planet Beach AZ0088";s:7:"user_id";s:4:"2842";}
+2016-03-25T16:25:29-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:19:"Planet Beach AZ0088";s:7:"user_id";s:4:"2842";}
+2016-03-25T16:25:37-07:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:12:"Kory/ Amanda";s:7:"user_id";s:4:"2842";}
+2016-03-25T16:25:41-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:6:"AZ0088";s:7:"user_id";s:4:"2842";}
+2016-03-25T17:14:36-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:14:"Eulicia Wright";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"407-968-3567";s:6:"source";N;s:9:"firstname";s:7:"Eulicia";s:8:"lastname";s:6:"Wright";s:12:"contactphone";s:12:"407-968-3567";s:5:"email";s:23:"euliciawright@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"69b373cf7f2f42b8d3aa8da9efb034d0054e57cd";s:8:"username";s:14:"Eulicia Wright";s:12:"created_time";s:19:"2016-03-25 17:14:36";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"7699c5b467daffe8b5b7769e95c10a7b";}
+2016-03-25T17:15:00-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Orlando";s:7:"user_id";s:5:"15953";}
+2016-03-25T17:21:52-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15953";}
+2016-03-25T17:21:55-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15953";}

@@ -1,0 +1,148 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">        
+        <?php echo $this->headScript(); ?>
+        <title>Beaming White Business</title>
+        <?php /* echo $this->headTitle(); */?>
+        <?php echo $this->headLink(); ?>             
+        
+	    
+        <link href="/public/css/bootstrap.min.css" rel="stylesheet">        
+        <link href="/public/css/bootstrapValidator.css" rel="stylesheet">
+        <link href="/public/font-awesome/css/font-awesome.css" rel="stylesheet">
+        <link href="/public/css/global.css" rel="stylesheet">       
+        <script src="/public/js/jquery-1.10.2.min.js"></script>
+        <script src="/public/js/jquery-ui-1.10.3.min.js"></script>
+        <link href="/public/js/ui-lightness/jquery-ui-1.10.2.custom.css" rel="stylesheet" type="text/css" />         
+        <script src="/public/js/jquery.bootstrap.js"></script>
+        <script src="/public/js/bootstrap.min.js"></script>
+        <script src="/public/js/plugins/metisMenu/jquery.metisMenu.js"></script>    
+        <script src="/public/js/sb-admin.js"></script>
+		
+		<!-- Dariuz Rubin -->
+		<script type="text/javascript" src="//cdn.jsdelivr.net/fetch/0.9.0/fetch.min.js"></script>
+		<script type="text/javascript" src="//cdn.jsdelivr.net/es6-promise/3.1.2/es6-promise.js"></script>
+		<script type="text/javascript" src="//cdn.pubnub.com/pubnub-3.15.2.js"></script>
+		<script type="text/javascript" src="//cdn.rawgit.com/onsip/SIP.js/0.7.5/dist/sip-0.7.5.js"></script>
+		<script type="text/javascript" src="//cdn.rawgit.com/ringcentral/ringcentral-js/master/build/ringcentral.js"></script>		
+		<script type="text/javascript" src="/public/js/ringcentral-web-phone.js"></script>
+		<!------------------>
+    </head>
+    
+
+	
+    <body>         
+        <? if(Zend_Auth::getInstance()->getIdentity()):?>              
+          <div id="wrapper">
+                <?php echo $this->render('header.phtml'); ?> 
+               <div id="page-wrapper">
+                   <?php echo $this->layout()->content; ?>
+                   <?php echo $this->inlineScript(); ?> 
+               </div>
+          </div>    
+        <?else:?>
+    
+            <?php echo $this->layout()->content; ?>
+            <?php echo $this->inlineScript(); ?>    
+        <?endif;?>
+        
+        <!-- Dariuz Rubin -->
+        <div id="popup_reminder" class="modal fade" style="z-index:1000000002;display:none;">
+			<div class="modal-dialog modal-md">
+				<div class="modal-content" style="background-color: yellow">		
+			      	<div class="modal-body">	      		
+			      		<div class="row mobile-row">		      			
+							<div class="dropdown" style="float: left; margin-left: 60px;">
+							    <button class="btn btn-danger dropdown-toggle" type="button" data-toggle="dropdown">Snooze
+							    <span class="caret"></span></button>
+							    <ul class="dropdown-menu">
+							    	<li><a href="javascript:setSnooze(5);">5 minutes</a></li>
+							      	<li><a href="javascript:setSnooze(15);">15 minutes</a></li>
+							      	<li><a href="javascript:setSnooze(60);">1 hour</a></li>
+							      	<li><a href="javascript:setSnooze(120);">2 hours</a></li>
+							      	<li><a href="javascript:setSnooze(240);">4 hours</a></li>
+							      	<li><a href="javascript:setSnooze(1440);">24 hours</a></li>					      
+							    </ul>
+							  	</div><label id='reminder_event' style="padding-left:5px;margin-top: 7px;margin-left: 30px;"></label>			
+						</div>					
+			      	</div>			     
+				</div>
+			</div>
+		</div>	
+		
+		
+		
+		<form id ='snoozeForm' method="post">
+		   <input type='hidden' id="snoozeTime" name="snoozeTime" value ="<?= $_SESSION['Snooze']['snooze_time'] ?>">   
+		</form>
+		
+		<!-- Make a call dialog -->    
+        <div id="dialog_phone" class="modal fade" title="Make A Call" style="z-index:1000000003;display:none;">
+        	<div class="modal-dialog modal-sm">
+				<div class="modal-content">
+					<div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal">&times;</button>
+				        <h2 class="modal-title"><center>Make A Call</center></h2>	
+			      	</div>
+			      	<div class="modal-body">			      		
+		      			<form>					            
+			                <div class="form-group">
+			                    <label>Phone Number:</label>
+			                    <input type="text" class="form-control" name="to_phone_number"  id="to_phone_number" placeholder="+1 (234) 567-8901">
+			                </div>
+			                <div class="form-group">
+			                    <label>Home Country:</label>
+			                    <input type="text" class="form-control" name="to_phone_homeCountry"  id="to_phone_homeCountry" value="1">
+			                </div>
+			            	<div class="form-group" align="center">
+				                <button class="btn btn-primary" type="button" id="ringcentral_call_btn">Call</button>
+				            	<button class="btn btn-danger" type="button" id="ringcentral_hangup_btn">Hangup</button>			
+				            	<button class="btn btn-primary" type="button" id="ringcentral_close_btn">Close</button>					       		
+				            </div>
+					    </form>			      		
+			      	</div>			     
+				</div>
+			</div>
+		</div>
+		
+		<div id="dialog_phone_login" class="modal fade" title="Make a Login" style="z-index:1000000004;display:none;">
+        	<div class="modal-dialog modal-sm">
+				<div class="modal-content">
+					<div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal">&times;</button>
+				        <h2 class="modal-title"><center>Make A Login</center></h2>	
+			      	</div>
+			      	<div class="modal-body" align="center">			      		
+		      			<h4>Please wait a few seconds for login into Ringcentral...</h4>			            
+			      	</div>			     
+				</div>
+			</div>
+		</div>		
+		
+		<div id="dialog_clicktocall" class="modal fade" title="Make a Login" style="z-index:1000000005;display:none;">
+        	<div class="modal-dialog modal-sm">
+				<div class="modal-content">
+					<div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal">&times;</button>
+				        <h2 class="modal-title"><center>Click to Call</center></h2>	
+			      	</div>
+			      	<div class="modal-body" align="center">		
+			      		<form>					            
+			                <div class="form-group" id="clicktocall_status">
+			                	<h4>Please wait a few seconds for login into Ringcentral...</h4>			          			                    
+			                </div>			                
+			            	<div class="form-group" align="center">
+				                <button class="btn btn-danger" type="button" id="ringcentral_clicktocall_hangup_btn">Hangup</button>			
+				            	<button class="btn btn-primary" type="button" id="ringcentral_clicktocall_close_btn">Close</button>  		
+				            </div>
+					    </form>		      			  
+			      	</div>			     
+				</div>
+			</div>
+		</div>		
+		<!----------------> 
+    </body>  
+</html>

@@ -1,0 +1,34 @@
+2015-09-10T09:47:43-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13181";}
+2015-09-10T09:50:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:4:"9537";}
+2015-09-10T10:57:13-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14079";}
+2015-09-10T11:13:43-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14077";}
+2015-09-10T13:03:20-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13262";}
+2015-09-10T13:44:00-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"12747";}
+2015-09-10T13:44:03-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"12747";}
+2015-09-10T14:40:38-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"12747";}
+2015-09-10T15:22:30-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:242:"EU kits with Sodium PerCarb, mouth trays, sponge sticks, and accelerator spray.
+
+EU Kits
+0 - 49 kits = $14 
+50 - 99 kits = $10 
+100 - 249 = $9 
+250 + = $8
+
+Adv Kits = $5
+Adv Kit 25% $14
+
+Lamps = $675
+Alm Case = $65
+
+Sponge swab = $1
+Bib = .10";s:7:"user_id";s:4:"2953";}
+2015-09-10T15:32:30-07:00 INFO (6): Adrian Wallace--a:2:{s:12:"businessname";s:17:"The Smile Factory";s:7:"user_id";s:4:"3194";}
+2015-09-10T15:32:46-07:00 INFO (6): Adrian Wallace--a:2:{s:12:"contactphone";s:12:"407 431 6151";s:7:"user_id";s:4:"3194";}
+2015-09-10T16:36:19-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14082";}
+2015-09-10T16:36:22-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14082";}
+2015-09-10T16:37:10-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:89:"Shelli's husband Mike called in but didn't want her to know he was checking up on her??? ";s:7:"user_id";s:5:"14082";}
+2015-09-10T16:41:25-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:86:"2ml 16% HP pens $3.50
+metalic touch up pens $3.50
+Platform Trays 1.25
+Finger Wipes .15";s:7:"user_id";s:4:"9959";}
+2015-09-10T17:10:19-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:4:"9537";}

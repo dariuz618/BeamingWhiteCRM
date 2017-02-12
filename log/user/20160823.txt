@@ -1,0 +1,79 @@
+2016-08-23T08:16:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"562-754-8093";s:7:"user_id";s:5:"17267";}
+2016-08-23T08:51:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:10:"Dr. Nadine";s:7:"user_id";s:5:"17267";}
+2016-08-23T08:51:48-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Dr. Nadine";s:7:"user_id";s:5:"17267";}
+2016-08-23T08:51:54-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:16:"Dr. Nadine Danan";s:7:"user_id";s:5:"17267";}
+2016-08-23T08:51:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Dr. Nadine Danan";s:7:"user_id";s:5:"17267";}
+2016-08-23T08:51:58-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17267";}
+2016-08-23T08:52:00-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17267";}
+2016-08-23T09:26:42-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"17267";}
+2016-08-23T09:29:42-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"810-241-3966";s:7:"user_id";s:5:"16009";}
+2016-08-23T09:31:03-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:20:"Youthful You Med Spa";s:7:"user_id";s:5:"16009";}
+2016-08-23T10:38:28-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Oasis Dream Spa";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:8:"Lissette";s:8:"lastname";s:7:"Dawkins";s:12:"contactphone";s:12:"305-762-2487";s:5:"email";s:26:"lissette.dawkins@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"2893f6a6237068b3c1a98aca538b7ea703cae36f";s:8:"username";s:15:"Oasis Dream Spa";s:12:"created_time";s:19:"2016-08-23 10:38:28";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"0d005b78d6e49f21bb5aa9d181b53a91";}
+2016-08-23T10:41:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17270";}
+2016-08-23T10:43:34-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"305-234-0106";s:7:"user_id";s:5:"17270";}
+2016-08-23T10:43:36-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"305-234-0106";s:7:"user_id";s:5:"17270";}
+2016-08-23T11:14:00-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"lastname";s:6:"Deming";s:7:"user_id";s:4:"9866";}
+2016-08-23T11:14:17-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:26:"labonitapeleskin@gmail.com";s:7:"user_id";s:4:"9866";}
+2016-08-23T11:55:32-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:12:"Elliot Usage";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Elliot";s:8:"lastname";s:5:"Usage";s:12:"contactphone";s:12:"213-712-4209";s:5:"email";s:28:"elliot@firsteastcircular.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"fa2741d85c6714d6010565e326246503a281ef77";s:8:"username";s:12:"Elliot Usage";s:12:"created_time";s:19:"2016-08-23 11:55:32";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"bdb87eab34e979c82406148771347275";}
+2016-08-23T11:55:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17271";}
+2016-08-23T12:13:44-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"90014";s:7:"user_id";s:5:"17271";}
+2016-08-23T12:42:04-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:9:"Jay Singh";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:3:"Jay";s:8:"lastname";s:5:"Singh";s:12:"contactphone";s:12:"781-686-8886";s:5:"email";s:21:"needemail35@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"fdb7cacdda9cf6ceca735ad1015642fdda136a72";s:8:"username";s:9:"Jay Singh";s:12:"created_time";s:19:"2016-08-23 12:42:04";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"9ad27be8f99556b471dab11781dc20bb";}
+2016-08-23T13:10:17-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:11:"jay@bevy.la";s:7:"user_id";s:5:"17272";}
+2016-08-23T13:15:35-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:12:"Satara Scott";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Satara";s:8:"lastname";s:5:"Scott";s:12:"contactphone";s:12:"321-301-2740";s:5:"email";s:21:"scottsatara@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"55099ebbf2c17ea31586acc3ef296171a8ba49aa";s:8:"username";s:12:"Satara Scott";s:12:"created_time";s:19:"2016-08-23 13:15:34";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6ea78e4d387881bc9529c644a47ff771";}
+2016-08-23T13:15:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17273";}
+2016-08-23T13:15:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17273";}
+2016-08-23T13:54:04-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"562-754-8093";s:7:"user_id";s:5:"17267";}
+2016-08-23T13:54:52-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:32:"cintia.oliveiraca0092@gmail.com ";s:7:"user_id";s:5:"17262";}
+2016-08-23T14:08:22-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:24:"600 S Spring St Unit 213";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:08:23-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:"Los Angeles";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:08:35-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:25:"600 S Spring St Unit 1001";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:14:25-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:13:"White Factory";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"702-927-2355";s:6:"source";s:5:"Other";s:9:"firstname";s:9:"Alexander";s:8:"lastname";s:8:"Boistean";s:12:"contactphone";s:12:"702-927-2355";s:5:"email";s:24:"whitefactory88@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"f6694f4ead100abe6b3b815fce36b11dd033b981";s:8:"username";s:13:"White Factory";s:12:"created_time";s:19:"2016-08-23 14:14:25";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"33fc886fd1d798468582f8f6ebeafd6d";}
+2016-08-23T14:15:29-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Osagie";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:15:32-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Elliot Osagie";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:16:23-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:596:"Deluxe Take Home Kit: 
+100 - 499 @ $16.50
+500 - 999 @ $15.00
+1,000 - 4999 @ $13.00
+5,000 - 9,999 @ $11.50
+10,000 + @ $9
+
+Forever White Pen: 
+100 - 499 @ $8.50
+500 - 999 @ $7.50
+1,000 - 4999 @ $5.00
+5,000 - 9,999 @ $4.00
+10,000 + @ $3.50
+
+Forever White XL Pen: 
+100 - 499 @ $13.50
+500 - 999 @ $12.50
+1,000 - 4999 @ $10.00
+5,000 - 9,999 @ $8.50
+10,000 + @ $7.50
+
+Daily White Fusion: 
+100 - 499 @ $6
+500 - 999 @ $5.50
+1,000 - 4999 @ $5
+5,000 - 9,999 @ $4
+10,000 + @ $3.50
+
+Minerals Enamel Booster Pen: 
+100 - 499 @ $10.50
+500 - 999 @ $8.50
+1,000 - 4999 @ $6.00
+5,000 - 9,999 @ $5.00
+10,000 + @ $4.00";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:23:24-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:17:"Natalia Espaillat";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:38:55-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:26:"nespaillat@bystorm-ent.com";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:39:07-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:18:"waynebarrow@me.com";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:40:32-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:30:"danielle@firsteastcircular.com";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:40:41-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"310-880-4493";s:7:"user_id";s:5:"17271";}
+2016-08-23T14:57:44-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"32808";s:7:"user_id";s:5:"17273";}
+2016-08-23T14:57:56-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:7:"Orlando";s:7:"user_id";s:5:"17273";}
+2016-08-23T15:22:31-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:34:"SHIPPING: 110-3501 8th Street East";s:7:"user_id";s:3:"744";}
+2016-08-23T15:22:47-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:7:"S7H 0W5";s:7:"user_id";s:3:"744";}
+2016-08-23T15:31:10-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17272";}
+2016-08-23T16:49:11-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:"Los Angeles";s:7:"user_id";s:5:"17272";}
+2016-08-23T17:50:05-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:10:"Skinsation";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"TX";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:7:"Sheneta";s:8:"lastname";s:7:"Coleman";s:12:"contactphone";s:0:"";s:5:"email";s:31:"skinsation@skinsationmedspa.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"300f68e8055c450ea0b38474ae0f8257467c23ff";s:8:"username";s:10:"Skinsation";s:12:"created_time";s:19:"2016-08-23 17:50:05";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"82bc862c617165b45a0783e4186b30c5";}
+2016-08-23T17:50:28-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"214 799 8897";s:7:"user_id";s:5:"17275";}

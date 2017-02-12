@@ -1,0 +1,136 @@
+2015-10-12T08:54:59-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13938";}
+2015-10-12T08:55:10-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13938";}
+2015-10-12T09:21:41-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13984";}
+2015-10-12T09:21:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13984";}
+2015-10-12T09:21:47-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"13984";}
+2015-10-12T09:21:59-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:20:"New Leaf Dental Care";s:7:"user_id";s:5:"13984";}
+2015-10-12T09:22:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"13984";}
+2015-10-12T09:22:11-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"13984";}
+2015-10-12T09:22:49-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"13938";}
+2015-10-12T09:22:52-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"13938";}
+2015-10-12T09:22:57-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:24:"Gentle Dental Hazel Dell";s:7:"user_id";s:5:"13938";}
+2015-10-12T09:25:06-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:25:"shelleyb@wendeldental.com";s:7:"user_id";s:5:"14017";}
+2015-10-12T09:25:50-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:20:"Wendel Family Dental";s:7:"user_id";s:5:"14017";}
+2015-10-12T09:28:21-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:20:"neede-mail@gmail.com";s:7:"user_id";s:5:"14017";}
+2015-10-12T09:28:31-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:25:"shelleyb@wendeldental.com";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:28:35-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:20:"Wendel Family Dental";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:28:44-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:27:"Wendel Family Dental Centre";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:28:47-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:27:"Wendel Family Dental Centre";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:29:12-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:29:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:39:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:39:36-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:44:46-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Alan Snodgrass";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:45:11-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:22:"Thurston Family Dental";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:45:30-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Thurston Oak Dental";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:45:51-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:28:"4305 NE Thurston Way Ste 101";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:46:03-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:46:04-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:46:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:47:21-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:7:"Shelley";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:47:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:7:"Shelley";s:7:"user_id";s:5:"14018";}
+2015-10-12T09:49:27-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:5:"Alan ";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:49:32-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:14:"Alan Snodgrass";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:49:35-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:9:"Snodgrass";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:50:19-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:28:"http://www.vancouverdds.com/";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:50:32-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:21:"info@vancouverdds.com";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:51:10-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:20:"Thurston Oaks Dental";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:51:14-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:20:"Thurston Oaks Dental";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:51:21-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:14:"Snodgrass, DDS";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:51:31-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:14:"(360) 524-4377";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:51:39-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:14:"(360) 514-9214";s:7:"user_id";s:5:"13898";}
+2015-10-12T09:51:50-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:156:"Hours
+Monday: 9:00am - 6:00pm
+Tuesday: 7:00am - 6:00pm
+Wednesday: 7:00am - 4:00pm
+Thursday: 7:00am - 6:00pm
+Friday: 9:00am - 3:00pm *
+*business office only
+";s:7:"user_id";s:5:"13898";}
+2015-10-12T10:12:43-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"592-695-0007";s:7:"user_id";s:5:"14372";}
+2015-10-12T10:36:55-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Dr Ricardo";s:7:"user_id";s:5:"14372";}
+2015-10-12T10:37:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Dr Ricardo Stuart";s:7:"user_id";s:5:"14372";}
+2015-10-12T10:37:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:17:"Dr Ricardo Stuart";s:7:"user_id";s:5:"14372";}
+2015-10-12T10:37:06-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14372";}
+2015-10-12T10:37:08-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"14372";}
+2015-10-12T10:37:09-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:39:58-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:14:"958 Rogers Ave";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:40:24-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"BW";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:41:29-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:41:37-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:8:"Brooklyn";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:41:46-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"11226";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:41:56-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NE";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:42:00-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"NY";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:42:16-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:12:"3hrs ahead.
+";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:54:07-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14372";}
+2015-10-12T12:54:10-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14372";}
+2015-10-12T13:15:52-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"username";s:24:"Dr Tomas E. Holbrook DDS";s:7:"user_id";s:5:"13040";}
+2015-10-12T13:28:18-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:18:"630 Center Street ";s:7:"user_id";s:5:"11243";}
+2015-10-12T13:28:23-07:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:4:"Alva";s:7:"user_id";s:5:"11243";}
+2015-10-12T13:28:30-07:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"73717";s:7:"user_id";s:5:"11243";}
+2015-10-12T15:19:22-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:110:"Had her teeth whitening recently and liked how it made her feel about herself. Wants to offer that to others. ";s:7:"user_id";s:5:"14374";}
+2015-10-12T15:19:27-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14374";}
+2015-10-12T15:19:30-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14374";}
+2015-10-12T15:28:23-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14370";}
+2015-10-12T15:33:54-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14373";}
+2015-10-12T15:45:17-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"75074";s:7:"user_id";s:5:"14235";}
+2015-10-12T15:52:27-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:15:"555 Republic Dr";s:7:"user_id";s:5:"14235";}
+2015-10-12T15:52:36-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 200";s:7:"user_id";s:5:"14235";}
+2015-10-12T16:04:44-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:29:"Montoya & Baev Clinica Dental";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"DN";s:3:"zip";s:0:"";s:7:"country";s:2:"DO";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:4:"Jeni";s:8:"lastname";s:3:"Lee";s:12:"contactphone";s:0:"";s:5:"email";s:20:"dr.jenilee@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"969492413bdc7eaa87b2d55e205e0dbf8ac7cce9";s:8:"username";s:29:"Montoya & Baev Clinica Dental";s:12:"created_time";s:19:"2015-10-12 16:04:44";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"fa6395c4bc64e241a66d3a47ac7ffa41";}
+2015-10-12T16:06:04-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:13:"1809-804-7765";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:06:08-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:14:"1-809-804-7765";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:06:24-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:12:45-07:00 INFO (6): Windy Jenkins--a:2:{s:8:"address1";s:20:"30 Apple Hill Hollow";s:7:"user_id";s:5:"13253";}
+2015-10-12T16:14:42-07:00 INFO (6): Windy Jenkins--a:2:{s:4:"city";s:15:"Casselberry, FL";s:7:"user_id";s:5:"13253";}
+2015-10-12T16:18:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"Danielle";s:7:"user_id";s:5:"14368";}
+2015-10-12T16:18:51-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Danielle Greene";s:7:"user_id";s:5:"14368";}
+2015-10-12T16:18:54-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Danielle Greene";s:7:"user_id";s:5:"14368";}
+2015-10-12T16:26:19-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:7:"Jenilee";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:26:23-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Garcia";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:46:55-07:00 INFO (6): Windy Jenkins--a:2:{s:3:"zip";s:5:"32707";s:7:"user_id";s:5:"13253";}
+2015-10-12T16:49:40-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:13:"Santo Domingo";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:51:37-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:29:"Montoya & Baez Clinica Dental";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:52:17-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:35:"clinicadental.montoyabaez@gmail.com";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:53:49-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:86:"http://www.tudentista.com.do/tudentista/index.php/centros-odontologicos/67?view=centro";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:54:02-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:71:"Horarios: Lun-Vie 8:00 am a 12:00 pm y de 2:00 pm a 6.00 pm, Sab 8 a 12";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:54:17-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:68:"Hours: Lun-Vie 8:00 am a 12:00 pm y de 2:00 pm a 6.00 pm, Sab 8 a 12";s:7:"user_id";s:5:"14375";}
+2015-10-12T16:56:11-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:28:" 809-412-0495 / 809-621-8144";s:7:"user_id";s:5:"14375";}
+2015-10-12T17:00:20-07:00 INFO (6): Windy Jenkins--a:2:{s:12:"contactphone";s:12:"407-713-5013";s:7:"user_id";s:5:"13253";}
+2015-10-12T17:23:49-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13154";}
+2015-10-12T17:23:52-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13154";}
+2015-10-12T22:01:34-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:18:"Sheri - Front Desk";s:7:"user_id";s:5:"13984";}
+2015-10-12T22:09:35-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:15:"Elite Dentistry";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"WA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:13:"Dr. Jagjit S.";s:8:"lastname";s:9:"Bhui, Dmd";s:12:"contactphone";s:0:"";s:5:"email";s:25:"info@elitedentistrywa.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d190cf5d0fbe7835facd0272289cdf5820cec339";s:8:"username";s:15:"Elite Dentistry";s:12:"created_time";s:19:"2015-10-12 22:09:35";s:2:"ip";s:14:"73.164.223.221";s:4:"salt";s:32:"0d582211a1fd29968ef72b0d948a48d4";}
+2015-10-12T22:09:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:6:"Jagjit";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:09:52-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:5:"Phrab";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:09:57-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:4:"Bhui";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:11:02-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"360-695-5555";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:11:06-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:12:"360-253-6437";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:11:15-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:8:"9300 NE ";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:11:22-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:37:"9300 NE Vancouver Mall Dr. Suite 100 ";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:11:30-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:9:"Vancouver";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:11:35-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:10:"98662-8205";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:26:56-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14378";}
+2015-10-12T22:28:01-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:5:"Terri";s:7:"user_id";s:5:"14008";}
+2015-10-12T22:28:04-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:5:"Terri";s:7:"user_id";s:5:"14008";}
+2015-10-12T22:28:34-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:27:"Sunrise Dental Salmon Creek";s:7:"user_id";s:5:"14008";}
+2015-10-12T22:50:33-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"12822";}
+2015-10-12T22:54:20-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"12822";}
+2015-10-12T22:54:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12822";}
+2015-10-12T23:00:48-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:14:"(360) 587-4616";s:7:"user_id";s:5:"12412";}
+2015-10-12T23:01:02-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:14:"(360) 587-4616";s:7:"user_id";s:5:"12412";}
+2015-10-12T23:19:31-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:6:"Tammi ";s:7:"user_id";s:5:"12425";}
+2015-10-12T23:19:46-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:43:"Dr. David A. Keller
+Need to talk to Tammi.
+";s:7:"user_id";s:5:"12425";}
+2015-10-12T23:26:47-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:17:"Hazel Dell Dental";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:23:"6202 NE Hwy 99, Suite 5";s:8:"address2";s:0:"";s:4:"city";s:9:"Vancouver";s:5:"state";s:2:"WA";s:3:"zip";s:5:"98665";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:8:"Dr. Lyle";s:8:"lastname";s:8:"Kelstrom";s:12:"contactphone";s:0:"";s:5:"email";s:20:"LDKelstrom@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"020ffb4f2249e17d58ef82174310ad1fbeb59c2c";s:8:"username";s:17:"Hazel Dell Dental";s:12:"created_time";s:19:"2015-10-12 23:26:47";s:2:"ip";s:14:"73.164.223.221";s:4:"salt";s:32:"9c570361a7e6260455ed71a55288be77";}
+2015-10-12T23:26:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"14379";}
+2015-10-12T23:27:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"360.216.1056";s:7:"user_id";s:5:"14379";}
+2015-10-12T23:27:42-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"360-216-1056";s:7:"user_id";s:5:"14379";}
+2015-10-12T23:27:51-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:110:"Monday 9 am to 7 pm
+Tuesday 9 am to 7 pm
+Wednesday 9 am – 6 pm
+Thursday 8 am – 5 pm
+Friday by Appointment
+";s:7:"user_id";s:5:"14379";}
+2015-10-12T23:30:36-07:00 INFO (6): Erika Rose--a:2:{s:6:"source";s:13:"Outside Sales";s:7:"user_id";s:5:"14379";}

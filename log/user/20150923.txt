@@ -1,0 +1,46 @@
+2015-09-23T09:26:30-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"360-693-9977";s:7:"user_id";s:4:"9300";}
+2015-09-23T09:26:35-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"503 683 3012";s:7:"user_id";s:4:"9300";}
+2015-09-23T09:26:41-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"360-693-9977";s:7:"user_id";s:4:"9300";}
+2015-09-23T09:43:24-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:61:"Schedule: 
+Mon:9-1
+Tue:9-4:30
+Wed:9-1:00
+Thur:9-5
+Fri: Closed";s:7:"user_id";s:5:"14144";}
+2015-09-23T10:47:34-07:00 INFO (6): Adrian Wallace--a:2:{s:8:"username";s:14:"Pampers Beauty";s:7:"user_id";s:3:"542";}
+2015-09-23T11:19:02-07:00 INFO (6): Adrian Wallace--a:2:{s:12:"contactphone";s:12:"780 463 4100";s:7:"user_id";s:3:"542";}
+2015-09-23T11:19:28-07:00 INFO (6): Adrian Wallace--a:2:{s:8:"address1";s:23:"1513 Lakewood Road West";s:7:"user_id";s:3:"542";}
+2015-09-23T11:30:20-07:00 INFO (6): Adrian Wallace--a:2:{s:3:"zip";s:7:"T6T 3S4";s:7:"user_id";s:3:"542";}
+2015-09-23T11:56:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:15:"(601) 707-8002 ";s:7:"user_id";s:5:"14167";}
+2015-09-23T11:56:37-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:15:"(601) 707-8002 ";s:7:"user_id";s:5:"14167";}
+2015-09-23T11:56:43-07:00 INFO (6): Erika Rose--a:2:{s:3:"fax";s:14:"(601) 856-9055";s:7:"user_id";s:5:"14167";}
+2015-09-23T11:56:59-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:21:"info@keydentalgrp.com";s:7:"user_id";s:5:"14167";}
+2015-09-23T11:58:03-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:28:"http://www.keydentalgrp.com/";s:7:"user_id";s:5:"14167";}
+2015-09-23T11:58:29-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:149:"Our office hours are:
+
+ Mondays & Tuesdays 8:00 a.m. – 7:00 p.m.
+
+Wednesdays & Thursdays 8:00 a.m. – 5:00 p.m.
+
+Fridays 8:00 a.m. – 12:00 p.m.
+";s:7:"user_id";s:5:"14167";}
+2015-09-23T11:58:39-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:146:"Our office hours are:
+Mondays & Tuesdays 8:00 a.m. – 7:00 p.m.
+Wednesdays & Thursdays 8:00 a.m. – 5:00 p.m.
+
+Fridays 8:00 a.m. – 12:00 p.m.
+";s:7:"user_id";s:5:"14167";}
+2015-09-23T11:58:44-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:145:"Our office hours are:
+Mondays & Tuesdays 8:00 a.m. – 7:00 p.m.
+Wednesdays & Thursdays 8:00 a.m. – 5:00 p.m.
+Fridays 8:00 a.m. – 12:00 p.m.
+";s:7:"user_id";s:5:"14167";}
+2015-09-23T14:51:47-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"25064";s:7:"user_id";s:5:"12270";}
+2015-09-23T15:13:27-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:24:"539 North Glen Oaks Blvd";s:7:"user_id";s:5:"14230";}
+2015-09-23T15:13:33-07:00 INFO (6): Brian Radke--a:2:{s:8:"address2";s:9:"suite 202";s:7:"user_id";s:5:"14230";}
+2015-09-23T15:13:40-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"91502";s:7:"user_id";s:5:"14230";}
+2015-09-23T15:13:46-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:7:"Burbank";s:7:"user_id";s:5:"14230";}
+2015-09-23T16:05:53-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14235";}
+2015-09-23T16:05:57-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"14235";}
+2015-09-23T16:11:21-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:144:"Sharonda took a class and bought equipment in Atlanta. She is paying $35 for Pre-Loaded Kits and $30 for Home Kits. Looking for better pricing. ";s:7:"user_id";s:5:"14235";}
+2015-09-23T16:12:41-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:225:"Sharonda took a class and bought equipment in Atlanta. She is paying $35 for Pre-Loaded Kits and $30 for Home Kits. Looking for better pricing. She is also interested in adding another light and chairs so she can do parties. ";s:7:"user_id";s:5:"14235";}

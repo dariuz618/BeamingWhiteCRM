@@ -1,0 +1,268 @@
+<?
+    $id = $this->user['id'];
+    $link_param = "/id/".$id;    
+?>
+
+<head>    
+    <!--link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">    
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script--> 
+    <link href="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/css/jqueryui-editable.css" rel="stylesheet"/>
+    <link href="/public/css/jquery.datetimepicker.css" rel="stylesheet" />
+	<script src="/public/js/jquery/jquery.datetimepicker.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/x-editable/1.5.0/jqueryui-editable/js/jqueryui-editable.min.js"></script> 
+    <script src="/public/js/jquery/jquery-editable-poshytip.js"></script>    
+   	
+</head>
+
+
+<div class="row">
+	<form name="documents_form" id="documents_form" method="post" enctype="multipart/form-data">		
+		<div class="row">
+			<div class="col-sm-9 col-xs-9 customer-detail-col">
+				<div class="panel panel-primary customer-detail-panel">
+					<div class="panel-heading customer-detail-font customer-detail-section-head-font <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>">Document Library</div>
+					<div class="panel-body <?php if ($this->user['type'] == 'Account') echo 'account-panel'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel'; else if ($this->user['type'] == 'Lead') echo 'lead-panel';?>">
+						<table class="table table-striped my-table-font" cellspacing="0" cellpadding="0">	
+							<thead>
+								<th>Title</th>
+								<th>Ext</th>
+								<th>Time</th>
+								<th></th>
+							</thead>
+										
+							 <tbody>					 	
+							   
+						    <?foreach($this->documents as $document):?>
+						    	 <tr>
+						    	 	<?php
+						    	 		
+						    	 		$http_path = $_SERVER['HTTP_HOST'];
+						    	 		$http_type = $_SERVER['REQUEST_SCHEME'];
+						    	 		if (!isset($http_type) or strlen($http_type)==0)
+						    	 			$http_type ='https';
+						    	 		$base_path = $http_type."://".$http_path;
+						    	 	?>
+						    		<td><a href='<?php echo $base_path.'/'.$document["url"];?>' target="_blank"><?php echo $document['title'];?></a></td>
+						    		
+						    		<td><?= $document['ext'] ?></td>
+						    		<td><?= $document['uploaded_time']?date('m/d/Y g:i A', strtotime($document['uploaded_time'])):'' ?></td>
+						    		<td><input type='checkbox' name='sel_documents[]' value='<?= $document["id"]?>'/></td>
+						    	</tr>
+					        <?endforeach;?>  		                  
+							    
+							    <tr>
+							    	<td colspan="4">
+							    		<button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  type="button" id="delete_btn" name="delete_btn">Delete</button>
+							    	</td>
+							    </tr>
+							 </tbody>
+						</table>
+							
+					</div>
+				</div>			
+			</div>		
+			<div class="col-sm-3 col-xs-3 customer-detail-col">
+				<div class="row">
+					<input class="form-control" type="file" id="upload_file" name="upload_file"/>
+				</div>
+				<div class="row" align="right">
+					<button class="btn btn-success btn-add <?php if ($this->user['type'] == 'Account') echo 'account-panel-heading'; else if ($this->user['type'] == 'Prospect') echo 'prospect-panel-heading'; else if ($this->user['type'] == 'Lead') echo 'lead-panel-heading'; ?>"  type="button" id="upload_btn" name="upload_btn">Upload</button>
+				</div>
+			</div>
+		</div>
+		
+	
+	</form>
+</div>
+
+<script>    
+
+	$(document).ready(function() {   
+    
+	     $("#upload_btn").click(function() {
+	     	console.log("upload document");
+	     		        
+	        var form = document.getElementById('documents_form');
+	     	var formData = new FormData(form);	     	
+			
+		 	$.ajax({
+	            url: '/crm/documents-upload<?= $link_param?>',
+	            data : formData,
+	            dataType : "json",
+	            processData : false,
+	            contentType : false,	            
+	            type: "POST",            
+	            success: function(res){
+	            	console.log(res);
+	               
+						location.reload();
+				
+	            }
+	        });
+	        
+		        
+	     });  
+	     
+	      $("#delete_btn").click(function() {
+	     	console.log("delete documents");
+	     	var form = document.getElementById('documents_form');
+	     	var formData = new FormData(form);	     	
+			
+		 	$.ajax({
+	            url: '/crm/documents-delete<?= $link_param?>',
+	            data : formData,
+	            dataType : "json",
+	            processData : false,
+	            contentType : false,	            
+	            type: "POST",            
+	            success: function(res){
+	            	console.log(res);
+					location.reload();
+	            }
+	        });
+	     });  
+	});
+	
+</script>
+<!--<style type="text/css">
+	.customer-detail-font{
+		font-size: 14px !important;
+		font-family :Verdana, Arial, Helvetica, sans-serif;	    
+	    font-style: italic !important;
+	}
+	.customer-detail-black-font{
+		font-size: 14px !important;
+		font-family :Verdana, Arial, Helvetica, sans-serif;	    
+	    font-style: italic !important;
+	    color: black;
+	}
+	 
+	.customer-detail-section-head-font{
+		font-size: 18px !important;
+		text-align: center;
+	}
+	.customer-detail-field{
+		width: 100%;
+	    border: 2px solid #c4c4c4;
+	    border-radius: 3px;
+	    
+	}
+	.customer-detail-date-field{
+		width: 40%;
+	    
+	}
+	.customer-detail-image-field{
+		background-image: url(/public/image/calendar.png);
+	  	background-position: 5px 50%;
+	  	background-repeat: no-repeat;	 	
+	 	padding-left: 35px;
+	 	width: 100%;
+	 	color: black;
+	}
+	.customer-detail-left-field{
+		width: 40%;
+	    color: #737373;
+	    vertical-align: middle !important;
+	}
+	.customer-detail-left-activity-field{
+		width: 65%;
+	    color: #737373;
+	    vertical-align: middle !important;
+	}
+	.customer-detail-button{
+		/*    width: 100%;
+	    height: 112%;
+	    padding-top: 5px;
+	    padding-bottom: 0px;*/
+	    border-radius: 0px;
+	    width: 100%;
+	}
+	table, tr, td {
+	    border: none !important;
+	   	    
+	}
+	table{
+		margin-bottom: auto !important;
+	}
+	.customer-detail-panel{
+		margin-bottom: 20px;
+	}
+	.panel-body {
+		border-width:2px;
+		border-color: #428bca;
+		padding-top: 10px;
+    	padding-bottom: 10px;
+    	background-color: #f2f0f1;
+	}
+	.account-panel-heading {
+	    color: #fff !important;
+	    background-color: #428bca !important;
+	    border-color: #428bca !important;
+	}
+	.lead-panel-heading {
+	    color: #fff !important;
+	    background-color: green !important;
+	    border-color: green !important;
+	}
+	.prospect-panel-heading {
+	    color: #4c4646 !important;
+	    /*background-color: aqua !important;
+	     border-color:aqua !important;*/
+	    background-color: rgb(21,202,204) !important;
+	    border-color:rgb(21,202,204) !important;
+	   
+	}
+	.account-panel {		
+		border-color: #428bca;		
+	}
+	.lead-panel {		
+		border-color: green;		
+	}
+	.prospect-panel {		
+		/*border-color: aqua;*/
+		 border-color:rgb(21,202,204) !important;
+	}
+	.row{
+		margin-left: auto;
+		margin-right: auto;
+	}	
+	.customer-detail-col{
+		padding:3px;
+	}
+	.customer-detail-followup-left-field{
+		width: 80%;
+	    color: #737373;
+	    vertical-align: middle;
+	}
+	.entry:not(:first-of-type)
+	{
+	    margin-top: 10px;
+	}
+
+	.glyphicon
+	{
+	    font-size: 18px;
+	}
+	.input-group-addon, .input-group-btn {
+	    vertical-align: top;
+	}
+	.table>tbody>tr>td{
+		padding-top: 4px !important;
+    	padding-bottom: 4px !IMPORTANT;
+	}
+	.customer-detail-added{
+		margin-bottom: 4px;		
+	}
+	.customer-detail-activity-checkbox{
+		    /* font-size: 210%; */
+	    -ms-transform: scale(2);
+	    -moz-transform: scale(2);
+	    -webkit-transform: scale(2);
+	    -o-transform: scale(2);	
+	    margin-top: 13px !important;	
+	    
+	}
+	    
+</style>-->
+
+

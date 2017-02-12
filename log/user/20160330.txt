@@ -1,0 +1,53 @@
+2016-03-30T08:22:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15726";}
+2016-03-30T08:51:11-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15951";}
+2016-03-30T09:53:31-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"780-802-8934";s:7:"user_id";s:5:"15984";}
+2016-03-30T10:03:33-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:3:"Hui";s:7:"user_id";s:5:"15985";}
+2016-03-30T10:03:38-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Hui An";s:7:"user_id";s:5:"15985";}
+2016-03-30T10:03:41-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:6:"Hui An";s:7:"user_id";s:5:"15985";}
+2016-03-30T10:03:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15985";}
+2016-03-30T10:30:40-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:7:"Thomas,";s:7:"user_id";s:5:"15635";}
+2016-03-30T10:30:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Hanna Thomas,";s:7:"user_id";s:5:"15635";}
+2016-03-30T10:30:48-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Hanna Thomas";s:7:"user_id";s:5:"15635";}
+2016-03-30T10:31:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Thomas";s:7:"user_id";s:5:"15635";}
+2016-03-30T10:38:22-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Hanna Thomas";s:7:"user_id";s:5:"15635";}
+2016-03-30T11:28:07-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:10:"Fustion HT";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Jill";s:8:"lastname";s:4:"Hurd";s:12:"contactphone";s:12:"207-944-4215";s:5:"email";s:17:"info@fusionht.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"72f9d16fd035625e5bb6ea5371046947bead8d6e";s:8:"username";s:10:"Fustion HT";s:12:"created_time";s:19:"2016-03-30 11:28:07";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"967eaca57a84080478ccf82eb883dbf9";}
+2016-03-30T11:33:05-07:00 INFO (6): Alison Duff--a:2:{s:12:"businessname";s:9:"Fusion HT";s:7:"user_id";s:5:"15986";}
+2016-03-30T11:33:09-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:9:"Fusion HT";s:7:"user_id";s:5:"15986";}
+2016-03-30T11:40:52-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Kristina Moreno";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"CA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"209-304-5955";s:6:"source";N;s:9:"firstname";s:7:"Kristin";s:8:"lastname";s:6:"Moreno";s:12:"contactphone";s:12:"209-304-5955";s:5:"email";s:23:"lillyavalon@hotmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"127abee7b13376526411e8b6a8954880d156d122";s:8:"username";s:15:"Kristina Moreno";s:12:"created_time";s:19:"2016-03-30 11:40:52";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"d0cf825aaca585c87c5800e57474ac9d";}
+2016-03-30T11:41:00-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15987";}
+2016-03-30T11:41:18-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:8:"Kristina";s:7:"user_id";s:5:"15987";}
+2016-03-30T11:47:53-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"The Beauty _____";s:7:"user_id";s:5:"15987";}
+2016-03-30T11:57:08-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15294";}
+2016-03-30T13:21:39-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:35:"1252 Mcfadden Dr Fullerton CA 92833";s:7:"user_id";s:5:"10189";}
+2016-03-30T13:21:58-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"UG";s:7:"user_id";s:5:"10189";}
+2016-03-30T13:22:01-07:00 INFO (6): Erika Rose--a:2:{s:7:"country";s:2:"US";s:7:"user_id";s:5:"10189";}
+2016-03-30T13:22:04-07:00 INFO (6): Erika Rose--a:2:{s:5:"state";s:2:"CA";s:7:"user_id";s:5:"10189";}
+2016-03-30T13:22:10-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"92833";s:7:"user_id";s:5:"10189";}
+2016-03-30T13:22:18-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:16:"1252 Mcfadden Dr";s:7:"user_id";s:5:"10189";}
+2016-03-30T13:22:20-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Fullerton ";s:7:"user_id";s:5:"10189";}
+2016-03-30T14:09:17-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:14:"none@gmail.com";s:7:"user_id";s:4:"1809";}
+2016-03-30T14:09:22-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:4:"1809";}
+2016-03-30T14:09:24-07:00 INFO (6): Stephanie Brown--a:2:{s:13:"contactphone2";s:0:"";s:7:"user_id";s:4:"1809";}
+2016-03-30T14:51:09-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Bebnam";s:7:"user_id";s:5:"15574";}
+2016-03-30T14:51:25-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:6:"Debnam";s:7:"user_id";s:5:"15574";}
+2016-03-30T15:23:59-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15574";}
+2016-03-30T15:31:20-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15931";}
+2016-03-30T15:40:41-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:0:"";s:7:"user_id";s:5:"15856";}
+2016-03-30T15:40:47-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:12:"Kiang Dental";s:7:"user_id";s:5:"15856";}
+2016-03-30T15:40:57-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:31:"Sampai Express C/O Kiang Dental";s:7:"user_id";s:5:"12186";}
+2016-03-30T15:41:13-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:12:"628161810628";s:7:"user_id";s:5:"12186";}
+2016-03-30T15:41:41-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"628161810628";s:7:"user_id";s:5:"12186";}
+2016-03-30T15:51:32-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15635";}
+2016-03-30T16:07:11-07:00 INFO (6): Brian Radke--a:2:{s:8:"address1";s:19:"9800 Old River Road";s:7:"user_id";s:3:"534";}
+2016-03-30T16:07:18-07:00 INFO (6): Brian Radke--a:2:{s:4:"city";s:11:"Bakersfield";s:7:"user_id";s:3:"534";}
+2016-03-30T16:07:28-07:00 INFO (6): Brian Radke--a:2:{s:3:"zip";s:5:"93311";s:7:"user_id";s:3:"534";}
+2016-03-30T16:20:27-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:28:"adams.forrest@graphicpkg.com";s:7:"user_id";s:5:"15978";}
+2016-03-30T16:48:56-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15726";}
+2016-03-30T16:54:36-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:22:"Dr. Christina Michelle";s:7:"user_id";s:5:"15726";}
+2016-03-30T16:54:39-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:5:"Jones";s:7:"user_id";s:5:"15726";}
+2016-03-30T16:57:29-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:"7366 Basalt Drive";s:7:"user_id";s:5:"15726";}
+2016-03-30T16:57:43-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Union City";s:7:"user_id";s:5:"15726";}
+2016-03-30T16:57:44-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"30291";s:7:"user_id";s:5:"15726";}
+2016-03-30T17:01:18-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"240-348-4167";s:7:"user_id";s:5:"15574";}
+2016-03-30T17:01:21-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"301-254-1330";s:7:"user_id";s:5:"15574";}
+2016-03-30T19:20:17-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15985";}

@@ -1,0 +1,140 @@
+<div class="row">
+    <div class="col-lg-12">
+        <h3 class="page-header">Create Account</h3>
+    </div>
+</div>
+<div class="row">
+    
+   <div class="col-md-5">
+               <? if (isset($this->message)): ?>   
+                        <div id="login_error" class="alert alert-<?= $this->color?> alert-dismissable">
+                            <a class="close" data-dismiss="alert" href="#">×</a>
+                            <?= $this->message; ?>
+                        </div>
+                    <? endif; ?>
+       
+                <div class="panel panel-default">                
+                    <div class="panel-heading">
+                        Sign Up
+                    </div>
+                    <div class="panel-body">
+                        <form role="form" method="POST" id="signupForm">
+                            <fieldset>
+                                <label>Email</label>
+                                <div class="form-group">
+                                    <input class="form-control" name="email" type="email" autofocus>
+                                </div>
+                                <label>First Name</label>
+                                <div class="form-group">
+                                    <input class="form-control" name="firstname" type="text" autofocus>
+                                </div>
+                                 <label>Last Name</label>
+                                <div class="form-group">
+                                    <input class="form-control" name="lastname" type="text" autofocus>
+                                </div>
+                                  <label>Password</label>
+                                <div class="form-group">
+                                    <input class="form-control" name="password" type="password" value="">
+                                </div>
+                                <div class="form-group">
+                                    <label>Department</label>                                     
+                                    <select class="form-control" name="role"> 
+                                        <option value=''></option>
+                                        <?foreach ($this->departments as $department):?>                                        
+                                        <option value="<?= $department?>"><?= $department?></option>                                        
+                                        <?endforeach;?>
+                                    </select>
+                                </div>
+                                <!--div class="checkbox">
+                                    <label>
+                                        <input name="file_level" type="checkbox" value="5">Allow Upload
+                                    </label>
+                                </div-->
+                                <!-- Change this to a button or input when using this as a form -->
+                                <input type="submit" class="btn btn-lg btn-primary btn-block" value="Sign Up">
+                            </fieldset>
+                        </form>
+                    </div>
+                </div>
+            </div>
+</div>
+<script src="/public/js/bootstrapValidator.js"></script>      
+<script>
+    $(document).ready(function() {   
+$('#signupForm')
+        .bootstrapValidator({
+            message: 'This value is not valid',
+            feedbackIcons: {
+                valid: 'glyphicon glyphicon-ok',
+                invalid: 'glyphicon glyphicon-remove',
+                validating: 'glyphicon glyphicon-refresh'
+            },
+            fields: {
+               
+                'email': {
+                    validators: {
+                         notEmpty: {
+                            message: 'Email is required and cannot be empty'
+                        },
+                        emailAddress: {
+                            message: 'The input is not a valid email address'
+                        }
+                    }
+                },
+                'password': {
+                    feedbackIcons: 'false',
+                    validators: {
+                        notEmpty: {
+                            message: 'The password is required and cannot be empty'
+                        }, 
+                        stringLength: {
+                            min: 4,
+                            max: 20,
+                            message: ''
+                        }
+                    }
+                },
+                 'department': {
+                    feedbackIcons: 'false',
+                    validators: {
+                        notEmpty: {
+                            message: 'Please select a department'
+                        }, 
+                        stringLength: {
+                            min: 2,
+                            max: 20,
+                            message: ''
+                        }
+                    }
+                },
+                'firstname': {
+                    feedbackIcons: 'false',
+                    validators: {
+                        notEmpty: {
+                            message: 'The first name is required and cannot be empty'
+                        }, 
+                        stringLength: {
+                            min: 2,
+                            max: 20,
+                            message: ''
+                        }
+                    }
+                },
+                 'lastname': {
+                    feedbackIcons: 'false',
+                    validators: {
+                        notEmpty: {
+                            message: 'The last name is required and cannot be empty'
+                        }, 
+                        stringLength: {
+                            min: 2,
+                            max: 20,
+                            message: ''
+                        }
+                    }
+                }
+            }
+        });
+});
+</script>   
+

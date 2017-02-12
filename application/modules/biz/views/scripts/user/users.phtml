@@ -1,0 +1,118 @@
+<div class="row">
+    <div class="col-lg-12">
+        <h3 class="page-header">Users</h3>
+    </div>
+</div>
+<div class="row">
+   <div class="col-lg-10">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Current Users
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="table-responsive">
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>                                            
+                                            <th>First Name</th>
+                                            <th>Last Name</th>
+                                            <th>Email</th>
+                                            <th>Department</th>
+                                            <th>Allow Upload</th>
+                                            <th></th><th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <?foreach($this->users as $user):?>
+                                        <tr>
+                                            <td><?= $user['firstname']?></td>
+                                            <td><?= $user['lastname']?></td>
+                                            <td><?= $user['email']?></td>
+                                            <td><?= $user['role']?></td>
+                                            <td><? if(in_array('upload_files',  unserialize($user['permission']))) echo '<i class="fa fa-check"></i>';?></td>
+                                            <td><div class="btn btn-primary btn-sm edit" id="<?= $user['id'] ?>">Edit</div></td>
+                                            <td><div class="btn btn-danger btn-sm delete" id="<?= $user['id'] ?>">Delete</div></td>
+                                        </tr>                              
+                                        <?endforeach;?>
+                                    </tbody>
+                                </table>
+                            </div>
+                            <!-- /.table-responsive -->
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div> 
+   
+   
+</div>
+
+<div id="dialog_edit">
+	<div id="edit"></div>
+</div>
+
+<script>
+$(function() {        
+    $('.edit').click(function() {                   
+            $('#edit').html(''); 
+            $("#edit").load("/user/edit", {
+                        'id': $(this).attr("id")                        
+                      });
+	    $('#dialog_edit').dialog('open');
+    }); 
+        
+    $('#dialog_edit').dialog({        
+		title: 'Edit User',
+		autoOpen:false,
+                width: 550,
+		maxWidth:600,            
+		modal:true,
+		resizable:true,
+                position:['middle',20],
+		buttons: {                    
+                   /* Edit: function() {                      
+                       // e.preventDefault();
+			dataString = $("#userForm").serialize();                    
+                        $.ajax({                                    
+				type: "POST",
+				url: '/user/edit',
+				data: dataString,
+				dataType: 'html',
+				success: function(data) {
+                                    if (data == 'success') {                                                                          
+                                        $("#dialog_edit").dialog('close');   
+                                         window.location.href = '/user/users';
+                                     } else {
+                                         $("#message").html(data).addClass("alert alert-danger alert-dismissable");                     
+                                     }
+				}
+			});
+                    },*/
+		    Close: function() {
+			$('#edit').html('');
+			$(this).dialog('close');
+                    }
+		}
+	});
+        $('tbody').delegate('.delete', 'click', function() {  
+                                                        
+                var r=confirm("Are you sure you want to delete this user?");                
+                if (r==true) {
+                    $(this).closest("tr").hide();                 
+                    $.post('/user/edit', 
+                    {
+                        "id":$(this).attr("id"),
+                        'action': 'delete'
+                    },
+                    function(data) {                           
+                        if (data == 'success') {
+                            $(this).closest("tr").remove();
+                        }
+                    });           
+                }        
+    });   
+    
+});
+</script>
+

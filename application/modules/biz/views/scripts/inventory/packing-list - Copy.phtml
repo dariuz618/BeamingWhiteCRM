@@ -1,0 +1,117 @@
+<head>
+     <!--link rel="stylesheet" type="text/css" href="/public/css/crm.css"-->	
+<meta charset="utf-8"> 
+     <style>
+         #left {
+             float:left;
+             margin-left: 0.15em;
+             width:325px;
+         }
+        /* #right {
+             margin-top: 10px;
+             margin-left: 23em;
+         }*/
+         table {
+            border-collapse: collapse; 
+         }
+        
+         .account {        
+             margin-top: 20px;
+             margin-bottom: 20px;                     
+             border-right: 1px solid black;             
+         }
+
+         .account th {             
+             width: 12%;
+             border-top: 1px solid black;
+             font-weight: bold;
+             text-align: center;
+         }         
+        
+         .account th, .account td {
+             border-left: 1px solid black;
+             border-bottom: 1px solid black;
+             padding: 5px;
+             vertical-align:middle;    
+             font-size: 12px;
+         }
+         center {
+             margin-left: auto;
+             margin-right: auto;
+             align:center;
+         }
+         body {
+             background: #FFFFFF;             
+         }
+
+         body, td, th, input, select, textarea, option, optgroup {
+             float: none !important; 
+             font-family: Verdana, Arial, Helvetica, sans-serif;
+             font-size: 11pt;
+             color: #000000;   
+             margin-left: auto;
+             margin-right: auto;
+
+         }
+         
+         
+     </style>
+</head>
+
+<center><h1>Packing List</h1></center>
+<center><?= $this->entity['name']?></center>
+<center><?= $this->entity['address']?></center>
+<center>Tel: <?= $this->entity['phone']?> <span style="margin-left: 10px;">Fax: <?= $this->entity['fax']?></span></center>
+
+<center><table width="700px">
+        <tr><td colspan="7"></td></tr>
+            
+        <tr><td></td><th align="left">Attn:</th><td width="40%"><?= $this->shipTo['attn1'] ?></td><td colspan="2"></td>
+            <th align="left">Date:</th><td><?= date("Y-m-d")?></td>
+        </tr>
+        <tr><td></td><th align="left">To:</th><td width="40%"><?= $this->shipTo['name'] ?></td><td colspan="2"></td>
+            <th align="left">Invoice:</th><td><?= $this->shipment['inventory_shipment_id']?></td>        
+        </tr>
+        <tr><td></td><th align="left">Tax ID:</th><td><?= $this->shipTo['taxId']?></td><td colspan="2"></td>
+            <th align="left">Page:</th><td></td>        
+        </tr>
+        <tr><td></td><th align="left">Address:</th><td><?= $this->shipTo['address']?></td><td colspan="2"></td>
+            <td></td>
+            <td></td><td></td>        
+        </tr>
+        <tr><td></td><th align="left">Final Port:</th><td><?= $this->shipment['destination']?></td><td colspan="2"></td>
+            <th align="left">Container:</th><td><?= $this->shipment['container']?></tr>
+        <tr><td colspan="7"></td></tr>
+    </table>
+</center>
+
+<center>
+<table class="account" width="750px">
+    <tr><td colspan="2"></td><td></td></tr>
+    <tr>
+        <th>Item Number</th>
+        <th>Product</th>
+        <th>PCs/<br>CTN</th>
+        <th>T/T CTN</th>
+        <th>T/T <br>PCs</th>
+        <th>Volume/<br>CTN</th>
+        <th>T/T Volume (CBM)</th>
+        <th>G.W./CTN</th>
+        <th>T/T G.W (kgs)</th>
+    </tr>
+    <?foreach($this->shipmentItems as $shipmentItem):?>
+    <tr>
+        <td align="center"><?= $shipmentItem['itemNumber']?></td>
+        <td align="left"><?= ucwords($shipmentItem['item'])?></td>
+        <td align="right"><?= ucwords($shipmentItem['qtyPerBox'])?></td>
+        <td align="right"><?= ucwords($shipmentItem['numberOfBoxes'])?></td>
+        <td align="right"><?= $shipmentItem['quantity']?></td>
+        <td align="right"><?= $shipmentItem['volPerBox']?></td>
+        <td align="right"><?= $shipmentItem['volPerBox'] * $shipmentItem['numberOfBoxes']?></td>
+        <td align="right"><?= $shipmentItem['weightPerBox'] ?></td>
+        <td align="right"><?= $shipmentItem['weightPerBox'] * $shipmentItem['numberOfBoxes']?></td>
+       
+    </tr>
+    <?endforeach;?>
+</table>
+</center>

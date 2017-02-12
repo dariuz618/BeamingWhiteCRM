@@ -1,0 +1,151 @@
+2016-04-26T08:04:41-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:7:"Palmero";s:7:"user_id";s:5:"15292";}
+2016-04-26T08:05:28-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:24:"brighterteeth@icloud.com";s:7:"user_id";s:5:"15292";}
+2016-04-26T08:05:48-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:21:"anna.rawa@outlook.com";s:7:"user_id";s:5:"15292";}
+2016-04-26T08:06:02-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:17:"Palermo0104@gmail";s:7:"user_id";s:5:"15292";}
+2016-04-26T08:06:32-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:24:"brighterteeth@icloud.com";s:7:"user_id";s:5:"15292";}
+2016-04-26T08:06:41-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:17:"Palermo0104@gmail";s:7:"user_id";s:5:"15292";}
+2016-04-26T08:06:55-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:31:"Brighter Teeth Whitening Studio";s:7:"user_id";s:5:"15292";}
+2016-04-26T08:06:58-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:31:"Brighter Teeth Whitening Studio";s:7:"user_id";s:5:"15292";}
+2016-04-26T08:42:21-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:24:"Luxurious Lashes by Lisa";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"PA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"412-414-2288";s:6:"source";N;s:9:"firstname";s:4:"Lisa";s:8:"lastname";s:8:"Manfredo";s:12:"contactphone";s:12:"412-414-2288";s:5:"email";s:31:"Luxuriouslashesbylisa@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"8efd2fd92c3c71abfb6dd876fa489c2fbe71c624";s:8:"username";s:24:"Luxurious Lashes by Lisa";s:12:"created_time";s:19:"2016-04-26 08:42:21";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"27191dfe83e87ee127b603e44b1f0ec6";}
+2016-04-26T08:42:55-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:28:"1234 Straka St, Pittsburgh, ";s:7:"user_id";s:5:"16208";}
+2016-04-26T08:42:56-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"15204";s:7:"user_id";s:5:"16208";}
+2016-04-26T08:43:01-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:14:"1234 Straka St";s:7:"user_id";s:5:"16208";}
+2016-04-26T08:43:03-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Pittsburgh";s:7:"user_id";s:5:"16208";}
+2016-04-26T08:43:24-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:14:"(412) 414-2288";s:7:"user_id";s:5:"16208";}
+2016-04-26T08:43:36-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:33:"http://luxuriouslashesbylisa.com/";s:7:"user_id";s:5:"16208";}
+2016-04-26T08:45:44-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:24:"Luxurious Lashes By Lisa";s:7:"user_id";s:5:"16208";}
+2016-04-26T08:56:02-07:00 INFO (6): Alison Duff--a:2:{s:3:"fax";s:26:"seattlewhitening@yahoo.com";s:7:"user_id";s:5:"15926";}
+2016-04-26T08:56:12-07:00 INFO (6): Alison Duff--a:2:{s:6:"email2";s:32:"tammyr@swiftwatercustomhomes.com";s:7:"user_id";s:5:"15926";}
+2016-04-26T08:56:22-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:26:"seattlewhitening@yahoo.com";s:7:"user_id";s:5:"15926";}
+2016-04-26T08:56:28-07:00 INFO (6): Alison Duff--a:2:{s:3:"fax";s:0:"";s:7:"user_id";s:5:"15926";}
+2016-04-26T08:58:28-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:18:"Seattle Whitening ";s:7:"user_id";s:5:"15926";}
+2016-04-26T08:58:36-07:00 INFO (6): Alison Duff--a:2:{s:12:"businessname";s:17:"Seattle Whitening";s:7:"user_id";s:5:"15926";}
+2016-04-26T09:02:16-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16208";}
+2016-04-26T09:04:30-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"267-693-1262";s:7:"user_id";s:5:"12084";}
+2016-04-26T09:10:58-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15567";}
+2016-04-26T09:27:24-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16196";}
+2016-04-26T09:36:47-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"614-887-7245";s:7:"user_id";s:5:"12488";}
+2016-04-26T09:58:21-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:4:"8115";}
+2016-04-26T10:02:21-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"347-361-5961";s:7:"user_id";s:4:"8115";}
+2016-04-26T10:02:26-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:12:"347-361-5961";s:7:"user_id";s:4:"8115";}
+2016-04-26T10:02:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"929-336-8009";s:7:"user_id";s:4:"8115";}
+2016-04-26T10:06:03-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"646-208-7337";s:7:"user_id";s:5:"16207";}
+2016-04-26T10:41:16-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:38:"Beach body Tanning in Stuyvesant Plaza";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:26:"1475 Western Ave Suite 15E";s:8:"address2";s:0:"";s:4:"city";s:6:"Albany";s:5:"state";s:2:"NY";s:3:"zip";s:5:"12203";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Tabith";s:8:"lastname";s:8:"Contento";s:12:"contactphone";s:14:"(518) 451-9614";s:5:"email";s:23:"beachbodyalbs@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"c74373b7f7837079da4568c8c2129d39b86c0498";s:8:"username";s:38:"Beach body Tanning in Stuyvesant Plaza";s:12:"created_time";s:19:"2016-04-26 10:41:15";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"dface182903d36177faddf732c1df85c";}
+2016-04-26T10:42:19-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:481:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203 (CC#3133)
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575. (CC#-6207)
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460 (CC#7033)
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16209";}
+2016-04-26T10:45:41-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:34:"Beach Body Tanning in Poughkeepsie";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:13:"11 Marist Dr.";s:8:"address2";s:0:"";s:4:"city";s:12:"Poughkeepsie";s:5:"state";s:2:"NY";s:3:"zip";s:5:"12601";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:4:"Mira";s:8:"lastname";s:6:"Haddad";s:12:"contactphone";s:12:"845-451-7575";s:5:"email";s:32:"bill.g@synergytanningsystems.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"c86bb57ca1821cca64c836f57524a72cf0d7e9d6";s:8:"username";s:34:"Beach Body Tanning in Poughkeepsie";s:12:"created_time";s:19:"2016-04-26 10:45:40";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"85171b755159ac462ef1da002f3a2b25";}
+2016-04-26T10:45:49-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:481:"Location #1) Beach body Tanning in Stuyvesant Plaza 
+1475 Western Ave Suite 15E Albany, NY 12203 (CC#3133)
+
+ - http://www.beachbodytans.com/
+
+Location #2) 11 Marist Drive Poughkeepsie, NY 12601 - 845-451-7575. (CC#-6207)
+
+Location #3) Sun City Tanning - 1377A New Haven Ave Milford, CT 06460 (CC#7033)
+http://www.tansuncity.com/
+
+beachbodyalbs@gmail.com
+Paige@beachbodytans.com
+Lindsey@synergytanningsystems.com
+jessica@synergytanningsystems.com
+bill.g@synergytanningsystems.com";s:7:"user_id";s:5:"16210";}
+2016-04-26T10:48:53-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:10:"Kristie Tj";s:7:"user_id";s:5:"16203";}
+2016-04-26T10:48:56-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:10:"Kristie Tj";s:7:"user_id";s:5:"16203";}
+2016-04-26T10:48:59-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16203";}
+2016-04-26T10:50:25-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:325:"06/12/14 9:24 am Tyler Samson
+AKs = $5 Shipping: 50 kits Ground= $12 50 kits 3-day = $30 **SMALL CHEEK RETRACTOR IN CLEAR PACKAGING**
+
+1/26/15: Current Shipping Address: 2700 West Atlantic BLV. Suite #245 
+Pompano Beach, FL 
+33069 
+US
+
+
+
+
+2016 special pricing: 
+custom kits $4
+2ml 16%hp pen $3
+cheek retractors $1.25
+ak $5.50";s:7:"user_id";s:4:"1008";}
+2016-04-26T11:24:26-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:25:"Results and sensitivity. ";s:7:"user_id";s:5:"16207";}
+2016-04-26T11:37:08-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:4:"8115";}
+2016-04-26T11:37:15-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:4:"8115";}
+2016-04-26T11:37:18-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:10:"Individual";s:7:"user_id";s:4:"8115";}
+2016-04-26T11:37:20-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:6:"Mobile";s:7:"user_id";s:4:"8115";}
+2016-04-26T11:37:30-07:00 INFO (6): Rachel Reiser--a:2:{s:7:"country";s:2:"AU";s:7:"user_id";s:4:"2555";}
+2016-04-26T11:38:12-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16187";}
+2016-04-26T11:42:55-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16187";}
+2016-04-26T12:14:47-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:13:"Jose Zeballos";s:7:"user_id";s:5:"16205";}
+2016-04-26T12:14:50-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:13:"Jose Zeballos";s:7:"user_id";s:5:"16205";}
+2016-04-26T12:15:07-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"16205";}
+2016-04-26T12:56:24-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:31:"Hay Sally Medical and Esthetics";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:57:47-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:122:"Always Tan Skin and Body is not authorized to order from us, Blu left there and they have no one on staff for treatments. ";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:57:59-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:143:"Always Tan Skin and Body is not authorized to order from us, Blu left there and they have no one on staff for treatments. 
+
+550 B Castro Street";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:58:04-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:11:"182 Golf St";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:58:10-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:149:"Always Tan Skin and Body is not authorized to order from us, Blu left there and they have no one on staff for treatments. 
+
+550 B Castro Street 94114";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:58:16-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"94013";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:58:41-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:162:"Always Tan Skin and Body is not authorized to order from us, Blu left there and they have no one on staff for treatments. 
+
+550 B Castro Street 94114 Cecil Russel";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:58:54-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:10:"Jason Vass";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:59:13-07:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:7:"Blu Jay";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:59:17-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:10:"Vass Brian";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:59:43-07:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:5:"Blu J";s:7:"user_id";s:4:"9118";}
+2016-04-26T12:59:53-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15105";}
+2016-04-26T13:01:30-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:20:"blumorris1@gmail.com";s:7:"user_id";s:4:"9118";}
+2016-04-26T13:04:22-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:210:"Always Tan Skin and Body is not authorized to order from us, Blu left there and they have no one on staff for treatments. 
+
+550 B Castro Street 94114 Cecil Russel
+
+
+Can use 16% hp but need to make a new account";s:7:"user_id";s:4:"9118";}
+2016-04-26T13:04:42-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:31:"Hay Sally Medical and Esthetics";s:7:"user_id";s:4:"9118";}
+2016-04-26T13:13:24-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"321-544-4144";s:6:"source";s:8:"Referred";s:9:"firstname";s:7:"Michael";s:8:"lastname";s:5:"Dixon";s:12:"contactphone";s:12:"321-544-4144";s:5:"email";s:12:"e.e@blah.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:15:"Nancy Fernandez";s:4:"type";s:4:"Lead";s:8:"password";s:40:"722b77bf107629d500b13896a5a7ee20eb9c0d85";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-04-26 13:13:24";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"76bc9abab106f817735ed73cb4672ccc";}
+2016-04-26T13:13:30-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"1";s:7:"user_id";s:5:"16211";}
+2016-04-26T13:14:24-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:31:"Hey Sally Medical and Esthetics";s:7:"user_id";s:4:"9118";}
+2016-04-26T13:14:30-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:31:"Hey Sally Medical and Esthetics";s:7:"user_id";s:4:"9118";}
+2016-04-26T13:15:53-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"username";s:32:"Hey Sally Medical and Aesthetics";s:7:"user_id";s:4:"9118";}
+2016-04-26T13:15:58-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:32:"Hey Sally Medical and Aesthetics";s:7:"user_id";s:4:"9118";}
+2016-04-26T14:31:19-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:4:"Rawa";s:7:"user_id";s:5:"15292";}
+2016-04-26T14:31:44-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:21:"anna.rawa@outlook.com";s:7:"user_id";s:5:"15292";}
+2016-04-26T14:32:51-07:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:24:"brighterteeth@icloud.com";s:7:"user_id";s:4:"2819";}
+2016-04-26T14:48:51-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"16205";}
+2016-04-26T15:00:55-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"407-271-6496";s:7:"user_id";s:5:"16183";}
+2016-04-26T15:23:40-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"email";s:28:"kalli.carter@planetbeach.com";s:7:"user_id";s:4:"2548";}
+2016-04-26T15:23:45-07:00 INFO (6): Rachel Reiser--a:2:{s:9:"firstname";s:5:"Kalli";s:7:"user_id";s:4:"2548";}
+2016-04-26T15:23:49-07:00 INFO (6): Rachel Reiser--a:2:{s:8:"lastname";s:6:"Carter";s:7:"user_id";s:4:"2548";}
+2016-04-26T15:25:20-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:27:"graciela_islasc@hotmail.com";s:7:"user_id";s:5:"10189";}
+2016-04-26T15:25:25-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:27:"graciela_islasc@hotmail.com";s:7:"user_id";s:5:"10189";}
+2016-04-26T15:34:28-07:00 INFO (6): Rachel Reiser--a:2:{s:3:"fax";s:8:"^Jeffery";s:7:"user_id";s:4:"2470";}
+2016-04-26T15:54:59-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:17:"marcelo@ddarg.com";s:7:"user_id";s:5:"15819";}
+2016-04-26T16:04:01-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16091";}
+2016-04-26T16:33:39-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16207";}
+2016-04-26T16:34:48-07:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:4:"Mike";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"917-865-2830";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Mike";s:8:"lastname";s:7:"Bonanno";s:12:"contactphone";s:0:"";s:5:"email";s:18:"secureit22@aol.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"d4d31f3703ab22f5c6682dbe953bee8bf81bcd17";s:8:"username";s:4:"Mike";s:12:"created_time";s:19:"2016-04-26 16:34:48";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"fae69634a221bf09c9e0bda8f23489d3";}
+2016-04-26T16:35:00-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"917-865-2830";s:7:"user_id";s:5:"16213";}
+2016-04-26T16:36:16-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16213";}
+2016-04-26T16:54:34-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16212";}
+2016-04-26T18:02:15-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16183";}
+2016-04-26T18:02:24-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:20:"1846 Thetford Circle";s:7:"user_id";s:5:"16183";}
+2016-04-26T18:09:04-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15921";}
+2016-04-26T19:29:10-07:00 INFO (6): Cory Nielsen--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"15123";}
+2016-04-26T19:29:14-07:00 INFO (6): Cory Nielsen--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:5:"15123";}
+2016-04-26T19:31:04-07:00 INFO (6): Cory Nielsen--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"16206";}
+2016-04-26T19:31:08-07:00 INFO (6): Cory Nielsen--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:5:"16206";}

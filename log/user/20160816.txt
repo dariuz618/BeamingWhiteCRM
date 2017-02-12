@@ -1,0 +1,65 @@
+2016-08-16T08:48:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17126";}
+2016-08-16T08:48:43-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17126";}
+2016-08-16T09:19:06-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17057";}
+2016-08-16T09:31:52-07:00 INFO (6): Michael Darby--a:2:{s:13:"businessphone";s:12:"612-696-0625";s:7:"user_id";s:5:"17162";}
+2016-08-16T09:40:18-07:00 INFO (6): Michael Darby--a:2:{s:13:"contactphone2";s:17:"612 304-6073 MAIN";s:7:"user_id";s:5:"17162";}
+2016-08-16T09:48:13-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Daneile Braddick";s:7:"user_id";s:5:"11414";}
+2016-08-16T09:49:05-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:18:"Cell: 305-424-8820";s:7:"user_id";s:5:"17124";}
+2016-08-16T09:49:22-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:7:"Salon: ";s:7:"user_id";s:5:"17124";}
+2016-08-16T09:49:36-07:00 INFO (6): Taylor Grady--a:2:{s:9:"firstname";s:5:"Cammy";s:7:"user_id";s:5:"11013";}
+2016-08-16T09:58:09-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:19:"Salon: 902-457-9356";s:7:"user_id";s:5:"17124";}
+2016-08-16T10:47:01-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Karmen";s:7:"user_id";s:5:"17209";}
+2016-08-16T10:47:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Karmen O'hanlon";s:7:"user_id";s:5:"17209";}
+2016-08-16T10:47:09-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Karmen O'hanlon";s:7:"user_id";s:5:"17209";}
+2016-08-16T10:53:17-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:77:"Advanced Kit: 
+1-9 units: $11.00 each 
+10-19: $10.00 each 
+20-29: $9.00 each ";s:7:"user_id";s:5:"15788";}
+2016-08-16T10:56:25-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:149:"Advanced Kit: 
+1-9 units: $11.00 each 
+10-19: $10.00 each 
+20-29: $9.00 each 
+
+HP Pen: 
+1-9 units: $9.00 each 
+10-19: $8.50 each 
+20-29: $8.00 each 
+";s:7:"user_id";s:5:"15788";}
+2016-08-16T10:57:50-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:149:"Advanced Kit: 
+1-9 units: $11.00 each 
+10-19: $10.00 each 
+20-29: $9.00 each 
+
+HP Pen: 
+1-9 units: $9.00 each 
+10-19: $8.00 each 
+20-29: $7.00 each 
+";s:7:"user_id";s:5:"15788";}
+2016-08-16T10:58:23-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:149:"Advanced Kit: 
+1-9 units: $11.00 each 
+10-19: $10.00 each 
+20-29: $9.00 each 
+
+HP Pen: 
+1-9 units: $8.00 each 
+10-19: $7.00 each 
+20-29: $6.00 each 
+";s:7:"user_id";s:5:"15788";}
+2016-08-16T11:19:26-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:14:"7616 N 27th Ln";s:7:"user_id";s:5:"16627";}
+2016-08-16T11:19:36-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"78504";s:7:"user_id";s:5:"16627";}
+2016-08-16T12:32:12-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17080";}
+2016-08-16T13:48:34-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"17128";}
+2016-08-16T13:54:20-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17217";}
+2016-08-16T14:01:07-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16627";}
+2016-08-16T14:07:34-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17209";}
+2016-08-16T14:10:04-07:00 INFO (6): Stephanie Brown--a:28:{s:12:"businessname";s:12:"Missy Zigman";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:5:"Missy";s:8:"lastname";s:6:"Zigman";s:12:"contactphone";s:18:"Salon-937-233-4554";s:5:"email";s:26:"everyday.errands@gmail.com";s:13:"contactphone2";s:18:"cell- 937-941-9336";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:7:"Account";s:8:"password";s:40:"467c64dd29ef36a3c0f92e2ea7d775c979aa15a0";s:8:"username";s:12:"Missy Zigman";s:12:"created_time";s:19:"2016-08-16 14:10:03";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"3d7a02a28023e8c31a1b0924ddbc31e4";}
+2016-08-16T15:36:17-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:13:"+640210461784";s:7:"user_id";s:5:"17175";}
+2016-08-16T15:58:21-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17209";}
+2016-08-16T15:59:05-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17209";}
+2016-08-16T16:08:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"CONSUMER";s:7:"user_id";s:5:"17198";}
+2016-08-16T16:12:22-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17074";}
+2016-08-16T16:44:00-07:00 INFO (6): Alison Duff--a:2:{s:8:"username";s:17:"Head to Toe Salon";s:7:"user_id";s:5:"17192";}
+2016-08-16T16:44:08-07:00 INFO (6): Alison Duff--a:2:{s:12:"businessname";s:17:"Head to Toe Salon";s:7:"user_id";s:5:"17192";}
+2016-08-16T17:10:42-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17219";}
+2016-08-16T17:26:52-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"17169";}
+2016-08-16T18:32:07-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"505-261-5186";s:7:"user_id";s:5:"17220";}

@@ -1,0 +1,202 @@
+<?=$this->action('index', 'businessreport');?>          
+<div class="row">
+	
+    <h3 class="page-header">Rep's Queues</h3>     
+    <div class="col-lg-12 space">
+    <form method="POST" name="verify" class="form-horizontal">
+    	<div class="row">
+    		<!--<div class="col-md-4">
+    			<div class="form-group">
+	                <label for="from" class="col-sm-3 control-label required">From:</label>   
+	                <div class="col-sm-6">
+	                <input name="from" class="form-control" type="text" id="from" maxlength="10" value="<?php if (isset($_POST['from'])) {
+	                echo $_POST['from'];} ?>" />
+	                </div>
+	            </div>          
+    		</div>
+    		<div class="col-md-4">
+    			<div class="form-group">
+	                <label for="to" class="col-sm-3 control-label required">To:</label>   
+	                <div class="col-sm-6">
+	                <input name="to" class="form-control" type="text" id="to" maxlength="10" value="<?php if (isset($_POST['to'])) {
+	                echo $_POST['to'];} ?>" />
+	                </div>
+	            </div>       
+    		</div>-->
+    		<div class="col-md-4">
+    			<div class="form-group">                
+	                <label for="sales" class="col-sm-2 control-label">Rep</label>
+	                <div class="col-sm-6">	                               
+	                  	<select id="rep" name="rep[]" multiple="multiple" class="form-control">	                  		
+	                        <? foreach ($this->reps as $rep): ?>
+	                            <option value= "<?php 
+	                            	echo $rep['id'].','.$rep['name']; 
+	                            	?>"  <? 
+	                            			$check_rep = $rep['id'].','.$rep['name'];
+	                            			foreach ($_POST['rep'] as $post_rep)
+	                            			{
+												if ($check_rep == $post_rep)
+													echo 'selected';
+											}	                            		
+	                            		?>><?= $rep['name'] ?></option>                          
+	                        <? endforeach; ?>					       
+					    </select>     				  					   
+	                </div>
+	                &nbsp;&nbsp;<button type="submit" class="btn btn-default">Submit</button>
+	            </div>  
+    		</div>    		
+    	</div>
+    	
+    	<!--<div class="row">
+    		<div class="col-md-12">
+    			<center>
+    				<button type="submit" class="btn btn-default">Submit</button>
+    			</center>
+    		</div>
+    	</div>     -->
+    </form>    
+    </div>
+   
+</div>
+
+
+
+<div class="row">
+	<div class="col-lg-4">
+		<div class="panel panel-default">
+		   <div class="panel-heading">Leads</div>
+		   <div class="panel-body">
+		<?if (!empty($this->leadQueues)):?>
+		    
+			 <table class="table table-bordered table-striped table-hover" id="all-created-events">
+			    <thead>
+					 <th>Rep</th>
+					 <th>Count</th>
+				</thead>
+			    <tbody>
+				<?php		
+				$lead_cnt=0;
+				foreach ($this->leadQueues as $key => $lead)
+				{
+				?>
+					<tr>
+						<td><?php echo $lead[0]['parent_user'];?></td>
+						<td><?php if ($lead[0]['count']>0) echo $lead[0]['count'];	$lead_cnt += $lead[0]['count'];	?></td>					
+					</tr>
+				<?php
+				}				
+				?>		
+				<tr>
+					<td style="font-weight:bold"><?php echo 'Total';?></td>
+					<td style="font-weight:bold"><?php echo $lead_cnt;?></td>					
+				</tr>
+			    </tbody>  
+			</table>			
+
+		<? elseif(isset($this->isPost)) :?>
+		    No leads found.
+		<?endif;?>
+		   </div>
+		</div>
+	</div>
+	<div class="col-lg-4">
+		<div class="panel panel-default">
+		   <div class="panel-heading">Prospects</div>
+		   <div class="panel-body">
+		<?if (!empty($this->prospectQueues)):?>
+		    
+			 <table class="table table-bordered table-striped table-hover" id="all-created-events">
+			    <thead>
+					 <th>Rep</th>
+					 <th>Count</th>
+				</thead>
+			    <tbody>
+				<?php		
+				$prospect_cnt=0;
+				foreach ($this->prospectQueues as $key => $prospect)
+				{
+				?>
+					<tr>
+						<td><?php echo $prospect[0]['parent_user'];?></td>
+						<td><?php if ($prospect[0]['count']>0) echo $prospect[0]['count'];	$prospect_cnt += $prospect[0]['count'];	?></td>					
+					</tr>
+				<?php
+				}				
+				?>		
+				<tr>
+					<td style="font-weight:bold"><?php echo 'Total';?></td>
+					<td style="font-weight:bold"><?php echo $prospect_cnt;?></td>					
+				</tr>
+			    </tbody>  
+			</table>			
+
+		<? elseif(isset($this->isPost)) :?>
+		    No prospects found.
+		<?endif;?>
+		   </div>
+		</div>
+	</div>
+	<div class="col-lg-4">
+		<div class="panel panel-default">
+		   <div class="panel-heading">Accounts</div>
+		   <div class="panel-body">
+		<?if (!empty($this->accountQueues)):?>
+		    
+			 <table class="table table-bordered table-striped table-hover" id="all-created-events">
+			    <thead>
+					 <th>Rep</th>
+					 <th>Count</th>
+				</thead>
+			    <tbody>
+				<?php		
+				$account_cnt=0;
+				foreach ($this->accountQueues as $key => $account)
+				{
+				?>
+					<tr>
+						<td><?php echo $account[0]['parent_user'];?></td>
+						<td><?php if ($account[0]['count']>0) echo $account[0]['count'];	$account_cnt += $account[0]['count'];	?></td>					
+					</tr>
+				<?php
+				}				
+				?>		
+				<tr>
+					<td style="font-weight:bold"><?php echo 'Total';?></td>
+					<td style="font-weight:bold"><?php echo $account_cnt;?></td>					
+				</tr>
+			    </tbody>  
+			</table>			
+
+		<? elseif(isset($this->isPost)) :?>
+		    No accounts found.
+		<?endif;?>
+		   </div>
+		</div>
+	</div>
+</div>
+
+<!-- Dariuz Rubin -->    
+<link rel="stylesheet" href="/public/css/bootstrap-multiselect.css" type="text/css">
+<script type="text/javascript" src="/public/js/bootstrap-multiselect.js"></script>
+<!------------------>
+<script src="/public/js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script>
+  $(function() {     	
+    $("#from").datepicker({dateFormat: 'yy-mm-dd'});
+    $("#to").datepicker({dateFormat: 'yy-mm-dd'});
+    $('#all_contacts').dataTable( {
+        
+    });    
+    
+    /* Dariuz Rubin */
+    /* Multiselect for Rep */    
+	
+	 $('#rep').multiselect({
+	   includeSelectAllOption: true,
+	   buttonWidth: '100%',
+	   numberDisplayed: 2	   
+	});
+   });
+   /*=======================*/
+</script>

@@ -1,0 +1,75 @@
+<?=$this->action('index', 'businessreport');?> 
+<h3 class="page-header">Business Web Form Contact Source Report</h3>
+<div class="row">
+<div class="col-lg-12 space">
+    <form class="form-inline" method="POST" name="verify">
+        <div class="form-group">
+            <label for="from">From</label>
+            <input name="from" type="text" class="form-control datepicker" id="from" value="<?php if (isset($_POST['from'])) {
+    echo $_POST['from'];
+}
+?>">
+        </div>
+        <div class="form-group">
+            <label for="to">To</label>
+            <input type="text" name="to" class="form-control datepicker" id="to" value="<?php if (isset($_POST['to'])) {echo $_POST['to'];}?>">
+        </div>
+        
+        <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+</div>
+
+
+<?if (!empty($this->contacts)):?>
+
+<div class="col-lg-12">
+    <div class="panel panel-default">
+    <div class="panel-heading">Contact Form Source</div>
+    <div class="panel-body">
+        <table class="table table-bordered table-striped table-hover" id="web-source"> 
+            <thead>
+                <tr><th style="width:20%;">Count</th>
+                    <th style="width:20%;">% of contacts</th>
+                    <th style="width:60%;">Web form Source</th>
+                </tr>
+            </thead>
+             <tbody>
+             <? $total = 0;?>
+             <?php 
+             	foreach ($this->contacts as $contact)
+             		$total = $total + $contact['count'];
+             ?>
+             <?php 
+             	foreach ($this->contacts as $contact)
+             	{
+				?>
+					<tr>
+		             	<td style="width:20%;" align="center"><?= $contact['count']?></td>      	             	
+		                <td style="width:20%;" align="center"><?= round($contact['count']/$total, 6) * 100?>%</td>      
+		                <td style="width:60%;"><?= $contact['source_text']?></td>        
+		             </tr>
+				<?php
+				}
+             ?>
+             <tr><td align="center"><strong><?= $total?></strong></td><td align="center"><strong>100%</strong></td><td><strong>Total</strong></td></tr>
+             </tbody>
+         </table>
+         <? elseif(isset($this->isPost)) :?>
+             No contacts found.
+         <?endif;?>
+     </div>
+    </div>
+</div>
+</div>
+
+<script src="/public/js/plugins/dataTables/jquery.dataTables.js"></script>
+<script src="/public/js/plugins/dataTables/dataTables.bootstrap.js"></script>
+<script>
+  $(function() {   
+    $("#from").datepicker({dateFormat: 'yy-mm-dd'});
+    $("#to").datepicker({dateFormat: 'yy-mm-dd'});
+    $('#web-source').dataTable( {  
+        "iDisplayLength": 100 
+    });    
+   });
+</script>

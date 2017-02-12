@@ -1,0 +1,43 @@
+2016-08-19T08:38:01-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11414";}
+2016-08-19T08:39:05-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:14:"24 Cavella Dr.";s:7:"user_id";s:5:"11414";}
+2016-08-19T08:39:16-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:13:"Glen Eden QLD";s:7:"user_id";s:5:"11414";}
+2016-08-19T08:48:26-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:20:"225 Thomas Ave North";s:7:"user_id";s:5:"17226";}
+2016-08-19T08:48:31-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:10:"Mineapolis";s:7:"user_id";s:5:"17226";}
+2016-08-19T08:48:37-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"55405";s:7:"user_id";s:5:"17226";}
+2016-08-19T09:41:12-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16564";}
+2016-08-19T09:44:34-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:30:" 225 Thomas Ave N, Minneapolis";s:7:"user_id";s:5:"17226";}
+2016-08-19T09:44:43-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:17:" 225 Thomas Ave N";s:7:"user_id";s:5:"17226";}
+2016-08-19T09:44:45-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:11:"Minneapolis";s:7:"user_id";s:5:"17226";}
+2016-08-19T10:01:58-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17226";}
+2016-08-19T10:06:40-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"17057";}
+2016-08-19T10:33:35-07:00 INFO (6): Erika Rose--a:27:{s:12:"businessname";s:15:"Denice Williams";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"FL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";N;s:9:"firstname";s:6:"Denice";s:8:"lastname";s:8:"Williams";s:12:"contactphone";s:12:"954-245-7933";s:5:"email";s:25:"dwilliamsclarke@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"ce5b9d92c90c145a0b166130715f76f85a4c8af9";s:8:"username";s:15:"Denice Williams";s:12:"created_time";s:19:"2016-08-19 10:33:35";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"7607e63718fa4c32b14efa859e3d10cb";}
+2016-08-19T10:33:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17241";}
+2016-08-19T10:33:55-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Beaty Skin Deep";s:7:"user_id";s:5:"17241";}
+2016-08-19T10:34:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:16:"Beauty Skin Deep";s:7:"user_id";s:5:"17241";}
+2016-08-19T11:31:46-07:00 INFO (6): Alison Duff--a:2:{s:8:"interest";s:80:"FW Pen: 
+1-99:$10.00 each 
+100-149: $9.00
+150-199: $8.00 each 
+200+: $7.00 each ";s:7:"user_id";s:5:"17170";}
+2016-08-19T12:25:35-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17183";}
+2016-08-19T12:28:52-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16392";}
+2016-08-19T12:32:31-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17126";}
+2016-08-19T13:21:19-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:12:"Anita Amodia";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AZ";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:5:"Anita";s:8:"lastname";s:6:"Amodia";s:12:"contactphone";s:0:"";s:5:"email";s:22:"anita_amodia@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"edc1462e1cce5b7e8987362752426c18033c84cd";s:8:"username";s:12:"Anita Amodia";s:12:"created_time";s:19:"2016-08-19 13:21:19";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"c5847c75f972a61e4758b2a3efb0ba7e";}
+2016-08-19T13:22:08-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"480-747-0587";s:7:"user_id";s:5:"17242";}
+2016-08-19T13:34:57-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"516-343-2712";s:7:"user_id";s:5:"16860";}
+2016-08-19T13:49:53-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Beauty of Skin Deep";s:7:"user_id";s:5:"17241";}
+2016-08-19T13:57:38-07:00 INFO (6): Stephanie Brown--a:2:{s:12:"contactphone";s:11:"423-420-557";s:7:"user_id";s:3:"452";}
+2016-08-19T14:15:20-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17122";}
+2016-08-19T14:16:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17157";}
+2016-08-19T14:17:08-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17160";}
+2016-08-19T14:21:25-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17093";}
+2016-08-19T14:24:26-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"33021";s:7:"user_id";s:5:"17093";}
+2016-08-19T14:27:50-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"951-760-6846";s:7:"user_id";s:5:"17208";}
+2016-08-19T14:36:56-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"17093";}
+2016-08-19T14:48:00-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"17071";}
+2016-08-19T14:58:06-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"951-760-6846";s:7:"user_id";s:5:"17243";}
+2016-08-19T16:02:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Sheila";s:7:"user_id";s:5:"17243";}
+2016-08-19T16:02:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:14:"Sheila Hedlund";s:7:"user_id";s:5:"17243";}
+2016-08-19T16:02:11-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:14:"Sheila Hedlund";s:7:"user_id";s:5:"17243";}
+2016-08-19T16:34:51-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"17243";}
+2016-08-19T16:39:40-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:9:"DUPLICATE";s:7:"user_id";s:5:"17243";}

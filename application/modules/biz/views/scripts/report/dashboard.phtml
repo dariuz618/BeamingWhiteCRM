@@ -1,0 +1,104 @@
+<head>
+    <!-- Page-Level Plugin CSS - Dashboard -->
+    <link href="/public/css/plugins/morris/morris-0.4.3.min.css" rel="stylesheet">
+    <link href="/public/css/plugins/timeline/timeline.css" rel="stylesheet">
+</head>
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Dashboard</h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<div class="row">
+    <div class="col-lg-8">   
+       
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    Deal Site Redemption Shipped
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div id="redemption-chart"></div>
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+    </div>
+     <div class="col-lg-4">   
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <i class="fa fa-bar-chart-o fa-fw"></i> Business Contacts
+            </div>
+            <div class="panel-body">
+                <div id="morris-donut-chart"></div>                
+            </div>
+            <!-- /.panel-body -->
+        </div>
+    </div>
+    <div class="col-lg-8">   
+       
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                   Store Sales Shipped Total
+                </div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div id="store-chart"></div>
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+    </div>
+</div>
+
+
+<!-- Page-Level Plugin Scripts - Dashboard -->
+<script src="/public/js/plugins/morris/raphael-2.1.0.min.js"></script>
+<script src="/public/js/plugins/morris/morris.js"></script>
+
+<script>
+    $(function() {        
+        Morris.Line( {
+        element: 'redemption-chart',       
+        data: <?= $this->dealShipped ?>,
+        xkey: 'month',
+        ykeys: ['wsc', 'glw', 'tsc', 'dvw'],
+        labels: ['WSC', 'GLW', 'TSC', 'DVW'],
+        lineColors: ['#003a5c', '#421466','#43d1f7', '#780e2c'],
+        hideHover: 'auto',        
+        resize: true,
+        xLabelAngle: 70, xLabelFormat: function (x) {
+            var IndexToMonth = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]; 
+            var month = IndexToMonth[ x.getMonth() ]; 
+            var year = x.getFullYear(); return month + ' ' + year; 
+        }, 
+        dateFormat: function (x) { 
+            var IndexToMonth = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ]; 
+            var month = IndexToMonth[ new Date(x).getMonth() ]; 
+            var year = new Date(x).getFullYear(); return month + ' ' + year; 
+        }
+    } );
+       Morris.Line(      
+       { element: 'store-chart',       
+          
+        data: <?= $this->storeTotal ?>,
+        
+        xkey: 'quarter',
+        ykeys: ['bw','dvw', 'glw', 'sfx','tsc', 'wsc',  'prw', 'total'],
+        labels: ['BW','DVW','GLW','SFX', 'TSC', 'WSC', 'PRW', 'Total'],
+        lineColors: ['#003a5c', '#780e2c', '#421466','#003a5c', '#43d1f7','#003a5c', '#02abfa', '#00814c'],
+        hideHover: 'auto',        
+        resize: true
+    }
+        
+    );
+        Morris.Donut({
+            element: 'morris-donut-chart',          
+            data: <?= $this->contacts;?>,
+            formatter: function (value, data) { return value  + '(' + parseFloat(Math.round(value/<?= $this->totalContact?> * 100) ) + '%)'; },
+            resize: true
+        });
+        
+       
+    });
+</script>

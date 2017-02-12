@@ -1,0 +1,60 @@
+2015-09-08T08:43:11-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:50:"Al-Madina Al- Tabaya co Dental & medical Suppliers";s:12:"businesstype";s:11:"Distributor";s:12:"customertype";s:8:"Business";s:6:"soldby";s:14:"Sapient Dental";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AB";s:3:"zip";s:0:"";s:7:"country";s:2:"IQ";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:10:"Raad Mousa";s:8:"lastname";s:8:"Alrudiny";s:12:"contactphone";s:0:"";s:5:"email";s:26:"medical.city2015@yahoo.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"830e8efca2d0bb10109170c6d2e3a9428f35bd32";s:8:"username";s:50:"Al-Madina Al- Tabaya co Dental & medical Suppliers";s:12:"created_time";s:19:"2015-09-08 08:43:11";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"914c6b9a10fc8f05edf8b75ddb8d3753";}
+2015-09-08T08:44:53-07:00 INFO (6): Jing Zeng--a:2:{s:9:"firstname";s:6:"Franco";s:7:"user_id";s:5:"12997";}
+2015-09-08T08:45:00-07:00 INFO (6): Jing Zeng--a:2:{s:8:"lastname";s:6:"Ieracl";s:7:"user_id";s:5:"12997";}
+2015-09-08T08:48:00-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:19:"hair_pure@yahoo.com";s:7:"user_id";s:4:"9847";}
+2015-09-08T08:48:48-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:21:"nowwireless@yahoo.com";s:7:"user_id";s:4:"9847";}
+2015-09-08T09:16:02-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:25:"7400 Hollywood Blvd. #624";s:7:"user_id";s:5:"12163";}
+2015-09-08T09:16:10-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"90046";s:7:"user_id";s:5:"12163";}
+2015-09-08T09:16:17-07:00 INFO (6): Erika Rose--a:2:{s:4:"city";s:14:"Los Angeles‎";s:7:"user_id";s:5:"12163";}
+2015-09-08T10:08:15-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13240";}
+2015-09-08T11:08:34-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:12:"5 Mile Smile";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:20:"1625 W. Francis Ave.";s:8:"address2";s:0:"";s:4:"city";s:7:"Spokane";s:5:"state";s:2:"WA";s:3:"zip";s:5:"99205";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Referred";s:9:"firstname";s:5:"Jason";s:8:"lastname";s:5:"Keese";s:12:"contactphone";s:14:"(509) 326-2621";s:5:"email";s:17:"keesejc@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:6:"Friend";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"adeb992b01dc2c431c186f8c17df7fcca4f057c4";s:8:"username";s:12:"5 Mile Smile";s:12:"created_time";s:19:"2015-09-08 11:08:34";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"3bfadc3a429bd1c51f0573b55dbba8b6";}
+2015-09-08T11:08:43-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"13150";}
+2015-09-08T11:09:14-07:00 INFO (6): Erika Rose--a:2:{s:11:"description";s:72:"Dr. Jason Keefe, D.D.S
+Hours of Operation
+Mon-Thur- 9am-5pm
+Fri- 9am-3pm";s:7:"user_id";s:5:"13260";}
+2015-09-08T11:09:22-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:19:"Fax: (509) 325-5796";s:7:"user_id";s:5:"13260";}
+2015-09-08T11:09:34-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:14:"(509) 326-2621";s:7:"user_id";s:5:"13260";}
+2015-09-08T11:09:55-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:17:"keefejc@gmail.com";s:7:"user_id";s:5:"13260";}
+2015-09-08T11:11:04-07:00 INFO (6): Erika Rose--a:2:{s:8:"lastname";s:9:"Dr. Keese";s:7:"user_id";s:5:"13260";}
+2015-09-08T11:11:33-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13227";}
+2015-09-08T11:14:47-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13248";}
+2015-09-08T11:21:38-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"13240";}
+2015-09-08T11:35:22-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"13221";}
+2015-09-08T11:35:50-07:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:30:"http://spokanesmiledoctor.com/";s:7:"user_id";s:5:"13260";}
+2015-09-08T11:35:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"13260";}
+2015-09-08T11:59:06-07:00 INFO (6): Erika Rose--a:2:{s:8:"address2";s:0:"";s:7:"user_id";s:5:"13019";}
+2015-09-08T11:59:09-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:15:"Carr 455 km 4.2";s:7:"user_id";s:5:"13019";}
+2015-09-08T12:01:40-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"13019";}
+2015-09-08T12:24:50-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13233";}
+2015-09-08T12:30:55-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13238";}
+2015-09-08T12:34:59-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13238";}
+2015-09-08T12:39:44-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"407-223-5445";s:7:"user_id";s:5:"11828";}
+2015-09-08T14:03:27-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"12555";}
+2015-09-08T14:10:52-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13251";}
+2015-09-08T14:13:02-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:2:"Dr";s:7:"user_id";s:5:"13241";}
+2015-09-08T14:26:28-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13244";}
+2015-09-08T14:30:08-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"13255";}
+2015-09-08T14:36:28-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:28:"Interested in mobile options";s:7:"user_id";s:5:"13262";}
+2015-09-08T15:02:15-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13125";}
+2015-09-08T15:06:17-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"571-483-0661";s:7:"user_id";s:5:"13125";}
+2015-09-08T15:06:26-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13125";}
+2015-09-08T15:22:45-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13233";}
+2015-09-08T15:29:29-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"13233";}
+2015-09-08T15:30:17-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:153:"Monica has been a dental assistant since she was 16. She wants to do something on her own but likes the dental field. She is looking into PayPal Credit. ";s:7:"user_id";s:5:"13233";}
+2015-09-08T15:32:13-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"13241";}
+2015-09-08T15:32:19-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13241";}
+2015-09-08T15:32:42-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:63:"Brian is a Dr - Interested in private label home use products. ";s:7:"user_id";s:5:"13241";}
+2015-09-08T16:00:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"13213";}
+2015-09-08T16:00:41-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:7:"Dentist";s:7:"user_id";s:5:"13213";}
+2015-09-08T17:16:12-07:00 INFO (6): Jonathan Amis--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14067";}
+2015-09-08T17:16:19-07:00 INFO (6): Jonathan Amis--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"14067";}
+2015-09-08T17:28:55-07:00 INFO (6): Adrian Wallace--a:2:{s:5:"state";s:2:"WA";s:7:"user_id";s:3:"651";}
+2015-09-08T17:41:32-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14068";}
+2015-09-08T17:49:30-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:247:"Owns an athletic training center in a medical building. She wants to convert her massage room to a teeth whitening room with 2 - 3 facial beds and lights. She already bought one package from Angela at Bay Harbor Perfection but may want a second.  ";s:7:"user_id";s:5:"14068";}
+2015-09-08T17:50:58-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14068";}
+2015-09-08T17:52:00-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:285:"Owns an athletic training center in a medical building. She wants to convert her massage room to a teeth whitening room with 2 - 3 facial beds and lights. She already bought one package from Angela at Bay Harbor Perfection but may want a second. Wants 2 black Facial beds either way.  ";s:7:"user_id";s:5:"14068";}
+2015-09-08T18:07:18-07:00 INFO (6): Jonathan Amis--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14066";}
+2015-09-08T18:07:21-07:00 INFO (6): Jonathan Amis--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"14066";}
+2015-09-08T18:15:41-07:00 INFO (6): Jonathan Amis--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"13228";}
+2015-09-08T18:28:23-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"13258";}

@@ -1,0 +1,492 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="/public/css/crm.css">	 
+    <style>
+    select {
+        width: 350px;
+    }
+</style>
+</head>
+
+<div class="row">
+    <div class="col-lg-12">                   
+        <h2 class="page-header">Create Shipment</h2>
+        <ol class="breadcrumb">
+            <li><a href="/inventory/company">Companies</a></li>
+            <li><a href="/inventory/create-order">Create Order</a></li>
+            <li><a href="/inventory/stock">Current Inventory</a></li>  
+            <li><a href="/inventory/quantity">Inventory Adjustment</a></li>             
+            <li><a href="/inventory/find-item">Item History</a></li> 
+            <li><a href="/inventory/view">Orders</a></li>
+            <li><a href="/inventory/shipments">Shipments</a></li>                                     
+            <li class="active">Create Shipment</li>
+        </ol>
+    </div>    
+</div>
+
+<div class="row">    
+    <? if (isset($this->error)): ?>           
+        <div class="alert alert-danger alert-dismissable">
+            <a class="close" data-dismiss="alert" href="#">×</a>
+            <?= $this->error; ?>                             
+        </div>
+    <? endif; ?>
+    <? if (isset($this->message)): ?>           
+        <div class="alert alert-success alert-dismissable">
+            <a class="close" data-dismiss="alert" href="#">×</a>
+            <?= $this->message; ?>                             
+        </div>
+    <? endif; ?>
+    
+    <form class="form-horizontal" method="POST">
+        <div class="col-lg-6">
+            
+             <div class="form-group">
+                <label for="destination" class="col-sm-4 control-label required">Destination Port:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="destination" value = "<? echo isset($_POST['destination'])?$_POST['destination']:'' ?>" >
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="entity" class="col-sm-4 control-label">Business Entity</label>   
+                <div class="col-sm-6">            
+                    <select name="entity"  class="form-control">
+                        <option value=""></option>
+                        <? foreach ($this->companies as $company): ?>
+                            <option value="<?= $company['id'] ?>" <? echo isset($_POST['entity']) && $company['id'] == $_POST['entity']?"selected='selected'":'' ?>><?= $company['name'] ?></option>
+                        <? endforeach; ?>                 
+                    </select>
+                   
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="billTo" class="col-sm-4 control-label">Bill To:</label>   
+                <div class="col-sm-6">            
+                    <select name="billTo"  class="form-control">
+                        <option value=""></option>
+                        <? foreach ($this->companies as $company): ?>
+                            <option value="<?= $company['id'] ?>" <? echo isset($_POST['billTo']) && $company['id'] == $_POST['billTo']?"selected='selected'":'' ?>><?= $company['name'] ?></option>
+                        <? endforeach; ?>                 
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="shipTo" class="col-sm-4 control-label required">Ship To:</label>   
+                <div class="col-sm-6">            
+                    <select name="shipTo"  class="form-control" id="shipTo">
+                        <option value=""></option>
+                        <? foreach ($this->companies as $company): ?>
+                            <option value="<?= $company['id'] ?>" <? echo isset($_POST['shipTo']) && $company['id'] == $_POST['shipTo']?"selected='selected'":'' ?>><?= $company['name'] ?></option>
+                        <? endforeach; ?>                 
+                    </select>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label for="terms" class="col-sm-4 control-label">Terms</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="terms" value = "<? echo isset($_POST['terms'])?$_POST['terms']:'' ?>" >
+                </div>
+            </div>
+            <!--div class="form-group">
+                <label for="contact" class="col-sm-4 control-label">Contact:</label>   
+                <div class="col-sm-6">            
+                    
+                    <select name="contact"  class="form-control" id="contact">
+                       <option value=""></option>
+                        <? foreach ($this->contacts as $contact): ?>
+                            <option value="<?= $contact['attn'] ?>" <? echo isset($_POST['contact']) && $contact['attn'] == $_POST['contact']?"selected='selected'":'' ?>><?= $contact['attn'] ?></option>
+                        <? endforeach; ?>    
+                    </select>
+                </div>
+            </div-->
+            
+          
+            <table cellpadding="0" cellspacing="0" border="0" id="items" class="account">    
+                <tr>      
+                    <th width="20%">Item *</th>
+                    <th width="10%">Pcs/Carton</th>
+                    <th width="10%">T/T CTNS</th>
+                    <th width="10%">Quantity*</th>
+                    <th width="10%">Volume/Carton</th>         
+                    <th width="10%">G.W./Carton</th>
+                    <th width="10%">Price</th>
+                    <th width="10%">Invoice Price</th>        
+                </tr>
+                  
+                <?if (isset($_POST['item'])):?>
+                  <? for ($i = 0; $i <sizeof($_POST['item']); ++$i):?>
+                  <tr>
+                        <td width="20%"><input type="text" size="50" name="item[]" class="field_input item" value ="<?= $_POST['item'][$i] ?>"/>            
+                        <!--select name="item[]">
+                            <option value=""></option>
+                            <? foreach ($this->items as $item): ?>
+                                <option value="<?= $item['item'] ?>" <? echo isset($_POST['item'][$i]) && $item['item'] == $_POST['item'][$i]?"selected='selected'":'' ?>><?= $item['itemNumber'] ?> -- <?= $item['item']?> ** <?= $item['totalOnHand']?> </option>                 
+                            <? endforeach; ?>
+                        </select-->
+                        </td>  
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" value = "<? echo isset($_POST['qtyPerBox'][$i])?$_POST['qtyPerBox'][$i]:'' ?>" name="qtyPerBox[]" class="field_input qtyPerBox" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" value = "<? echo isset($_POST['numberOfBoxes'][$i])?$_POST['numberOfBoxes'][$i]:'' ?>" name="numberOfBoxes[]" class="field_input numberOfBoxes" style="text-align:right;"/></td>
+                    
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" value = "<? echo isset($_POST['quantity'][$i])?$_POST['quantity'][$i]:'' ?>" name="quantity[]" class="field_input quantity" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" value = "<? echo isset($_POST['volPerBox'][$i])? $_POST['volPerBox'][$i]:'' ?>" name="volPerBox[]" class="field_input volPerBox" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" value = "<? echo isset($_POST['weightPerBox'][$i])?$_POST['weightPerBox'][$i]:'' ?>" name="weightPerBox[]" class="field_input weightPerBox" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" value = "<? echo isset($_POST['actualPrice'][$i])?$_POST['actualPrice'][$i]:'' ?>" name="actualPrice[]" class="field_input actualPrice" style="text-align:right;"/></td>       
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" value = "<? echo isset($_POST['invoicePrice'][$i])?$_POST['invoicePrice'][$i]:'' ?>" name="invoicePrice[]" class="field_input invoicePrice" style="text-align:right;"/></td>
+                    <td width="5%"><button type="button" class="btn btn-warning btn-xs resetItem">Clear</button></td>
+                  </tr>
+                  <?endfor;?>
+                  
+                <?endif;?>
+
+                <tr class="dataRow">   
+                    <td width="20%"><input type="text" size="50" name="item[]" class="field_input item" />            
+                        <!--select name="item[]">
+                            <option value=""></option>
+                            <? foreach ($this->items as $item): ?>
+                                <option value="<?= $item['item'] ?>"><?= $item['itemNumber'] ?> -- <?= $item['item'] ?> ** <?= $item['totalOnHand'] ?></option>                 
+                            <? endforeach; ?>
+                        </select-->
+                    </td>       
+
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="qtyPerBox[]" class="field_input qtyPerBox" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="numberOfBoxes[]" class="field_input numberOfBoxes" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="quantity[]" class="field_input quantity" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="volPerBox[]" class="field_input volPerBox" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="weightPerBox[]" class="field_input weightPerBox" style="text-align:right;"/></td>
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="actualPrice[]" class="field_input actualPrice" style="text-align:right;"/></td>       
+                    <td width="10%" style="text-align:center;"><input type="text" size="5" name="invoicePrice[]" class="field_input invoicePrice" style="text-align:right;"/></td>
+                    <td width="5%"><button type="button" class="btn btn-warning btn-xs resetItem">Clear</button></td>
+                </tr>  
+
+            </table>
+
+            <div id="add_row" class="button">+ Item</div>
+
+            <br><br>
+            <div class="form-group">
+                <label for="notes" class="col-sm-2 control-label">Notes</label>
+                <div class="col-sm-8">
+                    <textarea  name="notes" class="form-control" rows="3"><? echo isset($_POST['notes'])?$_POST['notes']:'' ?></textarea>
+                </div>
+            </div>  
+            <p class="text-center"><input type="submit" class="btn btn-primary" value="Submit"></p>
+        </div>
+
+        
+        <div class="col-lg-6">
+            <!--div class="form-group">
+                <label for="invoice" class="col-sm-4 control-label">Invoice #:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="invoice" value="<? echo isset($_POST['invoice'])?$_POST['invoice']:'' ?>" >
+                </div>
+            </div-->
+            <div class="form-group">
+                <label for="shipDate" class="col-sm-4 control-label required">Ship Date:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control datepicker" name="shipDate"  placeholder="YYYY-MM-DD" value = "<? echo isset($_POST['shipDate'])?$_POST['shipDate']:'' ?>" >
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="shipvia" class="col-sm-4 control-label">Ship Via:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="shipvia" value = "<? echo isset($_POST['shipvia'])?$_POST['shipvia']:'' ?>" >
+                </div>
+            </div>
+            
+             <div class="form-group">
+                <label for="contact" class="col-sm-4 control-label">Billing Contact:</label>   
+                <div class="col-sm-6">            
+                    
+                    <select name="billContact"  class="form-control" id="billContact">
+                       <option value=""></option>
+                        <? foreach ($this->contacts as $contact): ?>
+                            <option value="<?= $contact['attn'] ?>" <? echo isset($_POST['billContact']) && $_POST['billContact'] == $contact['attn']?"selected='selected'":'' ?>><?= $contact['attn'] ?></option>
+                        <? endforeach; ?>    
+                    </select>
+                </div>
+            </div>
+            
+             <div class="form-group">
+                <label for="contact" class="col-sm-4 control-label">Shipping Contact:</label>   
+                <div class="col-sm-6">            
+                    
+                    <select name="shipContact"  class="form-control" id="shipContact">
+                       <option value=""></option>
+                        <? foreach ($this->contacts as $contact): ?>
+                            <option value="<?= $contact['attn'] ?>" <? echo isset($_POST['shipContact']) && $_POST['shipContact'] == $contact['attn']?"selected='selected'":'' ?>><?= $contact['attn'] ?></option>
+                        <? endforeach; ?>    
+                    </select>
+                </div>
+            </div>
+            
+          
+            <div class="form-group">
+                <label for="container" class="col-sm-4 control-label">Contianer #:</label>   
+                <div class="col-sm-6">            
+                    <input type="text" class="form-control" name="container" value = "<? echo isset($_POST['container'])?$_POST['container']:'' ?>" >
+                </div>
+            </div>
+            <!--div class="col-sm-10">
+      *Must be unique for all shipments, use Container, Air #, Tracking # etc. If unknown, enter Carrier + Today's Date, i.e. UPS20140906, DHL20140906
+            </div-->
+    </div>
+      
+
+    </form>
+</div>
+
+
+<script>
+   
+    $(document).ready(function() {
+
+        $(".datepicker").datepicker({
+            changeYear: true,
+            dateFormat: 'yy-mm-dd'
+        });
+        $('.resetItem').bind('click', function(){       
+            var $row = $(this).closest('tr');            
+            $row.find('input').each(function() {
+                var $input = $(this);
+                $input.val("");
+            });
+        });
+        
+        $(".item").bind("keyup", itemAutoComplete);   
+       
+        $(".qtyPerBox, .numberOfBoxes").on("keyup", function() {
+            var $row = $(this).closest('tr');
+            var qtyPerBox = $row.find('.qtyPerBox').val();
+            var numberOfBoxes = $row.find('.numberOfBoxes').val();
+            if (qtyPerBox > 0 && numberOfBoxes > 0) {
+                total = qtyPerBox * numberOfBoxes;
+                $row.find('.quantity').val(total);
+            }
+        });
+  
+         $('.qtyPerBox').autocomplete({                             
+                source: function(request, response ) {                       
+                $.ajax({                                  
+                    url: "/inventory/box-autosuggest",
+                    dataType: "json",
+                 
+                    data: {term: this.element.closest('tr').find('.item').val()},
+                    success: function(data) {
+                                response($.map(data, function(item) {
+                                return {
+                                    volPerBox: item.volPerBox,
+                                    weightPerBox: item.weightPerBox,
+                                    numberOfBoxes: item.numberOfBoxes,
+                                    quantity: item.quantity,
+                                    value: item.value                                       
+                                    };
+                            }));
+                        }
+                    });
+                },              
+				focus: function(event, ui) {
+					// prevent autocomplete from updating the textbox
+					event.preventDefault();
+					// manually update the textbox
+					$(this).val(ui.item.value);
+                                        
+				},
+				
+                                 select: function( event, ui ) {
+                                    event.preventDefault();
+					// manually update the textbox and hidden field
+					$(this).val(ui.item.label);
+                                         var $row = $(this).closest('tr');
+                                         $row.find('.numberOfBoxes').val(ui.item.numberOfBoxes);
+                                         $row.find('.quantity').val(ui.item.quantity);
+                                         $row.find('.volPerBox').val(ui.item.volPerBox);
+                                         $row.find('.weightPerBox').val(ui.item.weightPerBox);
+                                    },  
+                                            
+                 minLength: 0,
+            }).focus(function () {
+                $(this).autocomplete("search");
+            }); 
+       
+         
+        $(".actualPrice").change("keyup", function() {           
+            var $row = $(this).closest('tr');
+            var actualPrice = $row.find('.actualPrice').val();            
+            if ($row.find('.invoicePrice').val() === '') {
+                $row.find('.invoicePrice').val(actualPrice);
+            }
+            
+        });
+
+        var numberExistingRows = 1;
+
+        $('#add_row').click(function() {
+
+            // keep track of number of rows for input names
+            numberExistingRows++;
+            // clone a row
+            var $row = $('.dataRow:last').clone();
+            // strip previous values and fix names of inputs
+            $row.find('input').each(function() {
+                var $input = $(this);// cache this input into jQuery object in lieu of using $(this) in below functions for clarity and performance
+                $input.val("");// reset value to none
+
+                // fix names
+                var thisInputName = $input.attr('name').split('_')[0] + '_' + numberExistingRows;
+                $input.attr('name', thisInputName)
+
+            });
+                                    
+            $row.find('.qtyPerBox, .numberOfBoxes').on("change", getQuantity);
+            
+            $row.find(".actualPrice").change("keyup", function() {           
+           // var $row = $(this).closest('tr');
+            var actualPrice = $row.find('.actualPrice').val();            
+            if ($row.find('.invoicePrice').val() === '') {
+                $row.find('.invoicePrice').val(actualPrice);
+            }
+            
+        });
+
+            // bind item auto complete to new row. SInce using classes now makes it much easier to locate correct input
+            $row.find('.item').bind("keyup", itemAutoComplete);
+            $row.find('.qtyPerBox').autocomplete({
+                source: function( request, response ) {
+                $.ajax({
+                    url: "/inventory/box-autosuggest",
+                    dataType: "json",
+                    data: {term: $row.find('.item').val()},
+                    success: function(data) {
+                                response($.map(data, function(item) {
+                                return {
+                                    volPerBox: item.volPerBox,
+                                    weightPerBox: item.weightPerBox,
+                                    numberOfBoxes: item.numberOfBoxes,
+                                    quantity: item.quantity,
+                                    value: item.value                                       
+                                    };
+                            }));
+                        }
+                    });
+                },              
+				focus: function(event, ui) {
+					// prevent autocomplete from updating the textbox
+					event.preventDefault();
+					// manually update the textbox
+					$(this).val(ui.item.value);
+                                        
+				},
+				
+                                 select: function( event, ui ) {
+                                    event.preventDefault();
+					// manually update the textbox and hidden field
+					$(this).val(ui.item.label);
+                                         var $row = $(this).closest('tr');
+                                         $row.find('.numberOfBoxes').val(ui.item.numberOfBoxes);
+                                         $row.find('.quantity').val(ui.item.quantity);
+                                         $row.find('.volPerBox').val(ui.item.volPerBox);
+                                         $row.find('.weightPerBox').val(ui.item.weightPerBox);
+                                    },  
+                                            
+                 minLength: 0,
+            }).focus(function () {
+                $(this).autocomplete("search");
+            });          
+
+          $row.find('.resetItem').bind('click', function(){
+             $row.find('input').each(function() {
+                var $input = $(this);
+                $input.val("");
+            });
+          });
+            
+            // for real autocomplete 
+            // $row.find('.tbTitle').autocomplete(// options)
+
+            // append to table id=tblInventoryItems
+            $('#items').append($row);
+
+        });
+    });
+    function itemAutoComplete() {
+        $(this).autocomplete({                     
+            source: function(request, response)
+            {
+                $.post(
+                        '/inventory/item-autosuggest',
+                        {queryString: request.term,
+                         field: this.element.context.id
+                        },
+                function(list) {
+                    response(list);
+                },
+                        'json'
+                        );
+            },
+            minLength: 2        
+      });
+    }
+    function boxAutoComplete() {
+
+        var $row = $(this).closest('tr');
+        itemName =  $row.find('.item').val();      
+      
+        $(this).autocomplete({
+            source: function( request, response ) {
+                $.ajax({
+                    url: "/inventory/box-autosuggest",
+                    dataType: "json",
+                    data: {term: itemName},
+                    success: function(data) {
+                                response($.map(data, function(item) {
+                                return {
+                                    volPerBox: item.volPerBox,
+                                    weightPerBox: item.weightPerBox,
+                                    numberOfBoxes: item.numberOfBoxes,
+                                    quantity: item.quantity,
+                                    value: item.value                                     
+                                    };
+                            }));
+                        }
+                    });
+                },
+              
+				focus: function(event, ui) {
+					// prevent autocomplete from updating the textbox
+					event.preventDefault();
+					// manually update the textbox
+					$(this).val(ui.item.value);
+                                        
+				},
+				
+                                 select: function( event, ui ) {
+                                    event.preventDefault();
+					// manually update the textbox and hidden field
+					$(this).val(ui.item.value);
+                                         var $row = $(this).closest('tr');
+                                         $row.find('.numberOfBoxes').val(ui.item.numberOfBoxes);
+                                         $row.find('.quantity').val(ui.item.quantity);
+                                         $row.find('.volPerBox').val(ui.item.volPerBox);
+                                         $row.find('.weightPerBox').val(ui.item.weightPerBox);
+                                    },  
+                                            
+                 minLength: 0,        
+        });
+          $(this).focus(function() {
+                $(this).autocomplete('search', '');
+            });
+    }
+    
+    function getQuantity() {
+        var $row = $(this).closest('tr');
+        var qtyPerBox = $row.find('.qtyPerBox').val();
+        var numberOfBoxes = $row.find('.numberOfBoxes').val();
+        if (qtyPerBox > 0 && numberOfBoxes > 0) {
+            total = qtyPerBox * numberOfBoxes;
+            $row.find('.quantity').val(total);
+        }
+    }
+
+</script>

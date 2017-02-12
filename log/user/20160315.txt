@@ -1,0 +1,57 @@
+2016-03-15T08:50:55-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"208-200-9696";s:7:"user_id";s:5:"15842";}
+2016-03-15T08:51:26-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15842";}
+2016-03-15T08:57:31-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:4:"Reza";s:7:"user_id";s:5:"15844";}
+2016-03-15T08:57:37-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:12:"Reza Mousavi";s:7:"user_id";s:5:"15844";}
+2016-03-15T08:57:39-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:12:"Reza Mousavi";s:7:"user_id";s:5:"15844";}
+2016-03-15T08:59:38-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:11:"Al Salwa Co";s:7:"user_id";s:5:"15844";}
+2016-03-15T09:04:04-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15844";}
+2016-03-15T09:53:17-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Admire";s:7:"user_id";s:5:"15846";}
+2016-03-15T09:53:22-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Admire Makuvaza";s:7:"user_id";s:5:"15846";}
+2016-03-15T09:53:25-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Admire Makuvaza";s:7:"user_id";s:5:"15846";}
+2016-03-15T09:53:29-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15846";}
+2016-03-15T09:56:19-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15823";}
+2016-03-15T09:58:33-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:20:"bergerbird@yahoo.com";s:7:"user_id";s:5:"15823";}
+2016-03-15T09:58:47-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:20:"bergerbird@yahoo.com";s:7:"user_id";s:5:"15823";}
+2016-03-15T09:59:30-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:24:"amy.olthoff@parhyatt.com";s:7:"user_id";s:5:"15823";}
+2016-03-15T10:37:29-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:12:"Jackie Brown";s:12:"businesstype";s:6:"Mobile";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:6:"Auburn";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Jackie";s:8:"lastname";s:5:"Brown";s:12:"contactphone";s:12:"334-740-3741";s:5:"email";s:24:"jackiebrownfox@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"a0373b361bff4d5ccdc5c5c7235968b9a8581ffd";s:8:"username";s:12:"Jackie Brown";s:12:"created_time";s:19:"2016-03-15 10:37:29";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"cc7c7237f7d6af9970f229735e60cecb";}
+2016-03-15T10:38:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15848";}
+2016-03-15T10:38:58-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"36830";s:7:"user_id";s:5:"15848";}
+2016-03-15T10:45:12-07:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:134:"Mike was at Smart Tan Nashville, interested in Tan White. Owns 4 locations. Gets Tan White kits at $8.5 ea and refills at $5 each.2016";s:7:"user_id";s:5:"14672";}
+2016-03-15T12:31:14-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15824";}
+2016-03-15T12:47:13-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15824";}
+2016-03-15T13:08:25-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15834";}
+2016-03-15T13:08:28-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"15834";}
+2016-03-15T13:08:33-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"15834";}
+2016-03-15T13:08:42-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15834";}
+2016-03-15T13:12:34-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"314-517-1575";s:7:"user_id";s:5:"15826";}
+2016-03-15T13:13:46-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:0:"";s:7:"user_id";s:5:"15826";}
+2016-03-15T13:14:13-07:00 INFO (6): Erika Rose--a:2:{s:13:"businessphone";s:12:"314-518-1575";s:7:"user_id";s:5:"15826";}
+2016-03-15T13:14:27-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"314-518-1575";s:7:"user_id";s:5:"15826";}
+2016-03-15T13:21:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15826";}
+2016-03-15T13:27:33-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15835";}
+2016-03-15T13:28:01-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"815-557-1521";s:7:"user_id";s:5:"15843";}
+2016-03-15T13:28:12-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:6:"Tricia";s:7:"user_id";s:5:"15843";}
+2016-03-15T13:28:16-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:15:"Tricia Snedeker";s:7:"user_id";s:5:"15843";}
+2016-03-15T13:28:19-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:15:"Tricia Snedeker";s:7:"user_id";s:5:"15843";}
+2016-03-15T13:28:41-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15843";}
+2016-03-15T13:40:45-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15231";}
+2016-03-15T14:35:01-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15231";}
+2016-03-15T14:39:54-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15231";}
+2016-03-15T14:41:32-07:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:18:"2424 Big Sky Trail";s:7:"user_id";s:5:"15231";}
+2016-03-15T14:41:34-07:00 INFO (6): Erika Rose--a:2:{s:3:"zip";s:5:"82901";s:7:"user_id";s:5:"15231";}
+2016-03-15T14:52:10-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15838";}
+2016-03-15T14:53:58-07:00 INFO (6): Erika Rose--a:2:{s:12:"customertype";s:8:"Business";s:7:"user_id";s:5:"15231";}
+2016-03-15T14:54:00-07:00 INFO (6): Erika Rose--a:2:{s:12:"businesstype";s:10:"Stationary";s:7:"user_id";s:5:"15231";}
+2016-03-15T15:24:05-07:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:14:"Daraisha Starr";s:12:"businesstype";s:5:"Other";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"DC";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"202-774-4497";s:6:"source";s:8:"Internet";s:9:"firstname";s:8:"Daraisha";s:8:"lastname";s:5:"Starr";s:12:"contactphone";s:12:"202-774-4497";s:5:"email";s:19:"dns.cosby@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"ce543134e877408faa1b8df8d697b712880224e1";s:8:"username";s:14:"Daraisha Starr";s:12:"created_time";s:19:"2016-03-15 15:24:04";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"d2a8b461bb003993d9b0a9dc92dbfe3c";}
+2016-03-15T15:39:24-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:19:"dsn.cosby@gmail.com";s:7:"user_id";s:5:"15850";}
+2016-03-15T15:40:09-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15850";}
+2016-03-15T15:41:40-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"334-791-9444";s:7:"user_id";s:5:"14366";}
+2016-03-15T15:47:52-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"14366";}
+2016-03-15T15:55:23-07:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15497";}
+2016-03-15T16:33:10-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:26:"raykiba.anderson@gmail.com";s:7:"user_id";s:5:"15826";}
+2016-03-15T17:52:04-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:9:"Cassandra";s:7:"user_id";s:5:"15852";}
+2016-03-15T17:52:09-07:00 INFO (6): Erika Rose--a:2:{s:8:"username";s:17:"Cassandra Chamoun";s:7:"user_id";s:5:"15852";}
+2016-03-15T17:52:12-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:17:"Cassandra Chamoun";s:7:"user_id";s:5:"15852";}
+2016-03-15T17:52:15-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15852";}
+2016-03-15T17:58:54-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:30:"ultimate.skinandbody@gmail.com";s:7:"user_id";s:5:"15853";}
+2016-03-15T17:58:57-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15853";}

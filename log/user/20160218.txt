@@ -1,0 +1,71 @@
+2016-02-18T08:36:27-08:00 INFO (6): Rachel Reiser--a:2:{s:6:"email2";s:18:"sweett6747@aol.com";s:7:"user_id";s:3:"880";}
+2016-02-18T08:36:40-08:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:19:"Brighten Your Smile";s:7:"user_id";s:3:"880";}
+2016-02-18T08:36:56-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address1";s:18:"5909 Topher Trail ";s:7:"user_id";s:3:"880";}
+2016-02-18T08:37:16-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:8:"Mulberry";s:7:"user_id";s:3:"880";}
+2016-02-18T08:37:19-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:6:" 33860";s:7:"user_id";s:3:"880";}
+2016-02-18T09:00:06-08:00 INFO (6): Erika Rose--a:2:{s:7:"website";s:25:"www.xtremewhitesmiles.com";s:7:"user_id";s:5:"15483";}
+2016-02-18T09:32:29-08:00 INFO (6): Erika Rose--a:2:{s:8:"address1";s:30:"5899 Whitfield Ave. Suite #104";s:7:"user_id";s:5:"15471";}
+2016-02-18T09:34:19-08:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:16:"Get Free Braces?";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"IL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"773-954-2957";s:6:"source";s:5:"Other";s:9:"firstname";s:3:"Eli";s:8:"lastname";s:8:"Carrillo";s:12:"contactphone";s:0:"";s:5:"email";s:24:"orders@getfreebraces.com";s:13:"contactphone2";s:12:"773-954-2957";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:7:"Call-in";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"c33e170fa4b95fdba2852544de8613db3803d0a7";s:8:"username";s:16:"Get Free Braces?";s:12:"created_time";s:19:"2016-02-18 09:34:19";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"af0574a7589ebba97fe2f048736714e0";}
+2016-02-18T09:53:53-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:149:"Pre Loaded Trays not kit $6.50
+2ml 16% HP pen $6.50
+metalic tu pen $6.50
+DW Fusion $5.50
+S blue retractors $1.25
+Finger wipe $.21
+platform tray $2.50";s:7:"user_id";s:4:"8828";}
+2016-02-18T09:57:47-08:00 INFO (6): Rachel Reiser--a:2:{s:8:"address2";s:30:"277 High Point Ct. West Unit D";s:7:"user_id";s:4:"8828";}
+2016-02-18T09:57:53-08:00 INFO (6): Rachel Reiser--a:2:{s:4:"city";s:12:"Delray Beach";s:7:"user_id";s:4:"8828";}
+2016-02-18T09:58:01-08:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"FL";s:7:"user_id";s:4:"8828";}
+2016-02-18T09:58:09-08:00 INFO (6): Rachel Reiser--a:2:{s:3:"zip";s:5:"33445";s:7:"user_id";s:4:"8828";}
+2016-02-18T10:00:13-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:145:"Pre Loaded Trays not kit $6.5
+2ml 16% HP pen $6.5
+metalic tu pen $6.5
+S blue retractors $1.5
+Finger wipe $.27
+platform tray $2.5
+DW Fusion $5.50
+";s:7:"user_id";s:4:"8828";}
+2016-02-18T10:00:23-08:00 INFO (6): Rachel Reiser--a:2:{s:11:"description";s:159:"2016 Pricing 
+Pre Loaded Trays not kit $6.5
+2ml 16% HP pen $6.5
+metalic tu pen $6.5
+S blue retractors $1.5
+Finger wipe $.27
+platform tray $2.5
+DW Fusion $5.50
+";s:7:"user_id";s:4:"8828";}
+2016-02-18T10:54:37-08:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:9:"Esa Daroe";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:7:"Atlanta";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"404-910-8407";s:6:"source";s:8:"Internet";s:9:"firstname";s:3:"Esa";s:8:"lastname";s:5:"Daroe";s:12:"contactphone";s:12:"404-910-8407";s:5:"email";s:18:"esadaroe@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:54:"http://www.beamingwhite.com/consumer/customer-service/";s:4:"type";s:4:"Lead";s:8:"password";s:40:"018c51e0a5f2f472f28eb3f7dac01d659074fc1a";s:8:"username";s:9:"Esa Daroe";s:12:"created_time";s:19:"2016-02-18 10:54:37";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"848c2d42ac7bc808083657870513efec";}
+2016-02-18T11:11:58-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"15275";}
+2016-02-18T11:20:52-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15335";}
+2016-02-18T11:25:52-08:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:12:"843-227-6800";s:7:"user_id";s:5:"15538";}
+2016-02-18T11:26:02-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15538";}
+2016-02-18T11:27:15-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15538";}
+2016-02-18T11:28:45-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:13:"281-210-72723";s:7:"user_id";s:5:"15541";}
+2016-02-18T11:33:33-08:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"281-210-7273";s:7:"user_id";s:5:"15541";}
+2016-02-18T11:34:37-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"15538";}
+2016-02-18T11:37:08-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15541";}
+2016-02-18T11:49:36-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:326:"Susan is working for a dr at a spa offering injectables, laser treatments, facials, chem peals, microderm, waxing, etc... Needs teeth whitening to complete there list of services. She is going to take her information to the dr and call back Tuesday 2/23. She says we are the only TW company she is interested in working with. ";s:7:"user_id";s:5:"15541";}
+2016-02-18T11:49:40-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15541";}
+2016-02-18T12:02:01-08:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:38:"Bibs 500 @ $55
+
+EVERYTHING GENERIC!!!!";s:7:"user_id";s:4:"2165";}
+2016-02-18T13:37:45-08:00 INFO (6): Brian Radke--a:28:{s:12:"businessname";s:7:"generic";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:5:"Other";s:9:"firstname";s:3:"Gen";s:8:"lastname";s:4:"Eric";s:12:"contactphone";s:0:"";s:5:"email";s:14:"generic@bw.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"81efd8e3abf6d777fbcb78b6ad15419143f291dc";s:8:"username";s:7:"generic";s:12:"created_time";s:19:"2016-02-18 13:37:43";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"d7da1eacbbc0c77a64b37d8dbf34445d";}
+2016-02-18T13:38:00-08:00 INFO (6): Brian Radke--a:2:{s:9:"firstname";s:3:"Jen";s:7:"user_id";s:5:"15544";}
+2016-02-18T13:38:13-08:00 INFO (6): Brian Radke--a:2:{s:5:"email";s:14:"jeneric@bw.com";s:7:"user_id";s:5:"15544";}
+2016-02-18T13:38:20-08:00 INFO (6): Brian Radke--a:2:{s:12:"businessname";s:7:"jeneric";s:7:"user_id";s:5:"15544";}
+2016-02-18T13:38:35-08:00 INFO (6): Brian Radke--a:2:{s:8:"username";s:8:"Jen&Eric";s:7:"user_id";s:5:"15544";}
+2016-02-18T13:43:44-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15542";}
+2016-02-18T13:44:32-08:00 INFO (6): Erika Rose--a:28:{s:12:"businessname";s:22:"Heather's Beauty House";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:23:"1227 W Valley Blvd #106";s:8:"address2";s:0:"";s:4:"city";s:8:"Alhambra";s:5:"state";s:2:"CA";s:3:"zip";s:5:"91803";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"626-319-3536";s:6:"source";s:8:"Internet";s:9:"firstname";s:11:"Tracy Qiong";s:8:"lastname";s:5:"Kuang";s:12:"contactphone";s:12:"626-319-3536";s:5:"email";s:22:"thankyou1689@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"4ec62ffca650bd0c77c75b0d65e1de6c89012427";s:8:"username";s:22:"Heather's Beauty House";s:12:"created_time";s:19:"2016-02-18 13:44:32";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"877ed66462732547ca055eba2b99a04e";}
+2016-02-18T13:44:50-08:00 INFO (6): Erika Rose--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15545";}
+2016-02-18T13:44:53-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15545";}
+2016-02-18T13:44:56-08:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"15545";}
+2016-02-18T16:20:42-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12427";}
+2016-02-18T16:23:40-08:00 INFO (6): Alison Duff--a:2:{s:9:"potential";s:4:"Cold";s:7:"user_id";s:5:"12338";}
+2016-02-18T16:25:08-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:4:"Lead";s:7:"user_id";s:5:"12338";}
+2016-02-18T16:55:11-08:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:7:"GENERIC";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Blah";s:8:"lastname";s:4:"Blah";s:12:"contactphone";s:0:"";s:5:"email";s:14:"BLAh@gmail.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"9cb80a5484494be9f79b7756f7983e8004534740";s:8:"username";s:7:"GENERIC";s:12:"created_time";s:19:"2016-02-18 16:55:11";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"a084899e3cb37400d6918e7a4e45b130";}
+2016-02-18T17:02:29-08:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:7:"AWESOME";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:0:"";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Aaaa";s:8:"lastname";s:4:"Aaaa";s:12:"contactphone";s:0:"";s:5:"email";s:14:"AAAA@GMAIL.COM";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:8:"Web Form";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:4:"Lead";s:8:"password";s:40:"e24c751281c029d6faf9926b8faf9d81a5e5188b";s:8:"username";s:7:"AWESOME";s:12:"created_time";s:19:"2016-02-18 17:02:29";s:2:"ip";s:12:"173.164.82.6";s:4:"salt";s:32:"6fcd8cfad1b4acdc1b9e0b9bd2b2cff2";}
+2016-02-18T17:10:21-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15504";}
+2016-02-18T17:15:17-08:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:37:"https://www.facebook.com/hottmesstans";s:7:"user_id";s:5:"11228";}
+2016-02-18T17:19:50-08:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"11259";}
+2016-02-18T17:31:57-08:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15455";}
+2016-02-18T17:32:49-08:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"15448";}

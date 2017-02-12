@@ -1,0 +1,18 @@
+2016-10-21T16:30:41+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:13:"Outside Sales";s:7:"user_id";s:5:"17625";}
+2016-10-21T16:30:44+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:03:28+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:13:"Outside Sales";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:18:39+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:20:49+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:13:"Outside Sales";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:20:55+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:12:"Social Media";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:21:13+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:8:"Referred";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:22:58+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:13:"Outside Sales";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:23:36+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:23:43+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:9:"Tradeshow";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:23:49+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:8:"Internet";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:24:12+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:13:"Outside Sales";s:7:"user_id";s:5:"17625";}
+2016-10-21T18:24:31+02:00 INFO (6): Dariuz Rubin--a:2:{s:6:"source";s:5:"Other";s:7:"user_id";s:5:"17625";}
+2016-10-21T19:03:47+02:00 INFO (6): Dariuz Rubin--a:2:{s:8:"username";s:7:"gagasdf";s:7:"user_id";s:5:"17625";}
+2016-10-21T19:04:11+02:00 INFO (6): Dariuz Rubin--a:2:{s:8:"username";s:7:"adfasdf";s:7:"user_id";s:5:"17625";}
+2016-10-21T19:22:06+02:00 INFO (6): Dariuz Rubin--a:5:{s:6:"source";s:9:"Tradeshow";s:11:"source_text";s:4:"asdf";s:12:"tradeshow_id";N;s:14:"tradeshow_year";s:4:"2011";s:7:"user_id";s:5:"17625";}
+2016-10-21T19:23:25+02:00 INFO (6): Dariuz Rubin--a:5:{s:6:"source";s:9:"Tradeshow";s:11:"source_text";s:4:"asdf";s:10:"tradeshows";s:1:"6";s:14:"tradeshow_year";s:4:"2014";s:7:"user_id";s:5:"17625";}
+2016-10-21T20:11:07+02:00 INFO (6): Dariuz Rubin--a:5:{s:6:"source";s:8:"Internet";s:11:"source_text";s:4:"asdf";s:10:"tradeshows";N;s:14:"tradeshow_year";N;s:7:"user_id";s:5:"17625";}

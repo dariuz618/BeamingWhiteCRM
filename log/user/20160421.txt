@@ -1,0 +1,50 @@
+2016-04-21T08:05:04-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:19:"Beach Body Tannings";s:7:"user_id";s:5:"16090";}
+2016-04-21T08:18:38-07:00 INFO (6): Erika Rose--a:2:{s:13:"contactphone2";s:20:"973-955-3228 Jessica";s:7:"user_id";s:5:"16090";}
+2016-04-21T08:18:45-07:00 INFO (6): Erika Rose--a:2:{s:12:"contactphone";s:18:"518-209-6478 Paige";s:7:"user_id";s:5:"16090";}
+2016-04-21T09:57:09-07:00 INFO (6): Erika Rose--a:2:{s:5:"email";s:18:"dervil19@yahoo.com";s:7:"user_id";s:5:"16078";}
+2016-04-21T10:00:40-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:43:"2016 Pricing:
+AK's $12 ea
+50 or more $10 ea";s:7:"user_id";s:5:"13148";}
+2016-04-21T10:00:55-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:0:"";s:7:"user_id";s:5:"13148";}
+2016-04-21T10:01:13-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:43:"2016 Pricing:
+AK's $12 ea
+50 or more $10 ea";s:7:"user_id";s:5:"12522";}
+2016-04-21T10:06:29-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:29:"Eye Kandy Lashes and Boutique";s:12:"businesstype";s:10:"Stationary";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"GA";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"770-702-5663";s:6:"source";s:9:"Tradeshow";s:9:"firstname";s:7:"Corrine";s:8:"lastname";s:6:"Knight";s:12:"contactphone";s:12:"770-702-5663";s:5:"email";s:24:"eyekandylashes@yahoo.com";s:13:"contactphone2";s:18:"Cell: 770-865-3111";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:5:"Other";s:2:"id";s:0:"";s:11:"source_text";s:30:"ICES Philadelphia April 9 2016";s:4:"type";s:7:"Account";s:8:"password";s:40:"3456e349b88ef5e4aceab9406d12b26ed4a5cd60";s:8:"username";s:29:"Eye Kandy Lashes and Boutique";s:12:"created_time";s:19:"2016-04-21 10:06:29";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"df871b83c39bcb3f4095f54aa169a801";}
+2016-04-21T10:10:52-07:00 INFO (6): Alison Duff--a:2:{s:8:"address1";s:33:"2365 Powder Springs Rd suite#1215";s:7:"user_id";s:5:"16178";}
+2016-04-21T10:10:57-07:00 INFO (6): Alison Duff--a:2:{s:4:"city";s:8:"Marietta";s:7:"user_id";s:5:"16178";}
+2016-04-21T10:11:13-07:00 INFO (6): Alison Duff--a:2:{s:3:"zip";s:5:"30064";s:7:"user_id";s:5:"16178";}
+2016-04-21T10:15:54-07:00 INFO (6): Alison Duff--a:2:{s:7:"website";s:42:"http://www.lipocavitationinmariettaga.com/";s:7:"user_id";s:5:"16178";}
+2016-04-21T10:27:49-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"863-670-1056";s:7:"user_id";s:5:"15878";}
+2016-04-21T10:27:54-07:00 INFO (6): Alison Duff--a:2:{s:13:"contactphone2";s:12:"863-940-3150";s:7:"user_id";s:5:"15878";}
+2016-04-21T11:34:46-07:00 INFO (6): Brian Radke--a:2:{s:12:"contactphone";s:12:"469-855-1491";s:7:"user_id";s:5:"16175";}
+2016-04-21T11:39:57-07:00 INFO (6): Brian Radke--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"16175";}
+2016-04-21T11:40:00-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16175";}
+2016-04-21T11:46:04-07:00 INFO (6): Erika Rose--a:2:{s:9:"firstname";s:5:"Julio";s:7:"user_id";s:5:"15819";}
+2016-04-21T11:46:20-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"Smile-Up";s:7:"user_id";s:5:"15819";}
+2016-04-21T11:46:21-07:00 INFO (6): Brian Radke--a:2:{s:11:"description";s:488:"Joy said her and her sister would like the biggest package. Try to push her into two packages but it sounds like they will split one to start. Said she got the idea from a girl in Jersey who was doing really well. She has recently moved to the Dallas Ft Worth area and no one is offering mobile teeth whitening. She thinks mobile services are seen as chic right now. She hopes teeth whitening will get her out of her 9:00 - 5:00 job. She is leaning towards mobile option two with a chair.";s:7:"user_id";s:5:"16175";}
+2016-04-21T11:46:25-07:00 INFO (6): Erika Rose--a:2:{s:12:"businessname";s:8:"Smile Up";s:7:"user_id";s:5:"15819";}
+2016-04-21T11:46:33-07:00 INFO (6): Brian Radke--a:2:{s:8:"interest";s:32:"Get her out of her 9:00 to 5:00.";s:7:"user_id";s:5:"16175";}
+2016-04-21T11:52:45-07:00 INFO (6): Erika Rose--a:2:{s:6:"email2";s:33:"jessica@synergytanningsystems.com";s:7:"user_id";s:5:"16090";}
+2016-04-21T11:58:35-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"lastname";s:4:"Earl";s:7:"user_id";s:4:"2084";}
+2016-04-21T11:59:36-07:00 INFO (6): Stephanie Brown--a:2:{s:5:"email";s:27:"abovebeyondbeauty@gmail.com";s:7:"user_id";s:4:"2084";}
+2016-04-21T12:41:20-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"username";s:11:"Vanity Luxe";s:7:"user_id";s:5:"12210";}
+2016-04-21T12:46:58-07:00 INFO (6): Stephanie Brown--a:2:{s:6:"email2";s:20:"vanityluxe@gmail.com";s:7:"user_id";s:5:"12210";}
+2016-04-21T12:48:45-07:00 INFO (6): Rachel Reiser--a:2:{s:12:"businessname";s:24:"Healing Touch Health Spa";s:7:"user_id";s:4:"3058";}
+2016-04-21T12:48:54-07:00 INFO (6): Stephanie Brown--a:2:{s:8:"address2";s:9:"Suite 214";s:7:"user_id";s:5:"12210";}
+2016-04-21T13:10:52-07:00 INFO (6): Brian Radke--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15288";}
+2016-04-21T13:39:28-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:7:"Account";s:7:"user_id";s:5:"16103";}
+2016-04-21T13:41:34-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:1:".";s:12:"businesstype";s:10:"Individual";s:12:"customertype";s:10:"Individual";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"AL";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:12:"314-477-5379";s:6:"source";s:8:"Internet";s:9:"firstname";s:6:"Alyssa";s:8:"lastname";s:5:"Cuttf";s:12:"contactphone";s:0:"";s:5:"email";s:16:"noneyet@blah.com";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"e83387107606b226670f6fff12b53525aba8546b";s:8:"username";s:1:".";s:12:"created_time";s:19:"2016-04-21 13:41:34";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"6dfde5d6467e055008f42bd499fb6839";}
+2016-04-21T13:43:43-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:";";s:7:"user_id";s:5:"16180";}
+2016-04-21T13:48:31-07:00 INFO (6): Alison Duff--a:28:{s:12:"businessname";s:14:"Premium Dental";s:12:"businesstype";s:7:"Dentist";s:12:"customertype";s:8:"Business";s:6:"soldby";s:13:"Beaming White";s:8:"address1";s:0:"";s:8:"address2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:2:"NJ";s:3:"zip";s:0:"";s:7:"country";s:2:"US";s:13:"businessphone";s:11:"732-370-333";s:6:"source";s:8:"Internet";s:9:"firstname";s:4:"Mark";s:8:"lastname";s:6:"Neuman";s:12:"contactphone";s:11:"732-370-333";s:5:"email";s:13:"none@blah.net";s:13:"contactphone2";s:0:"";s:6:"email2";s:0:"";s:6:"status";s:7:"Pending";s:8:"imported";s:10:"Phone Call";s:2:"id";s:0:"";s:11:"source_text";s:0:"";s:4:"type";s:8:"Prospect";s:8:"password";s:40:"7f1c27a7a1e0961211c246449c6fc23a146b96d6";s:8:"username";s:14:"Premium Dental";s:12:"created_time";s:19:"2016-04-21 13:48:31";s:2:"ip";s:12:"173.164.82.5";s:4:"salt";s:32:"63e6cc5e3599a9b2690c0d44188402f7";}
+2016-04-21T13:48:37-07:00 INFO (6): Alison Duff--a:2:{s:5:"email";s:1:"n";s:7:"user_id";s:5:"16181";}
+2016-04-21T13:51:16-07:00 INFO (6): Alison Duff--a:2:{s:12:"contactphone";s:12:"732-370-3332";s:7:"user_id";s:5:"16181";}
+2016-04-21T13:51:20-07:00 INFO (6): Alison Duff--a:2:{s:13:"businessphone";s:12:"732-370-3332";s:7:"user_id";s:5:"16181";}
+2016-04-21T14:15:55-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:3:"Hot";s:7:"user_id";s:5:"16034";}
+2016-04-21T14:17:53-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Warm";s:7:"user_id";s:5:"16155";}
+2016-04-21T14:48:30-07:00 INFO (6): Alison Duff--a:2:{s:4:"type";s:8:"Prospect";s:7:"user_id";s:5:"15873";}
+2016-04-21T16:28:48-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"15921";}
+2016-04-21T16:45:55-07:00 INFO (6): Brian Radke--a:2:{s:8:"lastname";s:8:"Fountain";s:7:"user_id";s:5:"15974";}
+2016-04-21T16:46:44-07:00 INFO (6): Erika Rose--a:2:{s:9:"potential";s:4:"Cool";s:7:"user_id";s:5:"16169";}
+2016-04-21T16:53:02-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"AL";s:7:"user_id";s:4:"1448";}
+2016-04-21T16:53:38-07:00 INFO (6): Rachel Reiser--a:2:{s:7:"country";s:2:"CA";s:7:"user_id";s:4:"1448";}
+2016-04-21T16:53:41-07:00 INFO (6): Rachel Reiser--a:2:{s:5:"state";s:2:"AB";s:7:"user_id";s:4:"1448";}
